@@ -1,0 +1,43 @@
+{
+  "uuid": "b8917e1f-0464-4194-b3ff-daaa1a3ac939",
+  "shortname": "القدر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القَدَرْ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eda06a188928937cc604de3831a1d07a6679f2d4",
+    "bytesize": 504,
+    "body": "<p>الذي قضى قـد جرى وقد حكم القدر<br></p><p>الكون مشيئة أقـدار  يوجدها المقتدر<br>يجري القرار بحرف كُـن ْ فيتم الأمـر<br>فلا تفيـد  مداويات يبذلها النفـر<br>بل الرضا بحكم من بيده النفع والضرر<br>ومن يجتهـد بالعصيان  يطاله  الضجر<br>يخسر الدارين وفي جهنم يحيطه الخطر <br>ـــــــ ضياء ابراهيم</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "قَناعَة",
+    "مَثَل"
+  ],
+  "created_at": "2015-02-18T16:15:03Z",
+  "attributes": {
+    "old_id": 1027
+  },
+  "language": "ar",
+  "history": []
+}

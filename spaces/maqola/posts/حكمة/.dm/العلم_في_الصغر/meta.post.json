@@ -1,0 +1,46 @@
+{
+  "uuid": "af53a72c-1061-4e99-a5b5-de23889dd022",
+  "shortname": "العلم_في_الصغر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العلم في الصغر"},
+  "updated_at": "2014-02-03T10:54:12Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:82bbfea49297753212334a3148df573ffdedd7f4",
+    "bytesize": 320,
+    "body": "قيلَ: العلمُ في الصغرِ كالنقشِ على الحجرِ ،والعلمُ في الكبرِ كالنقشِ على المدرِ.<br> فسمعَ ذلكَ الأحنفُ بن قيس فقال:الكيبرُ أمثرُ عقلا ولكنهُ أكثرُ شغلا.<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-03T10:51:33Z",
+  "attributes": {
+    "old_id": 779
+  },
+  "language": "ar",
+  "history": []
+}

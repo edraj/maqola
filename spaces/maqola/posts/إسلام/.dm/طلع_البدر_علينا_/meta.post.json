@@ -1,0 +1,43 @@
+{
+  "uuid": "73de1ebd-75cb-4566-be8c-374928d46b4d",
+  "shortname": "طلع_البدر_علينا_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طَلَعَ البَدرُ عَلينا ..."},
+  "updated_at": "2010-12-06T19:58:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9751006e6201c1e44ad9fb25ff3512a76b31a37b",
+    "bytesize": 982,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يا نسيمَ الأُنْسِ طابَتْ سَهرَةُ الذِّكِرى الجَميلة<br />\r\n\tوزهورُ الأرضِ فاحتْ عِطرَ طُهرٍ و فَضيلَة<br />\r\n\tو غُصونُ الأيكِ حَنَّتْ و الهَنا جاءَ إِلينا<br />\r\n\tوَطُيورُ الدَّوحِ غَنَّتْ طَلَعَ البَدرُ عَلينا<br />\r\n\t---<br />\r\n\tطَلَعَ البَدرُ عَلينا -- مِن ثَنيّاتِ الوَداع<br />\r\n\tوَجَبَ الشُّكرُ عَلينا -- ما دَعا للهِ داع</span></p>\r\n<hr />\r\n<div style=\"text-align: center;\">\r\n\t<span style=\"font-size: 1.5em;\">بصوت المنشد الطفل مجاهد البقار </span><br />\r\n\t<embed flashvars=\"audioUrl=http://maqola.org/data/30/330/tala3a.mp3&amp;\" height=\"27\" quality=\"best\" src=\"http://maqola.org/js/swf//3523697345-audio-player.swf\" type=\"application/x-shockwave-flash\" width=\"400\"></embed></div>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "شِعر"
+  ],
+  "created_at": "2010-12-06T19:49:28Z",
+  "attributes": {
+    "old_id": 330
+  },
+  "language": "ar",
+  "history": []
+}

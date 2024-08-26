@@ -1,0 +1,43 @@
+{
+  "uuid": "5a940459-c97e-4bc1-8d9a-e6e5b694bbda",
+  "shortname": "من_كمال_الإيمان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مِن كَمالِ الإيمان"},
+  "updated_at": "2010-12-04T14:14:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:72973e20978df9019676ed802a71c06dbe459f55",
+    "bytesize": 1108,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">عَن ابن عباس رضي الله عَنه قال: كُنتُ خَلفَ رَسولِ الله ﷺ يَوماً فقال : &quot;</span><span style=\"font-size: 1.5em;\">يَا غُلامُ إِنّي أُعَلِّمُكَ كَلِمات، احفَظْ الله يَحفَظكَ احفَظْ الله تَجِدهُ تُجاهَكَ، إِذا سألتَ فاسألْ الله وإِذا استَعَنتَ فاستَعِنْ بِاللهِ واعلَم أَنَّ الأُمَّةَ لَو اجتَمَعَتْ عَلَى أَنْ يَنفَعوكَ بِشَيءٍ لَم يَنفَعوكَ إِلَّا بِشَيءٍ قَد كَتَبَهُ الله لَكَ، و لَو اجتَمَعوا عَلى أَنْ يَضُرّوكَ بِشَيءٍ لَم يَضُرّوكَ إِلَّا بِشَيءٍ قَد كَتَبَهُ الله عَلَيكَ،&#160; رُفِعَتْ الأقلامُ وَجَفَّتْ الصُّحُف.</span><span style=\"font-size: 1.5em;\">&quot;</span><br />\r\n\t<span style=\"font-size: 1.5em;\">(رَواهُ التَّرمِذي)</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "fb9d54cf-2eca-48ad-870b-47ace16e059f",
+    "shortname": "رسول_الله_",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف"
+  ],
+  "created_at": "2010-12-04T14:11:01Z",
+  "attributes": {
+    "old_id": 310
+  },
+  "language": "ar",
+  "history": []
+}

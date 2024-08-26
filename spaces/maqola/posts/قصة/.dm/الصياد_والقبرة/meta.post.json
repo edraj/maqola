@@ -1,0 +1,42 @@
+{
+  "uuid": "75c15f51-1c7a-4562-b164-2c2da208b1af",
+  "shortname": "الصياد_والقبرة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصيّادُ والقُبَّرةُ"},
+  "updated_at": "2010-10-31T18:33:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eab19cfeb2b8bf9e061da2872d1a25fc326cc33d",
+    "bytesize": 1441,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">قالوا: صادَ رجلٌ قُبَّرةً، فلما صَارت في يدهِ قالت: ما تُريدُ أن تَصنَعَ بي؟ قال: أريد أن أذبَحكِ وآكُلُكِ. قالت: فإني لا أُشفي مِن قَرْم، ولا أُشبعُ مِن جوع، وإن تركتَني عَلّمتُكَ ثلاثُ كلماتٍ هي خيرٌ لكَ مِن أكلي، أما الأولى فأُعلّمكَ وأنا في يدِك، وأما الثانيةُ فأعلمكَ وأنا على الشجرةِ، والثالثةُ إذا صِرتُ على الجبل. فقال: هاتي. فقالت: لا تَندمنّ على ما فاتك. فتَركَها وصارت على الشجرة، ثم قالت: لا تُصدقنّ بما لا يكون، ثم قالت: يا شَقيّ، لو ذَبَحتَني لأخرَجتَ مِن حَوصَلَتي دُرّتَين هُما خَيرٌ لكَ مِن كَنز. فعضّ على شفتيه نَدَماً، ثم قال: علميني الثالثة. فقالت: أنت قد تَركتَ الثنتين، فكيف أعلّمك الثالثة؟ ألم أقل لك: لا تندمنّ على ما فاتك، ولا تُصدقنّ بما لا يكون؟ أنا وريشي ولحمي لا أكون زِنةَ درّتين، فكيف يكونُ في حوصلتي ذاك؟ ثم طارت و ذهبت.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2010-10-31T18:33:40Z",
+  "attributes": {
+    "old_id": 127
+  },
+  "language": "ar",
+  "history": []
+}

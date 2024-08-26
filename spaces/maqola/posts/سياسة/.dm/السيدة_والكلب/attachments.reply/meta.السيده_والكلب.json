@@ -1,0 +1,29 @@
+{
+  "uuid": "c54702f8-a588-41bb-a8d7-d655a74848f5",
+  "shortname": "السيده_والكلب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السيده والكلب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8e63f54e84f92ed1263d3c7cc67c90058020be09",
+    "bytesize": 22,
+    "body": "ههههههههههه"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-06-22T09:46:41Z",
+  "attributes": {
+    "old_id": 475,
+    "old_entry_id": 498
+  },
+  "language": "ar"
+}

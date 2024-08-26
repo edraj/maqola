@@ -1,0 +1,29 @@
+{
+  "uuid": "e58dc4bd-8822-4cf4-b157-d76f17cba47e",
+  "shortname": "تصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ef2e5af72b8441b8bbd3f12ccfac1f44a5cfac8b",
+    "bytesize": 329,
+    "body": "كأنَّهُمْ أتوا سُوقَ المنايا  --   فَصاروا يَنظُرونَ ويَنتَقونا لَو أنَّ الدَّهرَ يَعرِفُ حَقَّ قَومٍ  --   لَقَبَّلَ مِنهُمُ اليَدَ والجَبينا  كأنَّهُمُ (بالضم) لَو انَّ (بهمزة الوصل)"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-26T08:42:34Z",
+  "attributes": {
+    "old_id": 216,
+    "old_entry_id": 230
+  },
+  "language": "ar"
+}

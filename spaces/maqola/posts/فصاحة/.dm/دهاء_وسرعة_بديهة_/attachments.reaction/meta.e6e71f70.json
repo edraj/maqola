@@ -1,0 +1,23 @@
+{
+  "uuid": "e6e71f70-a811-4ec2-8628-f120b36d2ca2",
+  "shortname": "e6e71f70",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "4b60b1c8-be43-409a-b779-2f492831c421",
+    "shortname": "med_amine_thamri",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2016-02-12T20:27:49Z",
+  "attributes": {
+    "old_id": 1471,
+    "old_entry_id": 608
+  },
+  "language": "en",
+  "type": "like"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "c87110f8-f7cc-4bc9-9525-076b87d87435",
+  "shortname": "من_هو_أرسطاليس_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من هو أرسطاليس؟"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:860a164bca2b16e06eb0b9d350182f55dcd942f3",
+    "bytesize": 267,
+    "body": "وقال أرسطاليس: أحسَنُ الكلامِ ما صَدقَ فيه قائِلُه، وانتَفعَ بِه سامِعُه.   أرسطاليس هو الاسم الذي عرفه العرب قديما للفيلسوب اليوناني الشهير آرسطو"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-25T19:11:32Z",
+  "attributes": {
+    "old_id": 352,
+    "old_entry_id": 270
+  },
+  "language": "ar"
+}

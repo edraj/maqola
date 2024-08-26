@@ -1,0 +1,23 @@
+{
+  "uuid": "7896951f-a05f-4699-bdcb-1781c631332b",
+  "shortname": "7896951f",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "78e126ec-ac1f-483a-a696-3e84ab4bc5b2",
+    "shortname": "abbas_al_robaiyee",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-05-10T17:52:02Z",
+  "attributes": {
+    "old_id": 767,
+    "old_entry_id": 1248
+  },
+  "language": "en",
+  "type": "like"
+}

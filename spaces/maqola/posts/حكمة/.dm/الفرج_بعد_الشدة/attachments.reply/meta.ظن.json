@@ -1,0 +1,29 @@
+{
+  "uuid": "eea752bc-ba6f-41df-ac21-4dd0499eb029",
+  "shortname": "ظن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ظن"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8f3227e5ff7de2a57dcd1a89d64218a805bd1aab",
+    "bytesize": 50,
+    "body": "أظن الأبيات للإمام الشافعي "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-09T17:52:45Z",
+  "attributes": {
+    "old_id": 82,
+    "old_entry_id": 81
+  },
+  "language": "ar"
+}

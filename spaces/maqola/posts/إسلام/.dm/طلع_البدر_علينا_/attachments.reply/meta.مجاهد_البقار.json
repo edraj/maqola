@@ -1,0 +1,29 @@
+{
+  "uuid": "284806dd-8a43-4534-9447-063b71ff6d88",
+  "shortname": "مجاهد_البقار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مجاهد البقار"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a31e85ca2fcedb860d5b037bb75ada5cba65d370",
+    "bytesize": 115,
+    "body": "ما شاء الله   صوت وأداء واتزان ورصانة وفن راقي   هل عندك المزيد؟؟"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-02-17T22:20:15Z",
+  "attributes": {
+    "old_id": 601,
+    "old_entry_id": 330
+  },
+  "language": "ar"
+}

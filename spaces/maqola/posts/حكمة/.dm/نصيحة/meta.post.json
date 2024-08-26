@@ -1,0 +1,41 @@
+{
+  "uuid": "97f9d60c-1d44-4d3d-a38c-831d480a4fe6",
+  "shortname": "نصيحة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نصيحة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:820d8c0fe8283494ccbbeff27dc47443dbcb86b3",
+    "bytesize": 243,
+    "body": "<p>احفظْ فؤادَك من همٍّ ومن نصَبِ<br>وعشْ سعيداً بهيجاً غيرَ مكتئبِ <br> وكن حليماً طويلَ البالِ متزناً <br>بلا انفعالٍ وثوراتٍ من الغضبِ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "6e720f7c-7454-4de7-829c-2c73eca3cc77",
+    "shortname": "حاتم_السعدالله",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-06-29T04:59:22Z",
+  "attributes": {
+    "old_id": 1361
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "dfd7ac2c-45ad-4765-93b5-8f4b21f9f433",
+  "shortname": "يوجد_خطأ_في_المقوله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يوجد خطأ في المقوله "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3561cd122b1b25a959e124c7b8ad7f95c82449ee",
+    "bytesize": 243,
+    "body": "ألا ان اقواكم عندي الضعيف حتى اخذ الحق له واضعفكم عندي القوي حتى آخذ الحق منه لان الضعيف يؤخذ الحق له  والقوي يؤخذ الحق منه  والله اعلم "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-19T15:16:34Z",
+  "attributes": {
+    "old_id": 556,
+    "old_entry_id": 468
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "0141e881-0d2a-47fc-bc73-4ed11e579948",
+  "shortname": "من_كرسول_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من كرسول الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:81160b497de23b0552ed4d7b4afb90564f263f08",
+    "bytesize": 33,
+    "body": "صلي الله عليه وسلم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6641fd9e-daec-4c0d-9f1f-f514b0dc2099",
+    "shortname": "محمد_هلال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-08-22T18:56:15Z",
+  "attributes": {
+    "old_id": 904,
+    "old_entry_id": 138
+  },
+  "language": "ar"
+}

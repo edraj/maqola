@@ -1,0 +1,29 @@
+{
+  "uuid": "624158d6-27fe-4235-8371-b2dacfc680f9",
+  "shortname": "روعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"روعة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7e0dfa1654811f17f32e5b73a6f72eba8fa928be",
+    "bytesize": 92,
+    "body": "معلومات رائعة جداً  وأشعار مميزة صراحة ..  بورك فيكم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-03T17:34:13Z",
+  "attributes": {
+    "old_id": 42,
+    "old_entry_id": 124
+  },
+  "language": "ar"
+}

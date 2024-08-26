@@ -1,0 +1,29 @@
+{
+  "uuid": "cc375937-1949-45b8-ac1c-5fd38e674b8e",
+  "shortname": "الميت_متوفي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":" الميت متوفي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:526d005f9a99754c3fa2653793b4fe830be790c9",
+    "bytesize": 370,
+    "body": "كثير من المسلمين يقول عن الميت متوفي والميتة ومتوفية   والصحيح ان المتوفي بالياء في اخر الكلمة هو الله الذي اوقع الوفاة على الميت   والمتوفى بالالف المكسورة في اخر الكلمة هو الميت الذي وقع عليه فعل الوفاة "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "1baad2e2-1a42-4a29-843c-a692cf0d4f7a",
+    "shortname": "عبداللة_العراقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-09-19T17:19:04Z",
+  "attributes": {
+    "old_id": 788,
+    "old_entry_id": 335
+  },
+  "language": "ar"
+}

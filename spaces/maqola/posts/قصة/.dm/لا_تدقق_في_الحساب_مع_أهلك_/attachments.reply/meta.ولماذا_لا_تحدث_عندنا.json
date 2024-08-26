@@ -1,0 +1,29 @@
+{
+  "uuid": "fc90abff-0012-40be-b122-fcf71a904508",
+  "shortname": "ولماذا_لا_تحدث_عندنا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ولماذا لا تحدث عندنا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:53defcea70ac02131bfbdcb968d97862c2058b12",
+    "bytesize": 596,
+    "body": "لماذا لا يحدث مثل هذا عندنا  الأمر بسيط والغرض واضح أن المغيرة كان أفهم بالنساء من ذلك الفتى  فالمرأة ترغب أن يكون زوجها منفقا عليها لا بخيلا يحاسبها في كل صغيرة ولو كان جميلا حسن الوجه ... وهذا الأمر واسأل من حولك من نساء  لا تهاجم الموقع بهذه الطريقة وكن لبقا رجاء فوالله إني أزداد كل يوم حبا في هذا الموقع الذي جمع كنوزا من تراثنا."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-01-04T12:52:23Z",
+  "attributes": {
+    "old_id": 371,
+    "old_entry_id": 131
+  },
+  "language": "ar"
+}

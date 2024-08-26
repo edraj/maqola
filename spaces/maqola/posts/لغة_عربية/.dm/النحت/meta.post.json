@@ -1,0 +1,42 @@
+{
+  "uuid": "c2528caa-e1c2-47b8-bdae-a24661c5241a",
+  "shortname": "النحت",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"النَّحت"},
+  "updated_at": "2010-12-16T08:37:36Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b96c0b05d86dd0481d09e2bed634882cf35a81af",
+    "bytesize": 1335,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">العرب تَنْحَتُ من كلمتين كلمةً واحدة، وهو جِنسٌ مِن الاختصار، و من ذلك قول: &quot;رجل عَبْشَميّ&quot; منسوب إِلى اسمين وهما عبدُ شَمس،<br />\r\n\tوأنشد الخليل: أقول لَهَا ودمعُ العين جارٍ -- ألَمْ تَحْزُنْكِ حَيْعَلةُ المنادي؟<br />\r\n\tوالحيعلة هي نحت &quot;حَيَّ على&quot;.<br />\r\n\tويقول الشاعر: لقد &quot;بَسْمَلَتْ&quot; ليلى غداة لقيتها --&#160; فيا حبّذا ذات الحبيب المبسمل.<br />\r\n\tوالبسملة هي نحت &quot;باسم الله&quot;<br />\r\n\tويقال قد أكثر من الهيلَلة إذا أكثر من قول ( لا إله إلا الله)<br />\r\n\tومن الحَوْلقة إذا أكثر من قول : ( لا حَوْلَ ولا قوَّة إلا بالله )<br />\r\n\tومن الحَمْدَلة أي من ( الحمد لله)<br />\r\n\tومن الجَعْفَدة أي من جعلت فداك<br />\r\n\tومن السَّبْحَلة أي من سبحان الله.<br />\r\n\tوالطَّلْبَقَة نحت القائل : أطال الله بقاك<br />\r\n\tوالدَّمْعَزة قوله : أدام الله عزَّك</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "لُغة عربيّة"
+  ],
+  "created_at": "2010-12-16T08:32:34Z",
+  "attributes": {
+    "old_id": 379
+  },
+  "language": "ar",
+  "history": []
+}

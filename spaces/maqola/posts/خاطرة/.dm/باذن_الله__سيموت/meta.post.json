@@ -1,0 +1,42 @@
+{
+  "uuid": "1ff96b09-8714-4fbc-a16d-bd9b1f40fc01",
+  "shortname": "باذن_الله__سيموت",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"باذن الله , سيموت"},
+  "updated_at": "2014-12-03T08:52:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:840b7c8e344ceee5b0c4dca04fa925ba085c5a8b",
+    "bytesize": 276,
+    "body": "<span class=\"maqola_body\"> <br>وسيموت فى روض الجنان حزننا , نعم سيموت لتحل محلا منه سعادة منه بإذن الله إلى الأبد.  </span><div><span class=\"maqola_body\">الكاتب &#160; : نبيل جلهوم ..</span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-12-03T08:52:05Z",
+  "attributes": {
+    "old_id": 935
+  },
+  "language": "ar",
+  "history": []
+}

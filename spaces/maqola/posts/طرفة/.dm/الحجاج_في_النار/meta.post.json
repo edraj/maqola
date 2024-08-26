@@ -1,0 +1,43 @@
+{
+  "uuid": "d411c5d5-1d4d-4f2a-a30f-338459966de9",
+  "shortname": "الحجاج_في_النار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحجاج في النار"},
+  "updated_at": "2010-12-09T14:24:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1a7dda859c0fae942be122d15e58dca930ac509f",
+    "bytesize": 767,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">حَلَف رجلٌ بالطّلاق أنَّ الحجّاج بن يوسف في النّار. فقيل له: ‏ ‏ &quot;سَلْ عن يمينك وعمّا إذا كانت امرأتُك تجوزُ لك&quot;. ‏ ‏ فأتى أيوب السِّخْتِيَاني الزّاهد، فأخبره. فقال له: ‏ ‏ لستُ أُفتى في هذا بشيء، يغفرُ الله لمن يشاء. ‏ ‏ فأتى شيخَ المعتزلة عمرو بن عُبيد، فأخبره، فقال: ‏ ‏ تَمسَّك بامرأتِك، فإن الحجّاجَ إنْ لَم يَكُن مِن أهلِ النار فلَيس يَضُرُّكَ أنْ تَزْنِي! ‏ ‏ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-17T13:59:59Z",
+  "attributes": {
+    "old_id": 31
+  },
+  "language": "ar",
+  "history": []
+}

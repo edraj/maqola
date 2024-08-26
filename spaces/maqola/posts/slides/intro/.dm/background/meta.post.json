@@ -1,0 +1,41 @@
+{
+  "uuid": "4e79e138-bf19-46c5-94ea-9eab740cc78b",
+  "shortname": "background",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مدخل"},
+  "description":{"ar":""},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c6acb0d335effd51e6a7924fd9af77daa49861e5",
+    "bytesize": 1548,
+    "body": "اسمي كفاح عيسى، متخصص في بناء الأنظمة المحوسبة حيث أتقنت العديد من لغات البرمجة وتقنياتها وأنظمة التشغيل وإدارتها. وقد بنيت الكثير من التطبيقات المتقدمة في حقول الاتصالات والشبكات الاجتماعية&nbsp; والطب والتعليم والتجارة الإلكترونية والمصارف. وكرستُ جُلّ وقتي مؤخرا في تطوير نظام إدارة معلومات ليسهل عمليات بناء التطبيقات والمواقع وجمعتُ فيه ما تراكم عندي من خبرة في التعامل مع المحتوى الرقمي وقواعد البيانات وإدارتها بحيث يغطي احتياجات المؤسسات الصغيرة والأفراد.<br><br>ويهدف هذا النظام إلى:<br><ul><li>جمع وتصنيف المعلومات المهمة وإثرائها (نظام لإدارة الأصول الرقمية).</li><li>توفير تلك المعلومات للمستخدمين والتطبيقات (من خلال واجهة برمجية). </li><li>توفير إمكانية نشر تلك المعلومات على الشابكة (الإنترنت) بحيث يتفاعل المستخدمون معها وكذلك يتيح النظام للمستخدمين إمكانية التواصل فيما بينهم (نظام تواجد رقمي). </li></ul><div align=\"center\"><img src=\"/media/maqola/posts/slides/intro/entry/data-flow.png\"></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "post",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-08-26T16:06:50+03:00",
+  "attributes": {
+    "ordinal": 1
+  },
+  "language": "en",
+  "history": [],
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

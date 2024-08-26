@@ -1,0 +1,29 @@
+{
+  "uuid": "5fe1f1fd-2f69-4d99-9eb4-62dcfff945f8",
+  "shortname": "القصة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القصة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:46a5b8749431f20757b66d6b6e1d28c1d32de887",
+    "bytesize": 87,
+    "body": "حدثت القصة للصحابي الجليل إبن عباس - حسب ما قرأت "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-22T00:42:15Z",
+  "attributes": {
+    "old_id": 4,
+    "old_entry_id": 76
+  },
+  "language": "ar"
+}

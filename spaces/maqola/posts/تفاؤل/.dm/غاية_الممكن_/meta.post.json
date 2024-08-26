@@ -1,0 +1,43 @@
+{
+  "uuid": "c86f1f1e-525c-48ab-9bf3-fb54fa85360e",
+  "shortname": "غاية_الممكن_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"غايَةُ الممكن!"},
+  "updated_at": "2013-06-07T15:02:28Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:68e2ab21e8f7fea022031d42b652fb23ea585075",
+    "bytesize": 311,
+    "body": "<span class=\"maqola_body\"> <br> يَنبَغي للعاقِل أن يَصِلَ إلى غَاية ما يُمكِنُهُ. فَلو كان يُتَصوَّرُ للآدمي صُعودَ السموات لَرأيتَ مِن النقائصِ بَقاؤهُ بالأرض ...<br><br>ابن الجوزي<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة"
+  ],
+  "created_at": "2013-06-07T15:02:18Z",
+  "attributes": {
+    "old_id": 619
+  },
+  "language": "ar",
+  "history": []
+}

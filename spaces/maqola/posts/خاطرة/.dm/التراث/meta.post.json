@@ -1,0 +1,42 @@
+{
+  "uuid": "0af6f163-a486-418d-97b2-92baa1a83b43",
+  "shortname": "التراث",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"التراث"},
+  "updated_at": "2014-02-10T21:15:27Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f1c40942f6198e0c2d42035c24d7b2b8dd3164c5",
+    "bytesize": 170,
+    "body": "<span class=\"maqola_body\">&#160;من أقوال محمد شبلوط: \" التراث الإسلامي .. خيره خير .. وشرّه شرّ \"<br>&#160;<br>&#160; </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "7143f280-ee58-4347-969a-1ac6505a53d1",
+    "shortname": "محمد_شبلوط",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-02-10T21:15:27Z",
+  "attributes": {
+    "old_id": 835
+  },
+  "language": "ar",
+  "history": []
+}

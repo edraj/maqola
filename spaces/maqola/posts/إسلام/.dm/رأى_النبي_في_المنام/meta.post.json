@@ -1,0 +1,43 @@
+{
+  "uuid": "5e5b0f5a-4757-4dfd-b1be-edc4541a3016",
+  "shortname": "رأى_النبي_في_المنام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رأى النَبيَّ في المَنام"},
+  "updated_at": "2010-12-07T21:32:06Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a32091f47f9ce0761a45150c25ad40ba02c611bd",
+    "bytesize": 554,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">جَاءَ رَجُلٌ إلى القاضي حُسين وهو مِن فُقَهاءِ الشافعية، فَقالَ له: رأيتُ النبيَّ ﷺ في المنام فقال لي إن الليلة من رمضان؛ (ولم يكن ذلك الوقت أوانُ رمضان) فقال له، إنَّ الذّي تَزعُمُ أنّكَ رأيتَهُ في المنامِ رآهُ الصّحابَةُ في اليقظةِ وقال لَهم صوموا لِرؤيَتِه وافطروا لِرؤيته.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-07T21:32:06Z",
+  "attributes": {
+    "old_id": 332
+  },
+  "language": "ar",
+  "history": []
+}

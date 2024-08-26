@@ -1,0 +1,42 @@
+{
+  "uuid": "5c6f2e38-3c40-46c2-8e16-bfec20a40758",
+  "shortname": "أغار_عليك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"​أغار عليك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:37936e13dbe45359412dba574987e80eff12bf9b",
+    "bytesize": 388,
+    "body": "<p><span style=\"color: rgb(127, 96, 0);\">أغار عليك من عيني ومني </span></p><p><span style=\"color: rgb(127, 96, 0);\">ومنك ومن زماني والمكان</span></p><p><span style=\"color: rgb(127, 96, 0);\">ولو أنِّى خَبَأتُك فى جفوني</span></p><p><span style=\"color: rgb(127, 96, 0);\">إلى يومِ القيامةِ ما كفاني</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "7ce7b4e2-1090-493d-b3b2-b6ef3a2d281c",
+    "shortname": "ابن_زيدون",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "732a8ec6-56c8-4047-a59d-cde43aaecce8",
+    "shortname": "abdulmlik_mk",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "غَزَل"
+  ],
+  "created_at": "2015-05-26T16:53:20Z",
+  "attributes": {
+    "old_id": 1302
+  },
+  "language": "ar",
+  "history": []
+}

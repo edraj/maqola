@@ -1,0 +1,41 @@
+{
+  "uuid": "3c484bd5-cae6-4e30-8b96-f624fddfb7b7",
+  "shortname": "ابيات_جميلة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ابيات جميلة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f7afbf79c33f012201a98cd00452a1676f53a2ae",
+    "bytesize": 305,
+    "body": "<p>أراكَ عَصِيَّ الدَمعِ شيمَتُكَ الصَبرُ</p><p>أَما لِلهَوى نَهيٌ عَلَيكَ وَ لا أَمرُ</p><p>بَلى أَنا مُشتاقٌ وَ عِندِيَ لَوعَةٌ</p><p>وَ لَكِنَّ مِثلي لا يُذاعُ لَهُ سِرُّ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "466d93cb-66c0-4354-99b4-e56468b86929",
+    "shortname": "أبو_فراس_الحمداني",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5f4a77dd-208b-4289-abb2-81088687ebc9",
+    "shortname": "mohamed_bella",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-12-14T22:34:04Z",
+  "attributes": {
+    "old_id": 1553
+  },
+  "language": "ar",
+  "history": []
+}

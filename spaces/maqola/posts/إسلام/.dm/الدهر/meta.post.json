@@ -1,0 +1,41 @@
+{
+  "uuid": "d846c085-77e6-410f-ac11-b7ab02957d1a",
+  "shortname": "الدهر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الدهر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d93af3ad2ce89e294e702d7c9e0b15cc6f95e818",
+    "bytesize": 901,
+    "body": "<p>قال الله عز وجل : \" يؤذيني ابن آدم يسبُّ الدهر ، وأنا الدهر بيدي الأمر ، أقلب الليل والنهار \" قال البغوي رحمه الله في بيان معناه : \" إن العرب كان من شأنها ذمّ الدّهر وسبّه عند النوازل ؛ لأنهم كانوا ينسبون إليه ما يصيبهم من المصائب والمكاره ، فيقولون : أصابتهم قوارع الدّهر ، وأبادهم الدّهر ، فإذا أضافوا إلى الدّهر ما نالهم من الشّدائد سبّوا فاعلها ، فكان مرجع سبّها إلى الله عز وجل إذ هو الفاعل في الحقيقة للأمور التي يصفونها ، فنهوا عن سبّ الدّهر \"</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2015-05-29T22:15:04Z",
+  "attributes": {
+    "old_id": 1314
+  },
+  "language": "ar",
+  "history": []
+}

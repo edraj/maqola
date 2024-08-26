@@ -1,0 +1,18 @@
+{
+  "uuid": "9293d39d-7b6a-4e9d-97e3-58a764b83142",
+  "shortname": "ليس_الغريب___مشاري_العفاسي.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:a69907aba43d289f21f21c7592e569781eb34cf4",
+    "bytesize": 3799168,
+    "body": "ليس_الغريب___مشاري_العفاسي.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:08+03:00",
+  "attributes": {
+    "old_id": 54
+  },
+  "language": "en"
+}

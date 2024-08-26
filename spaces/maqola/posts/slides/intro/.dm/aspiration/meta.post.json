@@ -1,0 +1,41 @@
+{
+  "uuid": "d0a4daa6-b83d-4073-84ea-9bd8f280fa34",
+  "shortname": "aspiration",
+  "is_active": false,  "owner_shortname": "dmart",
+  "displayname":{"ar":"Aspiration"},
+  "description":{"ar":""},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6a575516e24dae821967462a167a70890451886c",
+    "bytesize": 405,
+    "body": "<div class=\"text-centered float-right\">\n<img src=\"/media/maqola/posts/slides/introduction/data-flow2.png\" width=\"40%\">\n</div>\n\nAbstract the data in its own layer that is<br><br><ol><li>Enriched with structured meta data</li><li>Maintained as a golden-copy (master version).</li><li>Universally accessible by other systems and consumers</li><li>Access controlled and secured</li></ol>\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "post",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-08-26T16:08:25+03:00",
+  "attributes": {
+    "ordinal": 3
+  },
+  "language": "en",
+  "history": [],
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

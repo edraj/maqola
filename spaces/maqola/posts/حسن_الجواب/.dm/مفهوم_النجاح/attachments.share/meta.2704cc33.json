@@ -1,0 +1,33 @@
+{
+  "uuid": "2704cc33-9ca9-443a-823c-8dd5f97298e5",
+  "shortname": "2704cc33",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2014-05-12T09:38:59Z",
+  "author_locator": { "type": "content",
+    "uuid": "744cab76-46e0-40d8-930c-62b557f4b21f",
+    "shortname": "yaḥyā_fatḥȳ",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2014-05-12T09:38:59Z",
+  "attributes": {
+    "old_id": 210,
+    "old_entry_id": 883
+  },
+  "language": "en",
+  "location": {
+    "uuid": "2704cc33-9ca9-443a-823c-8dd5f97298e5",
+    "shortname": "2704cc33",
+    "subpath": "posts/حسن_الجواب",
+    "space_name": "maqola",
+    "parent_shortname": "مفهوم_النجاح",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

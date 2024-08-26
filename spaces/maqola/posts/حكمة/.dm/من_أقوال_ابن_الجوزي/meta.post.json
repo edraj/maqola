@@ -1,0 +1,47 @@
+{
+  "uuid": "ea438407-6bff-45e2-ac6c-d98b6aa3baa6",
+  "shortname": "من_أقوال_ابن_الجوزي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أقوال ابن الجوزي"},
+  "updated_at": "2014-02-13T14:58:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:83d6794d1942c02045e8f6f9375b5b62730aa684",
+    "bytesize": 440,
+    "body": "<br> <br>\r\n إن النفسَ إذا أُطمعت طمعت ، و إذا أُقنعت باليسيرِ قنعت ، فإذا أردتَ صلاحها\r\n فاحبس لسانها عن فضولُ كلامها ، و غُض طرفها عن محرمِ نظراتها ، و كُف كفها \r\nعن مؤذي شهواتها ، إن شئت ان تسعى لها في نجاتها .<br> <br> ابن الجوزي.<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "f2fab9b9-066f-429f-a67d-b77e1569f19b",
+    "shortname": "ابن_الجوزي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "فَصاحَة",
+    "مَثَل",
+    "مَعروف"
+  ],
+  "created_at": "2014-02-13T14:58:40Z",
+  "attributes": {
+    "old_id": 843
+  },
+  "language": "ar",
+  "history": []
+}

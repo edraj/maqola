@@ -1,0 +1,43 @@
+{
+  "uuid": "31676de7-c8fb-4b28-90d6-db4a02039628",
+  "shortname": "في_الثقة_في_النفس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في الثقة في النفس"},
+  "updated_at": "2010-10-19T17:13:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a2ab878a70753d4ccf54e6f227d94892e379a263",
+    "bytesize": 1326,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">سَيَذْكُرُنـي قَوْمي إذا جَدّ جدّهُـمُ - وفِي اللَّيْلَةِ الظَلْمَـاءِ يُفْتَقَـدُ البَـدْرُ<br />\r\n\tفإنْ عِشْتُ فَالطّعْـنُ الذي يَعْرِفُونَـه - وَتِلْكَ القَنَا والبِيضُ والضُّمّرُ الشُّقـرُ<br />\r\n\tوَإنْ مِتّ فالإنْسَـانُ لا بُـدّ مَيّـتٌ - وَإنْ طَالَتِ الأيّامُ ، وَانْفَسَحَ العمـرُ<br />\r\n\tوَلَوْ سَدّ غَيرِي ما سددتُ اكتفَوْا بـهِ - وَما كانَ يَغلو التّبـرُ لَوْ نَفَقَ الصُّفْـرُ<br />\r\n\tوَنَحْنُ أُنَـاسٌ ، لا تَوَسُّـطَ عِنْدَنَـا - لَنَا الصّدرُ ، دُونَ العالَمينَ ، أو القَبرُ<br />\r\n\tتَهُـونُ عَلَيْنَا فِي المَعَالـي نُفُوسُنَـا - وَمَنْ يَخطُبُ الحَسناءَ لَمْ يُغلِه المَهـرُ<br />\r\n\tأعَزُّ بَني الدّنْيَا وَأعْلَـى ذَوِي العُـلا - وَأكرَمُ مَن فَوقَ التـرَابِ وَلا فَخـْرُ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "466d93cb-66c0-4354-99b4-e56468b86929",
+    "shortname": "أبو_فراس_الحمداني",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2010-10-19T17:12:07Z",
+  "attributes": {
+    "old_id": 91
+  },
+  "language": "ar",
+  "history": []
+}

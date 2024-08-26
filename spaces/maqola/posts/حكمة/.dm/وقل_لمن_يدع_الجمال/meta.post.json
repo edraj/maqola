@@ -1,0 +1,45 @@
+{
+  "uuid": "d6cf1eaf-643a-4d7a-87d8-8f167d3d28ad",
+  "shortname": "وقل_لمن_يدع_الجمال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وقل لمن يدع الجمال"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:dc286b17fd402c1c96a6ac821c4539ad1a0ece8f",
+    "bytesize": 165,
+    "body": "<p><span class=\"uthmanb\">وقل لمن يدع الجمال انه من تراب ،واخر منزله من تراب والحمد لله على كل حال</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء",
+    "شِعر",
+    "عربية",
+    "قَناعَة"
+  ],
+  "created_at": "2015-07-24T21:16:01Z",
+  "attributes": {
+    "old_id": 1430
+  },
+  "language": "ar",
+  "history": []
+}

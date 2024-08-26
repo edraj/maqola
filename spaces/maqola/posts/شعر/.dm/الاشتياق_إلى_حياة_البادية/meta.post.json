@@ -1,0 +1,42 @@
+{
+  "uuid": "6dfaeaf3-aa7e-4996-999b-c6a8a921ea04",
+  "shortname": "الاشتياق_إلى_حياة_البادية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الاشتياق إلى حياة البادية"},
+  "updated_at": "2010-10-18T21:26:13Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e90c9cba5ac978555c6074fdec12fc99af75507b",
+    "bytesize": 1143,
+    "body": "<p>\r\n\t<span style=\"font-family: sans-serif;\">يُروى أن معاوية بن أبي سفيان تزوج من ميسون البحدلية، وكانت بديعة في جمالها فأسكنها القصرمنعمة مكرمة ولكنها اشتاقت إلى حياتها في البادية فأنشدت تقول : </span></p>\r\n<p>\r\n\t<span class=\"maqola_font_normal\"><font size=\"6\">لَبَيتٌ تَخفِقُ الأَرياحُ فيهِ أَحَبُّ إليَّ مِن قَصرٍمُنيفِ<br />\r\n\tولُبسُ عَباءَةٍ وَتَقَرُّ عَيني أَحَبُّ إليَّ مِن لُبسِ الشُفوفِ<br />\r\n\tوأكلُ كُسَيرَةٍ مِن كَسرِ بَيتي أَحَبُّ إليَّ مِن أكلِ الرَغيفِ<br />\r\n\tوأصواتُ الرِّياحِ بِكُلِّ فَجِّ أَحَبُّ إليَّ مِن نَقرِ الدُفوفِ<br />\r\n\tوكَلبٌ يَنبَحُ الطُرَّاقَ دوني أَحَبُّ إليَّ مِن قِطٍّ أليفِ<br />\r\n\tوخَرقٌ مِن بَني عَمِّي نَحيفٌ أَحَبُّ إليَّ مِن عِلجٍ عَنوفِ</font></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-10-18T21:26:13Z",
+  "attributes": {
+    "old_id": 85
+  },
+  "language": "ar",
+  "history": []
+}

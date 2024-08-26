@@ -1,0 +1,29 @@
+{
+  "uuid": "1e1b7667-ff3a-42ef-b9b3-775b7ca78329",
+  "shortname": "بل_ظهر_جهله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بل ظهر جهله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ed3dc087e6f9a61a8b41431f701b91bac3765af9",
+    "bytesize": 111,
+    "body": "غروب الشمس ليس وقت محدد بل حاله و عدم معرفة الرجل به دليل جهل  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-08T20:23:44Z",
+  "attributes": {
+    "old_id": 539,
+    "old_entry_id": 450
+  },
+  "language": "ar"
+}

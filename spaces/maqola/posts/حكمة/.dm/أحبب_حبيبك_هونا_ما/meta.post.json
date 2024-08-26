@@ -1,0 +1,43 @@
+{
+  "uuid": "c436a5ab-9eee-421b-8044-babcfe5994e4",
+  "shortname": "أحبب_حبيبك_هونا_ما",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أحبِبْ حَبِيبَكَ هَوناً ما"},
+  "updated_at": "2011-01-13T22:38:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bd42852ed6def222c9930de97e3fab69948dfa58",
+    "bytesize": 1474,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أي أحبِبهُ حُبّاً هَوناً، أي سَهلا يسيراً، و ‏&quot;‏ما‏&quot;‏ تأكيد، ويجوز أن يكون للإبهام، أي حُبّاً مُبهَما لا يَكثرُ ولا يَظهَر، كما تقول‏:‏ اعْطِنِي شيئاً ما، أي شيئاً يَقَعُ عليه اسم العطاء وإنْ كان قليلا‏.‏ والمعنى: لا تُطْلعه على جميع أسْرَارِك، فلعله يتغير يوماً عن مودتك، وقال النَّمِرُ بن تَولَب‏:‏<br />\r\n\tأحْبِبْ حَبِيبَكَ حُبّاً رُوَيْداً --فَقَدْ لا يَعُولُكَ أنْ تَصرِما<br />\r\n\tوأبغِضْ بَغِيضَكَ بُغْضاً رُوَيْداً -- إذا أنْت حَاوَلْتَ أنْ تَحكُما<br />\r\n\tويروى ‏&quot;‏فليس يعولك‏&quot;‏ أي فليس يَغْلبك ويفوتك صَرْمُه (والصرم هو البعد أو الفراق)، وقوله ‏&quot;‏أن تحكما‏&quot;‏ أي أن تكون حكيما‏.‏ والغرض من جميع هذا كله النهيُ عن الإفراط في الحب والبغض، والأمر بالاعتدال في المعنيين‏.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من كتاب مجمع الأمثال للميداني.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "مَثَل"
+  ],
+  "created_at": "2010-12-11T14:59:23Z",
+  "attributes": {
+    "old_id": 350
+  },
+  "language": "ar",
+  "history": []
+}

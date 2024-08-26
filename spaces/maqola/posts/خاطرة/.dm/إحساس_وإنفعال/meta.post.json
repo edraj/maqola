@@ -1,0 +1,43 @@
+{
+  "uuid": "b52f5e5e-7a17-43c9-b2f7-54ec3da7eb95",
+  "shortname": "إحساس_وإنفعال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إحساس وإنفعال"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:72d747a6c1af609b630db11dd4b78934023e04e1",
+    "bytesize": 255,
+    "body": "<p>ماذا أحِسُّ  هنا ، بأعماقي </p><p>ترْتّجُّ أهوائي و أشواقي <br>ألف انفعال ، ألف عاطفة  <br>محمومة بدمي ، بأعراقي<span class=\"uthmanb\"></span> </p><p>\"فدوى طوقان\"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "غَزَل",
+    "مَدح"
+  ],
+  "created_at": "2015-02-20T05:12:56Z",
+  "attributes": {
+    "old_id": 1048
+  },
+  "language": "ar",
+  "history": []
+}

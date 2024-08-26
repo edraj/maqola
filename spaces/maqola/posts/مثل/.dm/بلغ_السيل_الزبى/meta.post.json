@@ -1,0 +1,42 @@
+{
+  "uuid": "940a9eea-0f08-476b-b27a-bd15f14637a1",
+  "shortname": "بلغ_السيل_الزبى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بَلَغَ السَّيْلُ الزُّبَى‏"},
+  "updated_at": "2010-11-30T15:21:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5c19510b7e459d29ebb88795d788b01081b45b31",
+    "bytesize": 440,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">هي جمع زُبْيَة‏.‏ وهي حُفْرةٌ تُحْفَر للأسد إذا أرادوا صَيْده، وأصلُها الرابية لا يَعْلُوها الماء، فإذا بَلغَها السيلُ كان جارفاً مُجْحفاً‏.‏ </span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">يُضربُ هذا المثل للأمر إذا جاوز الحد‏.‏</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-11-30T15:21:20Z",
+  "attributes": {
+    "old_id": 279
+  },
+  "language": "ar",
+  "history": []
+}

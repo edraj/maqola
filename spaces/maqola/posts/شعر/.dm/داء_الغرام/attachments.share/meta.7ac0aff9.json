@@ -1,0 +1,33 @@
+{
+  "uuid": "7ac0aff9-8adc-49ba-8ab7-f8075fbe5294",
+  "shortname": "7ac0aff9",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-19T21:23:18Z",
+  "author_locator": { "type": "content",
+    "uuid": "3defc0b7-8c89-4965-b0ac-944be80d283d",
+    "shortname": "usama_elhosary",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-19T21:23:18Z",
+  "attributes": {
+    "old_id": 522,
+    "old_entry_id": 1405
+  },
+  "language": "en",
+  "location": {
+    "uuid": "7ac0aff9-8adc-49ba-8ab7-f8075fbe5294",
+    "shortname": "7ac0aff9",
+    "subpath": "posts/شعر",
+    "space_name": "maqola",
+    "parent_shortname": "داء_الغرام",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

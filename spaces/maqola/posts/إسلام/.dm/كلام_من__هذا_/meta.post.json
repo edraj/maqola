@@ -1,0 +1,44 @@
+{
+  "uuid": "789b6d6f-d73f-44da-83b2-546d6d890a34",
+  "shortname": "كلام_من__هذا_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كَلامُ مَنْ، هذا؟"},
+  "updated_at": "2010-11-19T05:14:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cc24406faacf31002c9e502dd8e9039a9fe36bad",
+    "bytesize": 954,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">حكى الأصمعيّ قال:‏ ‏ كُنت أقرأُ &quot;والسَّارِقُ والسَّارِقَةُ فاقطَعوا أيديهما جَزاءً بِما كَسبا، نَكالاً مِن الله، والله غفورٌ رحيم&quot;، وبِجَنبي أعرابي، فقال لي:‏ ‏ كَلامُ مَنْ هذا؟‏ ‏ فقلتُ: كَلامُ الله.‏ ‏ قال: أعدْ.‏ ‏ فأعدتُ. فقال:‏ ‏ ليسَ هذا كلامُ الله.‏ ‏ فانتبهتُ، فقرأت: &quot;والله عزيزٌ حكيم&quot;.‏ ‏ فقال: أصبت، هذا كلام الله.‏ ‏ فقلت: أتقرأ القرآن؟‏ ‏ قال: لا.‏ ‏ فقلت: مِن أين علمت؟‏ ‏ قال: يا هذا، عَزَّ فَحَكَمَ فَقَطَعَ، ولَو غَفَرَ ورَحِمَ لَمَا قَطَع! ‏ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-17T19:02:15Z",
+  "attributes": {
+    "old_id": 69
+  },
+  "language": "ar",
+  "history": []
+}

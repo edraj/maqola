@@ -1,0 +1,29 @@
+{
+  "uuid": "cf74d294-8ab0-42a4-97cf-23a3eea49728",
+  "shortname": "حقا_قصة_وعبرة_رائعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حقاً قصة وعبرة رائعة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c6d5f96b171114f52123effcb6102a561d21c8b4",
+    "bytesize": 147,
+    "body": "حقاً قصة وعبرة رائعة ... لو كان لديكم إمكانية نشرها في المواقع الاجتماعية لنشرتها."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T05:09:30Z",
+  "attributes": {
+    "old_id": 51,
+    "old_entry_id": 155
+  },
+  "language": "ar"
+}

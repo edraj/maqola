@@ -1,0 +1,41 @@
+{
+  "uuid": "ebf3913b-6cc8-4dda-8740-95aaa14a996d",
+  "shortname": "عجوز_عمياء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عجوز عمياء"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e61506743dbf85db18301634c9d241578e21a3c1",
+    "bytesize": 1343,
+    "body": "<p><br><br>في بيت صغير بأطراف المدينة , عاشت \r\nامرأة عجوز عمياء ليس لها من حُطام<br>الدنيا غير شاة , ودلو , وحصير من الخوص أكل \r\nالزمان أطرفها , وكان عمر بن الخطاب رضي الله عنه يتعاهد هذه المرأة من الليل , \r\nفيستسقي لها ويصلح حالها , وظل على ذلك فترة.<br><br>وذات يوم جاء عمر رضي الله عنه \r\nإلى البيت , فوجد كل شئ مرتباً ومعدا, فعلم أن غيره سبقه إليها فأصلح ما أرادت , \r\nفجاءها غير مرة وكل مرة يجد أن غيره سبقه إلى البيت فنظفه , وأصلحه \r\n.<br><br><br>فاختبأ عمر رضي الله عنه في ناحية قريباً من البيت ليعرف من هذا الذي \r\nيسبقه , ظل قابعاً مدة , وفجأة رأى رجلاً يقترب من البيت فطرق الباب , ثم دخل . . \r\nإنه أبو بكر الصديق رضي الله عنه وهو يومئذ خليفة المسلمين .<br><br>خرج عمر رضي \r\nالله عنه من مكمنه , وقد استبان له الأمر يحدث نفسه إعجاباً بالصديق رضي الله عنه : \r\nأنت لعمرى . . أنت لعمرى<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2015-02-06T13:27:32Z",
+  "attributes": {
+    "old_id": 996
+  },
+  "language": "ar",
+  "history": []
+}

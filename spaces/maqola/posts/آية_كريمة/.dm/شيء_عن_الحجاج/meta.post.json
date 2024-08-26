@@ -1,0 +1,54 @@
+{
+  "uuid": "c5288ea4-27c9-46ef-b452-f84c56518176",
+  "shortname": "شيء_عن_الحجاج",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شيء عن الحجّاج"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:47495e961826b555dc1226b5d3cb47f88bd424e2",
+    "bytesize": 482,
+    "body": "<p>يقال: إن الحجّاج كان إذا استغرب ضحكا والى بين استغفار ، وكان إذا صعد المنبر تلفع بمطرفه ، ثم تكلم رويدا فلا يكاد يسمع ، حتى يتزايد في الكلام فيخرج يده من مطرفه ، ثم يزجر الزجرة فيقرع بها أقصى من في المسجد .</p><p>من كتاب العقد الفريد لابن عبد ربه الأندلسي \" 246 هـ - 328 هـ \"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "ذَكاء",
+    "شَجاعَة",
+    "عربية",
+    "فَخر",
+    "فَصاحَة",
+    "قِصّة",
+    "لُغة عربيّة",
+    "مَثَل",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-04-12T18:23:08Z",
+  "attributes": {
+    "old_id": 1176
+  },
+  "language": "ar",
+  "history": []
+}

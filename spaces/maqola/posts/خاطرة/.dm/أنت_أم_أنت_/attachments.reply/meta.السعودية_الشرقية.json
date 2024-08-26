@@ -1,0 +1,29 @@
+{
+  "uuid": "4179bc24-62dc-44de-9bba-82cf43413505",
+  "shortname": "السعودية_الشرقية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السعودية /الشرقية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:600f516765029dbce821217dbb6b7ba2800ce064",
+    "bytesize": 162,
+    "body": "كتابات دافئة للدكتور حسين وحَطبُها حروف لغتنا الام العربية فلا اجمل ولا ادفىء رائع عزيزي"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "e63764fd-dde6-41c7-950c-e40f216876a4",
+    "shortname": "atef_a._al_omary",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-12-22T09:59:32Z",
+  "attributes": {
+    "old_id": 810,
+    "old_entry_id": 942
+  },
+  "language": "ar"
+}

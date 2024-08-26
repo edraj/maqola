@@ -1,0 +1,29 @@
+{
+  "uuid": "73c2e495-2bcc-4d8b-a5ac-6bfa3a34ccb8",
+  "shortname": "بيت_شعر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بيت شعر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9f75a3502d161b13bb6f4016bdf6b6351b917a4b",
+    "bytesize": 98,
+    "body": "شاور سواك إذا نابتك نائبة يوما وإن كنت من أهل المشورات"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-02-22T19:20:59Z",
+  "attributes": {
+    "old_id": 413,
+    "old_entry_id": 126
+  },
+  "language": "ar"
+}

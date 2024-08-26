@@ -1,0 +1,42 @@
+{
+  "uuid": "bb43219f-f2e9-4896-aff1-153b9eea3afd",
+  "shortname": "جحا_والغني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جحا والغني"},
+  "updated_at": "2013-11-08T20:57:21Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:85d453ac71d2193d833ab901e2462602165a55ca",
+    "bytesize": 420,
+    "body": "<span class=\"maqola_body\"> <br> <p>حضر ( جحا ) مائدة بعض الأغنياء ، فقدم له جدياً مشوياً، فجعل جحا يسرع في الأكل منه، فقال له صاحب الوليمة،، <br>وكان لئيماً : أراك تأكل منه أكل انتقام وكأن أمه نطحتك.<br>فقال جحا: وأراك تشفق عليه وكأن أمه أرضعتك. </p><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba2d5487-1f31-4067-b462-3f5ff05ca394",
+    "shortname": "أبو_أحمد",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2013-10-23T21:43:07Z",
+  "attributes": {
+    "old_id": 701
+  },
+  "language": "ar",
+  "history": []
+}

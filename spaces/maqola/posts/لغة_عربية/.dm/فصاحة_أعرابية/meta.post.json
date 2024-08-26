@@ -1,0 +1,42 @@
+{
+  "uuid": "17a929af-2bff-479a-bfae-ac224f27848d",
+  "shortname": "فصاحة_أعرابية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فصاحَةُ أعرابية"},
+  "updated_at": "2010-11-20T15:17:50Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5c8fe4ef23c54af5c963f0cf6356a50163bb2b16",
+    "bytesize": 1598,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">ورُوِيَ عَن الأصمَعي قال: اجتَزتُ بِبَعضِ أحياءِ العربِ، فرأيتُ صَبِيَّةً مَعَها قِربةٌ فيها ماءٌ وقد انحَلَّ وِكاءُ فَمِها. فقالت: يا عَمّ، أدرِكْ فاها ، قَد غَلبَني فوها، لا طاقَةَ لي بِفيها <a href=\"#foot1\"> [1] </a>. فأعنتُها، وقُلت: يا جارية، ما أفصحكَ! فقالت يا عمّ، وهل تَركَ القرآنُ لأحدٍ فصاحةً ؟ وفيه آيةٌ فيها خَبران وأمران ونَهيان وبِشارَتان ! قلت: وما هي ؟ قالت: قوله تبارك وتعالى: {وَأَوْحَيْنَا إِلَى أُمِّ مُوسَى أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ وَلَا تَخَافِي وَلَا تَحْزَنِي إِنَّا رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ }&#160; [ القصص 7 ]&#160; قال: فَرَجَعتُ بِفائدةٍ، وكأنّ تلك الآية ما مرّت بِمسامِعي مِن قبل!</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t&#160;</p>\r\n<hr />\r\n<p>\r\n\t<span style=\"font-size: 1em;\"><span style=\"font-family: Tahoma,Geneval,sans-serif;\"><a id=\"foot1\" name=\"foot1\">[1]</a> هذه الأعرابية، نصبت ورفعت وجرت كلمة &quot;فو&quot; وهي مِن الأسماءِ الخمسة بِسَليقةٍ ويُسر.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "لُغة عربيّة"
+  ],
+  "created_at": "2010-11-20T15:15:44Z",
+  "attributes": {
+    "old_id": 200
+  },
+  "language": "ar",
+  "history": []
+}

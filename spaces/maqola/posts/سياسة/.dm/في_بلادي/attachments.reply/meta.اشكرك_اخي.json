@@ -1,0 +1,29 @@
+{
+  "uuid": "1411d643-07e6-4c2c-a9d2-93efa0c5d4d2",
+  "shortname": "اشكرك_اخي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اشكرك اخي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8d53f720d93836574c794e0cfdfe202d4426a8e1",
+    "bytesize": 230,
+    "body": "ادام اللة طلاتك بأضافاتك الرائعة لشاعرنا الذي لاتكفي  حروف اللغات جمعاء ان تصف مقدرتة وموهبته العظيمة ولك كل التحية والتقدير  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-04-03T22:51:30Z",
+  "attributes": {
+    "old_id": 423,
+    "old_entry_id": 464
+  },
+  "language": "ar"
+}

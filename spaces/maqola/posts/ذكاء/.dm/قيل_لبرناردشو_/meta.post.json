@@ -1,0 +1,42 @@
+{
+  "uuid": "77a071f9-a958-45bf-9951-2431b26651dc",
+  "shortname": "قيل_لبرناردشو_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قيل لبرناردشو .."},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6b67491d7fe3b34550c510853c773aa694732c48",
+    "bytesize": 279,
+    "body": "<p>قال أحدهم لبرناردشو: أنت تكتب من أجل المال، وأكتب أنا من أجل الشَّرف!</p><p>فقال برناردشو: كلانا يبحث عمّا ينقصه يا صديقي!</p><p>ــــ ضياء ابراهيم</p><p><br><br><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "ذَكاء",
+    "طُرفَة"
+  ],
+  "created_at": "2015-03-07T18:20:05Z",
+  "attributes": {
+    "old_id": 1091
+  },
+  "language": "ar",
+  "history": []
+}

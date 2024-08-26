@@ -1,0 +1,43 @@
+{
+  "uuid": "a6342cbd-18a3-4743-bddb-a6e2eba291e3",
+  "shortname": "كفى_المرء_نبلا_أن_تعد_معايبه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كَفى المَرءَ نُبلاً أَن تُعَدَّ مَعايِبُهْ"},
+  "updated_at": "2010-12-06T12:07:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4afc8d8454d2b66bd65680416ef9eff73872df01",
+    "bytesize": 206,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">وَمَن ذا الَّذي تُرضى سَجاياهُ كُلُّها ... كَفى المَرءَ نُبلاً أَن تُعَدَّ مَعايِبُهْ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-06T12:07:30Z",
+  "attributes": {
+    "old_id": 328
+  },
+  "language": "ar",
+  "history": []
+}

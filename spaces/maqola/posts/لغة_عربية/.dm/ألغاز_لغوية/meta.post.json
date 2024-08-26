@@ -1,0 +1,43 @@
+{
+  "uuid": "7fdfa97d-2930-4d6e-bcdb-bd32c673ed87",
+  "shortname": "ألغاز_لغوية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ألغاز لغوية"},
+  "updated_at": "2014-02-03T10:33:43Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ac49a17610c7c0eb303e906b65e3115d95897069",
+    "bytesize": 222,
+    "body": "- ماذا&#160; تقولُ في جوازِ قتلِ الرقيب ؟<br> - الجوابُ : جائزٌ للبعيدِ والقريبِ .<br> - الرقيب : حية خبيثة .<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "لُغة عربيّة",
+    "لُغز"
+  ],
+  "created_at": "2014-02-03T10:33:38Z",
+  "attributes": {
+    "old_id": 774
+  },
+  "language": "ar",
+  "history": []
+}

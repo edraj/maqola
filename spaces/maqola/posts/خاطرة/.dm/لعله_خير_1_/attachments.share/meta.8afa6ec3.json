@@ -1,0 +1,33 @@
+{
+  "uuid": "8afa6ec3-fe2c-422a-9fe3-32b652c4fa22",
+  "shortname": "8afa6ec3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-03-08T08:31:41Z",
+  "author_locator": { "type": "content",
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-03-08T08:31:41Z",
+  "attributes": {
+    "old_id": 358,
+    "old_entry_id": 1093
+  },
+  "language": "en",
+  "location": {
+    "uuid": "8afa6ec3-fe2c-422a-9fe3-32b652c4fa22",
+    "shortname": "8afa6ec3",
+    "subpath": "posts/خاطرة",
+    "space_name": "maqola",
+    "parent_shortname": "لعله_خير_1_",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

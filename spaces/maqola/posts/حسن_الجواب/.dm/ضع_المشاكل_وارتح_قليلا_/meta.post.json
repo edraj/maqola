@@ -1,0 +1,42 @@
+{
+  "uuid": "cf1dcc2c-bdd2-4e20-b61b-5a684de7b2f8",
+  "shortname": "ضع_المشاكل_وارتح_قليلا_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ضع المشاكل وارتح قليلا‼‼‼‼‼‼"},
+  "updated_at": "2015-01-29T19:17:09Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9b221bbb980be4541cad00972d2ec101f0a14237",
+    "bytesize": 2121,
+    "body": "<p>في\r\n يوم من الأيام كان محاضر يلقي محاضرة عن التحكم بضغوط وأعباء الحياة \r\nلطلابه فرفع كأسا من الماء، <span class=\"fontxxlarge\" style=\"font-size: 1em; line-height: 1.6em; background-color: initial;\">وسأل </span>المستمعين ما هو في اعتقادكم وزن هذا \r\nالكأس من الماء؟ .<br></p><div class=\"fb-post\" data-href=\"https://www.facebook.com/photo.php?fbid=٢٦٤٩٩٣٢٠٧٠٤١٦٠٦&amp;set=a.١٠٥١٨٢١٤٣٠٢٢٧١٤.١٠٧٣٧٤١٨٢٦.١٠٠٠٠٥٩٢٧٨٥٥٦٥٥&amp;type=١\" data-width=\"٤٦٦\"><span class=\"maqola_body\"><br> الإجابات كانت تتراوح بين ٥٠ جم إلى ٥٠٠ جم.<br><p><br></p>\r\n<span class=\"fontxxlarge\"><p>فأجاب المحاضر: لا يهم الوزن المطلق لهذا الكأس! فالوزن هنا يعتمد على المدة التي أظل ممسكا فيها هذا الكأس.<br><br> فلو رفعته لمدة دقيقة لن يحدث شيء ولو حملته لمدة ساعة فسأشعر بألم في يدي ولكن لو حملته لمدة يوم فستستدعون سيارة إسعاف.<br><br> <span class=\"fontxlarge\"></span><span class=\"fontlarge\"></span>الكأس له نفس الوزن تماما، ولكن كلما طالت مدة حملي له كلما زاد وزنه.<br><br> فلو حملنا مشاكلنا وأعباء حياتنا في جميع الأوقات فسيأتي الوقت الذي لن نستطيع فيه المواصلة، فالأعباء سيتزايد ثقلها.<br><br> فما يجب علينا فعله هو أن نضع الكأس ونرتاح قليلا قبل أن نرفعه مرة أخرى.<br><br> فيجب علينا أن نضع أعباءنا بين الحين والآخر لنتمكن من إعادة النشاط ومواصلة حملها مرة أخرى.<br><br> فعندما تعود من العمل يجب أن تضع أعباء ومشاكل العمل ولا تأخذها معك إلى البيت؛ لأنها ستكون بانتظارك غدا.</p></span>  </span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9ac5503b-7bfd-451f-8d16-de8523eef134",
+    "shortname": "soufian_wa_lilah_lhamd",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب"
+  ],
+  "created_at": "2014-08-15T00:45:13Z",
+  "attributes": {
+    "old_id": 919
+  },
+  "language": "ar",
+  "history": []
+}

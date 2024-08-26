@@ -1,0 +1,41 @@
+{
+  "uuid": "3248eb54-ea00-4281-bd69-4e993330a3aa",
+  "shortname": "أبا_هند",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أبا هند"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a2b1d8f68502f4e719e88eaa2df01c072a27775c",
+    "bytesize": 378,
+    "body": "<p>أبا هند لاتعــــــــــــجل علينا  .......... وأنظــــــرنا نخبرك اليقينا<br>بأنا نـــــــــــورد الرايات بيضـا ........... ونصــدرهن حمرا قد روينا<br>ونشرب ان وردنـــا الماء صـــفوا  .......... ويشرب غيرنا كــدرا وطينا</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "360dd863-9137-4631-a91f-d10a44d37721",
+    "shortname": "عمرو_بن_كلثوم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "78e126ec-ac1f-483a-a696-3e84ab4bc5b2",
+    "shortname": "abbas_al_robaiyee",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "فَخر"
+  ],
+  "created_at": "2015-05-10T18:21:28Z",
+  "attributes": {
+    "old_id": 1256
+  },
+  "language": "ar",
+  "history": []
+}

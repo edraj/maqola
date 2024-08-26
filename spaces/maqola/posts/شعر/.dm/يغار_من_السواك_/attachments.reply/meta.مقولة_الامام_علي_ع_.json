@@ -1,0 +1,29 @@
+{
+  "uuid": "5f4c5816-09f9-419f-bc84-b47109b7f70e",
+  "shortname": "مقولة_الامام_علي_ع_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مقولة الامام علي (ع)"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:65bf45fe713f04b60b48a5fd236bc8f22bb2935f",
+    "bytesize": 165,
+    "body": "هذه مقوله للامام علي (ع) عنما رأى سيدة نساء العالمين فاطمة الزهراء (ع) و هي تستاك. و الله اعلم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-29T01:59:11Z",
+  "attributes": {
+    "old_id": 233,
+    "old_entry_id": 246
+  },
+  "language": "ar"
+}

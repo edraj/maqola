@@ -1,0 +1,42 @@
+{
+  "uuid": "7f19554b-52c1-4e2b-a7c1-664360c6a4e0",
+  "shortname": "أبيات_لجرير",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أبيات لجرير"},
+  "updated_at": "2013-07-24T19:30:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6b47da8b1c8bc86dbd76925ddfbaa1863b0f87d3",
+    "bytesize": 1338,
+    "body": "<span class=\"fontxlarge\"><span>إنَّ لجرير في كُلِّ \r\nبابٍ من الشعرِ ابياتاً سائرةً هيَ الغاية التي يُضربُ بها المثلُ فيقالُ \r\nإنََّ <b>اغزلَ</b> شعرٍ قالتهُ العربُ هو قولِهِ:<br>إنَّ العيونَ التي في طرفها حورٌ ...... قتلنَنَا ثُمَّ لم يُحيينَ&#160; قتلانا<br>يَصرُعنَ ذا اللُبِ حتى لا حراكَ لَهُ ...... وهُنَّ اضعفُ خلقِ اللِه إنسانا<br><b>وإنَّ امدح بيت قوله:</b><br>ألستم خيرَ من ركبَ المطايا ...... وأندى العالمينَ بطونَ راحِ<br><b>وإنَّ افخرَ بيت قوله:</b><br>إذا غضبت عليكَ بنو تميمٍ ...... حسبتُ الناس كلهم غضابا<br><b>وإن أهجى بيت قوله:</b><br>فغض الطرفَ انكَ من نميرٍ ...... فلا كعباً بلغتَ ولا كلابا<br><b>وإنَّ اصدق بيت قوله:</b><br>اني لارجو منكَ خيراً عاجلاً ...... والنفسُ مولعةٌ بحبَ العاجلَ<br><b>وإن اشد بيت تهكما قوله:</b><br>زعمَ الفرزدقُ أن سيقتلُ مربعاً.....أبشر بطولِ سلامةٍ يامربعُ </span></span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2013-07-24T19:29:08Z",
+  "attributes": {
+    "old_id": 645
+  },
+  "language": "ar",
+  "history": []
+}

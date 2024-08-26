@@ -1,0 +1,43 @@
+{
+  "uuid": "27c0b8a4-0cfd-45f9-91c9-535b445b62e7",
+  "shortname": "حلم_يحسد_عليه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حِلمٌ يُحسَدُ عليه"},
+  "updated_at": "2011-06-05T21:45:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d4af123f3a3ecfd32e4e89eb15a236ef9480273a",
+    "bytesize": 469,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قال خالدُ بنُ صفوان وهو مِن شُعراءِ العربِ : رأيتُ رَجلاً شَتَمَ عمرو بن عُبيد، فَما بَقّى لهُ شيئاً. فلمّا سَكَتَ، قال لهُ عمرو : آجركَ الله على الصوابِ وغفرَ لكَ الخطأ. قال خالد : فما حَسَدتُ أحداً حَسَدي لَهُ على حِلمِهِ وكلمَتِه.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة"
+  ],
+  "created_at": "2011-06-05T21:45:15Z",
+  "attributes": {
+    "old_id": 485
+  },
+  "language": "ar",
+  "history": []
+}

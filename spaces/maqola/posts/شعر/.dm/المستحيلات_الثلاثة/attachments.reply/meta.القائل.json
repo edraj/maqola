@@ -1,0 +1,29 @@
+{
+  "uuid": "e539a13f-5445-44a6-930f-b0ca87227059",
+  "shortname": "القائل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القائل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b2578c7529adb10e89b3bc4ba4f6f89ad31792af",
+    "bytesize": 29,
+    "body": "صفي الدين الحلي "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "42c7360c-874d-47a1-946b-57847dcf43a6",
+    "shortname": "mohammed_mahmoud_abd_el_fattah",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-12-23T13:17:17Z",
+  "attributes": {
+    "old_id": 793,
+    "old_entry_id": 429
+  },
+  "language": "ar"
+}

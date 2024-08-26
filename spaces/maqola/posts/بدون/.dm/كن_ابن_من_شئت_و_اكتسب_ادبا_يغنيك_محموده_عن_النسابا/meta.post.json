@@ -1,0 +1,41 @@
+{
+  "uuid": "8dd9e446-9049-48e2-9f28-1fbad92c8cdb",
+  "shortname": "كن_ابن_من_شئت_و_اكتسب_ادبا_يغنيك_محموده_عن_النسابا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كن ابن من شئت و اكتسب ادبا ....يغنيك محموده عن النسابا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a04b072d167eefe9f7a6aad06a9c4efbb1ca448c",
+    "bytesize": 160,
+    "body": "<p>كل عام و انتم بالف الف خير ..رمضان مبارك على جميع المسلمين ...كل عام و انتم من الله اقرب</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "16cfc4b2-c0ae-4639-bf9d-089c91a6cbc8",
+    "shortname": "muhammad_e_muhra",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-06-25T15:20:24Z",
+  "attributes": {
+    "old_id": 1354
+  },
+  "language": "ar",
+  "history": []
+}

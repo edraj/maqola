@@ -1,0 +1,29 @@
+{
+  "uuid": "be41157f-7429-4853-a146-e661d3214da5",
+  "shortname": "حافظ_إبراهيم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حافظ إبراهيم "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:001cc464219e8c6de4431d18307e8f239bfb045d",
+    "bytesize": 86,
+    "body": "تلك الأبيات الخالدة للشاعر المصري حافظ إبراهيم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-04-20T15:49:31Z",
+  "attributes": {
+    "old_id": 433,
+    "old_entry_id": 467
+  },
+  "language": "ar"
+}

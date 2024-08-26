@@ -1,0 +1,29 @@
+{
+  "uuid": "7bef2a10-46af-4e84-8bb5-c0f70a57b373",
+  "shortname": "مكن_الله_الأمة_على_يديك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مكن الله الأمة على يديك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5b69766434c52a8c8d27ad5218b38a4efbf65019",
+    "bytesize": 161,
+    "body": "نسأل الله أن يعجّل بالتمكين لهذه الأمة ، على يديك وأيدي المخلصين من عباده ، إنه سميع مجيب"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2f884cfd-5763-465b-a4c8-3f964fb1b354",
+    "shortname": "مؤذن_النصر",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-04-26T21:06:28Z",
+  "attributes": {
+    "old_id": 766,
+    "old_entry_id": 583
+  },
+  "language": "ar"
+}

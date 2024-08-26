@@ -1,0 +1,42 @@
+{
+  "uuid": "6dc1dda8-5578-4591-959f-73b8c37c8a1f",
+  "shortname": "___قالوا__مسكين_من_لا_يعرف_الانجليزية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"،،،،;  قالوا\" مسكين من لا يعرف الانجليزية"},
+  "updated_at": "2013-10-07T18:20:01Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:46b2224d7752af876cafc4a3e0a3185d338dafe2",
+    "bytesize": 253,
+    "body": "قالوا \"مسكين من لا يعرف الانجليزية، قد يواجه صعوبة في فهم كلام الناس\"\r\n ونقول \" مسكين من لا يعرف العربية، قد يواجه صعوبة في فهم كلام رب الناس\". "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e8268c5a-e3f2-4206-a800-4eba4d9f3701",
+    "shortname": "shuaibu_m._fullaty",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2013-10-07T18:20:01Z",
+  "attributes": {
+    "old_id": 679
+  },
+  "language": "ar",
+  "history": []
+}

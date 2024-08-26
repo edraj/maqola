@@ -1,0 +1,42 @@
+{
+  "uuid": "ec2389d5-c5c5-41b6-8db6-70b1be061494",
+  "shortname": "إن_الرجال_لا_تكال_بالقفزان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إنّ الرجالَ لا تُكالُ بالقفزان"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fb3211029dc18980a1fb43c6f838f7176abba152",
+    "bytesize": 139,
+    "body": "<p>إنّ الرجالَ لا تُكالُ بالقفزان ولا توزَنُ بميزان وإنّما المرءُ بأصغَريه</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء"
+  ],
+  "created_at": "2015-07-25T00:11:50Z",
+  "attributes": {
+    "old_id": 1440
+  },
+  "language": "ar",
+  "history": []
+}

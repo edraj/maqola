@@ -1,0 +1,23 @@
+{
+  "uuid": "d0680768-c0a0-4c9a-9b3e-940c3e9bd867",
+  "shortname": "d0680768",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "67c729aa-8396-478e-8897-fe91f53cd36f",
+    "shortname": "lama_wardat",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-07-23T18:28:08Z",
+  "attributes": {
+    "old_id": 1024,
+    "old_entry_id": 1417
+  },
+  "language": "en",
+  "type": "like"
+}

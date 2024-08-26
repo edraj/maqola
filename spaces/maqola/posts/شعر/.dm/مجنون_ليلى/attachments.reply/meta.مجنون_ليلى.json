@@ -1,0 +1,29 @@
+{
+  "uuid": "5ee12301-6487-4838-ae1c-1b9600875471",
+  "shortname": "مجنون_ليلى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مجنون ليلى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:80ece2da252f04509f20b8d63fc5a579a2d451f7",
+    "bytesize": 63,
+    "body": "رووووووووعة انا اموت في هدا الشاعر"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-03-21T15:57:47Z",
+  "attributes": {
+    "old_id": 608,
+    "old_entry_id": 211
+  },
+  "language": "ar"
+}

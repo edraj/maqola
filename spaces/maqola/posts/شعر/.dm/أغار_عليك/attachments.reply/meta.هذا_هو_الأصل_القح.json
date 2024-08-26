@@ -1,0 +1,29 @@
+{
+  "uuid": "da569bf3-9c76-4657-8c9f-ba4a58c3c080",
+  "shortname": "هذا_هو_الأصل_القح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هذا هو الأصل القحّ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fff4ec3a919a9e97188a6668aab0e72d050079bc",
+    "bytesize": 287,
+    "body": "هذه مكانة المرأة في نفس العربيّ القحّ وما بالكم بالمسلم المؤمن التقيّ ..غيرته على حريمه وعرضه هي حياة القلب وروح الفؤاد تدلّ على أنّه أهل للأمانة والمسؤوليّة "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "21327be8-3be7-4ee1-96a6-d33a91a12be9",
+    "shortname": "abdenacer_bencherif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-05-30T12:59:46Z",
+  "attributes": {
+    "old_id": 878,
+    "old_entry_id": 1302
+  },
+  "language": "ar"
+}

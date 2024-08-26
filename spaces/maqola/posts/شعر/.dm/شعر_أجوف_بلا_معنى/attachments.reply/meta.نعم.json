@@ -1,0 +1,29 @@
+{
+  "uuid": "7d87fbca-0b0e-4832-86c8-44b0d38a89dd",
+  "shortname": "نعم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نعم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5559f65bf4b424449f6c8bd6c6e79d17a1f48e0d",
+    "bytesize": 43,
+    "body": "أليس في الطرافة فائدة؟!!"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "9a5c294b-89e8-41de-ab4e-0fc5bb2692c8",
+    "shortname": "ayad_derbal",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-11-23T06:04:36Z",
+  "attributes": {
+    "old_id": 808,
+    "old_entry_id": 358
+  },
+  "language": "ar"
+}

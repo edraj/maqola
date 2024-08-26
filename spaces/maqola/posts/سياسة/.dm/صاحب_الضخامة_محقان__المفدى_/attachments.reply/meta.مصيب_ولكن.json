@@ -1,0 +1,29 @@
+{
+  "uuid": "7c64d72c-a5f5-4888-9a89-df03cbd3dec0",
+  "shortname": "مصيب_ولكن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مصيب ولكن"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5d9a1d2893858401efc8a027326755155025f433",
+    "bytesize": 171,
+    "body": "أعتقد أن الشاعر مصيب في جل ما طرح فهو يسرد واقعنا، لكن هناك من الكلمات ما نتحفظ عليه وفقكم الله"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-06-15T10:25:37Z",
+  "attributes": {
+    "old_id": 472,
+    "old_entry_id": 491
+  },
+  "language": "ar"
+}

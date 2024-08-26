@@ -1,0 +1,44 @@
+{
+  "uuid": "ee9b0687-1338-49bc-88f3-96843a8e8b74",
+  "shortname": "ذواتا_جنون",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ذَوْاتَا جنونْ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a6c2409313d2ba3da640d10f785de30bbdc8bc16",
+    "bytesize": 551,
+    "body": "<p>وَلِأنّ عَينيكِ ذَوْاتَا جنونْ ..<br> عَلى حَافْة الليل أُمْسِي وقِصْةُ عِشْق مع قمر يَعْكِس صُورْتكِ كلما <br> بدت أنْتِصَافةُ شهر وأُرددُ تَراتِيل صمْت يَقطعُها ضَجيج الدهرْ ..<br> وأَتْـرُك لكِـ .. عِشقـاً مُؤجلاً .. وحُبـاً مُؤبداً .. <br> وأُهدِيكِ لحناً يُعْمّد حُبي فِي قَلبـكِ الى اللحْدْ  ..<br><br>بيسار</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "عربية",
+    "غَزَل",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-19T13:59:55Z",
+  "attributes": {
+    "old_id": 1029
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "b113973c-c41c-4050-8411-824346153006",
+  "shortname": "النساء_شقائق_الرجال_حديث_نبوي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"النساء شقائق الرجال حديث نبوي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e4d41b18dcffec100061b4bffa0bc7105c560991",
+    "bytesize": 566,
+    "body": "عن عائشة قالت : سئل رسول الله صلى الله عليه وسلم عن الرجل يجد البلل ولا يذكر احتلاما، قال: يغتسل ، وعن الرجل يرى أنه قد احتلم ولم يجد بللاً ، قال: لا غسل عليه ، قالت أم سلمة : يا رسول الله هل على المرأة ترى ذلك غسل ؟ قال : نعم ، إن النساء شقائق الرجال .  رواه الترمذي ( 113 ) وأحمد (25663) وصححه الألباني في \\\" صحيح الترمذي \\\" ( 98 ) ."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-04T12:56:03Z",
+  "attributes": {
+    "old_id": 265,
+    "old_entry_id": 305
+  },
+  "language": "ar"
+}

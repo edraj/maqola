@@ -1,0 +1,29 @@
+{
+  "uuid": "6a66e553-2d90-43e2-9d03-a3142df79167",
+  "shortname": "sisou2013_yahoo.com",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"sisou2013@yahoo.com"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:80ad326bd2e4ead22d324b3b4b420c402eebcb27",
+    "bytesize": 138,
+    "body": "?Quel est le but de ce poème et ce qui est approprié   !Je suis désespéré de cette réponse, s\\'il vous plaît  ^^ et merci d\\'avance"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "5d509f46-add0-4cc5-b4eb-8dd654c301d0",
+    "shortname": "yasmine_nina_mayweel",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-04-19T10:07:47Z",
+  "attributes": {
+    "old_id": 801,
+    "old_entry_id": 304
+  },
+  "language": "ar"
+}

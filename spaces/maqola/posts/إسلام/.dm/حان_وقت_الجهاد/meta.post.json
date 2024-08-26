@@ -1,0 +1,68 @@
+{
+  "uuid": "b9d46c12-a254-47a3-9de6-b4b0747ee821",
+  "shortname": "حان_وقت_الجهاد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حان وقت الجهاد"},
+  "updated_at": "2014-09-15T19:44:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fa8776e8b57e864be56af3a7518c4f460e35cc2d",
+    "bytesize": 381,
+    "body": "<span class=\"maqola_body\"> <br></span><blockquote><span class=\"maqola_body\"> أيا أمتي حان وقت الجهاد &#160;&#160; أفيقي فشر هناك أقترب </span><br><span class=\"maqola_body\"></span></blockquote><blockquote><span class=\"maqola_body\">أفيقي من الذل والإنحطاط &#160;&#160; أما أن للمجد أن يسترد</span></blockquote>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "2b7eacfb-077b-4df8-a567-ef3b10f3528d",
+    "shortname": "س_ـقت_مشاع_",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "بُخل",
+    "تَفاؤل",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "رِثاء",
+    "سِياسَة",
+    "شَجاعَة",
+    "شِعر",
+    "صَداقَة",
+    "طُرفَة",
+    "طُفولَة",
+    "عُلوم",
+    "غَزَل",
+    "فَخر",
+    "فَصاحَة",
+    "قَدح",
+    "قَناعَة",
+    "قِصّة",
+    "كَرَم",
+    "لُغة عربيّة",
+    "لُغز",
+    "مَثَل",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2014-06-22T19:58:07Z",
+  "attributes": {
+    "old_id": 890
+  },
+  "language": "ar",
+  "history": []
+}

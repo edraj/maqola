@@ -1,0 +1,18 @@
+{
+  "uuid": "ac4636fe-e276-459c-a7f9-d4240097bd7c",
+  "shortname": "btn_facebook_button.png",
+  "is_active": false,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:795402d963331d144a93c430a6420c0dfa430574",
+    "bytesize": 3293,
+    "body": "btn_facebook_button.png"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 1
+  },
+  "language": "en"
+}

@@ -1,0 +1,46 @@
+{
+  "uuid": "827818d6-11ce-4dcf-8f93-0a2302ee428e",
+  "shortname": "من_اقوال_الامام_علي_كرم_الله_وجهه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من اقوال الامام علي كرم الله وجهه"},
+  "updated_at": "2014-02-01T11:59:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6033467241c70d96ba2979355ec9ccdb1a458443",
+    "bytesize": 626,
+    "body": "قالَ الإمامُ عليٌ كرمَ الله وجههُ في الصمودِ في مواجهةِ أحداثِ الزمان :<br> <br> هي حالان شدةٌ ورخاءُ ** وسِجالانِ نعمةٌ وبَلاءُ<br> <br> والفتى الحاذقُ الأديبُ إذا ما ** خانهُ الدهرُ لم يَخُنْهُ عزاءُ<br> <br> إنَ ألمَّت ملمةٌ بي فإنِّي ** في الملمَّات صخرةٌ صمَّاءُ<br> <br> عالمٌ بالبلاءِ عِلْماً بأنْ ليـ ** ـس يدومُ النعيمُ أو الرخاءُ<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "خاطِرة",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-01T11:59:12Z",
+  "attributes": {
+    "old_id": 755
+  },
+  "language": "ar",
+  "history": []
+}

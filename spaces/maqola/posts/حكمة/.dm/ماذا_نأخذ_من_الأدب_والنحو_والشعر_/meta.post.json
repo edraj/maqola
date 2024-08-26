@@ -1,0 +1,44 @@
+{
+  "uuid": "b6d9bc7a-3330-4977-89f3-fa54fb65b6a8",
+  "shortname": "ماذا_نأخذ_من_الأدب_والنحو_والشعر_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ماذا نأخذُ من الأدب والنحو والشعر؟"},
+  "updated_at": "2013-11-27T17:54:09Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a5f010992e75a665f1c1a5717fee0449a95cfd0f",
+    "bytesize": 798,
+    "body": "<span class=\"maqola_body\"> قال ابن السكيت:<br>خُذ مِن الأدبِ ما يَعلَقُ بالقلوب، وتَشتَهيهِ الآذانُ و خُذْ مِن النّحوِ ما تُقَيِّمُ بِهِ الكلام، و دَعْ الغَوامِضَ، و خُذ مِن الشعرِ ما يَشتَمَلُ على لَطيفِ المعاني، واستكثرْ من أخبارِ الناسِ، وأقاويلِهم وأحاديثِهم، ولا تولَعَنَّ بالغثِّ مِنها.<br><br><span><span> </span></span><span class=\"fonttohama\"><span><span></span></span></span><span class=\"fontsmall\"><span class=\"fonttohama\"><span><span>كتاب إرشاد الأريب إلى معرفة الأديب لياقوت الحموي</span></span></span></span><br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2013-11-27T17:54:00Z",
+  "attributes": {
+    "old_id": 723
+  },
+  "language": "ar",
+  "history": []
+}

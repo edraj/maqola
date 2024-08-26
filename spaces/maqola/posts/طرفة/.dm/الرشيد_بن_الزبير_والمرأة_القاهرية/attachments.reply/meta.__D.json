@@ -1,0 +1,29 @@
+{
+  "uuid": "e94aadcc-cb7b-471b-973d-25afb9adc59c",
+  "shortname": "__D",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":":-D"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:421409b8178ee3b9f443a97cf5648c62e71a5c6b",
+    "bytesize": 3,
+    "body": ":-D"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "f27e37bb-d4ff-45f8-8ff8-d1cdfa72abe4",
+    "shortname": "aisha_shapsough",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-04-12T22:23:00Z",
+  "attributes": {
+    "old_id": 848,
+    "old_entry_id": 33
+  },
+  "language": "ar"
+}

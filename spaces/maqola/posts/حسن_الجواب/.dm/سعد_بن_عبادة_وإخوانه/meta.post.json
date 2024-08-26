@@ -1,0 +1,45 @@
+{
+  "uuid": "82091c4b-aabe-47a7-b19f-d289aa905402",
+  "shortname": "سعد_بن_عبادة_وإخوانه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سعد بن عبادة وإخوانه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:145e9813dbfa78be7a8d8d88df03055c588853bf",
+    "bytesize": 573,
+    "body": "<p>قيل : مرض قيس بن سعد بن عُبادة فلم يزره إخوانه فاستبطأهم ، فقيل له : إنهم يستحيون مما لك عليهم من الدين ، فقال : أخزى الله مالا يمنع الإخوان من الزيارة ، ثم أمر مناديًا فنادى : من كان لقيس عليه حق فهو منه في حِل ، قال : فانكسرت درجته من شدة الزحام بالمشي لكثرة من عاده .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "فَخر",
+    "كَرَم",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-05-26T23:11:41Z",
+  "attributes": {
+    "old_id": 1305
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,18 @@
+{
+  "uuid": "ee9c9f40-699f-4524-b18d-1d46b6d81020",
+  "shortname": "jadaka_elghaytho.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:1c472c0b8dd06bb4ad62b9724ab6336bff531411",
+    "bytesize": 2844672,
+    "body": "jadaka_elghaytho.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 9
+  },
+  "language": "en"
+}

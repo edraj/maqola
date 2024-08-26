@@ -1,0 +1,42 @@
+{
+  "uuid": "690f743c-421f-4809-ade9-28b32f401f9d",
+  "shortname": "هذا_هو_السبب__لشاعر_أحمد_مطر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هذا هو السبب...!! لشاعر أحمد مطر"},
+  "updated_at": "2013-10-25T18:30:46Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bb309bd9add87e8d5d74571d53a1b3cca2a70f59",
+    "bytesize": 1848,
+    "body": "<span class=\"maqola_body\"><span style=\"font-size: 1.4em; line-height: 1.45em;\">هذا هو السبب&#160;</span></span><div><span class=\"maqola_body\"><span style=\"font-size: 29px; line-height: 42.625px;\"><p></p></span></span><p>سَمَّمتَ باللّومِ دَمي .</p><p>فَلقتَ رأسي با لعـَتبْ .</p><p>ذلكَ قولٌ مُنكرٌ .</p><p>ذلكَ قولٌ مُسْتَحبْ .</p><p>ذلكَ ما لا يَنبغي</p><p>ذلكَ مِمّا قدْ وَجَبْ .</p><p>ما القصدُ مِنْ هذي الخُطَبْ</p><p>تُريدُ أنْ تُشعِرني بأنني بِلا أدَبْ ؟</p><p>نعمْ .. أنا بِلا أَدِبْ !</p><p>نعم .. وشِعْري كُلُّهُ</p><p>ليسَ سِوى شَتْمٍ وَسَبْ .</p><p>وما العَجَبْ ؟!</p><p>النَّارُ لا تَنْطِقُ إلاَّ لَهَباً</p><p>إنْ خَنَقوها بالحَطَبْ</p><p>وإنني مُخْتَنِقٌ</p><p>حَدَّ التِهامي غَضَبي</p><p>مِنْ فَرْطِ ما بي منْ غَضَبْ !</p><p>تَسألُني عَنِ السَّبَبْ ؟!</p><p>ها كَ سلاطينَ العَرَبْ</p><p>دَ زينتانِ مِنْ أبي جَهلٍ ومِنْ</p><p>أبى لَهَبْ .</p><p>نَماذِجٌ مِنَ القِرَبْ</p><p>أسفَلُها رأسٌ</p><p>وأعلاها ذَنَبْ !</p><p>مَز ابِلٌ أنيقَةٌ</p><p>غاطِسَةٌ حتّى الرُّكَبْ</p><p>وَسْطَ مَز ابِلِ الرُّتَبْ !</p><p>أَشِرْ لواحِدٍ .. وَقُلْ :</p><p>هذا الحِمارُ مُنْتَخَبْ .</p><p>وبَعدما تُقنِعُني</p><p>_ بِغيرِ تِسعا تِ النّسَبْ _</p><p>تَعالَ عَلِّمني الأدَبْ !</p><div><span class=\"maqola_body\"><br>  </span></div></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "3ad3da84-7ac3-440b-a7ad-5d11cb2db3b6",
+    "shortname": "متفائل_بالخير",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة"
+  ],
+  "created_at": "2013-10-25T18:30:46Z",
+  "attributes": {
+    "old_id": 707
+  },
+  "language": "ar",
+  "history": []
+}

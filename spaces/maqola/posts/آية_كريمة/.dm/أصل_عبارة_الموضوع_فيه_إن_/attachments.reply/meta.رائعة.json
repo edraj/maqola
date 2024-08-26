@@ -1,0 +1,29 @@
+{
+  "uuid": "97a9e263-4407-451f-8b87-1f45873daafe",
+  "shortname": "رائعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رائعة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7916a9f16c68cf63330668d6c6448a392a6a75e4",
+    "bytesize": 102,
+    "body": "ليتنا نجعل القرآن الكريم في كل حياتنا قولا وعملا وسلوكا "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "238464c9-bd9a-4028-8139-3196b1016575",
+    "shortname": "yosef_mohamad",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-09-23T13:01:24Z",
+  "attributes": {
+    "old_id": 921,
+    "old_entry_id": 1509
+  },
+  "language": "ar"
+}

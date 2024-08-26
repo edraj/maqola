@@ -1,0 +1,42 @@
+{
+  "uuid": "9b6554f9-7249-4b0a-b9ed-8b3d5a8d6d9e",
+  "shortname": "إذا_لم_تستطع_شيئا_فدعه_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إذا لَم تَستطِع شَيئا فدَعهُ!"},
+  "updated_at": "2013-04-26T21:45:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eb62926a4bbde4e5963a0ff740739e38b4735612",
+    "bytesize": 592,
+    "body": "<span class=\"maqola_body\"> <br> يُذّكِرُني تَبَسُّمكِ الأقاحي -- و يَحكي لي تَوَرُّدِكِ الربيع<br>يَطيرُ إليكِ من شوقٍ فؤادي -- ولكن ليس تَترُكهُ الضُلوعُ<br>كأنَّ الشمسَ لما غِبتِ غابَت -- فَليسَ لها على الدُنيا طُلوعُ<br>فَما لي عن تّذكّركِ امتناعٌ -- ودونَ لقائكِ الحصنُ المنيعُ<br>إذا لَم تستطع شيئاً فَدَعْهُ -- وجاوِزهُ إلى ما تستطيعُ<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2013-04-26T21:43:32Z",
+  "attributes": {
+    "old_id": 588
+  },
+  "language": "ar",
+  "history": []
+}

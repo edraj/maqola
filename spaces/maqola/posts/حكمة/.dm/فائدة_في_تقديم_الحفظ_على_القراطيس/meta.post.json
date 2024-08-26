@@ -1,0 +1,43 @@
+{
+  "uuid": "7891f764-2e1b-4f60-a506-2b725595a1d5",
+  "shortname": "فائدة_في_تقديم_الحفظ_على_القراطيس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فائدة في تقديم الحفظ على القراطيس"},
+  "updated_at": "2014-01-12T12:51:25Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2c9c6780aecb99bc7e1be31de6105d78241a2979",
+    "bytesize": 560,
+    "body": "<span class=\"maqola_body\"> <br> عِلْمِي مَعِي حَيْثُمَا يَمَّمْتُ يَنفَعُنِي = قَلْبِي وِعَاءٌ لَّهُ لا بَطْنُ صُندُوقِ&#160;</span><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><br></span></font><div><span class=\"maqola_body\">إِن كُنتُ في البَيْتِ كَانَ&#160;الْعِلْمُ فِيهِ مَعِي= أَوْ كُنْتُ في السُّوقِ كَانَ الْعِلْمُ في السُّوقِ<br>  </span></div></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a3b522e4-2a27-4598-aa55-eba5e171481e",
+    "shortname": "niazi_elhadi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "عُلوم"
+  ],
+  "created_at": "2013-10-20T08:43:26Z",
+  "attributes": {
+    "old_id": 685
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "04810bf7-4af9-484f-ab06-5bae5b6c46b9",
+  "shortname": "فجر_السلام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فَجرُ السّلام"},
+  "updated_at": "2010-11-23T06:47:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:374f8db9fea2c49d0c6befab7ea8da055c920e69",
+    "bytesize": 987,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أَدرِكْ بِفَجرِكَ عَالماً مَكروبا -- عَوَّدتَ فَجرَكَ أنْ يَكونَ كَذوبا<br />\r\n\tيا أيُّها السِلمُ المُطِلُّ على الوَرى -- طُوبى لِعَهدِكَ إنْ تَحقَّقَ طُوبى<br />\r\n\tما بالُ وَجهُكَ بَعدَ طُولِ غيابِهِ - يَحكي وُجوهَ العاشِقينَ شُحوبا<br />\r\n\tلَمْ يَبقَ في مَجرى الدِّماءِ بَقيةٌ -- شَكَت العروقُ مِن الدِّماءِ نُضوبا<br />\r\n\tطَحَنَت فَريقَيها الحروبُ بِضِرسها -- لا غالباً رَحَمتْ ولا مَغلوبا</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">قال الشاعر هذه الأبيات في خضم الحرب العالمية الثانية، والتي راح ضحيتها عشراتُ الملايين مِن البشر.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "4fb50af1-3ce8-4985-a924-5d6ebf660cbb",
+    "shortname": "محمود_غنيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-11-23T06:47:40Z",
+  "attributes": {
+    "old_id": 220
+  },
+  "language": "ar",
+  "history": []
+}

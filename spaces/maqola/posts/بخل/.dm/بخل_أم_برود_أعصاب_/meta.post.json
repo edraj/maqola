@@ -1,0 +1,43 @@
+{
+  "uuid": "7fe700e3-2126-4891-98c0-8b7e79f4045f",
+  "shortname": "بخل_أم_برود_أعصاب_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بخلٌ أم برودُ أعصاب؟"},
+  "updated_at": "2014-09-07T16:38:18Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:60578d566123fd6b33d7ed0d2951b93a15aa91ec",
+    "bytesize": 1018,
+    "body": "<span class=\"maqola_body\"> <br> <p>وَقَفَ أعرابيٌّ على أبي الأسود الدؤلي وهو يتغدى فَسلمّ فردّ عَليه ثُمّ أقبلَ على الأكل، ولَم يَعزِم عليه.&#160;</p><p>فقال له الأعرابيّ: أما إني قد مررتُ بأهلك. قال كذلك كان طريقك.&#160;</p><p>قال وإمرأتك حبلى. قال كذلك كان عهدي بها.&#160;</p><p>قال قد ولدت. قال كان لا بد لها أن تلد.&#160;</p><p>قال ولدت غلامين. قال كذلك كانت أمها.&#160;</p><p>قال مات أحدهما. قال ما كانت تقوى على إرضاع أثنين.&#160;</p><p>قال ثم مات الآخر. قال ما كان ليبقى بعد موت أخيه.&#160;</p><p>قال وماتت الأُم: قال حزناً على ولديها.&#160;</p><p>قال ما أطيب طعامك. قال لأجل ذلك أكلته وحدي والله لا ذقته يا أعرابيّ.</p><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بُخل",
+    "طُرفَة"
+  ],
+  "created_at": "2014-09-07T16:37:49Z",
+  "attributes": {
+    "old_id": 925
+  },
+  "language": "ar",
+  "history": []
+}

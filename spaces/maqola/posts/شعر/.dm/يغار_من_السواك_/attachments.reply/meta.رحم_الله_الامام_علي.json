@@ -1,0 +1,29 @@
+{
+  "uuid": "f08cbdb2-c7fe-4815-a8cf-f6b7608294f5",
+  "shortname": "رحم_الله_الامام_علي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رحم الله الامام علي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f87f4a493af3fbf202f5f3057dea71a45c5ea403",
+    "bytesize": 124,
+    "body": "السلام عليكم  والله لقد تاثرنا كثيرا بمقولة الامام علي رضي الله عنه  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-16T06:45:44Z",
+  "attributes": {
+    "old_id": 484,
+    "old_entry_id": 246
+  },
+  "language": "ar"
+}

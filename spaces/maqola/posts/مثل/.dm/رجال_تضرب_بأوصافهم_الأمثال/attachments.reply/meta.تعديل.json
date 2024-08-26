@@ -1,0 +1,29 @@
+{
+  "uuid": "21af3a9d-f611-426d-91aa-445e1475084a",
+  "shortname": "تعديل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تعديل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b0d8237531f653ddcf4cd22a19419f8028986c68",
+    "bytesize": 222,
+    "body": "جزآكم آلله خير موقه رآآئع..  ولكن هنآك خطآ بسيطفي كلمة السمؤال...  والصحيح آلسموأل...  لآن آلهمزة مفتوحة سآكن ماقبلها..  شكرآلك"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T06:32:27Z",
+  "attributes": {
+    "old_id": 52,
+    "old_entry_id": 162
+  },
+  "language": "ar"
+}

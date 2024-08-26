@@ -1,0 +1,41 @@
+{
+  "uuid": "76efdf0a-39b0-44f9-ab92-abb105425038",
+  "shortname": "اعلم_أن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اعلم أن"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c05d127c7e7e4ed079dd8e4e289ec767a0534fb6",
+    "bytesize": 149,
+    "body": "<span class=\"kufi\">كل ما تدري </span><span class=\"kufi\">بأنك ستعلمه البتةفلا تعجل بالسؤال عنه بغتة</span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "99358994-6426-4bce-9250-f5bf48d5d98d",
+    "shortname": "بكار_المصري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-12-21T00:41:37Z",
+  "attributes": {
+    "old_id": 1567
+  },
+  "language": "ar",
+  "history": []
+}

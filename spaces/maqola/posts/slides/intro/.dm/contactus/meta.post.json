@@ -1,0 +1,41 @@
+{
+  "uuid": "ec6e13a3-2b69-489b-bb2b-6ec8dc09db0e",
+  "shortname": "contactus",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الاتصال بنا"},
+  "description":{"ar":""},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:be0b3ebfeced9fa4e23a9e0a3800d67bcf5b640d",
+    "bytesize": 645,
+    "body": "<br><ul><li>إذا كُنت مهتما باستخدام هذه المنصة لتلبية متطلباتك. </li><li>إذا كُنت مهتما بمساعدتنا في تطويرها</li><li>إذا كُنت مهتما بالعمل معنا للوصول إلى الزبائن المحتملين والمساعدة في تقدم الدعم الفني. <br><br></li></ul><blockquote><div align=\"center\"><hr></div><div align=\"center\"><h2><font color=\"#632423\">https://imx.sh</font></h2><div><h2><font color=\"#632423\">kefah@iyi.cz</font></h2></div></div><div align=\"center\"><h2><font color=\"#632423\">kefah.issa@gmail.com</font></h2></div></blockquote>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "post",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-09-06T19:59:29+03:00",
+  "attributes": {
+    "ordinal": 7
+  },
+  "language": "en",
+  "history": [],
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

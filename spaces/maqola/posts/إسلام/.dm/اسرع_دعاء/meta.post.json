@@ -1,0 +1,43 @@
+{
+  "uuid": "6d9f3bb9-61e3-4db7-a3cf-b0c9c856b5a0",
+  "shortname": "اسرع_دعاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اسرع دعاء"},
+  "updated_at": "2014-02-07T14:45:31Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:aad6f33c7b14afd04d1c75851d8ce7043aa6de43",
+    "bytesize": 183,
+    "body": "أسرعُ&#160; الدعاء إجابةٍ ، دعاءُ غائبٍ لغائب .<br> <br> ابن تيمية ـ مجموع الفتاوى .<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة"
+  ],
+  "created_at": "2014-02-07T14:42:19Z",
+  "attributes": {
+    "old_id": 814
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "9f6d84a8-579e-4c1e-84f2-e09b29db7ad5",
+  "shortname": "العقل_والخيال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العقل والخيال"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f9eaf812e5bf11805ac61292aae5af42db613754",
+    "bytesize": 139,
+    "body": "<p>العقل والخيال جناحان أسافر بهما </p><p>الى كل مكان بدون جواز ولا تأشيرة سفر </p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4b8bd7a3-6b0c-4c92-814e-1ae857f13dcb",
+    "shortname": "sohaib_alhalaybeh",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-04-19T09:47:32Z",
+  "attributes": {
+    "old_id": 1191
+  },
+  "language": "ar",
+  "history": []
+}

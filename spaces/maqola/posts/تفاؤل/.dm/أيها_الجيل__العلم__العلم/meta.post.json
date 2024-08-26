@@ -1,0 +1,44 @@
+{
+  "uuid": "0ba23045-de66-4f73-9ac1-b453055bfb9f",
+  "shortname": "أيها_الجيل__العلم__العلم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أَيُّهَا الجِيْلُ: العِلْمَ، العِلْمَ."},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:64d1d00b9f2bc651885da2ce4cee1cab8c58e614",
+    "bytesize": 1520,
+    "body": "<p style=\"text-align: center;\">\r\n\tالعِلْمُ نُوْرٌ وَالجَهَالَةُ حَلَك *** وَمَنْ يَسِرْ فِي ظُلْمَةِ الجَهْلِ هَلَك\r\n</p>\r\n<p>\r\n\tلِيَسْتَحْضِرْ كُلٌّ مِنْكُمْ قَرِيْبَهُ كَأَنَّهُ يُنَاجِيْهِ بِمِثْلِ مَا كَتَبَ بَدِيْعُ الزَّمَانِ لِابْنِ أُخْتِهِ يَحُثُّهُ عَلى العِلْمِ وَيُهَدِّدُهُ إِنْ رَغِبَ عَنْهُ؛ يَقُوْلُ:\r\n</p>\r\n<p>\r\n\tأَنْتَ وَلَدِيْ مَا دُمْتَ وَالعِلْمُ شَانُكَ، وَالمَدْرَسَةُ مَكَانُكَ، وَالقَلَمُ أَلِيْفُكَ، وَالدَّفْتَرُ حَلِيْفُكَ، فِإِنْ قَصَّرْتَ وَمَا إِخَالُكْ، فَغَيْرِي خَالُكْ.\r\n</p>\r\n<p>\r\n\tالعِلْمُ رُوْحٌ، وَالرُّوْحُ إِنْ فُقِدَتْ مَا تَنْفَعُ الصُّوَرُ، مَوْقُوْفَةٌ عَوْدَةُ العِزِّ القَدِيْمِ عَلى أَنْ يَعْمَلَ المَرْءُ عَلَى الآثَارِ وَالصُّوَرِ.\r\n</p>\r\n<p>\r\n\t_________________________\r\n</p>\r\n<p>\r\n\t<small class=\"small\" data-redactor-tag=\"small\">\r\n\t<span style=\"color: rgb(٦٣, ٦٣, ٦٣);\">مُقْتَبَسٌ مِنْ مُحَاضَرَةِ اليَلَنْجُوْج لِلشَيْخِ عَليٍّ القَرْنِيِّ</span>\r\n\t</small>\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "شِعر",
+    "عُلوم",
+    "قاعدة أصولية"
+  ],
+  "created_at": "2015-07-10T17:05:12Z",
+  "attributes": {
+    "old_id": 1382
+  },
+  "language": "ar",
+  "history": []
+}

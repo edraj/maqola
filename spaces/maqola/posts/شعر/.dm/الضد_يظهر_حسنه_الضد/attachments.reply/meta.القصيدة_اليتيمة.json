@@ -1,0 +1,29 @@
+{
+  "uuid": "853d66ae-be1d-43b4-80b3-99348b5664e5",
+  "shortname": "القصيدة_اليتيمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القصيدة اليتيمة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3ff4d85e38c3c8cf53726d24a617c78cf71f0f13",
+    "bytesize": 33,
+    "body": "الشاعر على بن جبلة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c74df491-8921-45bd-a151-b6debdaf8905",
+    "shortname": "sayed_hegazy",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-11-19T18:22:08Z",
+  "attributes": {
+    "old_id": 807,
+    "old_entry_id": 191
+  },
+  "language": "ar"
+}

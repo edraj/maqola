@@ -1,0 +1,42 @@
+{
+  "uuid": "19d07f7d-62fd-4957-97f8-9e1cac14d870",
+  "shortname": "تجارب_حكيم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تجارب حَكيم"},
+  "updated_at": "2010-11-11T07:02:26Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fbc0192d520c90f6ee0273f5984edd84bdb1b77c",
+    "bytesize": 1164,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">عادَيتُ الرِّجالَ، فَلَمْ أرَ عدواً أعدى لي مِن نَفسي، وعالَجتُ الشُّجعان والسِّباع، فَلَمْ يَغلِبني إلا الصاحِبُ السوء.‏ ‏ وأكلتُ الطيّبَ وتَمتّعتُ باللذاتِ، فلمْ أرَ ألذَّ مِن العافية، وأكلت الصَبرَ وشَرِبتُ المُرَّ، فما رأيتُ أشَدَّ مِن الفَقرِ.‏ ‏ وصارَعتُ الأقرانَ، وبارزتُ الشجعان، فلم أرَ أغلب مِن المرأة السليطة، ورُميتُ بالسهامِ، ورُجمتُ بالحجارةِ، فلم أرَ أصعبَ مِن الكلامِ السوء، يَخرُج مِن فَمِ مُطالبٍ بِحق.‏ ‏ وتصدَّقتُ بالأموال والذخائر، فَلم أرَ صدقةً أنفَعُ مِن رَدِّ ذي ضالةٍ إلى الهُدى، وسُرِرتُ بِقُربِ الملوكِ وصِلاتِهم، فَلم أرَ أحسَنَ مِن البُعدِ عَنهم. ‏</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-10-17T17:31:14Z",
+  "attributes": {
+    "old_id": 45
+  },
+  "language": "ar",
+  "history": []
+}

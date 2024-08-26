@@ -1,0 +1,29 @@
+{
+  "uuid": "a2ab7943-e8d6-415f-abce-cd6fda513c65",
+  "shortname": "بيتان_اضافييان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بيتان اضافييان"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f10d6b1ae10d590583c59c8b1d344adf419e40c6",
+    "bytesize": 419,
+    "body": "مشي الطاووس يوما باختيال فقلد شكل مشيته بنوه   فقال : علام تختالون ؟ قالوا: بدأت به ونحن مقلدوه    أما تدري أبانا كل فرخ يحاكي في الخطي من أدبوه   فقوم خطوك المعوج واعدل فإنا إن عدلت معدلوه    وينشأ ناشيء الفتيان منا علي ما كان عوده أبوه "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "dcba9bf4-fefd-4ddb-ab37-ef862cebabab",
+    "shortname": "امين_صرصور",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-06-19T20:47:48Z",
+  "attributes": {
+    "old_id": 774,
+    "old_entry_id": 414
+  },
+  "language": "ar"
+}

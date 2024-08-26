@@ -1,0 +1,41 @@
+{
+  "uuid": "56f6a68e-72ad-48ec-9d57-c9c4bb0e7eab",
+  "shortname": "في_المنفى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في المنفى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f55b1291c0b7cf313d8b67d05d2ae14cdd0b52c7",
+    "bytesize": 4015,
+    "body": "<table bgcolor=\"#efeeee\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tbody><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">الآن، في المنفى ... نعم في البيتِ، </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">في الستّينَ من عُمْرٍ سريعٍ </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">يُوقدون الشَّمعَ لك </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">فافرح، بأقصى ما استطعتَ من الهدوء، </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">لأنَّ موتاً طائشاً ضلَّ الطريق إليك </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">من فرط الزحام.... وأجّلك </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">قمرٌ فضوليٌّ على الأطلال, </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">يضحك كالغبي </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">فلا تصدِّق أنه يدنو لكي يستقبلك </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">هُوَ في وظيفته القديمة، مثل آذارَ </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">الجديدِ ... أعادَ للأشجار أسماءَ الحنينِ </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">وأهمَلكْ </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">فلتحتفلْ مع أصدقائكَ بانكسار الكأس. </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">في الستين لن تجِدَ الغَدَ الباقي </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">لتحملَهُ على كتِفِ النشيد ... ويحملكْ </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">قُلْ للحياةِ، كما يليقُ بشاعرٍ متمرِّس: </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">سيري ببطء كالإناث الواثقات بسحرهنَّ </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">وكيدهنَّ. لكلِّ واحدةْ نداءُ ما خفيٌّ: </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">هَيْتَ لَكْ / ما أجملَكْ! </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">سيري ببطءٍ، يا حياةُ ، لكي أراك </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">بِكامل النُقصان حولي. كم نسيتُكِ في </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">خضمِّكِ باحثاً عنِّي وعنكِ. وكُلَّما أدركتُ </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">سرَاً منك قُلتِ بقسوةٍ: ما أّجهلَكْ! </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">قُلْ للغياب: نَقَصتني </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">وأنا حضرتُ ... لأُكملَكْ!</p></td></tr></tbody></table>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-02-05T15:56:07Z",
+  "attributes": {
+    "old_id": 992
+  },
+  "language": "ar",
+  "history": []
+}

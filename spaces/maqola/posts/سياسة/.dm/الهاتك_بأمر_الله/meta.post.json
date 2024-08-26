@@ -1,0 +1,43 @@
+{
+  "uuid": "14e61fea-d3ad-427c-92af-462b3c6bba80",
+  "shortname": "الهاتك_بأمر_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الهاتِكُ بِأَمرِ الله."},
+  "updated_at": "2011-07-31T21:32:12Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:761adeaf53920e3cac008bce3796df76f4381f78",
+    "bytesize": 1804,
+    "body": "<div>\r\n\t<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"349\" src=\"http://www.youtube.com/embed/kvm1gERGtLo\" width=\"425\"></iframe></div>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">يا مَن لِعِرضي هَتَك - فَقَدت شَرعِيَّتَك<br />\r\n\tمِن رُبعِ قَرنٍ كئيبٍ - لَعَنُتها طَلعَتَك<br />\r\n\tأموالُنا لَك حِلٌّ - فاملأ بِها جُعبِتك<br />\r\n\tخَلفَ الحراسةِ دَوما - مُستَعرِضاً قُوَّتك<br />\r\n\tتُبدي مَظاهِرَ عِزٍّ - تُخفي بِها ذِلَّتك<br />\r\n\tسِلاحُ جَيشِكَ دِرعٌ - تَحمي به عُصبَتك<br />\r\n\tمعَ العدو كليلٌ - لكن بشعبي فَتك<br />\r\n\tسوادُ قَلبِكَ بادٍ - فاصبُغ بِه شَيبَتك<br />\r\n\tيأتيكَ دَعمُ عَدوي - فاصلُب بِه قامَتك<br />\r\n\tسَجَدتَ للغَرب دَوماً - مُستَبدلا قِبلَتك<br />\r\n\tبأدمُعي و دِمائي - كَتبتَها قِصَّتك<br />\r\n\tخذلتَ كُلّ شَريفٍ - حتى غَدت لَذَّتك<br />\r\n\tو كل أبناء شعبي - قد شاهدت قسوتك<br />\r\n\tو كَم مَنحتَ لُصوصا - يا قاسيا رحمَتك<br />\r\n\tتُعطي لِنَسلِكَ أرضي - مُمارِسا سلطتَك<br />\r\n\tكأن أرضَ جدودي - قد أصبحت ضَيعَتك<br />\r\n\tلا شكَّ مَوتُك يأتي - مُستأصِلاً شأفَتَك<br />\r\n\tبومُ الحسابِ قَريبٌ - تَرى به خيبَتك<br />\r\n\tبومُ المِنصَّةِ حَقٌ - فَخُذ به عِبرَتك<br />\r\n\tهذي الجموع يقينا - ما جَددت بَيعَتك<br />\r\n\t<br />\r\n\t<br />\r\n\tالشاعر، عبد الرحمن يوسف</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2011-07-31T21:32:12Z",
+  "attributes": {
+    "old_id": 505
+  },
+  "language": "ar",
+  "history": []
+}

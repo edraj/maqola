@@ -1,0 +1,29 @@
+{
+  "uuid": "6c2bbe41-e1b2-4297-bf69-8629f282c18a",
+  "shortname": "المبير",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المبير"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7ea54d2f1fd916875aa0a0c01355e321a4c89551",
+    "bytesize": 619,
+    "body": "ان ما قالته عنه اسماء رضوان الله عليها فهي اكبر عقوبة في التاريخ لهذا المعتوه السفاح. وليس علينا ان نذكر هذا الخسيس قاتل عبداللة وراجم الكعبة. لماذا ياعربان تمجدوا القتلة . لا وحق الكعبة التي رجمها لو جمع هذا الارعن كل مزايا الامة لن يشفع له . ام النطاقين هي ام النطاقين وابن الزبير تعرفه الارض والسماء. وما ارسله للخليفه هي رسالة منافق لمنافق."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-08-05T13:38:57Z",
+  "attributes": {
+    "old_id": 510,
+    "old_entry_id": 375
+  },
+  "language": "ar"
+}

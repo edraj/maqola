@@ -1,0 +1,33 @@
+{
+  "uuid": "1c506b36-8e91-47c6-be91-fd57dfc3d5d7",
+  "shortname": "1c506b36",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-12-18T12:36:19Z",
+  "author_locator": { "type": "content",
+    "uuid": "363bcd99-61c3-449c-ba2b-fd7d0d21b015",
+    "shortname": "hamzah_m._rababa_h",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-12-18T12:36:19Z",
+  "attributes": {
+    "old_id": 648,
+    "old_entry_id": 1556
+  },
+  "language": "en",
+  "location": {
+    "uuid": "1c506b36-8e91-47c6-be91-fd57dfc3d5d7",
+    "shortname": "1c506b36",
+    "subpath": "posts/شوارد",
+    "space_name": "maqola",
+    "parent_shortname": "ويليام_هبين",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

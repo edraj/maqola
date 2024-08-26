@@ -1,0 +1,29 @@
+{
+  "uuid": "f0156a79-0ca2-449e-8f49-d2c258002c13",
+  "shortname": "الله_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الله الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:100bf4ebab5ebfc0b279f4745f891f7886eced1c",
+    "bytesize": 53,
+    "body": "الله الله عليك يا تميم.. أبدعت"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-25T09:56:27Z",
+  "attributes": {
+    "old_id": 351,
+    "old_entry_id": 341
+  },
+  "language": "ar"
+}

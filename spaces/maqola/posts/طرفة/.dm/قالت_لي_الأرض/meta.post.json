@@ -1,0 +1,42 @@
+{
+  "uuid": "74e8ce50-9992-4883-85a7-8919e47febbc",
+  "shortname": "قالت_لي_الأرض",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قالت ليَ الأرضُ"},
+  "updated_at": "2010-11-14T09:48:56Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c946bc21f40313489708caa482321b3d12a9698d",
+    "bytesize": 2388,
+    "body": "<p dir=\"rtl\">\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">وَقَالَتْ لِيَ الأَرْضُ - لَمَّا&#160; سَأَلْتُ :&#160;&#160;&quot; أَيَا أُمُّ&#160; هَلْ تَكْرَهِينَ&#160; البَشَر؟&quot;</span></span></p>\r\n<p dir=\"rtl\">\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">&quot;أُبَارِكُ&#160; في&#160; النَّاسِ&#160; أَهْلَ&#160; الطُّمُوحِ&#160;&#160;وَمَنْ&#160; يَسْتَلِـذُّ رُكُوبَ&#160; الخَطَـر</span></span></p>\r\n<p dir=\"rtl\">\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">وأَلْعَنُ&#160; مَنْ&#160; لا&#160; يُمَاشِي&#160; الزَّمَـانَ&#160;&#160;&#160;&#160;وَيَقْنَعُ&#160; بِالعَيْـشِ&#160; عَيْشَ&#160; الحَجَر</span></span></p>\r\n<p dir=\"rtl\">\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">هُوَ الكَوْنُ&#160; حَيٌّ ، يُحِـبُّ&#160; الحَيَاةَ&#160;&#160;&#160;&#160;&#160;&#160;&#160; وَيَحْتَقِرُ&#160; الْمَيْتَ&#160; مَهْمَا&#160; كَـبُر</span></span></p>\r\n<p dir=\"rtl\">\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">فَلا&#160; الأُفْقُ&#160; يَحْضُنُ&#160; مَيْتَ&#160; الطُّيُورِ&#160;&#160;&#160;&#160;&#160;&#160;&#160; وَلا النَّحْلُ يَلْثِمُ مَيْتَ الزَّهَــر</span></span></p>\r\n<p dir=\"rtl\">\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">وَلَـوْلا&#160;&#160; أُمُومَةُ&#160;&#160;&#160; قَلْبِي&#160;&#160; الرَّؤُوم&#160;&#160;&#160;&#160;&#160; لَمَا ضَمَّتِ&#160; المَيْتَ تِلْكَ&#160; الحُفَـر</span></span></p>\r\n<p dir=\"rtl\">\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">فَوَيْلٌ لِمَنْ&#160; لَمْ&#160; تَشُقْـهُ&#160;&#160; الحَيَـاةُ&#160;&#160;&#160;&#160;&#160;&#160;مِنْ&#160;&#160; لَعْنَةِ&#160;&#160; العَـدَمِ&#160;&#160; المُنْتَصِـر!&quot;</span></span></p>\r\n<p dir=\"rtl\">\r\n\t&#160;</p>\r\n<p dir=\"rtl\">\r\n\t<span style=\"font-size: 1em;\"><span class=\"maqola_font_normal\">من قصيدة إرادة الحياة</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "7e4d7ce5-050f-4908-99ad-e38fd6f9f1ea",
+    "shortname": "أبو_القاسم_الشابي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e70cb39c-739b-4d5a-8d89-b40ad20f0b00",
+    "shortname": "عبدالكريم_جعافرة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-14T09:48:56Z",
+  "attributes": {
+    "old_id": 182
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "fbcf2c0b-2706-4662-a616-a60066b64894",
+  "shortname": "fbcf2c0b",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2014-02-13T14:54:41Z",
+  "author_locator": { "type": "content",
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2014-02-13T14:54:41Z",
+  "attributes": {
+    "old_id": 193,
+    "old_entry_id": 842
+  },
+  "language": "en",
+  "location": {
+    "uuid": "fbcf2c0b-2706-4662-a616-a60066b64894",
+    "shortname": "fbcf2c0b",
+    "subpath": "posts/تفاؤل",
+    "space_name": "maqola",
+    "parent_shortname": "اسألوا_القاضي",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

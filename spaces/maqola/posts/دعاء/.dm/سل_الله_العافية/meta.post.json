@@ -1,0 +1,41 @@
+{
+  "uuid": "5a35562f-f64b-4abe-b2ab-e0d0f366b925",
+  "shortname": "سل_الله_العافية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سل الله العافية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0fad7bbb4238e1838f0f7a390a09299f369d260c",
+    "bytesize": 238,
+    "body": "<p><br> مما تحصل به العافية من البلاء قول: بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم 3 مرات صباحا ومساء</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f2cf48da-162a-42e4-afc3-409b34a5d366",
+    "shortname": "أم_شعيب_شعبة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "دُعَاء"
+  ],
+  "created_at": "2015-10-15T08:22:21Z",
+  "attributes": {
+    "old_id": 1523
+  },
+  "language": "ar",
+  "history": []
+}

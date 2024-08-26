@@ -1,0 +1,43 @@
+{
+  "uuid": "b6defbc8-65f7-4cd4-a530-eac95f8f0482",
+  "shortname": "كم_عندك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كَم عِندَك؟"},
+  "updated_at": "2010-11-02T07:09:55Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8a02ba940b508c5514a1343cf0799c1636e3359e",
+    "bytesize": 702,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">قال رجلٌ لإبراهيمَ بنُ أدهم الزّاهد:‏ ‏ يا أبا إسحاق، أُحِبُّ أنْ تَقبَلَ مِنِّي هذهِ الجُبَّةُ كُسْوَةً.‏ ‏ قال إبراهيم:‏ ‏ إنْ كُنتَ غَنيّاً قبِلتُها مِنك، وإن كُنتَ فقيراً لَم أقبَلْها.‏ ‏ قال: فإنّي غَنيّ.‏ ‏ قال: كَم عِندَك؟‏ ‏ قال: ألفان.‏ ‏ قال: فيَسُرُّكَ أنْ تكونَ أربعة آلاف؟‏ ‏ قال: نعم.‏ ‏ قال: أنتَ إذا فقير، لا أقبلُها. </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-17T19:03:28Z",
+  "attributes": {
+    "old_id": 70
+  },
+  "language": "ar",
+  "history": []
+}

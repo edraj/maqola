@@ -1,0 +1,43 @@
+{
+  "uuid": "4d24ef18-a200-48de-8ed0-e5eca039d9ad",
+  "shortname": "يشكو_داره",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يَشكو دارَه"},
+  "updated_at": "2010-11-29T09:27:56Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d4a9a55fab41365efcece193d5dbca1d978afe9d",
+    "bytesize": 734,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">و دارٍ خَرابٍ بِها قَد نَزَلتُ -- وَ لَكن نَزَلَتْ إلى السابِعَة<br />\r\n\tفَلا فَرقَ ما بَين أني أكو </span><span style=\"font-size: 1.5em;\">&#160; --&#160; </span><span style=\"font-size: 1.5em;\">نَ بِها أو أكونَ في القَارِعَة<br />\r\n\tتُساوِرُها هَفواتُ النَّسيمِ -- فَتُصغي بلا أُذنٍ سامِعَة<br />\r\n\tو أخشَى بِها أنْ أُقيمَ الصَّلاةَ -- فَتَسجُدُ حيطانُها الرّاكِعة<br />\r\n\tإذا ما قَرأتُ &quot;إذا زُلزِلَت&quot; -- خَشيتُ بأنْ تَقرأ الواقعه</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-29T07:23:21Z",
+  "attributes": {
+    "old_id": 257
+  },
+  "language": "ar",
+  "history": []
+}

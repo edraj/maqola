@@ -1,0 +1,44 @@
+{
+  "uuid": "2ebd13ba-0050-411d-b9be-957bd72519f2",
+  "shortname": "الفأرة_والجمل_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الفأرة والجمل!!!!"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:48451cade394ea67c833db18805be5d86cdd0be0",
+    "bytesize": 471,
+    "body": "<p>يحكى أن فأرة رأت جملا؛ فأعجبها فجرت خطامه فتبعها؛ فلما وصلت إلى باب بيتها وقف الجمل متأملاً  صغر البيت؛ فقال لها:إما أن تتخذي دارا تليق بمحبوبك أو تتخذي محبوباً يليق بدارك. قال ابن القيم :وأنت إما أن تصلي صلاة تليق بمعبودك سبحانه أو تتخذ معبودا يليق بصلاتك. </p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6ad06172-0310-4867-a7aa-30b8f2cd7ceb",
+    "shortname": "ابن_القيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "2417c237-6152-4c30-91e0-2823361d0339",
+    "shortname": "يعقوب_قناديل",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2015-10-03T20:29:08Z",
+  "attributes": {
+    "old_id": 1520
+  },
+  "language": "ar",
+  "history": []
+}

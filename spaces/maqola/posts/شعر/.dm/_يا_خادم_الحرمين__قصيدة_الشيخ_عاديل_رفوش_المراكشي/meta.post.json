@@ -1,0 +1,42 @@
+{
+  "uuid": "45e9c55f-5dfe-4d86-88e7-5aee87ffc9f2",
+  "shortname": "_يا_خادم_الحرمين__قصيدة_الشيخ_عاديل_رفوش_المراكشي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"{يا خادم الحرمين} قصيدة الشيخ عاديل رفوش المراكشي"},
+  "updated_at": "2013-09-16T21:37:42Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2e1054521b12224b76a056d13248d27606e0f098",
+    "bytesize": 3468,
+    "body": "<span class=\"maqola_body\"> <br></span><p><span class=\"maqola_body\"><br></span></p><p><span class=\"maqola_body\">ياخادمَ الحرمينِ يا أرْضَ الحِــمى . . . . . . . يا سَيِّداً تسْعى له الأسْــــيادُ</span></p><p><span class=\"maqola_body\">كن ملجأً للأمن مثلَ البيت،لا . . . . . . . تدْخُلْ عراكاً كُلَّــــهُ أضداد<br>فكَلامُكم و كِلامُكم يُذكي الوَغَّى . . . . . . . وتحَارُ فيه النَّفسُ و الأجْنَادُ</span></p><p><span class=\"maqola_body\">فجميعُنا يهْواكِ مِصْـــرُ ويرتجي . . . . . . . . . صُلْحَ البِلادِ وينهي الإِفساد</span></p><p><span class=\"maqola_body\">لكن بأيِّ وَسيلةٍ نُطف اللظـى . . . . . . . . هل يُستباح الظلمُ و الأَحْقادُ</span></p><p><span class=\"maqola_body\">وسياسةُ الدنيا مُلغَّمةُ الخُـــطَى . . . . . . . . . . لكنَّ ربَّــك فوقها مِرصَادُ</span></p><p><span class=\"maqola_body\">كيفَ اسْتَسَغْتَ تَحْيِّزاً لذوي الردى . . . . . و الشعبُ يبكي : إنَّ مِصْـرَ تُبَادُ</span></p><p><span class=\"maqola_body\">أفَلا تَرُدَ الغاصبيـــن مُنصِــحاً . . . . . . .وتَسُدَّ نَقْــصاً في القريـبِ يُرادُ<br>مهما يكن ، فكما دعمْتَ عسكراً . . . . . . . هلاَّ دعمت مسالمـــاً يَنْقَادُ<br>وَلَئِنْ مُدِحْتَ \" بِسُوريَا \" مُتفَانِياً . . . . . . . . فَبِمِصْـــرَ خَانَكَ فِيهِ الإسْتِبْدَادُ<br>أرضيـت بالإِرهابِ سفكاُ للدمـا . . . . . . . .وبذلتَ مالَ اللهِ حَيْثُ فســـادُ</span></p><p><span class=\"maqola_body\">لولا احترامُ الشرعِ لم تكُ حاكماً . . . . . . . .وبِشَرْعِ رَبِــكَ قد رعـاكَ عبادُ<br>أفشرعُ رَبِكَ فيهِ نُصْــرَةُ ظَــالِمٍ . . . . . . . كيف الخوارجُ لو حِمَاكَ أرادوا ؟<br>ما كنت إخواناً !! ولكن مسلماُ . . . . . . . العَدْلُ وَ الإِحْسَــــانُ فيه سَدَادُ</span></p><p><span class=\"maqola_body\">ياخادمَ الحرمين !! أنْتَ مُبَجَلُ . . . . . . . . بالعَدْلِ، فاحذرْ !! مَنْ يَكِيدُ يُكَادُ<br>هذي الوقائع كَشَفَتْ إِفْلاَسَكُمْ . . . . . . . . وبِاَنَّكُـــمْ صُـوَرٌ تُرَى وتُشَـادُ<br>قد أُهْلِكَ الفرعونُ في أوتاده . . . . . . . . . . . . . وعَتَـــادُ عَادٍ مَــا حَمَتْهُ عِمادُ</span></p><p><span class=\"maqola_body\"><br></span></p><p><font class=\"Apple-style-span\" face=\"UthmanTN1, 'Traditional Arabic', serif\"><span class=\"Apple-style-span\" style=\"font-size: 21px;\"><br></span></font></p><p><font class=\"Apple-style-span\" face=\"UthmanTN1, 'Traditional Arabic', serif\"><span class=\"Apple-style-span\" style=\"font-size: 21px;\"><br></span></font></p><p><font class=\"Apple-style-span\" face=\"UthmanTN1, 'Traditional Arabic', serif\"><span class=\"Apple-style-span\" style=\"text-align: center;font-size: 21px; \"><br></span></font></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "3ad3da84-7ac3-440b-a7ad-5d11cb2db3b6",
+    "shortname": "متفائل_بالخير",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2013-09-14T12:48:15Z",
+  "attributes": {
+    "old_id": 668
+  },
+  "language": "ar",
+  "history": []
+}

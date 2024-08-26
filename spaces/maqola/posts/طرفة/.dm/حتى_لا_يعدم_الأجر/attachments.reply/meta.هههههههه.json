@@ -1,0 +1,29 @@
+{
+  "uuid": "4d642014-e156-4f36-bb80-86eec6e95022",
+  "shortname": "هههههههه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هههههههه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9e8f3c8061f624ca26d20849cbdfdba71223bcd0",
+    "bytesize": 15,
+    "body": "ههه مضحك"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-02-22T19:21:58Z",
+  "attributes": {
+    "old_id": 414,
+    "old_entry_id": 260
+  },
+  "language": "ar"
+}

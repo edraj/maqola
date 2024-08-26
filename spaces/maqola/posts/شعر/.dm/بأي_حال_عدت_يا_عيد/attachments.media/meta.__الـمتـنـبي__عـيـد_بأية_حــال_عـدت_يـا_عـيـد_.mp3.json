@@ -1,0 +1,18 @@
+{
+  "uuid": "7b602017-d8cf-40a9-b73b-ea1f526e9833",
+  "shortname": "__الـمتـنـبي__عـيـد_بأية_حــال_عـدت_يـا_عـيـد_.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:d5f23d58785714288ab60104835cf3eb8ded0381",
+    "bytesize": 7532074,
+    "body": "__الـمتـنـبي__عـيـد_بأية_حــال_عـدت_يـا_عـيـد_.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:05+03:00",
+  "attributes": {
+    "old_id": 28
+  },
+  "language": "en"
+}

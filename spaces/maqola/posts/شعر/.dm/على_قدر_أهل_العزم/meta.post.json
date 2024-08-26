@@ -1,0 +1,43 @@
+{
+  "uuid": "73542750-31d1-43a3-90bc-e66c3e2c90ef",
+  "shortname": "على_قدر_أهل_العزم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"على قَدرِ أهلِ العَزمِ"},
+  "updated_at": "2010-11-21T09:46:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2396b4fde93ee092aaf2637cd22e067cd42c0936",
+    "bytesize": 354,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">عَلى قَدرِ أهلِ العَزمِ تَأتي العَزائِمُ -- وَتأتي علَى قَدرِ الكِرامِ المَكارمُ<br />\r\n\tوَتَعظُمُ في عَينِ الصَّغيرِ صِغارُها -- وَتَصغُرُ في عَينِ العَظيمِ العَظائِمُ </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2010-11-21T09:46:19Z",
+  "attributes": {
+    "old_id": 207
+  },
+  "language": "ar",
+  "history": []
+}

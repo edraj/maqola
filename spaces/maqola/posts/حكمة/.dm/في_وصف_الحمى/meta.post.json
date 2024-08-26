@@ -1,0 +1,45 @@
+{
+  "uuid": "e2d74f9e-14aa-46c5-a7e1-d2519f58225f",
+  "shortname": "في_وصف_الحمى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في وَصفِ الحُمّى"},
+  "updated_at": "2010-11-21T08:40:49Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:25bd48420058445d2622c360a0957f2f12bac379",
+    "bytesize": 792,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_bold\">وزائِرَتي كأنَّ بِها حَياءٌ - فَليسَ تَزورُ إلاّ في الظَلامِ<br />\r\n\tبَذلتُ لها المَطارِفَ والحشايا - فعافَتها وباتَت في عِظامي<br />\r\n\tيَضيقُ الجلدُ عن نفسي وعنها - فتوسِعُهُ بأنواعِ السقامِ<br />\r\n\tكأنَّ الصُبحَ يَطرُدُها فَتجري - مَدامِعُها بأَربعةٍ سِجامِ<br />\r\n\tأراقبُ وقتَها مِن غَيرِ شَوقٍ - مُراقَبَةَ المَشوقِ المُستهامِ<br />\r\n\tويَصدقُ وَعدُها والصدقُ شَرٌ - إذا ألقاكَ في الكُرَبِ العِظامِ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a502e334-26a8-44a8-b252-7f6075300e5e",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شَجاعَة",
+    "شِعر",
+    "مَثَل"
+  ],
+  "created_at": "2010-10-09T03:19:52Z",
+  "attributes": {
+    "old_id": 1
+  },
+  "language": "ar",
+  "history": []
+}

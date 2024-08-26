@@ -1,0 +1,47 @@
+{
+  "uuid": "267bafa9-234a-4b65-93c7-efc03c812782",
+  "shortname": "مما_زادني_شرفا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مما زادني شرفًا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:09a85f422714c4ab241271988f517af197ac2c9f",
+    "bytesize": 196,
+    "body": "<p>ومما زادني شرفًا و تيهًا == وكدت بأخمصي أطأ الثريـا<br> دخولي تحت قولك : يا عبادي == و أن صيَّرت أحمد لي نبيـا</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "عربية",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-07-24T21:21:15Z",
+  "attributes": {
+    "old_id": 1433
+  },
+  "language": "ar",
+  "history": []
+}

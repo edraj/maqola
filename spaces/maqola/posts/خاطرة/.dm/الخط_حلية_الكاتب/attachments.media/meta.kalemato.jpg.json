@@ -1,0 +1,18 @@
+{
+  "uuid": "51b4f85f-c2c4-4dea-a85d-706ab89c4dc1",
+  "shortname": "kalemato.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:d6e4b2edd6f5ed82167ac717bfbf4d09a0152610",
+    "bytesize": 78002,
+    "body": "kalemato.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:05+03:00",
+  "attributes": {
+    "old_id": 37
+  },
+  "language": "en"
+}

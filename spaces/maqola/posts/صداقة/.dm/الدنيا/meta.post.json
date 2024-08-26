@@ -1,0 +1,41 @@
+{
+  "uuid": "51fe9a1a-b8c1-4843-8850-7a97492e326f",
+  "shortname": "الدنيا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الدُّنْيَا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3567cbb07cf9e99d59445164aba066f1f64a2bb0",
+    "bytesize": 199,
+    "body": "<p>سَلَامٌ عَلَى الْدُّنْيَا إِذَا لَمْ يَكُن فِيْهَا صَدِيْقَاً صَدَوْقَاً صَادِقَ الْوَعْدِ مُنّصِفَاً.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4a396cec-f540-4f4b-98f1-08ff3f27828d",
+    "shortname": "حسين_ال_لال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "صَداقَة"
+  ],
+  "created_at": "2015-11-20T20:01:17Z",
+  "attributes": {
+    "old_id": 1543
+  },
+  "language": "ar",
+  "history": []
+}

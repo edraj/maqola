@@ -1,0 +1,46 @@
+{
+  "uuid": "8c59c403-8dab-4329-81dc-738de11e759f",
+  "shortname": "من_كتاب_فضل_الكلاب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من كتابِ فضلِ الكلابِ"},
+  "updated_at": "2014-02-04T12:41:39Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:474570836a25d415ab30887e109fb094dc4dd6aa",
+    "bytesize": 447,
+    "body": "<span class=\"maqola_body\"> <br> روي \r\nأنَ رجلا قالَ لبعضِ الحكماءِ أوصني قالَ ازهد في الدنيا ولا تنازع فيها أهلها \r\nوانصح لله تعالى كنصحِ الكلبِ لأهلهِ فإنهم يجيعونهُ ويضربونهُ ويأبى إلا أن \r\nيحوطهم نصحا.<br> - من كتابِ فضلِ الكلابِ على كثير ممن لبسَ الثياب -<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-04T12:41:19Z",
+  "attributes": {
+    "old_id": 785
+  },
+  "language": "ar",
+  "history": []
+}

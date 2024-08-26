@@ -1,0 +1,43 @@
+{
+  "uuid": "70db6236-b519-4fa7-99b0-9bb028aae0ec",
+  "shortname": "طرفة__أسلم_موضع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طُرْفَة: أَسْلَمُ مَوْضِعٍ"},
+  "updated_at": "2015-06-28T11:28:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:65d8b23ba81761d891ada436d01a4f3007975503",
+    "bytesize": 400,
+    "body": "<p>\r\n\tرَأَى حَكِيْمٌ رَجُلاً يُصَوِّبُ نَحْوَ هَدَفٍ، وَسِهَامُهُ تَذْهَبُ يَمِيْناً وَيَسَارَاً، فَقَعَدَ الحَكِيْمُ فِي نَفْسِ الهَدَفِ، فَعُوْتِبَ فِي ذَلِكَ؛ فَقَالَ: لَمْ أَجِدْ مَوْضِعَاً أَسْلَمَََ مِنْهُ !!!</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "طُرفَة"
+  ],
+  "created_at": "2015-06-28T11:27:38Z",
+  "attributes": {
+    "old_id": 1359
+  },
+  "language": "ar",
+  "history": []
+}

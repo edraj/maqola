@@ -1,0 +1,42 @@
+{
+  "uuid": "1e986d50-f810-4884-b67e-065e6114689f",
+  "shortname": "أبو_الأسود_وزوجه_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أبو الأسود وزوجه،"},
+  "updated_at": "2010-12-11T18:38:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:dc27f27b9cf3771ba23d1c04c7b07e07cd8f8f48",
+    "bytesize": 1862,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">تخاصم أبو الأسود الدؤلي وطليقَتهُ في ابنٍ لهُما أرادَ أخذهُ منها، فتحاكما إلى زياد وهو وال بالبصرة. فقالت المرأة : أصلحَ الله الأمير، هذا ابني كان بطني وعاءَهُ، وحِجري فِناءَهُ وثَديي سِقاءَهُ، أكلؤه إذا نام، وأحفظه إذا قام، فلم أزل كذلك سبعة أعوام </span></span><span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">حتى كَمِلَتْ خِصالُه، واستوكَفَت أوصالُه، فحين أمِلتُ نَفعَهُ، ورجوتُ دَفعَهُ أرادَ&#160; أبوه أنْ يأخُذهُ مِنّي كرهًا.</span></span><span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\"> فقال أبو الأسود : أصلحك الله أيها الأمير، </span></span><span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">هذا ابني حملتُهُ قبلَ أن تَحمِله، ووضَعتُهُ قبل أنْ تَضَعَهُ، وأنا أقومُ عليه في أدبِه، وأنظرُ في أَوَدِه، أمنَحهُ حِلمي، وأُلهمهُ عِلمي، حتىّ تَحكَّمَ عَقلُهُ واستحكم فَتلُهُ.</span></span><span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\"> فقالت المرأة : لقد صدق، ولكنه حَمَلَهُ خِفّاً وحَمَلتُهُ ثِقلاً و وَضَعَهُ شَهوَةً و وَضَعتُهُ كُرهاً!<br />\r\n\tفقال زياد : والله وازَنتُ بين الحُجتين وقارَنتُ الدليل بالدليل فما وجدتُ لكَ عليها مِن سبيل وقضى به لها.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2010-11-04T04:15:34Z",
+  "attributes": {
+    "old_id": 146
+  },
+  "language": "ar",
+  "history": []
+}

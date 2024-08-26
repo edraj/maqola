@@ -1,0 +1,42 @@
+{
+  "uuid": "0d6c3fe8-cde8-4b04-be16-e02cd811de26",
+  "shortname": "امراء_العرب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"امراء العرب"},
+  "updated_at": "2013-06-08T20:21:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e1642aa4ee4d6eae54687fa493b2b2494afdef85",
+    "bytesize": 1065,
+    "body": "<span class=\"maqola_body\"> رح عيدها والشعر شعري بل المفخرة واحرق أرز ملوك العرب ضمن المصخرة ابني بل المقات الغريبة ياترى شو هل الفخر&#160;&#160; لما بيلهي محاضرة عنو الجانب رح يقولو مشوكرة هيدا من الناس يالي انا مسيرة هني بفرد لغة عطوه المخترة حجزو السما وخلو الارض مستعمرة ومدو علينا الميمنة والميسرة وتقاسمونا متل لقمة مقمرة ونحنا من جنينة ورود معطرة اطهر ارض لكن خليقة معسرة البترول النا والدهب والجوهرة وفينا نخلي اي دولة مكسرة بس لمصيبة بارضنا والمصخرة اكبر ملك اكبر امير بينشرى بيقصد اوروبا على بلاد الثرثرة&#160; لو ما سمع من بنت اوروبا ما كان باع الشرق الاوسط بي غمزة مرة <br>القائل ابو عيد <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f45fe5c2-ff23-405c-ae50-b6541f0a6470",
+    "shortname": "khaled_ballan",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2013-06-08T20:21:05Z",
+  "attributes": {
+    "old_id": 621
+  },
+  "language": "ar",
+  "history": []
+}

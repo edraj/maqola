@@ -1,0 +1,42 @@
+{
+  "uuid": "cb3cc8a2-c98d-4248-a8e0-c142202b235c",
+  "shortname": "ما_أسخف_الأعذار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما أَسخَفَ الأَعذَارَ"},
+  "updated_at": "2010-11-14T07:53:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4d701c5d7a38408961ad55e1d60d9e6f9c5f35e3",
+    "bytesize": 1250,
+    "body": "<p dir=\"RTL\">\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">مَا أَسخَفَ الأَعذَارَ تَبتَدِعِينَها<span dir=\"LTR\">----- </span>لَو كَانَ يُمكِنُنِي بِهَا أَن أَقنَعَا<br />\r\n\tسَنَةٌ مَضَت .. وَأَنَا وَرَاءَ سَتَائِرِي ------ أَستَنظِرُ الصَّيفَ الَّذِي لَن يَرجِعَا<br />\r\n\tكُلُّ الَّذِي عِندِي رَسَائِلُ أَربَعٌ ----- بَقِيَت – كَمَا جَاءَت- رَسَائِلُ أَربَعا<br />\r\n\tهذا بَريدٌ .. أَم فُتَاتُ عَوَاطِفٍ ----- إنِّي خُدِعتُ. وَلَن أَعُودَ فَأُخدَعَا<br />\r\n\tلا تُتعِبِي يَدَكِ الرَّقِيقَةُ إِنَّنِي ----- أَخشَى عَلَى البِلَّورِ أَن يَتَوَجَّعَا<br />\r\n\tإنِّي أُرِيحُكِ مِن عَنَاءِ رَسَائِلٍ ------ كَانَت نِفَاقَاً كُلُّهَا .. وَتَصَنُّعَا<br />\r\n\tالحَرفُ فِي قَلبِي نَزِيفٌ دائِمٌ ------ وَالحَرفُ عِندَكِ .. مَا تَعَدَّى الإِصبَعا</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a30e8190-fe73-470c-bd37-8183125daf41",
+    "shortname": "نزار_قباني",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e70cb39c-739b-4d5a-8d89-b40ad20f0b00",
+    "shortname": "عبدالكريم_جعافرة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-11-14T07:53:07Z",
+  "attributes": {
+    "old_id": 178
+  },
+  "language": "ar",
+  "history": []
+}

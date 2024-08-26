@@ -1,0 +1,29 @@
+{
+  "uuid": "4b64f0b1-8201-4d02-9118-d1e684620ede",
+  "shortname": "شكرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكرا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:71e2df6a26ef0daeffadc0b9bbcf4fde56db5e60",
+    "bytesize": 258,
+    "body": "صدق ناظم البيتين: و لَرُبَّ نازِلَةٍ يَضيقُ بِها الفَتى - ذَرعاً و عِندَ اللهِ مِنها المَخرجُ   بارك الله فيك أخي كفاح ، وفقنا الله وإياكم آمين."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-03T18:00:16Z",
+  "attributes": {
+    "old_id": 43,
+    "old_entry_id": 81
+  },
+  "language": "ar"
+}

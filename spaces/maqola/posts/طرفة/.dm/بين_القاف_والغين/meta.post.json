@@ -1,0 +1,42 @@
+{
+  "uuid": "ad9051d9-77c3-43ff-8913-ebb21d16bc90",
+  "shortname": "بين_القاف_والغين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بين القاف والغين"},
+  "updated_at": "2010-12-29T16:10:18Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1828c934225a32ea9fc7e8296058fb3b442110ad",
+    "bytesize": 391,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">اتُّهِمَ أحدُ اللُغويين بِأَنه يَقلبِ القافَ غينا والغينَ قافا. فسأله بعضهم عَن صِحَّةِ هذا الادعاء: أصحيحٌ أنّكَ تقلب الغين قافا والقاف غينا؟<br />\r\n\tفقال لهم :استقفر الله، مَن غال لكم ذلك؟</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-29T16:10:18Z",
+  "attributes": {
+    "old_id": 432
+  },
+  "language": "ar",
+  "history": []
+}

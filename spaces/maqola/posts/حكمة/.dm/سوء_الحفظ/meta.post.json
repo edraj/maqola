@@ -1,0 +1,43 @@
+{
+  "uuid": "51f0d854-dcfe-42ff-865b-97f58297c1a4",
+  "shortname": "سوء_الحفظ",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سُوء الحِفظ"},
+  "updated_at": "2015-01-23T23:48:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:530a6f292d72e29ce25ae76812483fd662778398",
+    "bytesize": 313,
+    "body": "<p>\r\n\t<span style=\"font-size: ١.٥em;\"><span class=\"maqola_font_bold\">شَكَوتُ إلى وَكيعٍ سُوءَ حِفظي - فأرشَدَني إلى تَركِ المَعاصي<br>\r\n\tفأخبرني بأنَّ العِلمَ نورٌ - وَ نورُ اللهِ لا يُهدى لِعاصي</span></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-10-09T03:50:47Z",
+  "attributes": {
+    "old_id": 3
+  },
+  "language": "ar",
+  "history": []
+}

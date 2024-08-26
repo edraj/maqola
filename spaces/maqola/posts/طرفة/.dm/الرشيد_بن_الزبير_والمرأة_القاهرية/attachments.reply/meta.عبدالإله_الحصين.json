@@ -1,0 +1,29 @@
+{
+  "uuid": "108bdf34-757d-4155-9a01-f14ca706cdcf",
+  "shortname": "عبدالإله_الحصين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عبدالإله الحصين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:acde5f88a259872f107f62923f87a4c6391b1ddc",
+    "bytesize": 99,
+    "body": "اقرأ التاريخ إذ فيه العبر....ضل قوم لم يعرفو الخبر (شوقي)"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-03T11:19:21Z",
+  "attributes": {
+    "old_id": 35,
+    "old_entry_id": 33
+  },
+  "language": "ar"
+}

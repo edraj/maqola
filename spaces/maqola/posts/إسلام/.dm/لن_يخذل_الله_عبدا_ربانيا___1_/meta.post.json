@@ -1,0 +1,41 @@
+{
+  "uuid": "7f1db6c3-17ca-480e-bb1c-22e26b7d8bee",
+  "shortname": "لن_يخذل_الله_عبدا_ربانيا___1_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"​لَنْ يخُذل اللهٌ عبدا ربّانياً ..  (1)"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:05ae9beae53606d7e7b4e4819489db67f45527ba",
+    "bytesize": 1577,
+    "body": "<p><strong><span data-redactor-tag=\"span\" style=\"color: rgb(227, 108, 9);\">لَنْ يخُذل اللهٌ عبدا ربّانياً ..  (1)</span></strong></p><p><strong><span data-redactor-tag=\"span\" style=\"color: rgb(75, 172, 198);\">عَلِمَ وآمنَ بما ورد عن أبي هريرة - رضي الله عنه – حين قال : قال النبي - صل الله عليه وسلم -: يقول الله تعالى:  \" أنا عند ظن عبدي بي , وأنا معه إذا ذكرني , فإن ذكرني في نفسه ذكرته في نفسي, وإن ذكرني في ملأ ذكرته في ملأ خير منه، وإن تقرب إلي بشبر تقربت إليه ذراعاً, وإن تقرب إلي ذراعاً تقربت إليه بعاً, وإن أتاني يمشي أتيته هرولة\". (رواه البخاري ومسلم).</span></strong></p><p><strong><span data-redactor-tag=\"span\" style=\"color: rgb(127, 96, 0);\">هنيئا لك ياكُلَ مَنْ تُحسن فى الله الظن وتَرْكَنُ اليه لا لغيره وتُرَطّب لسانك دوما بذكره وتظل تتقرب اليه حتى يتقرّب اليك ربك بالشِبر والذراع والمشى والهرولة ويذكرك فى ملأ ملائكى أفضل من ذلك الملأ الذى ذكرته فيه .</span></strong></p><p><strong><span data-redactor-tag=\"span\" style=\"color: rgb(23, 54, 93);\"><br></span></strong></p><p><strong><span data-redactor-tag=\"span\" style=\"color: rgb(227, 108, 9);\">الكاتب : نبيل جلهوم .</span></strong></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2015-02-10T15:05:59Z",
+  "attributes": {
+    "old_id": 1008
+  },
+  "language": "ar",
+  "history": []
+}

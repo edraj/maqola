@@ -1,0 +1,18 @@
+{
+  "uuid": "9bfb210e-1945-4586-8718-b81131a8e1bc",
+  "shortname": "dirham.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:628c168c5e22e20f02d2c3b2e3a5106bb480fcee",
+    "bytesize": 25975,
+    "body": "dirham.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:06+03:00",
+  "attributes": {
+    "old_id": 43
+  },
+  "language": "en"
+}

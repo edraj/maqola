@@ -1,0 +1,23 @@
+{
+  "uuid": "4c6e1ae0-8f43-4c83-9998-dc267c13abb0",
+  "shortname": "4c6e1ae0",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "213aef4e-1280-4793-b39e-7b331325b2e5",
+    "shortname": "محمد_على",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-11-10T07:17:31Z",
+  "attributes": {
+    "old_id": 1268,
+    "old_entry_id": 222
+  },
+  "language": "en",
+  "type": "like"
+}

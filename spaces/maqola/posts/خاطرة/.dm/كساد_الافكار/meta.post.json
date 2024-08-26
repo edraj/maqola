@@ -1,0 +1,41 @@
+{
+  "uuid": "06cf5597-56c9-4bb5-9145-558ce9122e4e",
+  "shortname": "كساد_الافكار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كساد الافكار"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1fed42e61d6dbda27bbf8a01d2642c533ab1328d",
+    "bytesize": 428,
+    "body": "<p><span style=\"background-color: rgb(73, 68, 41);\"></span><span class=\"kufi\"></span>شَيًدتُ داراً دون سقفٍ أو جدارْ  ليكونَ بيتي على ضفًة الأنهار</p><p><span></span>وناضرتُ نفسي بالأماني ليضيع َعُمري فـي دهاليز الأسرار</p><p>ساومْتُ بالأحلام عرضاََ وطلباَ  وبعت قلبي بأبخس الأسعار</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-02-18T08:54:00Z",
+  "attributes": {
+    "old_id": 1023
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "92d25a3d-08ba-4d1f-a983-ff5e1220c59f",
+  "shortname": "مهاية_من_يقتل_شعبه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مهاية من يقتل شعبه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f256d2488a7c143bf14aa101902d6d8b92bb3320",
+    "bytesize": 430,
+    "body": "صح لسانه والقذافي كانت خاتمته شينه ولم يحزن عليه ولم نرى الحزن وسيكون مكانه بشار الاسد  ان لم يتخلى عن السلطه  اما بشار ففعل مالم يفعل هالقذافي وراينا مقطع بالعربيه يقول احد جنود بشار اسجد لبشار من هو بشار للاسجد له ليس لديه غيره على شعبه "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-11-13T05:07:32Z",
+  "attributes": {
+    "old_id": 565,
+    "old_entry_id": 535
+  },
+  "language": "ar"
+}

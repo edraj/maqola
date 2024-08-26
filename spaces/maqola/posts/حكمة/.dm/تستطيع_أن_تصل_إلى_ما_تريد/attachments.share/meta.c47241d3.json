@@ -1,0 +1,33 @@
+{
+  "uuid": "c47241d3-c1ad-41d0-8401-24f667950feb",
+  "shortname": "c47241d3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-09-18T09:00:57Z",
+  "author_locator": { "type": "content",
+    "uuid": "7cadbd4a-0424-46a1-8ef1-58802bc79851",
+    "shortname": "التنمية_البشرية",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-09-18T09:00:57Z",
+  "attributes": {
+    "old_id": 621,
+    "old_entry_id": 1514
+  },
+  "language": "en",
+  "location": {
+    "uuid": "c47241d3-c1ad-41d0-8401-24f667950feb",
+    "shortname": "c47241d3",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "تستطيع_أن_تصل_إلى_ما_تريد",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

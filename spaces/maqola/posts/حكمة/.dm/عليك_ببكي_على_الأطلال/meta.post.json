@@ -1,0 +1,49 @@
+{
+  "uuid": "aef7367f-29ae-499f-a3d8-8a95128f1558",
+  "shortname": "عليك_ببكي_على_الأطلال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عليك ببكي على الأطلال"},
+  "updated_at": "2013-11-25T08:44:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7e786cb7a811d3d92eb025ec92235c1aced1658e",
+    "bytesize": 370,
+    "body": "<br> <br><br>عليك ببكي على الأطلال مظنونك&#160;<br>لو كان دمع المحاجر هو شيماتي<br><br>يا ليت عين المولع تنظر عيونك&#160;<br>عقب أنقطاعك بتكتبلي مسراتي<br><br>هونك علينا حبيبي يالغلا هونك&#160;<br>إلى متى وانت باسبابك مأساتي<br>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "fa098850-02d8-4470-946b-0aa46ecc8578",
+    "shortname": "ahmed_barbod",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "شِعر",
+    "صَداقَة",
+    "طُرفَة",
+    "غَزَل",
+    "لُغة عربيّة",
+    "مَدح"
+  ],
+  "created_at": "2013-11-25T08:44:20Z",
+  "attributes": {
+    "old_id": 721
+  },
+  "language": "ar",
+  "history": []
+}

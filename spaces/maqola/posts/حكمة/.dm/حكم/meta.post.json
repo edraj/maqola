@@ -1,0 +1,42 @@
+{
+  "uuid": "46c4ef04-e3de-4dd1-a42b-c1ed7b79a7a7",
+  "shortname": "حكم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حكم"},
+  "updated_at": "2014-08-22T23:25:41Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:707b50e33a11bf23886513f5f580944b25942796",
+    "bytesize": 111,
+    "body": "<span class=\"maqola_body\">الطيبه ليست غباء انها نعمه فقدها الاغبياء  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "051b0ac9-6817-49e9-855e-71e8cc034129",
+    "shortname": "ana_ahmed_taha",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-08-22T23:25:41Z",
+  "attributes": {
+    "old_id": 922
+  },
+  "language": "ar",
+  "history": []
+}

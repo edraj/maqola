@@ -1,0 +1,33 @@
+{
+  "uuid": "cb459a87-3076-489b-82fe-cbc9174592f7",
+  "shortname": "cb459a87",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-19T14:09:11Z",
+  "author_locator": { "type": "content",
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-19T14:09:11Z",
+  "attributes": {
+    "old_id": 297,
+    "old_entry_id": 1032
+  },
+  "language": "en",
+  "location": {
+    "uuid": "cb459a87-3076-489b-82fe-cbc9174592f7",
+    "shortname": "cb459a87",
+    "subpath": "posts/خاطرة",
+    "space_name": "maqola",
+    "parent_shortname": "موسمية_المزاج",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

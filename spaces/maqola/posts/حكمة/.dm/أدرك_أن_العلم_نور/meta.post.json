@@ -1,0 +1,43 @@
+{
+  "uuid": "2c840726-af95-463d-916e-53888d082bb6",
+  "shortname": "أدرك_أن_العلم_نور",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أدرك أن العلم نور"},
+  "updated_at": "2015-09-18T08:35:11Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6ff0ade6e16e9a4394e8a5ba905139e3d5978412",
+    "bytesize": 176,
+    "body": "<p><span class=\"kufi\">من أذاق ظلمة الجهل .. أدرك أن العلم نور </span></p><p><span class=\"uthmanb\">'' مصطفى نور الدين ''</span><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "7cadbd4a-0424-46a1-8ef1-58802bc79851",
+    "shortname": "التنمية_البشرية",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة"
+  ],
+  "created_at": "2015-09-18T08:27:37Z",
+  "attributes": {
+    "old_id": 1511
+  },
+  "language": "ar",
+  "history": []
+}

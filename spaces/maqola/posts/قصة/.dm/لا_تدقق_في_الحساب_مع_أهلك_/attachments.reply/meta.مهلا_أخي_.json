@@ -1,0 +1,29 @@
+{
+  "uuid": "a509992c-40b4-4608-a2cd-a3bbfc464026",
+  "shortname": "مهلا_أخي_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مهلا أخي،"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:407c50bf7aa1d456fe55b82af03b2c31b059ff70",
+    "bytesize": 424,
+    "body": "أخي، مالمشكلة بالضبط، وما وجه اعتراضك؟ وهب أن مؤلفي تلك الكتب والقصص قد ابتدوعها، يبقى لنا منها الحكمة والعبرة. هل فيما كُتب هنا خطأ يمس الدين والعقيدة أو يمس أناسا معينين؟ أقلها منه فائدة القراءة. ان كنتُ قد أخطأت فهمك فأرجو التوضيح."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T07:08:11Z",
+  "attributes": {
+    "old_id": 55,
+    "old_entry_id": 131
+  },
+  "language": "ar"
+}

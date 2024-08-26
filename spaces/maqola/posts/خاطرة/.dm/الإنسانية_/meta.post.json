@@ -1,0 +1,42 @@
+{
+  "uuid": "2fff3f92-cc62-42b4-a105-d72257700aa3",
+  "shortname": "الإنسانية_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الإنسَانية \""},
+  "updated_at": "2013-07-27T01:33:29Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:dcd47adfe0e553a9d023220afe2977ed5993da80",
+    "bytesize": 1237,
+    "body": "<span class=\"maqola_body\"><div style=\"color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; line-height: 24px; text-align: right; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.296875); -webkit-composition-fill-color: rgba(130, 98, 83, 0.0976563); -webkit-composition-frame-color: rgba(191, 107, 82, 0.496094); -webkit-text-size-adjust: auto; direction: rtl; \">&#160;- قَتِل - تَهَجِير - إبَادَة ..&#160;</div><div style=\"color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; line-height: 24px; text-align: right; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.296875); -webkit-composition-fill-color: rgba(130, 98, 83, 0.0976563); -webkit-composition-frame-color: rgba(191, 107, 82, 0.496094); -webkit-text-size-adjust: auto; direction: rtl; \">هَلْ الإنْسَانِية أصَابتها بَلآدَة ..!!!!&#160;</div><div style=\"color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; line-height: 24px; text-align: right; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.296875); -webkit-composition-fill-color: rgba(130, 98, 83, 0.0976563); -webkit-composition-frame-color: rgba(191, 107, 82, 0.496094); -webkit-text-size-adjust: auto; direction: rtl; \">#سوريا</div>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a58511b1-bf8a-4357-840a-7a45b1726f7d",
+    "shortname": "رزآن_آلنعيمي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2013-07-27T01:33:29Z",
+  "attributes": {
+    "old_id": 647
+  },
+  "language": "ar",
+  "history": []
+}

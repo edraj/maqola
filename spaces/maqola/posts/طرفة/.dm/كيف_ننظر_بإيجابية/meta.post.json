@@ -1,0 +1,43 @@
+{
+  "uuid": "2c993ea2-c12f-455d-bd49-19c15d5fe746",
+  "shortname": "كيف_ننظر_بإيجابية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كيفَ نَنظُرُ بإيجابيّة"},
+  "updated_at": "2010-12-07T21:57:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cd8e88d2e4e81d8b8ec65a3a17772f84091b5c59",
+    "bytesize": 446,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قالت امرأةُ بَعض الأجواد لزوجِها : أما تَرى أصحابَك إذا أيسَرتَ لَزِموكَ ، وإذا أعسَرتَ رَفَضوك؟ فقال هذا مِن كَرمِ نُفوسِهِم ، يأتونَنا في حالِ القُوَّةِ مِنّا على الإحسانِ إليهم ، ويَتركونَنا في حالِ الضَّعفِ عنهم.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة",
+    "كَرَم"
+  ],
+  "created_at": "2010-12-07T21:57:38Z",
+  "attributes": {
+    "old_id": 336
+  },
+  "language": "ar",
+  "history": []
+}

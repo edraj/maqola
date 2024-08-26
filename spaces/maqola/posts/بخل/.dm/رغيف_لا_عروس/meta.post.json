@@ -1,0 +1,43 @@
+{
+  "uuid": "ef141dd8-cd92-489f-b86f-23ac767d337e",
+  "shortname": "رغيف_لا_عروس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رغيف لا عروس..."},
+  "updated_at": "2010-11-04T04:53:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a3d33550f72b1d0d5d1c2f763cbf43a926746f67",
+    "bytesize": 377,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">وقف سائلٌ ببابِ بخيلٍ يَطلبُ إحسانًا.<br />\r\n\tفقال له البخيلُ: النِساءُ لَسنَ في المنزل،؛ يَرزُقَكَ الله.<br />\r\n\tفَردَّ السائلُ: إنني أسألكَ رَغيفًا ولَيسَ عروسًا.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بُخل",
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-04T04:53:30Z",
+  "attributes": {
+    "old_id": 158
+  },
+  "language": "ar",
+  "history": []
+}

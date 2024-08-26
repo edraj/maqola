@@ -1,0 +1,44 @@
+{
+  "uuid": "4a914dcb-9ea3-4d98-afbf-c7bf9c9c65be",
+  "shortname": "الجنة_هى_الحب_الأول",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الجنة هى الحب الأول"},
+  "updated_at": "2014-04-04T12:54:46Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1feb6ba33259381a7b58543c6ea6799c7348ad8d",
+    "bytesize": 150,
+    "body": "<span class=\"maqola_body\"> <br> قلب فؤادك حيث شئت من الهوى ...................ما الحب إلا للحبيب الأول</span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "76ca55ec-ada2-4ae4-9a14-df289666493d",
+    "shortname": "ابوالبراء_محمدضياء_جادالله",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "غَزَل",
+    "قِصّة"
+  ],
+  "created_at": "2014-04-04T12:54:46Z",
+  "attributes": {
+    "old_id": 874
+  },
+  "language": "ar",
+  "history": []
+}

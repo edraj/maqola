@@ -1,0 +1,29 @@
+{
+  "uuid": "39d8e737-7a14-46f3-a93a-becd9b02278a",
+  "shortname": "تم_تعريف_القائل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تم تعريف القائل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0dd69685ab3efec1968e554625ff920c308173d4",
+    "bytesize": 28,
+    "body": "نعم، صدقت. شكرا."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-03T14:43:25Z",
+  "attributes": {
+    "old_id": 39,
+    "old_entry_id": 95
+  },
+  "language": "ar"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "8e66f20d-8c88-407d-9804-6d70e0921c5a",
+  "shortname": "التفـــــاؤل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"التفـــــاؤل"},
+  "updated_at": "2014-02-26T10:45:31Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1b658ece4357c0010f913ec9e03be7e4524ed672",
+    "bytesize": 350,
+    "body": "<span class=\"maqola_body\"><span style=\"color: #953734;\"> <span class=\"fontxlarge\"></span><span class=\"fontxlarge\"></span><br> <span class=\"fontlarge\"><span class=\"fontxlarge\">لا تحكم على مستقبلك من الآن فالأنبياء \"عليهم السلام\" رعوا الغنم ثم قادوا الأمم</span></span></span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9efae5e1-3745-4909-8642-41a845d9b903",
+    "shortname": "wael_mandour",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل"
+  ],
+  "created_at": "2014-02-26T10:45:31Z",
+  "attributes": {
+    "old_id": 847
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "67019ca4-e47a-4aef-a405-5a5412262019",
+  "shortname": "الأصدقاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الأصدقاء"},
+  "updated_at": "2015-01-24T18:55:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4c204d2c44fdd105cacfa1f2c7e331a4c56ec9db",
+    "bytesize": 182,
+    "body": "<p>لا تسعى في كسب عديد الأصدقاء و لكن اسعى لتكتشف الصِّدق في هؤلاء.</p><p><br><br><span class=\"maqola_body\"> <br> <br>  </span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4ebdc403-8e21-443f-92e3-60e73ef6889a",
+    "shortname": "hmidou_sidou",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-01-17T10:06:11Z",
+  "attributes": {
+    "old_id": 738
+  },
+  "language": "ar",
+  "history": []
+}

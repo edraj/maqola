@@ -1,0 +1,41 @@
+{
+  "uuid": "4a595729-999e-4db1-a5e6-7f50af9536df",
+  "shortname": "جدار_الصمت",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جدار الصمت"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2cd597a2e4e95d32afb04b565ca2a0bb337af7e0",
+    "bytesize": 330,
+    "body": "<p>الاحتماء بجدار الصمت</p><p>الحال كحال  ذلك الطبيب في حيرة يجهل الداء ويجهل أعراض السقام <br>وإذا قـام بالسـؤال فصـاحب الـداء يلوذ بالصمت ولا يجيد الكلام</p><p>ـــــــــــ ضياء ابراهيم</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-02-28T14:47:01Z",
+  "attributes": {
+    "old_id": 1077
+  },
+  "language": "ar",
+  "history": []
+}

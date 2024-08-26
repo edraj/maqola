@@ -1,0 +1,42 @@
+{
+  "uuid": "7383030b-99f1-4582-8379-c62c32e62b84",
+  "shortname": "الشقي_المخذول",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الشَّقِيُّ المَخذُول"},
+  "updated_at": "2010-11-14T10:24:26Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7abbbc954ad7bfe3bcd957cc94aab9b658348d46",
+    "bytesize": 1109,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">ألا أُخبِرُك بالشَّقِيِّ المَخذُولِ، ذي المَالِ المصُونِ وَالعِرضِ المَبذُولِ. مَن لا يُبَالي إِذَا سَلِمَت ثَروَتُهُ، أَن تُمَزِّقَ فَروَتَهُ. وإذا شَبِعَت خِزَانَتُه، أَن تَجُوعَ خَزَانَتَه. وأَلَا أُخبِرُكَ بِالسَّعِيدِ المَنصُورِ، ذِي الجَنَابِ المَمطُورِ. مَن خَالَفَ تِلكَ السُّنَّةِ، وَاتَّخَذَ المَالَ لِعِرضِه جُنَّة. يَقولُ لِخَازِنِه إِنجَح، و لِوَازِنِه ارجَح. و لِنَفسِه إذا جَاشَت مَكانَك تُحمَدِي، و إِذا طَاشَت وَرَاءَكَ تَصمِدِي.</span></span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1em;\"><span class=\"maqola_font_normal\">من كتاب أطواقُ الذهبِ في المواعظِ و الخُطَبِ</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c9e247e4-1671-41e5-b8f5-b1841b0f6f35",
+    "shortname": "الزمحشري",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e70cb39c-739b-4d5a-8d89-b40ad20f0b00",
+    "shortname": "عبدالكريم_جعافرة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-14T09:29:42Z",
+  "attributes": {
+    "old_id": 181
+  },
+  "language": "ar",
+  "history": []
+}

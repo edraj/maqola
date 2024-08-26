@@ -1,0 +1,29 @@
+{
+  "uuid": "f05fa1ac-4e4e-48cd-a6d3-e3ccbbeaf28d",
+  "shortname": "ممتاز",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ممتاز"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f244411864f81e2fe47049e62c6bc71f4ccfc778",
+    "bytesize": 91,
+    "body": "شكراااااا على الشرح و إن شاء الله في ميزان حسناتكم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-10T14:21:36Z",
+  "attributes": {
+    "old_id": 618,
+    "old_entry_id": 227
+  },
+  "language": "ar"
+}

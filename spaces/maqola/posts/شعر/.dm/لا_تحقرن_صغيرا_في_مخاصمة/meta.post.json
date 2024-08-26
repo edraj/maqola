@@ -1,0 +1,43 @@
+{
+  "uuid": "3d9bb66c-0399-4f29-9b8c-3e6fe15dae9b",
+  "shortname": "لا_تحقرن_صغيرا_في_مخاصمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تَحقِرَنَّ صَغيراً في مُخاصَمَةٍ"},
+  "updated_at": "2010-12-01T09:12:07Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:57ee615c8c5adc05548ddb82d277f07c6148ed23",
+    "bytesize": 360,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">لا تَحقِرَنَّ صَغيراً في مُخاصَمَةٍ -- إنَّ البَعوضَةَ تُدمي مُقلةَ الأسدِ<br />\r\n\t<br />\r\n\tوقال آخر،<br />\r\n\tلا تَحقِرَنَّ مِن الضعيفِ عَداوَةً -- فالنارُ يَحرِقُ جَمرُها وشرارُها</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "مَثَل"
+  ],
+  "created_at": "2010-12-01T09:12:07Z",
+  "attributes": {
+    "old_id": 283
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "4d4e888b-3826-43a5-8b10-c41bc1a44e36",
+  "shortname": "لا_تقرب_اثنتين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تقرب اثنتين"},
+  "updated_at": "2010-11-09T08:52:51Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8aa45f8ccf7b49dd3b03f14d6e5c0b4a555914d7",
+    "bytesize": 361,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">إذا تَيَّسَرَ فِعلُ الخَيرِ فَأتِ بِهِ - و ما عَليكَ إذا أذنَبتَ مِن باسِ<br />\r\n\tإلا اثنَتَينِ فَلا تَقرَبهُما أبداً - الشِركُ باللهِ و الإضرارُ بالناسِ</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-10-13T22:02:17Z",
+  "attributes": {
+    "old_id": 17
+  },
+  "language": "ar",
+  "history": []
+}

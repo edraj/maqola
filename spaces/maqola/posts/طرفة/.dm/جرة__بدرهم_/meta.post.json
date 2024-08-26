@@ -1,0 +1,42 @@
+{
+  "uuid": "0e68d6aa-9179-4e2b-943a-33bbd2b2ac4a",
+  "shortname": "جرة__بدرهم_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جَرَّةٌ ... بِدِرهَم؟"},
+  "updated_at": "2011-01-05T19:15:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5cc847335f9a4a6e082b6d73eb2de10e41fcd629",
+    "bytesize": 871,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أبو علقمة : هو أَحَدُ المُضحِكين العرب، لكن إضحاكَهُ مِن لَونٍ غَريب وطِرازٍ لُغَويٍ فَريد، لأنّه لَم يكن لِنُكتَةٍ يُلقيها بل لأنه كان يَتَعَمَّدُ التَّقعُرَ في اللغة فينفرون منه في زمانه، وقد يشتمونه ويسخرون منه ويضحكون. ذَهبَ يوماً إلى كوَّاز يَبيعُ الجِرارَ، فقال له : &quot; أعندكَ جرَّةٌ لا فَقْداءُ ولا دَنَّاء ، ولا مُغَربَلَةُ الجَوانبَ، خَضِرَةٌ نَضِرَة، قد مشتها النار، إنْ نَقَرتُ عليها طَنَّتْ وإنْ أصابها رِيحٌ غَنَّتْ .... ولكن بدرهم؟&quot;</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2011-01-05T19:15:30Z",
+  "attributes": {
+    "old_id": 445
+  },
+  "language": "ar",
+  "history": []
+}

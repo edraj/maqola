@@ -1,0 +1,29 @@
+{
+  "uuid": "0e0f0a7e-b9ed-4d56-af63-91cc97e5bd20",
+  "shortname": "إشادة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إشادة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bf7c1ef727aca8eae4884512cee31cf546237ee9",
+    "bytesize": 177,
+    "body": "شكرا أستاذنا كفاح فقد أفدت بفرائد يصعب جمعها  جزاك الله خيرا وزادك توفيقا وسدادا (عبدالله أبوحمد) "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-19T19:17:51Z",
+  "attributes": {
+    "old_id": 328,
+    "old_entry_id": 389
+  },
+  "language": "ar"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "5fff6b9e-3303-4884-a0af-87115aa770b3",
+  "shortname": "تمني_وليس_أمرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تمني وليس أمراً"},
+  "updated_at": "2014-07-02T12:29:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5d02a64414ae26f378d213105681e136c7fec72c",
+    "bytesize": 343,
+    "body": "<span class=\"maqola_body\"> <br> <p>أَلا أَيُّها الليلُ الطويلُ أَلا انجلِ***بصبحٍ وما الإِصباحُ مِنْك بأَمثلِ</p><p>هنا فعل الأمر انجل ليس بمعنى الامر بل بمعنى التمني : أَتمنى أَن تنجلي يا ليل بصبح...</p><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "945a78fc-63f7-42c1-a380-1730a1a586cc",
+    "shortname": "فياض_دوابشة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-07-02T12:29:38Z",
+  "attributes": {
+    "old_id": 893
+  },
+  "language": "ar",
+  "history": []
+}

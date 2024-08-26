@@ -1,0 +1,43 @@
+{
+  "uuid": "0addd98c-cc9e-45a8-8efe-6f6d77c129a4",
+  "shortname": "آثار_أسوان_بمصر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"آثار أسوان بمصر"},
+  "updated_at": "2010-11-28T06:12:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b35b92b0e5edec3d3a60672e1ba10b35f6940c4b",
+    "bytesize": 1272,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أيُّها المُنتَحي بأسوانَ داراً -- كالثُّرَيّا تُريدُ أنْ تَنقَضّا<br />\r\n\tاخلَع النَعلَ واخفِض الطَّرفَ واخشَع -- لا تُحاوِل&#160; مِن&#160; آيَةِ الدَّهرِ&#160; غَضّا<br />\r\n\tقِفْ بِتِلكَ القُصورِ في اليَمِّ غَرقى -- مُمسكٌ بَعضُها مِن الذُّعرِ بَعضا<br />\r\n\tكَعَذارى&#160; أخفَينَ في&#160; الماءِ&#160; بَضّاً -- سابِحاتٍ بِهِ و أبدَينَ بَضّا<br />\r\n\tرُبّ نَقشٍ كأنَّما نَفَضَ الصا -- نِعُ مِنهُ اليَدين&#160; بالأمسِ نَفضا<br />\r\n\tشَابَ مِن حَولها الزمانُ وشابَت -- وشَبابُ النُفوسِ ما زالَ غَضّا</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<img src=\"http://maqola.org/data/38/238/NileFromAboveNarrowAngle.jpg\" style=\"width: 550px;\" /></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\"><span style=\"font-size: 1em;\">أبدع أحمد شوقي في وصف المشاعر التي تكتنفُ الزائر لهذه الآثار.</span></span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "مَدح"
+  ],
+  "created_at": "2010-11-28T06:03:17Z",
+  "attributes": {
+    "old_id": 238
+  },
+  "language": "ar",
+  "history": []
+}

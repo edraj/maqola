@@ -1,0 +1,43 @@
+{
+  "uuid": "0faf4e2d-2951-4b9a-8990-ccc7988d9d9e",
+  "shortname": "الشجرة_العجيبة_في_بلاد_العرب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الشجرة العجيبة في بلاد العرب"},
+  "updated_at": "2010-11-11T13:25:56Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ba4d86db376666fd711a2e823bc4de294990e050",
+    "bytesize": 2004,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">تَروي لَنا كُتُبُ التاريخ، أنَّ قَيصَرَ مَلِكِ الروم كَتَبَ إلى الخَليفَةِ عُمَرَ بن الخَطَّابِ يَقول، </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">أمَّا بَعد فإنَّ رُسُلُي أخبَرَتني أنَّ في بِلادِكُم شَجَرة تُخرِجُ مِثلَ آذانِ الفِيَلَة، تُمَّ تَنشَقُّ عَن أَحسَنَ مِن اللؤلؤِ المَنظوم، ثُمَّ تَخضَرُّ فَتَكونُ كَالزُمُرَُد، ثُمَّ تَصفَرُّ فَتَكونُ كَشُذورِ الذَهب وقِطَعِ الياقُوتِ، تُمَّ تَينَعُ فَتَكونُ أطيَبَ مِن الفالوذَج، تُمَّ تَجِفُّ فَتَكونُ قوتاً و تُدَّخَرُ مَؤنةً، فَتَكون عِصمَةً للمُقيمِ وزاداً للمُسافِر، فَلِللّهِ دَرُّها مِن شَجَرة، فإن تَكُن رُسُلي قَد صَدَقَتني الخَبَر فإنَّها من شَجرِ الجَنَّة. </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">فَكَتَبَ إليهِ أميرُ المؤمِنينَ يَقول، </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">بِسمِ اللهِ الرَّحمنِ الرَّحيم، مِن عَبدِاللهِ أميرِ المؤمنين إلى قَيصَرَ مَلِكِ الرّوم، السَّلامُ على مَن اتبَعَ الهُدى، أما بعد، فإن رُسُلُكَ قَد صَدَقَتك، فإنها الشجرةُ التي وُلدَ تَحتَها عيسى المسيحُ بن مَريَم و قَال إنِّي عَبدُاللهِ فَلا تَدعوا مَعَ اللهِ إلهاً آخر.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-14T16:37:58Z",
+  "attributes": {
+    "old_id": 21
+  },
+  "language": "ar",
+  "history": []
+}

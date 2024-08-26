@@ -1,0 +1,33 @@
+{
+  "uuid": "e657b90b-cd09-48f0-93cc-e9052ea0ae43",
+  "shortname": "e657b90b",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2014-02-12T08:59:24Z",
+  "author_locator": { "type": "content",
+    "uuid": "777c5300-108f-4ccb-b758-24d96759bf8d",
+    "shortname": "ahmad_nattouf",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2014-02-12T08:59:24Z",
+  "attributes": {
+    "old_id": 187,
+    "old_entry_id": 743
+  },
+  "language": "en",
+  "location": {
+    "uuid": "e657b90b-cd09-48f0-93cc-e9052ea0ae43",
+    "shortname": "e657b90b",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "الثقة_بالنفس",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

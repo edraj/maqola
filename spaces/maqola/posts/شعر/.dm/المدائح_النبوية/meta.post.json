@@ -1,0 +1,43 @@
+{
+  "uuid": "a75b7efb-165b-433c-b44a-239715a73c3e",
+  "shortname": "المدائح_النبوية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المدائح النبوية"},
+  "updated_at": "2013-12-30T22:11:11Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f274852745eb77a82c8648d54d3ee884f7bfce3b",
+    "bytesize": 445,
+    "body": "<span class=\"maqola_body\"> <br> <b>جاء النبيون بالآيات فانصرمت  </b></span><div><span class=\"maqola_body\"><b>وجئتنا بحكيمٍ غير منصرمِ</b></span></div><div><span class=\"maqola_body\"><b><br></b></span></div><div><span class=\"maqola_body\"><b>آياته كلما طال المدى جدد</b></span></div><div><span class=\"maqola_body\"><b>يزينهنّ جلال العتق والقدمِ</b></span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4583c122-b830-4d27-9845-0a1797ad9da3",
+    "shortname": "طالب_علم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "مَدح"
+  ],
+  "created_at": "2013-12-30T22:11:11Z",
+  "attributes": {
+    "old_id": 732
+  },
+  "language": "ar",
+  "history": []
+}

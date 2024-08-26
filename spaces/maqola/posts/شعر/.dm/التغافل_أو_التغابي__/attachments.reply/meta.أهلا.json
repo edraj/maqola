@@ -1,0 +1,29 @@
+{
+  "uuid": "d228087c-8266-48c3-8d7e-b1f97832235c",
+  "shortname": "أهلا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أهلاً"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d0ff398730dc4d957b94d76dabb47ef1b73308bb",
+    "bytesize": 210,
+    "body": "صاحب المدونة الموقر ..  أنت صاحب ذوق وقلم جيد .. لكن لعلك تعتني بالإملاء واللغة أكثر .. ولا تهمل الهمزات بارك الله فيك .."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T07:41:14Z",
+  "attributes": {
+    "old_id": 62,
+    "old_entry_id": 138
+  },
+  "language": "ar"
+}

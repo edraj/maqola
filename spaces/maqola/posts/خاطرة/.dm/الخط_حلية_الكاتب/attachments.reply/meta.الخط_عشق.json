@@ -1,0 +1,29 @@
+{
+  "uuid": "faf72a44-ddc4-4017-af55-7e858c9bdb3e",
+  "shortname": "الخط_عشق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الخط عشق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d765d43d59cee92d1f957738a7573787b56cf0fc",
+    "bytesize": 411,
+    "body": "رحم الله الإمام علي بن أبي طالب ـ كرم الله وجهه ـ الذي كانت له مقولات مأثورة بينها: الخط الحسن يزيد الحق وضوحا.. وقوله أيضا: عليكم بحسن الخط فإنه من مفاتيح الرزق.  ولله در القائل: الخط عشق والجمال عبادة ... وهل بعد عشق الخط شيء يعشق !"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-29T18:01:27Z",
+  "attributes": {
+    "old_id": 632,
+    "old_entry_id": 281
+  },
+  "language": "ar"
+}

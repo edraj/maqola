@@ -1,0 +1,44 @@
+{
+  "uuid": "4269eab6-26e5-4113-b629-dc297ace10b0",
+  "shortname": "تصغير_الانسان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصغير الانسان"},
+  "updated_at": "2014-03-01T15:38:43Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:10fac1adaf28f6c9db0b38515c7a8f719c5a76d4",
+    "bytesize": 269,
+    "body": "ذَكَرَ الجاحظُ أن أهلَ البصرة إذا أرادوا تصغيرَ إنسانٍ صيّروه على (فعلويه) كما قالوا في (محمد): (حمدويه)، وفي (عَمْر): (عمرويه).<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b4a0dbf6-91da-44df-a822-37c956f1885e",
+    "shortname": "الجاحظ",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-03-01T15:38:37Z",
+  "attributes": {
+    "old_id": 850
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "dc6a6288-ffc0-4487-a9b2-818d536b98fc",
+  "shortname": "كثر_شاكوك_وقل_شاكروك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كَثُرَ شاكوكَ وقَلَّ شاكِروكَ ..."},
+  "updated_at": "2011-10-16T07:57:21Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:911432859b36eb387e65f6cea75cf42163cd49d9",
+    "bytesize": 490,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\">لَقَد كَثُرَ شاكوكَ وقَلَّ شاكِروكَ فاعتَدِلْ أو اعتَزِلْ و السلام.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">رِسالةٌ بليغةٌ موجَزةٌ، استخدمَها أسلافنا في التفاهم مع من بغى وطغى من الحكام. وها هي شعوبنا تعيد إرسالها لمن سولت لهم أنفسهم أن يلعبوا ذات الدور. </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "سِياسَة"
+  ],
+  "created_at": "2011-10-16T07:57:21Z",
+  "attributes": {
+    "old_id": 533
+  },
+  "language": "ar",
+  "history": []
+}

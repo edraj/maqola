@@ -1,0 +1,29 @@
+{
+  "uuid": "4beb7bae-ee5b-4f23-962f-9f7b6f02a8c5",
+  "shortname": "الجواب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الجواب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:66feef807ef26f12da9fa3e49c2087b59fdcfd16",
+    "bytesize": 27,
+    "body": "الشعر يا سيدي =)"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "ca3284c6-a404-44fc-9b08-7341cb023f2c",
+    "shortname": "عباس",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-01-09T09:27:10Z",
+  "attributes": {
+    "old_id": 795,
+    "old_entry_id": 713
+  },
+  "language": "ar"
+}

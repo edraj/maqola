@@ -1,0 +1,43 @@
+{
+  "uuid": "4d9b1dde-5e9c-422d-a9d0-91ed8f4dc2ee",
+  "shortname": "لا_تمازح_جاهلا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تُمازِح جاهِلاً"},
+  "updated_at": "2010-12-25T11:48:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f832b56e2d47a4b8529aa37d2376d311ae5a91f2",
+    "bytesize": 315,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">إياك يَوماً أَنْ تُمازِحَ جاهلاً -- فَتَلقى الذي لا تَشتَهي حِيَن يَمزَحُ<br />\r\n\tولا تكُ عَرِّيضاً تُشاتِمُ مَن دنا -- فتُشبهُ كلباً بالسفاهةِ ينبحُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-23T09:35:51Z",
+  "attributes": {
+    "old_id": 418
+  },
+  "language": "ar",
+  "history": []
+}

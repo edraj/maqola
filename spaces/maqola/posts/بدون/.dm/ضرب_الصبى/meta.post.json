@@ -1,0 +1,41 @@
+{
+  "uuid": "68809264-6076-4adf-a75a-fdd5f4fad968",
+  "shortname": "ضرب_الصبى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ضرب الصبى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0750aa682661f45cd607e66e99bd79c1ff0f4da7",
+    "bytesize": 119,
+    "body": "<p>لا تاسفن على الصبيان ان ضربوا ... يذهب الضرب ويبقى العلم والادب</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "cb3b81b3-fe5a-4856-80ce-5b1c9d125570",
+    "shortname": "alking_hassan",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-04-09T08:07:36Z",
+  "attributes": {
+    "old_id": 1144
+  },
+  "language": "ar",
+  "history": []
+}

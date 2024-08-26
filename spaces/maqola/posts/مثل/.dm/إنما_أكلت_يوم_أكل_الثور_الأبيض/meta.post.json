@@ -1,0 +1,42 @@
+{
+  "uuid": "b6cf8b09-e74a-444c-9a3f-f4c0fbc4abd6",
+  "shortname": "إنما_أكلت_يوم_أكل_الثور_الأبيض",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إنَّما أُكِلْتُ يَومَ أُكِل الثَّورُ الأبيَضُ"},
+  "updated_at": "2010-11-28T13:57:04Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:664f1b12c9867fc186de496e34844d6e1e86c52b",
+    "bytesize": 1160,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يُروى أنَّ ثَلاثَةَ ثيران، أبيض وأسود وأحمر كُنَّ في أَجَمةٍ (غابة)، ومعهن فيها أسد، فكان الأسدُ لا يقدِرُ منهن على شيء لاجتماعهن عليه، فقال الأسد يوما للثورين الأسود والأحمر‏:‏ لا يُدِلُّ علينا في أَجَمتنا إلا الثورُ الأبيضُ فإن لونَهُ مشهور ولوني على لونكما، فلو تركتماني آكُلُه صفَتْ لنا الأَجمة، فقالا‏:‏ دونَكَ فكُلْه، فأَكَلَه، ثم قال للأحمر‏:‏ لوني على لونك، فَدَعْني آكل الأسود لِتصفو لنا الأجَمة، فقال‏:‏ دونَكَ فكُلْه، فأكله، ثم قال للأحمر‏:‏ إني آكِلُكَ لا مَحاَلة، فقال‏:‏ دَعني أُنادي ثلاثا، فقال‏:‏ افعَل، فنادى ألاَ إني أكِلْتُ يوم أكِلَ الثورُ الأبيض، وذَهَبَت مَثلاً، وأكلَهُ الأسد.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-11-28T13:57:04Z",
+  "attributes": {
+    "old_id": 247
+  },
+  "language": "ar",
+  "history": []
+}

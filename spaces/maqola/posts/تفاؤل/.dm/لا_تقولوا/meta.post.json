@@ -1,0 +1,43 @@
+{
+  "uuid": "5c7a160e-eb5d-4d11-b3df-e2d0917fb2c3",
+  "shortname": "لا_تقولوا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تقولوا"},
+  "updated_at": "2015-12-18T13:04:06Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b453a7e77cea8384fcc7b04770223865b381657f",
+    "bytesize": 235,
+    "body": "<p>لا تقولوا رحم الله آباءنا وأجدادنا لأنهم كانوا خيراً منا وأفضل خلقا </p><p>لا تقولوا ذلك .</p><p>فإنهم كانوا لا يقلوا عنا بذاءة وخسة</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "99358994-6426-4bce-9250-f5bf48d5d98d",
+    "shortname": "بكار_المصري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة"
+  ],
+  "created_at": "2015-12-18T13:03:08Z",
+  "attributes": {
+    "old_id": 1560
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "987b367e-8dba-4cda-974b-2548d862f552",
+  "shortname": "قاعدة_أصولية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قاعدة أصولية"},
+  "updated_at": "2014-07-14T06:54:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3b260d4808c8aa05ca331abbd05f4404bb60a8a1",
+    "bytesize": 201,
+    "body": "<span class=\"maqola_body\"> <br> تنسى المرأة الرجل الذي انتشلها من الوحل ولكنها لاتنسى ابدا الرجل الذي دفعها الى الوحل<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قاعدة أصولية"
+  ],
+  "created_at": "2014-07-14T06:54:02Z",
+  "attributes": {
+    "old_id": 901
+  },
+  "language": "ar",
+  "history": []
+}

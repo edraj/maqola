@@ -1,0 +1,46 @@
+{
+  "uuid": "cf42d7ba-a244-4a7b-a8b9-9f6aa8eb7e4a",
+  "shortname": "من_أقوال_أبو_العتاهية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أقوال أبو العتاهية"},
+  "updated_at": "2014-02-04T14:44:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5ff5ae2850b5f721ee093915d1fd0a4892da2fff",
+    "bytesize": 325,
+    "body": "<span class=\"maqola_body\"> <br> وَإِذا تَناسَبَتِ الرِجالُ فَما أَرى *** نَسَباً يُقاسُ بِصالِحِ الأَعمالِ<br> <a href=\"https://www.facebook.com/hashtag/%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%B9%D8%AA%D8%A7%D9%87%D9%8A%D8%A9\">#أبو_العتاهية</a><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "7e4d7ce5-050f-4908-99ad-e38fd6f9f1ea",
+    "shortname": "أبو_القاسم_الشابي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-04T14:44:37Z",
+  "attributes": {
+    "old_id": 802
+  },
+  "language": "ar",
+  "history": []
+}

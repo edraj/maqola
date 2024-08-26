@@ -1,0 +1,29 @@
+{
+  "uuid": "80267ca3-f69c-467b-be0b-c1833cb9f5be",
+  "shortname": "أكثر_من_رائعة_ولكن_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أكثر من رائعة ولكن .."},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d61baf1f1dead8d52c317c74b496d11fde3bb40e",
+    "bytesize": 467,
+    "body": "ما ورد في الحكاية أعدّه من الروائع لكنّي و بكل أسف أقول أنني أمقت الرجل يجوّد المعنى ويستخسر باللغة أن يفيها حقّها ،ما بال من نظم الحروف يخطئ في أبسط قواعد الإملاء العربي ،رحمكم الله جوّدوا ماتكتبون ولا تجعلوا اللغة تتألم بطعنات أقلامكم .\r\nلستُ إلا نصحاً لكم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "f7514a2e-901e-42fd-b7a0-803521941fe7",
+    "shortname": "أ._محمدطلحة_الغجر",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-02-27T06:58:05Z",
+  "attributes": {
+    "old_id": 822,
+    "old_entry_id": 1068
+  },
+  "language": "ar"
+}

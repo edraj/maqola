@@ -1,0 +1,43 @@
+{
+  "uuid": "1ed215bc-901e-4a78-841b-c63d89859746",
+  "shortname": "مهد_الجزائر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مهد الجزائر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e56bbe17b7712571833f5c5f65bc011446541344",
+    "bytesize": 252,
+    "body": "<p>محمد رباحي:<br></p><p>مهد الجزائر بالرجال تزاحما *** فتسابقت تفدي الجزائر بالدما<br>وتنافست تبني القلاع لمجدها *** وتشيّد التاريخ تشييد السّما</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "b59e24d4-7bef-40df-8460-bf34be0724bd",
+    "shortname": "mohamed_rebahi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَجاعَة",
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2015-08-01T12:49:57Z",
+  "attributes": {
+    "old_id": 1455
+  },
+  "language": "ar",
+  "history": []
+}

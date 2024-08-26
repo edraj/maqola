@@ -1,0 +1,43 @@
+{
+  "uuid": "a7817ed1-a521-4b43-8838-3f78ba875060",
+  "shortname": "قلت_ابتسم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قلت ابتسم"},
+  "updated_at": "2010-11-14T06:47:48Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d1e04293108211a563d1112709b6d9d1f5c1f609",
+    "bytesize": 917,
+    "body": "<p dir=\"RTL\">\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قالَ: السَّماءُ كَئِيبَةً ! وَتَجَهَّمَا -- قُلتُ: ابتَسِم يَكفِي التَّجَهُّمُ في السَّمَا<br />\r\n\tقَالَ: الصِّبَا وَلَّى! فَقُلتُ لَهُ: ابتَسِم -- لَن يُرجِعَ الأَسَفُ الصِّبَا المُتَصَرِّمَا<br />\r\n\tقالَ: التي كَانَت سَمَائِي فِي الهَوَى -- صَارَت لِنَفسِي فِي الغَرَامِ جَهَنَّمَا<br />\r\n\tخَانَت عُهُودِي بَعدَما مَلَّكتُها -- قَلبِي، فَكَيفَ أُطِيقُ أَن أَتَبَسَّمَا<br />\r\n\tقُلتُ: ابتَسَم وَ اطرَب فَلَو قَارَنتَها -- لَقَضَيتَ عُمرَكَ كُلَّهُ مُتَأَلِّمَا</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c4a44906-1d9d-4f41-8f93-d4aad3520f45",
+    "shortname": "شاعر_المهجر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e70cb39c-739b-4d5a-8d89-b40ad20f0b00",
+    "shortname": "عبدالكريم_جعافرة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "شِعر"
+  ],
+  "created_at": "2010-11-14T06:45:16Z",
+  "attributes": {
+    "old_id": 176
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "207af08e-0840-4a89-b5b0-ae2e8c0d1a5a",
+  "shortname": "لغز__ما_هو_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لُغز، ما هو؟"},
+  "updated_at": "2010-11-22T09:28:23Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6ad052d53148e6f6f6e9f633247987f2e43aed84",
+    "bytesize": 285,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">وقاضٍ قَد قَضى في النّاسِ عَدلاً، لَهُ كَفٌّ ولَيسَ لَهُ بَنانُ<br />\r\n\tرأيتُ النّاسَ قَد قَبلوا قَضاهُ ولا نُطقٌ لَديهِ ولا لِسانُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "لُغز"
+  ],
+  "created_at": "2010-11-22T09:28:23Z",
+  "attributes": {
+    "old_id": 216
+  },
+  "language": "ar",
+  "history": []
+}

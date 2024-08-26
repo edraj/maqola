@@ -1,0 +1,42 @@
+{
+  "uuid": "53faaeeb-3359-4296-bcc9-d2cb44ab999f",
+  "shortname": "نداء_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نداء الله"},
+  "updated_at": "2013-07-31T19:36:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:78eff2aca3f8aea19f0c558a24184d9e64ff76f5",
+    "bytesize": 733,
+    "body": "<span class=\"maqola_body\"> <span class=\"fontxlarge\"></span>جاء الصحابي الجليل عبدالله بن ام كلثوم رضي الله عنه الى رسول الله صلى الله عليه وسلم ذات يوم فقال له: يا رسول الله ان لي قائدا لا يطاوعني وان بيني وبين المسجد اشجاراً واشواكاً فهل تأذن لي بالصلاة في بيتي؟<br>فقال الرسول صلى الله عليه&nbsp; وسلم: اتسمع النداء يا عبدالله؟<br>فقال عبدالله نعم يارسول الله.<br>فقال له الرسول صلى الله عليه وسلم فأجب منادي الله وصلِّ في المسجد.<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2013-07-31T19:33:50Z",
+  "attributes": {
+    "old_id": 655
+  },
+  "language": "ar",
+  "history": []
+}

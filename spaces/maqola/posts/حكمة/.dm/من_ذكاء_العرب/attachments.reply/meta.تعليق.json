@@ -1,0 +1,29 @@
+{
+  "uuid": "588dcff0-a9ef-4dda-9d14-d224e5afb4bc",
+  "shortname": "تعليق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تعليق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5059e444dc4d81db9b5c069996a5e10e2fa001f5",
+    "bytesize": 45,
+    "body": "كيف كان الحج الى بغداد؟؟ "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-02-07T00:53:16Z",
+  "attributes": {
+    "old_id": 597,
+    "old_entry_id": 150
+  },
+  "language": "ar"
+}

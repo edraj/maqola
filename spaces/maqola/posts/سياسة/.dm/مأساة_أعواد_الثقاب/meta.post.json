@@ -1,0 +1,43 @@
+{
+  "uuid": "c75fc22b-35ed-450e-b403-10b3b541011b",
+  "shortname": "مأساة_أعواد_الثقاب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مأساةُ أعواد الثقاب"},
+  "updated_at": "2010-12-15T20:21:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9279a76ca49332502e0eb09ceb2cf873bff2fdca",
+    "bytesize": 1151,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أوطاني عُلبةُ كبريتٍ<br />\r\n\tوالعُلبَةُ مُحكَمَةُ الغلْقِ<br />\r\n\tوأنا في داخِلها<br />\r\n\tعُودٌ محكومٌ بالخَنْقِ<br />\r\n\tفإذا ما فتَحتْها الأيدي<br />\r\n\tفلِكي تُحرِقَ جِلدي<br />\r\n\tفالعُلبَةُ لا تُفتحُ دَوماً<br />\r\n\tإلاّ للغربِ أو الشّرق<br />\r\n\tإمَّا للحَرقِ، أو الحَرقِ<br />\r\n\tيا فاتِحَ عُلبتِنا الآتي<br />\r\n\tحاوِلْ أنْ تأتي بالفَرقِ<br />\r\n\tالفتحُ الرّاهِنُ لا يُجدي<br />\r\n\tالفتحُ الرّاهِنُ مرسومٌ ضِدّي<br />\r\n\tما دامَ لِحَرقٍ أو حَرقِ<br />\r\n\tإسحَقْ عُلبَتنا، و انثُرنا<br />\r\n\tلا تأبَهْ لوْ ماتَ قليلٌ منّا<br />\r\n\tعندَ السّحق .<br />\r\n\tيَكفي أنْ يحيا أغلَبُنا حُرّاً<br />\r\n\tفي أرضٍ بالِغةِ الرِفق<br />\r\n\tالأسوارُ عليها عُشْبٌ<br />\r\n\t.. والأبوابُ هَواءٌ طَلق!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-30T11:39:24Z",
+  "attributes": {
+    "old_id": 274
+  },
+  "language": "ar",
+  "history": []
+}

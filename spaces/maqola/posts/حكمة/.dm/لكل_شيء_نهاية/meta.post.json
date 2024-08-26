@@ -1,0 +1,46 @@
+{
+  "uuid": "8576652b-9b1c-4f97-99a6-0399d467f565",
+  "shortname": "لكل_شيء_نهاية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لكل شيءٍ نهايةٌ"},
+  "updated_at": "2014-02-01T11:51:18Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0320593737c13ce481a68b5b62e2b696dbbc700d",
+    "bytesize": 236,
+    "body": "أيّها الحامِلُ هَمّاً ..........................إنّ هذا لا يدومُ<br> مثلما تفنى المسراتُ............... كَذا تَفنى الهُمومُ<span class=\"maqola_body\"> <br> <br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-01T11:51:08Z",
+  "attributes": {
+    "old_id": 753
+  },
+  "language": "ar",
+  "history": []
+}

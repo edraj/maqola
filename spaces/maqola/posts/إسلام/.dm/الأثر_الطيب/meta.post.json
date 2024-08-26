@@ -1,0 +1,43 @@
+{
+  "uuid": "0dbd55f3-6e35-43ae-996a-9701a2526d89",
+  "shortname": "الأثر_الطيب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الأثرُ الطَّيب"},
+  "updated_at": "2010-11-21T10:02:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a771de44954e9e86b61ba0cd669e138888cdb8ba",
+    "bytesize": 331,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">ولدَتكَ أُمُّكَ يا ابنَ آدمَ باكياً -- والنّاسُ حَولَكَ يَضحَكونَ سُرورا<br />\r\n\tإعمَلْ لِنَفسِكَ أَنْ تَكونَ إذا بَكَوا -- في يَومِ مَوتِكَ ضاحِكاً مَسروراً</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "شِعر"
+  ],
+  "created_at": "2010-11-21T10:02:24Z",
+  "attributes": {
+    "old_id": 209
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "26ff6d32-8096-4a1b-befc-88ce0f043ca1",
+  "shortname": "26ff6d32",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-05-14T12:52:58Z",
+  "author_locator": { "type": "content",
+    "uuid": "5e975a5c-7a30-4378-9363-45387117f987",
+    "shortname": "eyad_albuzum",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-05-14T12:52:58Z",
+  "attributes": {
+    "old_id": 454,
+    "old_entry_id": 1265
+  },
+  "language": "en",
+  "location": {
+    "uuid": "26ff6d32-8096-4a1b-befc-88ce0f043ca1",
+    "shortname": "26ff6d32",
+    "subpath": "posts/حديث_شريف",
+    "space_name": "maqola",
+    "parent_shortname": "حرمة_مصافحة_الاجنبية",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

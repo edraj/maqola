@@ -1,0 +1,23 @@
+{
+  "uuid": "21a3c41e-57c8-45c0-982e-c274c33824b6",
+  "shortname": "21a3c41e",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "3c8d7816-868c-4009-82e1-a1a03367e281",
+    "shortname": "المحامي_أحمد_الهاشمي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-07-16T13:38:23Z",
+  "attributes": {
+    "old_id": 1007,
+    "old_entry_id": 383
+  },
+  "language": "en",
+  "type": "like"
+}

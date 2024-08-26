@@ -1,0 +1,46 @@
+{
+  "uuid": "e0b67855-e248-48d0-bc31-a8edc8f11695",
+  "shortname": "الصمت_والهيبة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصمت والهيبة"},
+  "updated_at": "2014-02-01T16:25:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2d02b0b6dc46c3bb0603768f9a9450adf7d3c108",
+    "bytesize": 195,
+    "body": "قالَ يحيى بن خالد: ما رأيتُ أحدا قط صامتا إلا هبتهُ حتى يتكلمَ، فإما أن تزدادَ تلكَ الهيبةُ أو تنقصُ. <br> <br>  \r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-01T16:25:03Z",
+  "attributes": {
+    "old_id": 764
+  },
+  "language": "ar",
+  "history": []
+}

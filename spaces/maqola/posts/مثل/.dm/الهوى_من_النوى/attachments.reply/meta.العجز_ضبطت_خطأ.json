@@ -1,0 +1,29 @@
+{
+  "uuid": "e412295a-a2ab-40cf-b420-669ef0dea951",
+  "shortname": "العجز_ضبطت_خطأ",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العَجُزُ ضبطت خطأ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3995c9f0cd088daf9e60e7c2051186a80399d242",
+    "bytesize": 122,
+    "body": "العَجُزُ  ( بفتح العين ، وضم الجيم ) ، وهو الشطر الأخير من كل بيت شعري"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-05T16:12:59Z",
+  "attributes": {
+    "old_id": 273,
+    "old_entry_id": 317
+  },
+  "language": "ar"
+}

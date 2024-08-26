@@ -1,0 +1,42 @@
+{
+  "uuid": "320cdebf-2237-4cee-aebd-94bf77802d67",
+  "shortname": "آفات_اللسان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"آفات اللسان..."},
+  "updated_at": "2010-11-04T03:21:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9b3e663bfcbd24ed0d8950131263cce0ad571af1",
+    "bytesize": 1581,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">وفي اللسانِ آفتانِ عَظيمَتان، إنْ خَلَصَ مِن إحداهِما لم يَخلُصْ م</span></span><span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">ِن الأخرى:<br />\r\n\tآفةُ الكلامِ، وآفةُ السكوتِ، وقَد يَكونُ كُلٌّ مِنهُما أعظَمُ إثمًا مِن الأخرى في وقتِها.<br />\r\n\tفالساكتُ عَن الحقِّ شَيطانٌ أخرَس، عاصٍ لله، مُراءٍ مُداهن إذا لم يخف على نفسه، والمُتكَلِّمُ بالباطلِ شَيطانٌ ناطق عاصٍ لله، وأكثر الخلقِ مُنحَرفٌ في كَلامِهِ وَسُكوتِه فَهُم بين هذين النوعينِ.<br />\r\n\tوأهلُ الوسط: وهم أهل الصراطِ المستقيمِ - كَفُّوا ألسنتَهم عَن الباطلِ، وأطلَقوها فيما يعودُ عليهم نفعُهُ في الآخرة، فلا ترى أحَدهم يَتكلمُ بكلمةٍ تُذهبُ عَليهِ ضَائعةً بلا منفعة، فضلاً عَن أنْ تَضُرُّهُ في الآخرة.<br />\r\n\tوإنَّ العبدَ ليأتي يومَ القيامة بِحسناتٍ أمثالَ الجبال فيَجدُ لِسانَهُ قَد هَدمَها كُلَّها. ويأتي بسيئاتٍ أمثالَ الجبالِ فيجدُ لسانَهُ قد هدمها مِن كَثرةِ ذكر الله وما اتصل به.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6ad06172-0310-4867-a7aa-30b8f2cd7ceb",
+    "shortname": "ابن_القيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-11-04T03:21:32Z",
+  "attributes": {
+    "old_id": 137
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "dfdfc858-3212-45d8-a3fc-cdc5de5681bf",
+  "shortname": "الذبيح_الصاعد_مفدي_زكرياء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الذبيح الصاعد مفدي زكرياء"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:798cfdd83b7c3b68d2af5e8ffc396c8101338c29",
+    "bytesize": 1131,
+    "body": "<p>قام يختال كالمسيح وئيدا يتهادى نشوانَ، يتلو النشيدا</p><p><br><br>باسمَ الثغر، كالملائك، أو كالط فل، يستقبل الصباح الجديدا</p><p><br><br>شامخاً أنفه، جلالاً وتيهاً رافعاً رأسَه، يناجي الخلودا</p><p><br><br>رافلاً في خلاخل، زغردت تم لأ من لحنها الفضاء البعيدا!</p><p><br><br>حالماً، كالكليم، كلّمه المج د، فشد الحبال يبغي الصعودا</p><p><br><br>وتسامى، كالروح، في ليلة القد ر، سلاماً، يشِعُّ في الكون عيدا</p><p><br><br>وامتطى مذبح البطولة مع راجاً، ووافى السماءَ يرجو المزيدا</p><p><br><br>وتعالى، مثل المؤذن، يتلو… كلمات الهدى، ويدعو الرقودا</p><p><br><br>صرخة، ترجف العوالم منها ونداءٌ مضى يهز الوجودا:</p><p><br><br>((اشنقوني، فلست أخشى حبالا واصلبوني فلست أخشى حديدا))</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f4bf8a35-7a96-4c0d-b85f-d71835a7ce40",
+    "shortname": "وسيم_النورس",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-02-05T14:56:34Z",
+  "attributes": {
+    "old_id": 991
+  },
+  "language": "ar",
+  "history": []
+}

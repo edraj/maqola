@@ -1,0 +1,29 @@
+{
+  "uuid": "69568573-d6cf-4d7d-9fc9-f0a669c3689f",
+  "shortname": "لغز_في_أبيات",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لُغزٌ في أبيات "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7fe2d1cd95a1f1b066bb34a6fa60e9dcd719b490",
+    "bytesize": 28,
+    "body": "الجواب هو القلم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-30T14:23:08Z",
+  "attributes": {
+    "old_id": 501,
+    "old_entry_id": 487
+  },
+  "language": "ar"
+}

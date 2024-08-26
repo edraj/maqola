@@ -1,0 +1,42 @@
+{
+  "uuid": "9cfac639-4a9d-4415-8e02-0e51f03f514b",
+  "shortname": "هذا_زياد_بن_أبي_سفيان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هذا زياد بن أبي سفيان"},
+  "updated_at": "2010-10-23T14:19:09Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6c7ef848f0620afd21fc0e801601f66ed05a314e",
+    "bytesize": 2218,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">كانت سُميّة أم زياد بن أبيه بغيّا، وكان أبو سفيان بن حرب يقول:‏ ‏ أنا واللّه وضعتُه في رحم أمّه سميّة وما له أبٌ غيري. </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">ف</span></span><span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">َلمّا وُلـِّيَ معاوية الخلافة صعد المنبر وأمر زيادًا فصعد معه، ثم قال: أيها الناس، إني قد عرفتُ شَبَهَنَا أهلَ البيت في زياد، فمن كانت عنده شهادة فَلْيُقِمْها.‏ ‏ فقام الناس فشهدوا أنه ابن أبي سفيان، وجمع له معاوية الكوفة والبصرة.‏ ‏ </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">وكان رجل من بني مخزوم أعمى يُكنّى أبا العُريان، فمرَّ به زياد في موكبه، فقال الأعمى:‏ ‏ مَن هذا؟ قالوا: زياد بن أبي سفيان. قال: ما ولد أبو سفيان إلا فلانًا وفلانًا، فمَن هذا، فواللّه لرُبَّ أمرٍ قد نقضه اللّه، وبيتٍ قد هدمه اللّه، وعبدٍ قد ردَّه اللّه إلى مواليه.‏ ‏ </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">فبلغ معاوية قوله، فأرسل إلى زياد:‏ ‏ ثكِلَتْك أمّك، اقطَعْ لسانَ أعمى بني مخزوم! فبعث إليه زياد بألف دينار، وقال لرسوله:‏ ‏ أقرئْه السلام، وقل له: يقول لك ابن أخيك أَنْفِقْ هذه حتى يأتيك مثلُها.‏ ‏ ومرّ به زياد من الغد، فسلّم، فقال قائل: مَن هذا؟ فقال الأعمى المخزومي:‏ ‏ هذا زياد بن أبي سفيان! وجعل يبكي ويقول: واللّه إني لأعرف منه حَزْم أبي سفيان ونُبْله! ‏ ‏ ‏ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-10-23T14:19:09Z",
+  "attributes": {
+    "old_id": 108
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,18 @@
+{
+  "uuid": "1019b99e-d788-4a51-a1cf-512011bcc60a",
+  "shortname": "abalhawl.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:7731431f476f1c70b930cb8a5311a9491510be5b",
+    "bytesize": 276896,
+    "body": "abalhawl.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 14
+  },
+  "language": "en"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "43757418-9ab5-42f3-8493-ebb6aa3472cb",
+  "shortname": "العقل_يقع_على_العقل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العقل يقعُ على العقْلِ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:689e34bfdc2f687cec0eb275f4a8d71c75b80aed",
+    "bytesize": 793,
+    "body": "<p>جَاءَ فِى دُرر الحكم لأبى منصور الثعالبى : </p><p>قال \"ابن زُرَارة\": جالس العُقلاء أعْداءَّ كانوا أم أصدقاء، فالعقل يقعُ على العقْلِ.</p><p>و قيل لـ \"بُهْلول\": أًتَعُدُّ المجانين؟ قال: ها يطُولُ ولكني أعدُّ العُقَلاء!</p><p>و قيل لحكيم: من أنعمُ النَّاس عيشاً؟ قال: من: كُفىَ أمر دنياه، ولم يهْتَمْ لآخرته.</p><p>_________________________________________</p><p><br></p><p>حُرِرَتْ مِنْ قِبَل : أُسَامَة الحُصَرِى</p><p><a href=\"https://www.facebook.com/osama.elhosary\">https://www.facebook.com/osama.elhosary</a>.٧</p><p><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "3defc0b7-8c89-4965-b0ac-944be80d283d",
+    "shortname": "usama_elhosary",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-07-19T22:26:16Z",
+  "attributes": {
+    "old_id": 1408
+  },
+  "language": "ar",
+  "history": []
+}

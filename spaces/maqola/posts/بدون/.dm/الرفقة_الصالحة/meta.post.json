@@ -1,0 +1,41 @@
+{
+  "uuid": "3a50f3d1-634b-4643-a900-98ecbe7585f3",
+  "shortname": "الرفقة_الصالحة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الرفقة الصالحة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2cc586f690edef53bca138480a0af8585110edd6",
+    "bytesize": 241,
+    "body": "<p>قال الفاروق عمر بن الخطاب رضي الله عنه:\"ما أعطي العبد بعد الإسلام نعمة.. خيراً من أخ صالح،، فإذا وجد أحدكم وداً من أخيه فليتمسك به\".</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "31520441-be44-4f25-8bf0-d6e5526e0446",
+    "shortname": "islame_laddada",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-05-22T13:23:40Z",
+  "attributes": {
+    "old_id": 1286
+  },
+  "language": "ar",
+  "history": []
+}

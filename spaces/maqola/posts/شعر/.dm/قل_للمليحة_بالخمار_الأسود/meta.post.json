@@ -1,0 +1,43 @@
+{
+  "uuid": "d7301507-b58e-4364-bb32-fe4937b3cb3d",
+  "shortname": "قل_للمليحة_بالخمار_الأسود",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قُل للمَليحَةِ بالخِمارِ الأسود"},
+  "updated_at": "2010-12-03T06:16:41Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:aa2b66efddb871065211a5689599a9bd62933538",
+    "bytesize": 1911,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قَدِمَ تاجرٌ إلى المدينة يَحمِلُ مِن خُمُرِ العراق <a href=\"#one\">[1]</a> فَباعها كُلَّها إلا السود، فشكا إلى الدارِمي ذلك وكان الدارِمي قَد نَسكَ وتَعبَّدَ، فَعمل أبيات وأُمِرَ مَن يُغَنِّي بِهما في المدينة ...<br />\r\n\t<span style=\"font-family: UthmanTN1B,&quot;Traditional Arabic&quot;;\">قُلْ للمَليحَةِ في الخِمارِ الأسودِ -- ماذا فَعَلتِ بِزاهِدٍ مُتَعبِّدِ<br />\r\n\tقَد كان شَمَّرَ للصلاةِ إزارَهُ -- حَتى قَعَدتِ لَه بِبابِ المَسجدِ<br />\r\n\tرُدِّي عَلَيهِ صَلاتَهُ وصيامَهُ -- لا تَقتُليهِ بِحَقِّ دِينِ مُحَمَّدِ</span><br />\r\n\tقيل فشاعَ الخبرُ في المدينة أنَّ الدارِمي رَجعَ عَن زُهدِه وتَعشَّقَ صاحِبةَ الخِمارِ الأسود فَلم يَبقَ في المدينة مَليحةً إلا اشترت لها خماراً أسود فلما أنفذ التاجر ما كان معه رَجعَ الدارمي إلى تَعَبُّدِه وعَمدَ إلى ثِيابِ نُسكِه فَلَبِسَها.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">هذه براعةٌ في الإعلانات التجارية! ريما فاقت إعلان ميسسي و كي أف سي :)<br />\r\n\t</span></span><br />\r\n\t___________<br />\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\"><a id=\"one\" name=\"one\"> [1] الخُمُر هي جمع خِمار والخِمارُ هوَ غِطاءُ الرأس. وليس كما يُظنُّ خطأً غطاء الوجه. </a> </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-03T06:09:08Z",
+  "attributes": {
+    "old_id": 301
+  },
+  "language": "ar",
+  "history": []
+}

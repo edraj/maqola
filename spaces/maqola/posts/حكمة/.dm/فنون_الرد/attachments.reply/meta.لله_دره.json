@@ -1,0 +1,29 @@
+{
+  "uuid": "6300b0bb-b854-4102-84bd-8ad94db33ddb",
+  "shortname": "لله_دره",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":" لله دره "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e1ec08ea3c205e41cb43fe70e51cfc2265173329",
+    "bytesize": 14,
+    "body": "لله دره "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "5d3c9fa7-430d-4734-82a5-4c4427f39540",
+    "shortname": "ابو_سامي_صوفي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-02-18T16:55:33Z",
+  "attributes": {
+    "old_id": 816,
+    "old_entry_id": 803
+  },
+  "language": "ar"
+}

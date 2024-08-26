@@ -1,0 +1,43 @@
+{
+  "uuid": "61cf1a37-dff4-477a-9095-4e90806a6774",
+  "shortname": "بالأخلاق_تجذب_القلوب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بالأخلاق تجذب القلوب"},
+  "updated_at": "2015-09-19T17:25:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7b5bd8f7f2ac22a00b9e8b8e4e791b06ceede958",
+    "bytesize": 211,
+    "body": "<p><span class=\"kufi\"></span></p><p><span class=\"kufi\">بالعلم تجذب العقول وبالأخلاق تجذب القلوب</span></p><p><span class=\"uthmanb\">'' مصطفى نور الدين ''</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "7cadbd4a-0424-46a1-8ef1-58802bc79851",
+    "shortname": "التنمية_البشرية",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة"
+  ],
+  "created_at": "2015-09-18T08:47:40Z",
+  "attributes": {
+    "old_id": 1512
+  },
+  "language": "ar",
+  "history": []
+}

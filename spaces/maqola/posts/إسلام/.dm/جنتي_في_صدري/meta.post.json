@@ -1,0 +1,43 @@
+{
+  "uuid": "ae200c1a-99fe-4da2-b7d2-e734ca4f3d87",
+  "shortname": "جنتي_في_صدري",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جنتي في صدري.."},
+  "updated_at": "2010-11-04T03:01:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:df05a6e2a4e5f986c8ae48362b9ae608200d428d",
+    "bytesize": 744,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">&#160;لَمّا أُلقي شِيخُ الإسلامِ ابن تيميةَ في سجنِ القلعةِ بدمشق ظَلَّ فيهِ عامًا وبِضعَةُ أشهرٍ، وقَد تَمَّت محٌاولةٌ لإخراجِهِ مِن السِجنِ مُقابِلَ أن يَتَخلّى عَن بَعضِ فتاواه فأبى وكان يقول:<br />\r\n\tما يَصنَعُ بي أعدائي؟ إنَّ جَنَّتي وبُستاني في صَدري، أين رُحت: فَجَنَّتي مَعي ولا تُفارِقُني، إنَّ حَبسي خلوةٌ، وإخراجي مِن بلدي سياحةٌ، وقتلي شهادة.</span></span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "قِصّة"
+  ],
+  "created_at": "2010-11-04T03:01:45Z",
+  "attributes": {
+    "old_id": 132
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "d0920647-fdbc-455f-b684-b23ebbe090e3",
+  "shortname": "عليك_بتقوى_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عليكَ بِتقوى الله"},
+  "updated_at": "2010-11-21T09:51:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:38448214ba476bd6b7c9cab7c8b168e097eeec00",
+    "bytesize": 784,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">عَليكَ بِتقوى اللهِ إن كُنتَ غافِلاً -- يأتيكَ بالأرزاقِ مِن حَيثُ لا تَدري<br />\r\n\tفَكيفَ تَخافُ الفَقرَ والله رازقاً -- فَقَدْ رَزَقَ الطَّيرَ والحوتَ في البَحر<br />\r\n\tومَن ظَنَّ أن الرِّزقَ يأتي بِقوةٍ -- لما أكلَ العُصفورُ شيئا مع النَّسر<br />\r\n\tتَزولُ عَن الدُّنيا فإنَّكَ لا تَدري -- إذا جَنَّ لَيلٌ هَلْ تَعِشْ إلى الفَجر<br />\r\n\tفَكَم مِن صَحيحٍ ماتَ مِن غَيرِ عِلَّةٍ -- وَكَم مِن سَقيمٍ عاشَ حينا مِن الدَّهر </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2010-11-21T09:51:45Z",
+  "attributes": {
+    "old_id": 208
+  },
+  "language": "ar",
+  "history": []
+}

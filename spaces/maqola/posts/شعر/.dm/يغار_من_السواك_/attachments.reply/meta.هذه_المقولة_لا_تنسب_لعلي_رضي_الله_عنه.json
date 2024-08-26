@@ -1,0 +1,29 @@
+{
+  "uuid": "85e0e94f-6eb4-4e03-8c8a-b7077930e1fb",
+  "shortname": "هذه_المقولة_لا_تنسب_لعلي_رضي_الله_عنه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هذه المقولة لا تُنسب لعلي رضي الله عنه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:759c859053a6d900fbb8bfe72c4dd04788d0babf",
+    "bytesize": 506,
+    "body": "البيتان ليسا لعلي - رضي الله عنه - جزما، بل هما لبعض المتأخرين. وقد ابتلي علي - رضوان الله عليه، بكثرة الوضع عليه, فليتقّ الله من ينسب إلى هذا الصحابي الجليل ما لم يقل, ومن تأمّل صُنعَ الكلمات يُتّصح له أن هذا أبعد ما يكون عن شعر القرن الأول بل هو من شعر المُتأخرّين. والله تعالى أعلم."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-05T06:07:03Z",
+  "attributes": {
+    "old_id": 617,
+    "old_entry_id": 246
+  },
+  "language": "ar"
+}

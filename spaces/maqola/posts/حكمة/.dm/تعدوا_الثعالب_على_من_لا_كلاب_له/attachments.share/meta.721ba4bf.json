@@ -1,0 +1,33 @@
+{
+  "uuid": "721ba4bf-c928-4142-a115-ead6b8fdb865",
+  "shortname": "721ba4bf",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-05-19T20:32:05Z",
+  "author_locator": { "type": "content",
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-05-19T20:32:05Z",
+  "attributes": {
+    "old_id": 458,
+    "old_entry_id": 1278
+  },
+  "language": "en",
+  "location": {
+    "uuid": "721ba4bf-c928-4142-a115-ead6b8fdb865",
+    "shortname": "721ba4bf",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "تعدوا_الثعالب_على_من_لا_كلاب_له",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

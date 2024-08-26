@@ -1,0 +1,42 @@
+{
+  "uuid": "1c8b466c-069a-4918-8971-398d466bb10e",
+  "shortname": "محبة_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"محبة الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a1c35024d2da635aaab85c5e3e6bf21e6fcef367",
+    "bytesize": 433,
+    "body": "<p>قال ابن تيمية: (وليس للقلوب سرور ولا لذة تامة إلا في محبة الله والتقرب إليه بما يحبه، ولا تمكن محبته إلا بالإعراض عن كل محبوب سواه، وهذا حقيقة لا إله إلا الله)مجموع الفتاوى 32/28</p><p><a href=\"https://www.facebook.com/saballahkofr\">صفحة \"سب الرحمن موجب للكفران\"</a></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "2417c237-6152-4c30-91e0-2823361d0339",
+    "shortname": "يعقوب_قناديل",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة"
+  ],
+  "created_at": "2015-06-09T19:45:53Z",
+  "attributes": {
+    "old_id": 1340
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "69275a22-163f-420b-9ce0-29655578492f",
+  "shortname": "لبيك_إسلام_البطولة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لبيك إسلام البطولة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:10da580b23ba5e156e6a20e9d4949f4b2ad99db2",
+    "bytesize": 1755,
+    "body": "<p>لبيك إسلام البطولة كلنا نفدي الحمى  </p><p><br><br> لبيك و اجعل من جماجمنا لعزك سلما </p><p><br><br> لبيك إن عطش اللواء سكب الشباب له الدمى  </p><p><br><br> لبيك ... لبيك ... لبيك  </p><p><br><br> هذي الجموع غدا سيجمع شملها في دولتي  </p><p><br><br> و لسوف تنهض كي تحطم باطلا في جولتي  </p><p><br><br> و لسوف تنهض في الآفاق الشامخات زمرتي </p><p><br><br> لبيك ... لبيك ... لبيك  </p><p><br><br> يا قدس إني قد وهبتك من شراييني دمي  </p><p><br><br> قسما و لن أرضى حلولا تستبيح كرامتي  </p><p><br><br> حانون حيفا و الجليل أنّت فصاحت غضبتي  </p><p><br><br> لبيك ... لبيك ... لبيك  </p><p><br><br> لون الدماء غدا سيصنع من كتابي عزتي  </p><p><br><br> و لسوف نقضي كي تعيش على الكرامة أمتي  </p><p><br><br> و لسوف تهتف باسمه الأطفال عاشت رايتي  </p><p><br><br> لبيك ... لبيك ... لبيك  </p><p><br><br> زحفا جيوش الله عادت تنطلق من مسجدي  </p><p><br><br> تفني صليب الغدر تثأر من لئيم معتدي </p><p><br><br> تعلي هتاف الحق تنهض من شريعة أحمدِ  </p><p><br><br> لبيك ... لبيك ... لبيك  </p><p><br><br> يا ربي إني قد دعوتك فاستجب لي دعوتي  </p><p><br><br> قد جئت أنتظر اللقا يوما فعجل رفعتي  </p><p><br><br> هذا سبيل المؤمنين فآمنن لي روعتي  </p><p><br><br> لبيك ... لبيك ... لبيك</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2015-02-05T13:01:05Z",
+  "attributes": {
+    "old_id": 990
+  },
+  "language": "ar",
+  "history": []
+}

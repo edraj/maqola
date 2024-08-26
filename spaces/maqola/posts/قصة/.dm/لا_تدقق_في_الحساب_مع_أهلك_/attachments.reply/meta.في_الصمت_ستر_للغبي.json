@@ -1,0 +1,29 @@
+{
+  "uuid": "74104632-e76b-47c9-95cd-3c31fc17ee92",
+  "shortname": "في_الصمت_ستر_للغبي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في الصمت سترٌ للغبي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:64174bd4c3e7d509ad6c28ae52b9b5d304daddc5",
+    "bytesize": 263,
+    "body": "أقول للمجهول: في الصمت سترٌ للغبي و إنما *** صحيفة لب المرء أن يتكلما اذهب و تعلم قبل أن تنتقد و تناطح، و صدق من قال:(من تحدث في غير فنه أتي بالعجائب)."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-12-18T16:01:16Z",
+  "attributes": {
+    "old_id": 586,
+    "old_entry_id": 131
+  },
+  "language": "ar"
+}

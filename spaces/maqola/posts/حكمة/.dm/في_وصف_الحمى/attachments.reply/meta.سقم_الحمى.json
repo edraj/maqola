@@ -1,0 +1,29 @@
+{
+  "uuid": "30f68240-c21e-4c0c-9979-322f29afc3f7",
+  "shortname": "سقم_الحمى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سقم الحمى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b7a73f35a4a22bed3570b789346e386f5537fbdb",
+    "bytesize": 250,
+    "body": "هنا صف الشاعر  الحمى أرتفاع درجة الحرارة عند المحموم و أسقامها فطبيعة المرض يشتد على صاحبه ليلا وخاصة عند أنقطاع الحركة وشدة السكون ليلا  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-19T17:37:24Z",
+  "attributes": {
+    "old_id": 325,
+    "old_entry_id": 1
+  },
+  "language": "ar"
+}

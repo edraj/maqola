@@ -1,0 +1,33 @@
+{
+  "uuid": "d449d7bc-b6be-47ee-b4fc-ac1411109251",
+  "shortname": "d449d7bc",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-06T01:33:04Z",
+  "author_locator": { "type": "content",
+    "uuid": "21327be8-3be7-4ee1-96a6-d33a91a12be9",
+    "shortname": "abdenacer_bencherif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-06T01:33:04Z",
+  "attributes": {
+    "old_id": 264,
+    "old_entry_id": 994
+  },
+  "language": "en",
+  "location": {
+    "uuid": "d449d7bc-b6be-47ee-b4fc-ac1411109251",
+    "shortname": "d449d7bc",
+    "subpath": "posts/بدون",
+    "space_name": "maqola",
+    "parent_shortname": "عمق_فلسفي",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

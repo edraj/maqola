@@ -1,0 +1,43 @@
+{
+  "uuid": "cb5b4165-8b5b-4685-be06-b3f56c6f8823",
+  "shortname": "كيف_يقيم_الرجال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كيف يُقَيَّمُ الرجال"},
+  "updated_at": "2013-04-07T11:00:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2263609dea090092f5f01bb89f37d0870392a805",
+    "bytesize": 377,
+    "body": "<span class=\"uthman\"><span class=\"fontxlarge\">لا تنظرنّ لأثوابٍ على رجلٍ - إن رُمت تعرفه فانظر إلى الأدبِ <br>فالعودُ لو لم تفح منه روائِحُهُ - ما فرّقَ الناسُ بينَ العودِ والحطبِ!<span class=\"maqola_body\"> <br> </span></span><span class=\"maqola_body\"><br>  </span></span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2013-04-07T11:00:39Z",
+  "attributes": {
+    "old_id": 563
+  },
+  "language": "ar",
+  "history": []
+}

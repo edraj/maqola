@@ -1,0 +1,45 @@
+{
+  "uuid": "1774ff3c-f8ee-4e6e-a6bb-94a12c3e426c",
+  "shortname": "سلسلة_مناهج_وضعت_لنا__2_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سلسلة مناهج وضعت لنا [ 2 ]"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8e3d19cadbc04af2bb7f1754c4a18ed2283eac5d",
+    "bytesize": 433,
+    "body": "<p>الزيادة في حديث حذيفة بن اليمان رضي الله عنه في صحيح مسلم : \" وإن ضرب ظهرك ، وأخذ مالك ، فاسمع وأطع \". هذه الزيادة ضعيفة ومنكرة .</p><p><br></p><p>‫#‏مناهج_وضعت_لنا‬<br>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف",
+    "سِياسَة",
+    "قَدح",
+    "مَثَل"
+  ],
+  "created_at": "2015-07-15T07:55:04Z",
+  "attributes": {
+    "old_id": 1397
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "00a5d383-6140-444d-98e9-c8de8c3f5e71",
+  "shortname": "الرهان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الرهان"},
+  "updated_at": "2014-02-03T11:13:06Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ed3e8dcfcde75e47399266ca8dcfe63c14447eca",
+    "bytesize": 300,
+    "body": "<p></p><div><div>الرِهانُ بكسرِ الراءِ مصدرُ راهن يراهنُ رهانا ومراهنةَ إذا خاطرَ ويكونُ في المسابقاتِ على الخيلِ غالبا ويكونُ في غيرها.<p></p></div></div><span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-02-03T11:12:57Z",
+  "attributes": {
+    "old_id": 784
+  },
+  "language": "ar",
+  "history": []
+}

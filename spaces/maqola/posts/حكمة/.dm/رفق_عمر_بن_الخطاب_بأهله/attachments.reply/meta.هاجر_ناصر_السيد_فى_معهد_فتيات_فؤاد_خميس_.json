@@ -1,0 +1,29 @@
+{
+  "uuid": "ecdd2a0c-f3ca-4297-aaf3-1ca9bfa0eacd",
+  "shortname": "هاجر_ناصر_السيد_فى_معهد_فتيات_فؤاد_خميس_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هاجر ناصر السيد (فى معهد فتيات فؤاد خميس)"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8a60ace94a5f9d7af43eb14f0026f8597dc53c27",
+    "bytesize": 157,
+    "body": "والله ان الفقرة السابقة منقولة من كتاب المطالعة والنصوص بالصف الاول الاعدادى الازهرى "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-03-06T13:38:27Z",
+  "attributes": {
+    "old_id": 603,
+    "old_entry_id": 56
+  },
+  "language": "ar"
+}

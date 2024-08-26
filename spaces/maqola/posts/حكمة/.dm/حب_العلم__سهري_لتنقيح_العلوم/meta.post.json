@@ -1,0 +1,44 @@
+{
+  "uuid": "1b60f26a-ecca-4bda-9b99-0cf46c550538",
+  "shortname": "حب_العلم__سهري_لتنقيح_العلوم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حب العلم...  سهري لتنقيح العلوم"},
+  "updated_at": "2013-09-01T11:55:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:96a4174776f4ffb39a08eed263c3188206e1557d",
+    "bytesize": 862,
+    "body": "<span class=\"fontsmall\"></span><span class=\"maqola_body\"> <span class=\"uthman\">سهري لتنقيح العلوم ألذ لي *** من وصل غانية وطيب عناق<br>\r\n<br>\r\nوتمايلي طربا لحل عويصة *** أشهى وأحلى من مدامة ساقي<br>\r\n<br>\r\nوصرير أقلامي على أوراقها *** أحلى من الدوكاء والعشاق<br>\r\n<br>\r\nوألذ من نقر الفتاة لدفها *** نقري لألقي الرمل عن أوراقي<br>\r\n<br>\r\nيا من يحاول بالأماني رتبتي *** كم بين مستغل وآخر راقي<br>\r\n<br>\r\nأأبيت سهران الدجى وتبيته *** نوما وتبغي بعد ذاك لحاقي</span><br><br><span class=\"fontsmall\"><span class=\"fonttohama\">لم استطع التاكد هل هي للشافعي ام للزمخري </span></span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "dcba9bf4-fefd-4ddb-ab37-ef862cebabab",
+    "shortname": "امين_صرصور",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر",
+    "عُلوم"
+  ],
+  "created_at": "2013-09-01T11:55:29Z",
+  "attributes": {
+    "old_id": 663
+  },
+  "language": "ar",
+  "history": []
+}

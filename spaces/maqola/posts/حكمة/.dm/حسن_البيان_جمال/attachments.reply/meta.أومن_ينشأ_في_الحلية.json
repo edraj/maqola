@@ -1,0 +1,29 @@
+{
+  "uuid": "2a2e5176-d998-428b-9edf-48bf3e39ca28",
+  "shortname": "أومن_ينشأ_في_الحلية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أَوَمَنْ يُنَشَّأُ فِي الْحِلْيَةِ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8bad1fa72e1d9ffe357cf5f7b6d28384eb772597",
+    "bytesize": 158,
+    "body": "أَوَمَنْ يُنَشَّأُ فِي الْحِلْيَةِ وَهُوَ فِي الْخِصَامِ غَيْرُ مُبِينٍ ﴿18﴾ - الزخرف"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-24T01:39:20Z",
+  "attributes": {
+    "old_id": 345,
+    "old_entry_id": 413
+  },
+  "language": "ar"
+}

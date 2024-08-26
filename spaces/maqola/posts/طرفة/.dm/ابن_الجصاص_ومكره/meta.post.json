@@ -1,0 +1,42 @@
+{
+  "uuid": "49ee1a40-df7a-41c1-986f-03c18830d645",
+  "shortname": "ابن_الجصاص_ومكره",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ابن الجصّاص ومَكرِه"},
+  "updated_at": "2010-11-29T08:04:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f512550c7ecf09259239cb2ad9fe6f99a396b8bc",
+    "bytesize": 663,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">دَخلَ ابنُ الجصّاص على ابنٍ لَه قَد ماتَ وَلَدُه ، فبكى،<br />\r\n\tوقال: كفاكَ الله يا بُنيّ مِحنَةَ هاروتَ وماروت.<br />\r\n\tفقيل له: وما هاروتُ وماروت ؟<br />\r\n\tفقال: لَعنَ الله النسيانَ، إنما أردتُ يأجوجَ ومأجوج !<br />\r\n\tقيل: وما يأجوجُ ومأجوج ؟<br />\r\n\tقال: فطالوت وجالوت !<br />\r\n\tقيل له: لَعلَّكَ تُريدُ مُنكَراً ونَكيرا ؟<br />\r\n\tقال: والله ما أرَدتُ غَيرَهُما....</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-29T08:04:05Z",
+  "attributes": {
+    "old_id": 264
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "7dc95e4b-e3c2-4c93-9230-e258e6dcad26",
+  "shortname": "خــــــــــــــاطرة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خــــــــــــــاطرة"},
+  "updated_at": "2014-02-10T07:42:55Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f8a2cec66b2056493bdffee0f6124716823dad18",
+    "bytesize": 362,
+    "body": "<span class=\"maqola_body\"><span style=\"color: #366092;\"> <br> الإعتراف بمزايا الآخرين من مزايا الأنبياء.<br><br>قال الله تعالى عن موسى عليه السلام : \"وأخي هارون هو أفصح مني\"<br><br>وإنكارها من مزايا الشيطان : \"قال أنا خير منه\"</span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9efae5e1-3745-4909-8642-41a845d9b903",
+    "shortname": "wael_mandour",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-02-10T07:42:55Z",
+  "attributes": {
+    "old_id": 834
+  },
+  "language": "ar",
+  "history": []
+}

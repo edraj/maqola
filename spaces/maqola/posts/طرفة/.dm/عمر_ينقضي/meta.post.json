@@ -1,0 +1,42 @@
+{
+  "uuid": "9cece3ea-5665-4e52-9bea-ed639d5f8146",
+  "shortname": "عمر_ينقضي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عُمرٌ يَنقَضي"},
+  "updated_at": "2010-11-14T08:47:13Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fa6a33a3fb591486275d590931baaeeb8da616b7",
+    "bytesize": 755,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">عُمرٌ يَنقَضِي مَرَّ الإِعصَارِ، وَأَنتَ تَرجُوهُ مَدى الأَعصَارِ. ضِلَّةٌ لِرَأيَكَ الفَائِل، في ظِلِّكَ الزَّائِل. ما هو إلا بَيَاضُ نَهَارِكَ فتَغنَمُهُ، وَسَوَادُ لَيلِكَ فَلا تَنَمهُ. واتبَع مَن ضَرَبَ أَكبَادَ المَطِيِّ، بِكَنَفٍ وَطِيّ.</span></span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">من كِتَابِ أَطوَاقُ الذَّهَبِ في المَوَاعِظِ وَ الخُطَب</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c9e247e4-1671-41e5-b8f5-b1841b0f6f35",
+    "shortname": "الزمحشري",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e70cb39c-739b-4d5a-8d89-b40ad20f0b00",
+    "shortname": "عبدالكريم_جعافرة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-14T08:45:17Z",
+  "attributes": {
+    "old_id": 180
+  },
+  "language": "ar",
+  "history": []
+}

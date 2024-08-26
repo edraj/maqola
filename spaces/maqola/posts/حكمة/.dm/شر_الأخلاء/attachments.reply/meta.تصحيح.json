@@ -1,0 +1,29 @@
+{
+  "uuid": "aea3d1c9-9b04-403d-99b1-c6075f73c758",
+  "shortname": "تصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:60ca60d49fc5f8a13d55b64a0b8d32c9382f3c4e",
+    "bytesize": 185,
+    "body": "السلام عليكم, جزاكم الله خيرا, أود فقط ان الفت نظركم ان الصواب في البيت الشعري هو \\\"الخصب\\\" و ليس \\\"الخطب\\\""
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-01-11T03:50:51Z",
+  "attributes": {
+    "old_id": 380,
+    "old_entry_id": 454
+  },
+  "language": "ar"
+}

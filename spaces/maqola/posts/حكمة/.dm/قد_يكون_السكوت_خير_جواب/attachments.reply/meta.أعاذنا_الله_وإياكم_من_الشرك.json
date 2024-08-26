@@ -1,0 +1,29 @@
+{
+  "uuid": "1ecd5a86-8b11-466c-be98-175d7e12e65e",
+  "shortname": "أعاذنا_الله_وإياكم_من_الشرك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أعاذنا الله وإياكم من الشرك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bf9dafb7eb85de2326a346992fb0ecda15f41af4",
+    "bytesize": 443,
+    "body": "أخي ، استخدمت \\\"لعمرك\\\" في القرأن الكريم، واستخدم النبي صلى الله عليه وسلم \\\"لعمري\\\" كما استخدمها الصحابة رضوان الله عليهم. ولا يُقصَدُ عند استخدامها أن يقسم الإنسان بنفسه بدلا عن الله عزوجل. ولك أن تستزيد من المراجع أو أقوال العلماء. والله الموفق."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-23T03:33:49Z",
+  "attributes": {
+    "old_id": 341,
+    "old_entry_id": 404
+  },
+  "language": "ar"
+}

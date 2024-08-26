@@ -1,0 +1,43 @@
+{
+  "uuid": "9e487bad-d649-4b09-85ab-865b74d410da",
+  "shortname": "ثمن_الجوار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ثَمَنُ الجِوار."},
+  "updated_at": "2010-11-04T11:27:48Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6a34db65aebff1461462b944624f04575c60678a",
+    "bytesize": 1326,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">باعَ أبو الجَهم العَدوي دارَهُ، وكانَ في جوارِ سَعيدِ بن العاص، بمائةِ ألفِ دِرهم. فلَمّا أحضرَها المُشتَري قالَ له: هذا ثَمنُ الدّارِ، فأعطِني ثَمنَ الجوارِ، قال : أيُّ جِوار؟ قال: جِوارُ سعيدٍ بن العاص، قال : وهل اشترى أحدٌ جِواراً قَط؟</span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قال: رُدَّ عليَّ دراي، وخُذْ مالَك. لا أدَعُ جِوارَ رَجُلٍ إنْ قَعَدتُ سألَ عنّي، وإنْ رأني رَحَّبَ بي، وإنْ غِبتُ عَنهُ حَفِظَني، وإنْ شَهِدتُ عِندَهُ قَرَّبَني، وإنْ سألتُهُ قضى حاجَتي، وإنْ لَم أسألهُ بَدأني، وإنْ نابَتني نائِبَةٌ فَرَّجَ عَنِّي ...</span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">فَبَلغَ ذلكَ سعيداً فَبَعثَ إليهِ مائةَ ألفِ دِرهَم، وقال : هذا ثَمنُ دارِكَ، ودارُكَ لك.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة",
+    "كَرَم"
+  ],
+  "created_at": "2010-11-04T11:27:48Z",
+  "attributes": {
+    "old_id": 164
+  },
+  "language": "ar",
+  "history": []
+}

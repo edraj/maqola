@@ -1,0 +1,42 @@
+{
+  "uuid": "c723b297-ca0d-4e25-81c3-b05460fa94b1",
+  "shortname": "في_كل_هارف_في_غير_ما_يعرف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في كل هارف في غير ما يعرف"},
+  "updated_at": "2014-01-12T12:50:32Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c64c899233cf9a501e084f6e226a5be8142b191e",
+    "bytesize": 296,
+    "body": "<div><span class=\"maqola_body\">قال الحافظُ ابنُ حَجَر العَسْقلانِيّ في الفتح :</span></div><span class=\"maqola_body\"> <br>\"إذَا تَكَلَّمَ المَرْءُ في غَيْرِ فَنِّهِ ؛ أَتَى بِالعَجَائِبِ\" .<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a3b522e4-2a27-4598-aa55-eba5e171481e",
+    "shortname": "niazi_elhadi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-10-20T08:32:22Z",
+  "attributes": {
+    "old_id": 683
+  },
+  "language": "ar",
+  "history": []
+}

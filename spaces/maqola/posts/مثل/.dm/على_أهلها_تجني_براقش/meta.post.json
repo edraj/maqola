@@ -1,0 +1,42 @@
+{
+  "uuid": "03f75352-1bf0-4394-8168-04890e0bdf31",
+  "shortname": "على_أهلها_تجني_براقش",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عَلى أََهلِهاَ تَجني بَراقشُ"},
+  "updated_at": "2011-01-07T15:19:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0cbee0ba458804b9dc1b3e797f9ca1b7469096c0",
+    "bytesize": 501,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كانت بَراقشُ كلبةً لِقومٍ مِن العرب، فأُغيرَ علَيهم، فهَرَبُوا ومعهم بَراقش، فاتبع القومُ آثارَهُم بنُباح بَراقش، فهجموا عليهم فاصطلموهم (أي أبادوهم).</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">يُضربُ لمن يُلحق الأذى بنفسه أو قومه نتيجة قيامه بأفعال غير مقصودة.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2011-01-07T15:19:44Z",
+  "attributes": {
+    "old_id": 448
+  },
+  "language": "ar",
+  "history": []
+}

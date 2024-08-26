@@ -1,0 +1,29 @@
+{
+  "uuid": "fda9bf1e-3fcd-4013-8a4e-4bfd6a0532de",
+  "shortname": "الشجرة_العجيبة_في_بلاد_العرب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الشجرة العجيبة في بلاد العرب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d72d6aed3f5b5fc677a20239c4f1247a3f16e4f1",
+    "bytesize": 52,
+    "body": "قوة في البلاغة وحكمة في الرد "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-30T09:02:23Z",
+  "attributes": {
+    "old_id": 244,
+    "old_entry_id": 21
+  },
+  "language": "ar"
+}

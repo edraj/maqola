@@ -1,0 +1,33 @@
+{
+  "uuid": "54850e48-eae5-46ad-83af-217087327f90",
+  "shortname": "54850e48",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-04-28T18:06:25Z",
+  "author_locator": { "type": "content",
+    "uuid": "ab095b91-60aa-4674-a6ef-5b84e39bc318",
+    "shortname": "خالد_أبو_علي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-04-28T18:06:25Z",
+  "attributes": {
+    "old_id": 423,
+    "old_entry_id": 1207
+  },
+  "language": "en",
+  "location": {
+    "uuid": "54850e48-eae5-46ad-83af-217087327f90",
+    "shortname": "54850e48",
+    "subpath": "posts/فصاحة",
+    "space_name": "maqola",
+    "parent_shortname": "الأصول_العربية_للعامية_الجزائرية",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "d240498d-3f61-4172-b67a-497fa9ec39af",
+  "shortname": "الناس_لا_يستغني_بعضهم_عن_بعض",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الناسُ لا يَستغني بَعضُهم عَن بَعض"},
+  "updated_at": "2013-04-07T11:08:52Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b0bad59e040ca62aaf7e9050d085418e0f86639f",
+    "bytesize": 327,
+    "body": "<span class=\"maqola_body\"> سمع الفاروق رضي الله عنه رجلا يقول: اللهم أغننِ عن الناس، فقال: أراك تسألُ اللهَ الموتَ، قُل: اللهم أغننِ عَن شِرارِ الناس، فالناسُ لا يستغني بَعضُهم عَن بَعض.<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-04-07T11:08:47Z",
+  "attributes": {
+    "old_id": 564
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "2031f7be-7374-4484-b727-d42d222a41f5",
+  "shortname": "إنما_أنا_عبد__آكل_كما_يأكل_العبد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إِنَّمَا أَنَا عَبْدٌ، آكُلُ كَمَا يَأْكُلُ الْعَبْدُ"},
+  "updated_at": "2015-07-19T22:12:07Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b8cb04a1d42d0878aa5c87dd03edbd9de8485046",
+    "bytesize": 903,
+    "body": "<p>جَاءَ فِى الزُهْدِ لِلمُعَافَى بِن عِمرَان الموصلى </p><p>حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، قَالَ: سَمِعْتُ الْحَسَنَ، يَقُولُ: إِنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يُؤْتَى بِطَعَامٍ، فَيَأْمُرُ بِهِ فَيُوضَعُ عَلَى الْأَرْضِ، ثُمَّ يَقُولُ: «إِنِّي إِنَّمَا أَنَا عَبْدٌ، آكُلُ كَمَا يَأْكُلُ الْعَبْدُ» ، وَأَحْسَبُهُ قَالَ: «وَأَجْلِسُ كَمَا يَجْلِسُ الْعَبْدُ»</p><p>حُرِرَتْ مِنْ قِبَل : أُسَامَة الحُصَرِى </p><p><a href=\"https://www.facebook.com/osama.elhosary.7\">https://www.facebook.com/osama.elhosary.7</a><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "3defc0b7-8c89-4965-b0ac-944be80d283d",
+    "shortname": "usama_elhosary",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف"
+  ],
+  "created_at": "2015-07-19T21:38:33Z",
+  "attributes": {
+    "old_id": 1406
+  },
+  "language": "ar",
+  "history": []
+}

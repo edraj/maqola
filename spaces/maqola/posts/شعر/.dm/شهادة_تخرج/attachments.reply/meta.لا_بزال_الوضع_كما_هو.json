@@ -1,0 +1,29 @@
+{
+  "uuid": "61c35426-e5e2-4769-a43a-449ed2b1f411",
+  "shortname": "لا_بزال_الوضع_كما_هو",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا بزال الوضع كما هو"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e581c305607cd02d67d0f3b8769b300d93d64ef5",
+    "bytesize": 245,
+    "body": "لا بزال الوضع كما هو منذ قال هذا الخريج قصيدنه هذه بل هو أسوأ لكثرة الخريجين أولاً ثم لتعول أصحاب القرار ثانياً وفسادهم الذي زد كثيراًا"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "e6dcc35c-2ce6-4037-9332-6b385985dbfc",
+    "shortname": "ياسين_السعدي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-06-17T06:12:53Z",
+  "attributes": {
+    "old_id": 770,
+    "old_entry_id": 520
+  },
+  "language": "ar"
+}

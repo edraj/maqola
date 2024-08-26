@@ -1,0 +1,18 @@
+{
+  "uuid": "0c3c472c-a11f-40e6-8ecd-b906d9af61b2",
+  "shortname": "ma3akom.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:99ad6bf556f6657d5ed553a0b14d1034fd19a293",
+    "bytesize": 39285,
+    "body": "ma3akom.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:05+03:00",
+  "attributes": {
+    "old_id": 38
+  },
+  "language": "en"
+}

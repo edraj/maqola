@@ -1,0 +1,45 @@
+{
+  "uuid": "8eae2d94-c65b-40a5-bfcc-324d9e824b15",
+  "shortname": "إخوان_الصدق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إخوان الصدق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:588dcf7da80cb6801ab9fe78ac8c1c4ecf51597f",
+    "bytesize": 502,
+    "body": "<p>إخوانَ الصدقِ هم خيرُ مكاسبِ الدنيا ، هم زينةٌ في الرخاء ، وعدةٌ في الشدةِ ، ومعونةٌ على خيرِ المعاشِ والمعادِ. فلا تفرطن في اكتسابهم وابتغاء الوصلاتِ والأسبابِ إليهم.</p><p>- ابن المقنع</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p><p>تابعوني على فيسبوك : ياقوت الفرزدقي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "خاطِرة",
+    "مَثَل",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-06-12T16:52:27Z",
+  "attributes": {
+    "old_id": 1343
+  },
+  "language": "ar",
+  "history": []
+}

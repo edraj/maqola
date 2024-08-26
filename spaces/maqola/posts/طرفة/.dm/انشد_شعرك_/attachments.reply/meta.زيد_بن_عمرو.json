@@ -1,0 +1,29 @@
+{
+  "uuid": "e1a1dd70-ca7e-4a14-a324-a0ee0c6ac999",
+  "shortname": "زيد_بن_عمرو",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"زيد بن عمرو"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:140b18e492417ea0b4d60343db9cd71792ab81a4",
+    "bytesize": 192,
+    "body": "كلمة الله ذكرت في القرءان ٢٦٩٩ مرة.  كلمة الشيطان ٧٥ مرة. كلمة إبليس١١ مرة. كلمة آدم ٢٥ مرة. يابني آدم ٦ مرات"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "d8338e3e-0bf1-414d-a26b-34e5444b40ef",
+    "shortname": "زيد_بن_عمرو",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-05-26T22:09:12Z",
+  "attributes": {
+    "old_id": 877,
+    "old_entry_id": 331
+  },
+  "language": "ar"
+}

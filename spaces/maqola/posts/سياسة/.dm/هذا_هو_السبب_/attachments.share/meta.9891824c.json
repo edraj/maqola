@@ -1,0 +1,33 @@
+{
+  "uuid": "9891824c-8d91-4cf9-b08a-08eb3eee6c3e",
+  "shortname": "9891824c",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-10-25T18:42:58Z",
+  "author_locator": { "type": "content",
+    "uuid": "3ad3da84-7ac3-440b-a7ad-5d11cb2db3b6",
+    "shortname": "متفائل_بالخير",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-10-25T18:42:58Z",
+  "attributes": {
+    "old_id": 73,
+    "old_entry_id": 708
+  },
+  "language": "en",
+  "location": {
+    "uuid": "9891824c-8d91-4cf9-b08a-08eb3eee6c3e",
+    "shortname": "9891824c",
+    "subpath": "posts/سياسة",
+    "space_name": "maqola",
+    "parent_shortname": "هذا_هو_السبب..._",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "uuid": "87159c4c-f9e5-4ca0-ac33-f2843f45dc19",
+  "shortname": "bedol_hamaem2.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:015295b90fcaf8f79508a236068d8c6cb02ba52f",
+    "bytesize": 1703310,
+    "body": "bedol_hamaem2.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 6
+  },
+  "language": "en"
+}

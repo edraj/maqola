@@ -1,0 +1,42 @@
+{
+  "uuid": "8204180f-affd-4ce9-bdc9-b1061340c757",
+  "shortname": "تذكر_العجز_ونسي_الصدر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تذكّرَ العَجُزَ ونسيَ الصدر"},
+  "updated_at": "2010-11-29T08:07:06Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4b4803ca565c821556c68fbe78f2dd1e0dd4f60d",
+    "bytesize": 533,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">عادَ أحَدُهم رَجُلاً مريضاً فقال له: ما عِلَّتُك؟ قال: وَجَعُ الرُّكبَتين، فقال: قال جَريرٌ بيتاً ذَهَبَ مِنِّي صَدرُه وبَقي عَجُزُه وهو قَولُه: &quot;و لَيسَ لِداءِ الرُّكبتيِن طَبيبُ&quot;، فقال المريضُ: لابَشرَّكَ الله بالخير لَيتَكَ ذَكرتَ صَدرَهُ ونَسيتَ عَجُزَه.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-29T08:07:06Z",
+  "attributes": {
+    "old_id": 265
+  },
+  "language": "ar",
+  "history": []
+}

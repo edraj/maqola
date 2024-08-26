@@ -1,0 +1,45 @@
+{
+  "uuid": "afca3471-d667-4b3e-aafb-8c1a234fe321",
+  "shortname": "أشد_شيء_على_الرجال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أشد شيء على الرجال"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a45613ecec9f7ce3d3c58da65e5d56a791908814",
+    "bytesize": 389,
+    "body": "<p>وليسَ شيءٌ أشدُّ على الرِجال ولا أشنعَ عندهم في عقوبةِ السُلطان من حلقِ الرّءوسِ واللِّحى.</p><p><br></p><p>- من كتاب ( البرصان والعرجان والعميان والحولان ) للجاحظ ( المتوفى : 255هـ )</p><p>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عربية",
+    "قَدح",
+    "قَناعَة",
+    "لُغة عربيّة",
+    "مَثَل"
+  ],
+  "created_at": "2015-07-03T14:55:25Z",
+  "attributes": {
+    "old_id": 1376
+  },
+  "language": "ar",
+  "history": []
+}

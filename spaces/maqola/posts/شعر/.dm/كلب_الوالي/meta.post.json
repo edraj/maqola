@@ -1,0 +1,42 @@
+{
+  "uuid": "e280195b-256d-479c-b283-fdbd1cdccff8",
+  "shortname": "كلب_الوالي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كلب الوالي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fc5d3d4ae10de8c9d6017ef145c40a3937e3749f",
+    "bytesize": 790,
+    "body": "<table bgcolor=\"#efeeee\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tbody><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">كلب والينا المعظم </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">عضني اليوم ومات </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">فدعاني حارس الأمن لأعدم </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">عندما اثبت تقرير الوفاة </p></td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\" colspan=\"2\"><p class=\"poem\">أن كلب السيد الوالي تسمم</p></td></tr></tbody></table>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "طُرفَة"
+  ],
+  "created_at": "2015-02-04T16:28:23Z",
+  "attributes": {
+    "old_id": 987
+  },
+  "language": "ar",
+  "history": []
+}

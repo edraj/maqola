@@ -1,0 +1,42 @@
+{
+  "uuid": "188a54f3-81c1-4fd1-ab8b-1d00a8dce67c",
+  "shortname": "عبد_الله_بن_مسعود",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عبد الله بن مسعود"},
+  "updated_at": "2013-05-27T17:50:50Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f8d1e0f667fadd2512a2066c1dff0e177b190a93",
+    "bytesize": 125,
+    "body": "<span class=\"maqola_body\"> <br> لا يسبق بطيء بحظه، و لا يدرك حريص ما لم يقدر له.  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "d96ec278-67a5-4964-8e3e-939b8943e235",
+    "shortname": "taher_tarek",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-05-27T17:50:50Z",
+  "attributes": {
+    "old_id": 615
+  },
+  "language": "ar",
+  "history": []
+}

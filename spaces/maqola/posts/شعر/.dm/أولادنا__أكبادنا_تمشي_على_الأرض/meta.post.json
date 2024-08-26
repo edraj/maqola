@@ -1,0 +1,43 @@
+{
+  "uuid": "8c91ea73-471e-4703-aaec-299237ce1ec8",
+  "shortname": "أولادنا__أكبادنا_تمشي_على_الأرض",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أولادُنا، أكبادُنا تَمشي على الأرض"},
+  "updated_at": "2010-11-28T15:01:04Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:95359278b17da924e23eb75e9ac2a351b31c0ebb",
+    "bytesize": 503,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">لَولا بُنياتٍ كَزَغبِ القَطا -- حَطَطنَ مِن بَعضٍ إلى بَعضِ<br />\r\n\tلكان لي مُضطرَبٌ واسِعٌ -- في الأرضِ ذاتِ الطولِ والعرضِ<br />\r\n\tوإنَّما أولادُنا بَينَنا -- أكبادُنا تَمشي على الأرضِ<br />\r\n\tإنْ هَبَّتْ الرَّيحُ على بَعضِهم -- لَمْ تَشبعْ العينُ مِن الغَمضِ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "طُفولَة"
+  ],
+  "created_at": "2010-11-28T15:01:04Z",
+  "attributes": {
+    "old_id": 250
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "dd54e270-c0d8-4773-aaf7-3a16433e1ba3",
+  "shortname": "موقف_جميل_جدا_من_حياة_الرسول",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"موقف جميل جداًُ من حياة الرسول "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:be34a06756265f25ed0486f7de443ba6499de071",
+    "bytesize": 65,
+    "body": "اللهم صلي عليك يا سيدي يا رسول الله  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-21T11:32:15Z",
+  "attributes": {
+    "old_id": 113,
+    "old_entry_id": 138
+  },
+  "language": "ar"
+}

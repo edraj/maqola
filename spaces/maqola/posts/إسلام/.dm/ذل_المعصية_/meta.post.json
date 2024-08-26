@@ -1,0 +1,42 @@
+{
+  "uuid": "0978e8f5-9452-4a52-8636-881a87cbe9a2",
+  "shortname": "ذل_المعصية_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ذل المعصية!!"},
+  "updated_at": "2013-05-20T19:51:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0a0cb3d1f1a32fdb30f7012c00625b575c35d6d2",
+    "bytesize": 1623,
+    "body": "<span class=\"maqola_body\"> <br> <br><a href=\"https://www.facebook.com/profile.php?id=0\">قال تعالى{وَمَنْ يُهِنِ اللَّهُ فَمَا لَهُ مِنْ مُكْرِمٍ}!</a><br><br>إن المعصية سببٌ لهوان العبد على ربه وسقوطه من عينه، قال الحسن البصري: هانوا عليه فعصوه ولو عزوا عليه لعصمهم!.<br><br>وإذا هان العبد على الله لم يكرمه أحد، كما قال الله تعالى<br><a href=\"https://www.facebook.com/profile.php?id=0\">{وَمَنْ يُهِنِ اللَّهُ فَمَا لَهُ مِنْ مُكْرِمٍ}!</a>وإنْ عَظّمهم الناس في الظاهر لحاجتهم إليهم، أو خوفاً من شرهم، فهم في قلوبهم أحقر شيء وأهونه...<br><br>إلى أن قال: وهو يتحدث عن بعض عقوبات المعاصي:<br>\"إن العاصي يرفع الله عز وجل مهابته من قلوب الخلق، ويهون عليهم، ويستخفون به، كما هان عليه أمر الله، واستخف به، فعلى قدر محبة العبد لله يحبه الناس، وعلى قدر خوفه من الله يخافه الناس، وعلى قدر تعظيمه الله وحرماته يعظم الناس حرماته! وكيف ينتهك عبدٌ حرمات الله ويطمع أن لا ينهك الناس حرماته؟! أم كيف يهون عليه حق الله ولا يهونه الله على الناس؟! أم كيف يستخف بمعاصي الله ولا يستخف به الخلق؟<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "15d34541-3bed-4775-887b-b73a43598f8e",
+    "shortname": "فيصل_الوليدي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2013-05-20T19:50:56Z",
+  "attributes": {
+    "old_id": 607
+  },
+  "language": "ar",
+  "history": []
+}

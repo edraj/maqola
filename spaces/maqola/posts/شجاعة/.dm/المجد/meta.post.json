@@ -1,0 +1,42 @@
+{
+  "uuid": "d56570f3-34aa-4bec-8639-027373090579",
+  "shortname": "المجد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المجد"},
+  "updated_at": "2013-10-04T09:08:32Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f3e3d7c45191ca695f877093086825649a4090fe",
+    "bytesize": 267,
+    "body": "<p><span class=\"maqola_body\">&#160;صنعت المجد حتى قيل عني...أخ للحظ تخشاه الذئاب</span></p><p><span class=\"maqola_body\">لمست حقيقة الإبداع قولا..وفعلا&#160;يستحي منه الشباب<br>&#160;</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "00733f73-5cd3-4f11-84f7-cde55948a7f7",
+    "shortname": "technology_teacher",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَجاعَة"
+  ],
+  "created_at": "2013-10-04T09:08:32Z",
+  "attributes": {
+    "old_id": 675
+  },
+  "language": "ar",
+  "history": []
+}

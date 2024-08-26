@@ -1,0 +1,29 @@
+{
+  "uuid": "502a2f54-f2af-4885-bbe5-8260deae2d07",
+  "shortname": "جمال_العلم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جمال العلم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9603e8a6cc6387100aad27f1bae7983c3972ec70",
+    "bytesize": 61,
+    "body": "من يرد به الله خيرا يفقهه في الدين"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "26f96763-c2fc-4dc9-b058-987ce2cfdb14",
+    "shortname": "rabie_bushra_abd_almalik",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-12T23:39:44Z",
+  "attributes": {
+    "old_id": 831,
+    "old_entry_id": 30
+  },
+  "language": "ar"
+}

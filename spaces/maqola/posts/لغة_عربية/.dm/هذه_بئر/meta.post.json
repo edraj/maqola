@@ -1,0 +1,41 @@
+{
+  "uuid": "7546d75a-d67e-410b-bced-c28f2d6bdd53",
+  "shortname": "هذه_بئر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هذه بئر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:662f690225ee22242db658f6a54b6b4979716e93",
+    "bytesize": 194,
+    "body": "<p>يقول البعض \" هذا بئر \" والصحيحُ \" هذه بِئْر \" لقوله تعالى : (<del></del><del></del><del></del><del></del><del></del> وبئرٍ مُعُطّلة )</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "78e126ec-ac1f-483a-a696-3e84ab4bc5b2",
+    "shortname": "abbas_al_robaiyee",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-05-09T12:08:13Z",
+  "attributes": {
+    "old_id": 1248
+  },
+  "language": "ar",
+  "history": []
+}

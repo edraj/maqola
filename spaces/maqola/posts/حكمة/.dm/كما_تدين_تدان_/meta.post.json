@@ -1,0 +1,42 @@
+{
+  "uuid": "87d616d3-f317-44d3-ab77-9d93b40ee381",
+  "shortname": "كما_تدين_تدان_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كما تدين تدان .."},
+  "updated_at": "2014-06-27T06:59:56Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b575d7550b40536feb1950ab9bc692bb98fc66cc",
+    "bytesize": 2003,
+    "body": "<span class=\"maqola_body\"><span style=\"color: rgb(38, 38, 38); background-color: rgb(242, 242, 242);\"><p></p><span class=\"uthman\"><p></p></span><span class=\"uthmanb\"><span class=\"uthman\"><p style=\"text-align: center;\"></p><span class=\"fontxlarge\"><p style=\"text-align: center;\"></p><span class=\"fontxxlarge\"><p style=\"text-align: center;\"><span class=\"uthman\"></span></p></span></span></span></span></span></span><span class=\"uthman\"><span class=\"maqola_body\"><span style=\"color: rgb(38, 38, 38); background-color: rgb(242, 242, 242);\"><span class=\"uthmanb\"><span class=\"uthman\"><span class=\"fontxlarge\"><span class=\"fontxxlarge\"><p style=\"text-align: center;\">عفّوا تَعُفُّ نِساؤُكُم في المَحرَمِ &nbsp; &nbsp; &nbsp; &nbsp;وَتَجَنَّبوا ما لا يَليقُ بِمُــــسلِمِ<br></p><p style=\"text-align: center;\"><span style=\"font-size: 15px; line-height: 1.45em;\">مَن يزنِ ببيتٍ بألفيْ درهــــمٍ &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 15px; line-height: 1.45em;\">في بَيْتهِ يُزنَـــــا بِغَيْرِ الدِّرهَمِ</span><br></p><p style=\"text-align: center;\"><span style=\"font-size: 15px; line-height: 1.45em;\">مَن يَزنِ يُزنَ بِهِ وَلَو بِجِدارِهِ &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"font-size: 15px; line-height: 1.45em;\">إِن كُنتَ يا هَذا لَبيباً فَاِفـــــهَم</span></p><p style=\"text-align: center;\"><span style=\"font-size: 15px; line-height: 1.45em;\">إِنَّ الزِنا دَينٌ فَإِن أَقرَضـــتهُ&nbsp; &nbsp; &nbsp; &nbsp; كانَ الوَفا مِن أَهلِ بَيتِكَ فَاِعلَمِ</span></p></span><p style=\"text-align: center;\"><span style=\"font-size: 15px; line-height: 1.45em;\"></span></p></span><p style=\"text-align: center;\"><span style=\"font-size: 15px; line-height: 1.45em;\"></span></p></span></span>  </span></span><hr><br></span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "65eb0156-36d9-4058-8d1b-b76d0cce58e9",
+    "shortname": "mohannad_omar",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-06-27T06:48:49Z",
+  "attributes": {
+    "old_id": 892
+  },
+  "language": "ar",
+  "history": []
+}

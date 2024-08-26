@@ -1,0 +1,42 @@
+{
+  "uuid": "95cbe974-2dd7-4810-a604-206f6da36258",
+  "shortname": "عند_النوى_يكذبك_الصادق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عند النّوى يكذبك الصّادق"},
+  "updated_at": "2013-06-10T17:30:57Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:47234ab85d282d494b99c5eb76f8daa4a5f804a4",
+    "bytesize": 794,
+    "body": "<span class=\"maqola_body\"> <br> <h1><br></h1>\r\n        \r\n\r\n        <p>كان لرجل عبد لا يكذب ، فبويع ليكذبن ، وقيل: دعه عندنا اللّيلة ، \r\nففعل، فأطعموه لحم حوار ،</p><p> وسقوه لبنا حليبا في إناء حازر، فلمّا أصبحوا \r\nتحمّلوا ، <br></p><p>وقالوا : الحق بأهلك ، فلمّا توارى نزلوا ، <br></p><p>فسأله سيّده عن حاله \r\nفقال : أطعموني لحما لا غثّا ولا سمينا ، وسقوني لبنا لا محضا ولا حقينا ،</p><p> \r\nوتركتهم قد ظعنوا فاستقلّوا ، فساروا لا أعلم أساروا بعد أو حلّوا ، وعند \r\nالنّوى يكذبك الصّادق .</p><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "7db5f7eb-3439-4182-85da-e389cc523afe",
+    "shortname": "ابو_زيد",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2013-06-10T17:30:03Z",
+  "attributes": {
+    "old_id": 629
+  },
+  "language": "ar",
+  "history": []
+}

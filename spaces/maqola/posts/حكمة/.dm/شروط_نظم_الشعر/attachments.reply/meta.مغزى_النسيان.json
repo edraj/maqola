@@ -1,0 +1,29 @@
+{
+  "uuid": "b3943db1-cbe0-4ae1-a923-4eaa646e1ec5",
+  "shortname": "مغزى_النسيان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مغزى النسيان"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:313f8c90eefeff549f28988911b53971a459513e",
+    "bytesize": 234,
+    "body": "اذا كان دليل الحفظ  عرض المحفوظ   فما دليل النسيان    اي هل نسي   ابو  نواس ما حفظ   اكيد ان المغزى هو ان الكتابة  لا تكون الا بالتراكم "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-08-21T11:38:44Z",
+  "attributes": {
+    "old_id": 661,
+    "old_entry_id": 26
+  },
+  "language": "ar"
+}

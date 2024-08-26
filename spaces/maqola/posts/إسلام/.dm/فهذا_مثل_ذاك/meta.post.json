@@ -1,0 +1,44 @@
+{
+  "uuid": "bd2ee02c-a56e-408a-81c0-e3b57a8dcfc2",
+  "shortname": "فهذا_مثل_ذاك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فهذا مِثلُ ذاك"},
+  "updated_at": "2010-11-11T07:04:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2a1b4db5e5bb6b91aadb1ec3c003ce721f7f6934",
+    "bytesize": 1071,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قال رجلٌ لإياسٍ بن معاوية:‏ ‏ هَلْ تَرى عليَّ مِن بأسٍ إنْ أكلتُ تَمرًا؟ ‏ ‏ قال: لا. ‏ ‏ قال: فهل ترى عليَّ من بأس إن أكلتُ مَعَهُ كَيْسُومًا؟ ‏ ‏ قال: لا. ‏ ‏ قال: فإن شربتُ عَليهِما ماء؟ ‏ ‏ قال: جائز. ‏ ‏ قال: فَلِمَ تُحَرِّم السُّكْرَ وإنما هو ما ذَكَرتُ لك؟ ‏ ‏ فقال إياس: ‏ ‏ لو صَبَبْتُ عليك ماء هَلْ كانَ يَضرُّك؟ ‏ ‏ قال: لا. ‏ ‏ قال: فلو نَثرتُ عليكَ تُرابًا هل كان يؤذيك؟ ‏ ‏ قال: لا. ‏ ‏ قال: فإن أخذتُ ذلك فخلطتُه وعَجَنتُه وجَعلتُ مِنهُ لَبِنَةً عَظيمَة فَضَربتُ بِها رأسَك؟ ‏ ‏ قال: كُنتَ تَقتُلُني. ‏ ‏ قال: فَهذا مِثلُ ذاك! </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "طُرفَة"
+  ],
+  "created_at": "2010-10-17T18:49:48Z",
+  "attributes": {
+    "old_id": 67
+  },
+  "language": "ar",
+  "history": []
+}

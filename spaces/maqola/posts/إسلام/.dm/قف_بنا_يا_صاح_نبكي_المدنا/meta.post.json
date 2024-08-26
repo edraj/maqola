@@ -1,0 +1,45 @@
+{
+  "uuid": "6cf3bb97-1a66-4939-806e-1f9b10f1dd6e",
+  "shortname": "قف_بنا_يا_صاح_نبكي_المدنا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قف بنا يا صاح نبكي المدنا"},
+  "updated_at": "2013-12-16T18:49:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6c85e96b03a881abef276813c2e9e82c9ccb5372",
+    "bytesize": 872,
+    "body": "<span class=\"maqola_body\"> <br> قف بنا يا صاحِ <a href=\"http://3walq.com/showthread.php?t=59235\"> نبكي </a> المُدُنا *** بعد من قد كان فيها سكنَا<br>\r\n<br>\r\nو نُنادي في فراغٍ مُطلقٍ*** بعدهم في دارهم و حزَنَا<br>\r\n<br>\r\nطالما كنّا بها في دعةٍ *** نجتني في قُربهم ما يُجتنى<br>\r\n<br>\r\nكم بلغنا بين أكناف الحما***مِن لياناتِ المُنى ما سَرّنا<br>\r\n<br>\r\nوافتَرَقنا فكأنّا لم نكن *** أبداً في الدّار نُولي المِنَناَ<br>\r\n<br>\r\nليت روحي قبل أن فارقتهم*** فارَقَتْ مِن قبلُ ذاك البدنَا<br>\r\n<br>\r\nيا اُصَيْحاب انتهوا وانتهزوا*** فُرصة الأوقات فالرّحلُ دنا<br>\r\n<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "cdd861c2-42ce-49d6-b66e-93b55f7ce89b",
+    "shortname": "بندر_حزوم_alhzum",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "شَجاعَة",
+    "شِعر"
+  ],
+  "created_at": "2013-12-16T18:17:36Z",
+  "attributes": {
+    "old_id": 730
+  },
+  "language": "ar",
+  "history": []
+}

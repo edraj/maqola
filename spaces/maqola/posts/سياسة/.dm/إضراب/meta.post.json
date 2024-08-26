@@ -1,0 +1,42 @@
+{
+  "uuid": "354417ec-884c-440f-8114-e8c6c2fab5d4",
+  "shortname": "إضراب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إضراب"},
+  "updated_at": "2011-02-23T08:24:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d6362f99120a225ea54396e3bb0d0610d909c907",
+    "bytesize": 1577,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">الوردُ في البستانْ<br />\r\n\tممالكٌ مُتْرَفةٌ ، طريّةُ الجُدْرانْ<br />\r\n\tتيجانُها تسبحُ في بَرْدِ الندى<br />\r\n\tوالنّورِ والعطورْ<br />\r\n\tفي ساعةِ البكورْ<br />\r\n\tوتستوي كسلى على عُروشِها .<br />\r\n\tوتحتَ ظُلمَةِ الثّرى<br />\r\n\tوالبؤسِ والهوانْ<br />\r\n\tتُسافرُ الجُذوُر في أحزانِها<br />\r\n\tكي تضحكَ التيجانْ !<br />\r\n\t&#160;&#160;&#160;&#160; * * *<br />\r\n\tالوردُ في البُستانْ<br />\r\n\tممالِكٌ مُترفَةٌ تَسْبَحُ في الغرورْ<br />\r\n\tبذكرِها تُسبِّحُ الطّيورْ<br />\r\n\tويسبحُ الفراشُ في رحيقِها<br />\r\n\tوتسبحُ الجذورْ<br />\r\n\tفي ظُلمةِ النسيانْ<br />\r\n\t&#160;&#160;&#160;&#160; * * *<br />\r\n\tالوردُ في البُستانْ<br />\r\n\tأصبَحَ .. ثُمَّ كانْ<br />\r\n\tفي غفلَةٍ تهدّلتْ رؤوسُهُ<br />\r\n\tوخرّتْ السّيقانْ<br />\r\n\tإلى الثّرى<br />\r\n\tثُمّ هَوَتْ من فوقِها التّيجانْ !<br />\r\n\t&#160;&#160;&#160;&#160; * * *<br />\r\n\tمرّتْ فراشتانْ<br />\r\n\tوردّدت إحداهُما :<br />\r\n\tقَدْ أعلنَتْ إضرابَها الجذورْ !<br />\r\n\t&#160;&#160;&#160;&#160; * * *<br />\r\n\tما أجبنَ الإنسانْ<br />\r\n\tما أجبَنَ الإنسانْ<br />\r\n\tما أجبنَ الإنسانْ !</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة"
+  ],
+  "created_at": "2011-02-23T08:24:30Z",
+  "attributes": {
+    "old_id": 465
+  },
+  "language": "ar",
+  "history": []
+}

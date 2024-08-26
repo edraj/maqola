@@ -1,0 +1,33 @@
+{
+  "uuid": "462cabcd-f94f-4738-88d5-4d8272c22b5c",
+  "shortname": "462cabcd",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-19T21:38:33Z",
+  "author_locator": { "type": "content",
+    "uuid": "3defc0b7-8c89-4965-b0ac-944be80d283d",
+    "shortname": "usama_elhosary",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-19T21:38:33Z",
+  "attributes": {
+    "old_id": 523,
+    "old_entry_id": 1406
+  },
+  "language": "en",
+  "location": {
+    "uuid": "462cabcd-f94f-4738-88d5-4d8272c22b5c",
+    "shortname": "462cabcd",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "إنما_أنا_عبد__آكل_كما_يأكل_العبد",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

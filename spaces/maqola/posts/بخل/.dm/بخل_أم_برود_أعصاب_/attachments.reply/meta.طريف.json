@@ -1,0 +1,29 @@
+{
+  "uuid": "f8bc1617-707c-47a9-9105-4e59d3966b19",
+  "shortname": "طريف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طريف"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:00f49f7d59a1d21f2fa8f9efb4e5439744eef888",
+    "bytesize": 35,
+    "body": "لا أطرف من خاتمته. :)"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "9a5c294b-89e8-41de-ab4e-0fc5bb2692c8",
+    "shortname": "ayad_derbal",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-11-15T06:19:44Z",
+  "attributes": {
+    "old_id": 806,
+    "old_entry_id": 925
+  },
+  "language": "ar"
+}

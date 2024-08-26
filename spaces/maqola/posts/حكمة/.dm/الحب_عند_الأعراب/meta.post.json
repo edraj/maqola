@@ -1,0 +1,43 @@
+{
+  "uuid": "f340335d-31c6-4e19-bad7-53f859defe3b",
+  "shortname": "الحب_عند_الأعراب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحُبُّ عِندَ الأعراب"},
+  "updated_at": "2011-06-06T21:11:28Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:efcadb1b561f9294a2c6d9e46d9bdf8edb355594",
+    "bytesize": 565,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">سأل أحدُ العارفين امرأةً من البادية : ما الحُبُّ عِندَكُم؟ فقالت : جَلٌّ فَلا يَخفى (أي قد يكون واضحا فلا يُمكن إخفاؤه) ، و دَقٌّ فلا يُرى (أي قد يكون خفيا فلا يمكن إدراكه)، وهو كامِنٌ في الحَشا كُمونَ النارِ في الصفا. إن قَدَحتَه أورى (أي إن أثرته كما تثير النار، هاج) وإن تَركتَهُ توارى.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "غَزَل"
+  ],
+  "created_at": "2011-06-06T21:11:28Z",
+  "attributes": {
+    "old_id": 488
+  },
+  "language": "ar",
+  "history": []
+}

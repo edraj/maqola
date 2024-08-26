@@ -1,0 +1,23 @@
+{
+  "uuid": "bddf7001-39cd-464b-a6c5-31ee3f7e2ca9",
+  "shortname": "bddf7001",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "7cadbd4a-0424-46a1-8ef1-58802bc79851",
+    "shortname": "التنمية_البشرية",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-09-18T08:58:37Z",
+  "attributes": {
+    "old_id": 1187,
+    "old_entry_id": 1513
+  },
+  "language": "en",
+  "type": "like"
+}

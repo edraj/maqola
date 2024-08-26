@@ -1,0 +1,29 @@
+{
+  "uuid": "ab665e6c-f05b-4e1a-a39c-ed19c91c2ae2",
+  "shortname": "مقولة_رائعة_مع_تحفظ",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مقولة رائعة مع تحفظ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:be356be29b05981ee89d1c7d11fe21e9fda59fc4",
+    "bytesize": 150,
+    "body": "القصيدة رائعة لكن مع تحفظ على كلمة (رحماك) لأن طلب الرحمة لا يكون إلا من الله تعالى. "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-04-20T17:20:24Z",
+  "attributes": {
+    "old_id": 434,
+    "old_entry_id": 177
+  },
+  "language": "ar"
+}

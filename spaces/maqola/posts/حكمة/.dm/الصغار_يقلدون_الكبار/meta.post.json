@@ -1,0 +1,43 @@
+{
+  "uuid": "7361cba3-057c-4f14-b77f-d0ba1e2cf1d8",
+  "shortname": "الصغار_يقلدون_الكبار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصغار يُقلدون الكبار"},
+  "updated_at": "2010-12-23T09:27:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3e30669f564e32d4e846e5f343e4c3f7db2bec76",
+    "bytesize": 420,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">مَشى الطاووسُ يَوماً بِاختيالٍ -- فَقَلَّدَ شَكَلَ مَشيَتِهِ بَنوهُ<br />\r\n\tقال عَلامَ تَختالونَ، قالوا -- سَبَقْتَ بِه ونَحنُ مُقَلِّدُوهُ<br />\r\n\tويَنشأُ ناشِئُ الفتيانِ مِنَّا -- على ما كان عَوَّدَهُ أَبوهُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-23T09:27:08Z",
+  "attributes": {
+    "old_id": 414
+  },
+  "language": "ar",
+  "history": []
+}

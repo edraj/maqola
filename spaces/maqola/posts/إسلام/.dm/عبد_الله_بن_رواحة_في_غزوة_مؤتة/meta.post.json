@@ -1,0 +1,47 @@
+{
+  "uuid": "d16aaa84-2d92-4a1b-9511-1d6745a59c30",
+  "shortname": "عبد_الله_بن_رواحة_في_غزوة_مؤتة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عبد الله بن رواحة في غزوة مؤتة"},
+  "updated_at": "2015-07-23T18:03:42Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f651d983daf2d77311a5eb640251651d828d4586",
+    "bytesize": 2513,
+    "body": "<p style=\"text-align: center;\">بكى عبد الله بن رواحة ـ فقالوا: ما يبكيك؟ فقال: أما والله ما بي حب الدنيا، ولا صبابة بكم، ولكني سمعت رسول الله يقرأ آية من كتاب الله يذكر فيها النار: {وَإِنْ مِنْكُمْ إِلَّا وَارِدُهَا كَانَ عَلَى رَبِّكَ حَتْمًا مَقْضِيًّا}  [٣] (سورة مريم، الآية ٧١)، فلست أدري كيف لي بالصدور بعد الورود؟ فقال المسلمون: صحبكم الله بالسلامة، ودفع عنكم، وردكم إلينا صالحين غانمين، فقال عبد الله بن رواحة:</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br><br></p><p style=\"text-align: center;\">لكننـي أسـأل الرحمن مغفــرة *** وضربـة ذات فرع تقذف الزبـدا</p><p style=\"text-align: center;\">أو طعنـة بيـدي حـران مجـهزة *** بحربة تنفذ الأحشـاء والكبـدا</p><p style=\"text-align: center;\">حتى يقـال إذا مروا على جدثي *** أرشـده الله مـن غـاز وقد رشـدا</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p>وقد كان الرسول صلى الله عليه وسلم أعطى اللواء لزيد بن حارثة وأمر بجعفر بن أبي طالب ثم عبدالله بن رواحه<br>في اليوم الثالث من الغزوة أستشهد الإثنان فبقي عبد الله بن رواحة فتردد في حمل اللواء ومن بعد أرغم نفسه قائلا </p><p><br></p><p><br></p><p style=\"text-align: center;\">أقسمت يا نفس لتنزلنه لتنزلن أو لتكرهنه *** إن أجلب الناس وشدوا الرنه<br> مالي أراك تكرهين الجنه *** قد طال ما قد كنت مطمئنه<br> هل أنت إلا نطفة في شنه<br> يا نفس إلا تقتلي تموتي *** هذا حمام الموت قد صليت<br> وما تمنيت فقد أعطيت *** إن تفعلي فعلهما هديت<br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p>ثم حمل اللواء ومضى يجاهد حتي أستشهد رضوان الله عليه وعلى سائر الصحابة الأبرار</p><p><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "رِثاء",
+    "شَجاعَة",
+    "شِعر",
+    "عربية",
+    "مَدح"
+  ],
+  "created_at": "2015-07-23T18:02:21Z",
+  "attributes": {
+    "old_id": 1423
+  },
+  "language": "ar",
+  "history": []
+}

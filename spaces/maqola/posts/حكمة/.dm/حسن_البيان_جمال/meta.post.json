@@ -1,0 +1,43 @@
+{
+  "uuid": "1309ea98-33e6-41f6-a5f2-a5c5e602f7cd",
+  "shortname": "حسن_البيان_جمال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حُسن البيان جمال"},
+  "updated_at": "2010-12-23T09:22:42Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:acc0a500a4bb73806fdaab2fc7175c14269e9bff",
+    "bytesize": 315,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">رأَيتُ العِزَّ&#160; في أَدَبٍ وعِلمٍ -- وفي الجَهلِ المَذَلَّةُ والهَوانُ<br />\r\n\tوما حُسنُ الرِّجالِ لَهُم بِحُسنٍ -- إذا لَم يُسعِدْ الحُسنَ البيانُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-23T09:22:42Z",
+  "attributes": {
+    "old_id": 413
+  },
+  "language": "ar",
+  "history": []
+}

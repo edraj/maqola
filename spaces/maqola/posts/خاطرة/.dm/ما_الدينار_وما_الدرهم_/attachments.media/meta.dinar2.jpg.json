@@ -1,0 +1,18 @@
+{
+  "uuid": "363f09b7-7a9b-41b3-afa1-985d71e70c93",
+  "shortname": "dinar2.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:62bd85de9078e7a52fcb142cef881520e2c7480c",
+    "bytesize": 148651,
+    "body": "dinar2.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:06+03:00",
+  "attributes": {
+    "old_id": 47
+  },
+  "language": "en"
+}

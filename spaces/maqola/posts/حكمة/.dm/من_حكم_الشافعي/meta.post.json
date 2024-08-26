@@ -1,0 +1,46 @@
+{
+  "uuid": "cb21995a-6d08-434f-94a2-d0ccb660614d",
+  "shortname": "من_حكم_الشافعي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من حكم الشافعي"},
+  "updated_at": "2014-02-01T11:37:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:048a13558e41d1c959cf60e48bcfff42757ebb42",
+    "bytesize": 321,
+    "body": "أحسنتَ ظنكَ بالأيامِ إذا حسنت ** ولم تخف سوءَ ما يأتي به القدرُ<br> وسالمتكَ الليالي فاغتررتَ بها ** وعندَ صفو الليالي يحدثُ الكدرُ<br> <br> (الشافعي رحمه الله)<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-01T11:37:25Z",
+  "attributes": {
+    "old_id": 750
+  },
+  "language": "ar",
+  "history": []
+}

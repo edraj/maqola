@@ -1,0 +1,18 @@
+{
+  "uuid": "05c2cccf-d4be-48ba-a256-d172a64af2ea",
+  "shortname": "820971_good_night_wallpaper.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:a885f74a2a383837e86fcb2274c064a76e3587a0",
+    "bytesize": 536601,
+    "body": "820971_good_night_wallpaper.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:09+03:00",
+  "attributes": {
+    "old_id": 90
+  },
+  "language": "en"
+}

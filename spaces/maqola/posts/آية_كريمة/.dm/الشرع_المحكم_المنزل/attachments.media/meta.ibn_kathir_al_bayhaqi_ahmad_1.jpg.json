@@ -1,0 +1,18 @@
+{
+  "uuid": "8539dd4a-f069-46d7-aa39-f3cf9e681a1c",
+  "shortname": "ibn_kathir_al_bayhaqi_ahmad_1.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:b1753c23a2449f5e8f93d1e09a66f76dc53c110b",
+    "bytesize": 554702,
+    "body": "ibn_kathir_al_bayhaqi_ahmad_1.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:08+03:00",
+  "attributes": {
+    "old_id": 73
+  },
+  "language": "en"
+}

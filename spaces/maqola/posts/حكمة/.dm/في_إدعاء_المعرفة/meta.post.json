@@ -1,0 +1,41 @@
+{
+  "uuid": "1284964b-585c-4b01-b090-1beb079c862e",
+  "shortname": "في_إدعاء_المعرفة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في إدِّعاء المعرفة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b7016eae252f2e9bb2c386b7b1f2b7aef21c4ba8",
+    "bytesize": 167,
+    "body": "<p>فقلْ لمنْ يدَّعِي في العلمِ فلسفةً ... حَفِظْتَ شَيئاً، وغابَتْ عنك أشياءُ</p><p>أبو نواس<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-04-17T06:46:56Z",
+  "attributes": {
+    "old_id": 1189
+  },
+  "language": "ar",
+  "history": []
+}

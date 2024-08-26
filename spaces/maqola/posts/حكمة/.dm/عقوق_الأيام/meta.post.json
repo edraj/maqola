@@ -1,0 +1,42 @@
+{
+  "uuid": "3477b120-1e18-4ce0-9c74-3a3186c62dd4",
+  "shortname": "عقوق_الأيام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عُقوقُ الأيام"},
+  "updated_at": "2011-06-06T21:12:28Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:162df98789a8d112306cb1387c2b9d38654dd2aa",
+    "bytesize": 590,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يقول عليّ بن أبي طالب رضي الله عنه : مَن أمضى يومَهُ في غيرِ حَقٍ قضاه أو فَرضِ أدّاه أو مَجدٍ بناه أو حَمدٍ حصّله أو خير أسسه أو عِلمٍ اقتَبَسه فقد عقَّ يَومَهُ.<br />\r\n\t<br />\r\n\tويقول الصحابي عبدالله بن مسعود رضي اللهُ عَنه : ما نَدِمتُ على شئٍ ندمي على يَومٍ غَربت شمسُه ونقصَ فيه أجلي ولم يَزدد فيه عمَلي.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2011-06-06T21:12:28Z",
+  "attributes": {
+    "old_id": 489
+  },
+  "language": "ar",
+  "history": []
+}

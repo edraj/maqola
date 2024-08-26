@@ -1,0 +1,29 @@
+{
+  "uuid": "f051dd37-905c-4c2c-b026-e9f94a5446c1",
+  "shortname": "تنبيه_مهم_جدا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تنبيه مهم جدا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:22a54f57c698a1c8bea7d9aec0505ee28655f1d5",
+    "bytesize": 97,
+    "body": "هذا لا يجوز وحرام انت بهذه الطريقه حرفت القرآن الكريم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-09-21T03:12:07Z",
+  "attributes": {
+    "old_id": 529,
+    "old_entry_id": 515
+  },
+  "language": "ar"
+}

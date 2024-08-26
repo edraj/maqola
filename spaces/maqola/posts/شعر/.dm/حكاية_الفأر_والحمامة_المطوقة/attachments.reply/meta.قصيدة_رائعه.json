@@ -1,0 +1,29 @@
+{
+  "uuid": "f1b53d37-03e4-4eea-b8a4-b2a7f04a0c45",
+  "shortname": "قصيدة_رائعه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قصيدة رائعه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4821947fd8b01ac2879ea265655242e1dc41bf76",
+    "bytesize": 174,
+    "body": "اشكرك على القصيدة ونشرها في الموقع   ولقد حفظتها منها عدة ابيات في السابق قصة رائعه وقصيدة رائعه"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-07T15:00:35Z",
+  "attributes": {
+    "old_id": 757,
+    "old_entry_id": 168
+  },
+  "language": "ar"
+}

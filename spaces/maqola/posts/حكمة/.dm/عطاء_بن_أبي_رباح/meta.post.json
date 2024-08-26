@@ -1,0 +1,42 @@
+{
+  "uuid": "16abcabe-5e99-430f-9f7f-2c44c2404ff9",
+  "shortname": "عطاء_بن_أبي_رباح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عَطاءُ بن أبي رباح"},
+  "updated_at": "2010-10-31T07:33:09Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2d40763697471ffc7dc2dbdff9fee8622c8e28ba",
+    "bytesize": 1275,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">عطاءُ بن أبي رَباح، سيِّدُ التابعينَ عِلْماً وَعَمَلاً، ومفتي مَكَّةَ وفَقيهُها، وخَليفَةُ عَبدُاللهِ بن عَبّاس في الإفتاء.<br />\r\n\tقال عنه الإمام أبو حنيفة: ما رأيتُ أفضلَ مِن عَطاء؛ وقال عنه إسماعيل بن أمير: كان عطاء يُطيلُ الصمت فإذا تكلم خُيِّلَ إلينا أَنَّهُ مُؤيَّد.<br />\r\n\tوكان إذا سُئِل عنه أهل مكة: كيف كان عَطاءُ فيكم؟ قالوا: كان مِثلُ العافية، لا نَعرِفُ فَضلَها حتى تُفْقَد…<br />\r\n\tو كان عطاءُ أسودَ، أعرجَ، أفطسَ، أشلَّ، مُفَلفَلَ الشعرِ، ثم كُفَّ بصره فَعمي؛ وكانت أُمُّه سَوداء.</span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">فسُبحانَ اللهِ، كَيفَ يرتقي الإنسانُ بِعلمِهِ و فَضلِهِ ومَكانَتِهِ بينَ الناسِ لا بِنَسَبِهِ أوحَسَبِهِ أومَالِه.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-10-31T04:32:36Z",
+  "attributes": {
+    "old_id": 121
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "282985a2-fd9c-4539-b623-02594726fe78",
+  "shortname": "282985a2",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-20T12:30:38Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-20T12:30:38Z",
+  "attributes": {
+    "old_id": 533,
+    "old_entry_id": 1416
+  },
+  "language": "en",
+  "location": {
+    "uuid": "282985a2-fd9c-4539-b623-02594726fe78",
+    "shortname": "282985a2",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "قصة_موجهة_إلى_كل_عربي",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

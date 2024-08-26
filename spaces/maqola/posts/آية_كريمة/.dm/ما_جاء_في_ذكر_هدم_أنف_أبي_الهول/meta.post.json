@@ -1,0 +1,46 @@
+{
+  "uuid": "a3b55a69-a930-41cc-b938-25245cca599f",
+  "shortname": "ما_جاء_في_ذكر_هدم_أنف_أبي_الهول",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما جاء في ذكر هدم أنف أبي الهول"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a46612ef97fe64dccbfbd0c342d908428d6210fd",
+    "bytesize": 564,
+    "body": "<p>ذكر المقريزي في كتابه ( المواعظ والاعتبار في ذكر الخطب والآثار ) الجزء الأول 26 / 167 : \" وفي زمننا كان شخص يعرف بالشيخ ( محمد صائم الدهر ) قام في نحو من سنة ثمانين وسبعمائة لتغيير أشياء من المنكرات وسار إلى الأهرام وشوّه وجه أبي الهول وشعثه فهو على ذلك إلى اليوم \" .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حِكمَة",
+    "عربية",
+    "قِصّة"
+  ],
+  "created_at": "2015-05-09T04:57:39Z",
+  "attributes": {
+    "old_id": 1245
+  },
+  "language": "ar",
+  "history": []
+}

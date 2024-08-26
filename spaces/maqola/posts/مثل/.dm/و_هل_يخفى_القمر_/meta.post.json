@@ -1,0 +1,42 @@
+{
+  "uuid": "e4b31b43-de61-4b04-84aa-b3446631b52e",
+  "shortname": "و_هل_يخفى_القمر_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"و هل يَخفى القَمَر؟"},
+  "updated_at": "2010-12-02T13:56:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f4b7ea160da772476d781e7489ef3ff899f5816f",
+    "bytesize": 679,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يُضرَبُ هذا المثل للأمرِ المشهور، الذي لا يجهله أحد.<br />\r\n\tقَالَ ذو الرمة‏:‏<br />\r\n\tوقَد بَهَرتَ فَمَا تَخفَى عَلَى أحَدٍ -- إلاَ عَلَى أحدٍ لاَ يَعرِفُ القَمَرَا<br />\r\n\tومِن المثل قول عمر بن أبى ربيعة ‏:‏<br />\r\n\tقالت الكُبرى أَتَعرِفنَ الفتى؟ -- قالت الوسطى، نَعم هذا عُمَر<br />\r\n\tقَالَت الصُغرى وقَد تَيَّمتُها ‏:‏ -- قَد عَرَفناهُ، وهل يَخفى القَمر‏؟‏‏</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-12-02T13:56:45Z",
+  "attributes": {
+    "old_id": 292
+  },
+  "language": "ar",
+  "history": []
+}

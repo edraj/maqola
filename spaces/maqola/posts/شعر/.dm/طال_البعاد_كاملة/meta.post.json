@@ -1,0 +1,42 @@
+{
+  "uuid": "18f088a0-1df7-4e5c-9e34-083804cd7d0a",
+  "shortname": "طال_البعاد_كاملة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طال البعاد كاملة"},
+  "updated_at": "2014-11-04T22:32:25Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d0bf54582d723ac82a69b8ed8b577a05d28854e6",
+    "bytesize": 1350,
+    "body": "<span class=\"maqola_body\"> <br> <p>طِالَ البعادُ وقلبي ليسَ يَحتَمـِلُ</p><p>ما عادَ لي في الهَوَى مِن بُعْدِكُمْ أَمَلُ</p><p>لَمٍ يَبقَ لي هاهُنا مِن بَعْدِكُمْ إلا ..</p><p>طَيْفٌ جَميلٌ بِهِ عَينايَ تَكْتَحِلُ</p><p>ذِكرَياتٌ إذا مَرَّتْ بِخاطِرَتي .. و</p><p>هَزَّتْ كِياني ، كَأنَّ الأرضَ تَنْفَعِلُ</p><p>وَنَسْمَةٌ حُلْوَةٌ تَأتي بِرائحَةٍ</p><p>مِنَ الرُّبوعِ تُذَكِّرُني بِمَنْ رَحَلوا</p><p>لَنْ تَستطيعَ سِنينُ البُعْدِ تَمنَعُنا</p><p>إنَّ القُلوبَ بِرَغْمِ البُعدِ تَتَّصِلُ</p><p>لا القَلبُ يَنسَى حَبيبًا كَانَ يَعْشَقُهُ</p><p>ولا النُّجومُ عَنِ الأفْلاكِ تَنْفَصِلُ</p><p>كُلُّ القَصَائِدِ قَدْ تَحكِي حِكايَتَنا</p><p>أنَا مَا أَضَفْتُ جَدِيدًا لِلذي فَعَلُوا</p><p>لَكِنَّ صِدْقي سَيَبْقَى العُمْرَ يَغْفِرُ لِي</p><p>بَاقٍ أُحِبُّ إلَى أَنْ يَفرغَ الأجَلُ</p><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "c74df491-8921-45bd-a151-b6debdaf8905",
+    "shortname": "sayed_hegazy",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2014-11-04T22:32:25Z",
+  "attributes": {
+    "old_id": 929
+  },
+  "language": "ar",
+  "history": []
+}

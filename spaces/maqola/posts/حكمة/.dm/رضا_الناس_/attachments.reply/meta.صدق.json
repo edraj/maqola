@@ -1,0 +1,29 @@
+{
+  "uuid": "a518c471-83f9-4cac-a523-c41d03c27381",
+  "shortname": "صدق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"صدق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5fc1d9420f2855afcac1215ddb30b558a1e304f4",
+    "bytesize": 54,
+    "body": "صدق قائلها.‏ جزاكم الله خيرا  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-01-12T03:46:48Z",
+  "attributes": {
+    "old_id": 383,
+    "old_entry_id": 460
+  },
+  "language": "ar"
+}

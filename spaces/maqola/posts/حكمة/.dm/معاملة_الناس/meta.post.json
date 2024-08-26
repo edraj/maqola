@@ -1,0 +1,43 @@
+{
+  "uuid": "32b15f76-b9cd-4b62-a18c-710925a2b04a",
+  "shortname": "معاملة_الناس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مُعامَلةُ النّاس"},
+  "updated_at": "2010-11-23T01:06:55Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fd819e6bad27ad7bbaa6b020744d69f552af2a9b",
+    "bytesize": 572,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أُحِبُّ مَكارِمَ الأخلاقِ جَهدي -- وأكرَهُ أَنْ أُعيبَ و أَنْ أُعابا<br />\r\n\tوأصفَحُ عَن سُبابِ النّاسِ حِلماً -- وشَرُّ الناسِ مَن يَهوى السُبابا<br />\r\n\tسَليمُ العِرضِ مَن حَذِرَ الجوابا -- ومَن دارى الرِّجالَ فَقَد أصابا<br />\r\n\tومَن هابَ الرَّجالَ، تَهيَّبوه -- و مَن هانَ الرجالَ فَلَنْ يُهابا</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-21T10:47:53Z",
+  "attributes": {
+    "old_id": 213
+  },
+  "language": "ar",
+  "history": []
+}

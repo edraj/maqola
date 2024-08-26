@@ -1,0 +1,42 @@
+{
+  "uuid": "b41a3903-3afa-4b30-9eaa-65e159862263",
+  "shortname": "من_كتم_سره_كان_الخيار_له_ومن_أفشاه_كان_الخيار_عليه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من كتم سره كان الخيار له ومن أفشاه كان الخيار عليه"},
+  "updated_at": "2013-04-23T14:43:51Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:32cc4c4454649f837da03d561258b20003e9c81c",
+    "bytesize": 561,
+    "body": " <br><span class=\"uthman\"><span class=\"fontxxlarge\"> يروى أن معاويه رضي الله عنه أسر الى الوليد بن عتبه حديثاً , فقال لابيه : يا ابت إن أمير المؤمنين <br>\r\nأسر إلي حديثاً وما أراه يطوي عنك ما بسطه إلى غيرك ؟ قال : لا تخدثني به \r\nفإن من كتم سره كان الخيار له ومن أفشاه كان الخيار عليه ,قال :قلت يا أبت \r\nوإن هذا ليدخل بين الرجل وابنه ؟ </span></span><br>  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "dcba9bf4-fefd-4ddb-ab37-ef862cebabab",
+    "shortname": "امين_صرصور",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-04-23T14:43:43Z",
+  "attributes": {
+    "old_id": 582
+  },
+  "language": "ar",
+  "history": []
+}

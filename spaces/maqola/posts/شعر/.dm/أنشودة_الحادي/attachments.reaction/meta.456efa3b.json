@@ -1,0 +1,23 @@
+{
+  "uuid": "456efa3b-cd89-4c8f-8078-e77a1ba438b4",
+  "shortname": "456efa3b",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "ed6a6bbe-d765-4b6a-bd6f-0748af5cb2bb",
+    "shortname": "kinan_fleihan",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-11-14T18:49:31Z",
+  "attributes": {
+    "old_id": 1273,
+    "old_entry_id": 603
+  },
+  "language": "en",
+  "type": "like"
+}

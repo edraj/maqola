@@ -1,0 +1,42 @@
+{
+  "uuid": "02dbab25-a27c-4865-828b-5cca19a5c317",
+  "shortname": "يريد_ألفين_فقط",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يُريدُ ألفينَ فقط..."},
+  "updated_at": "2010-11-04T07:12:39Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:39ac702cde4062a1ef9a500fa56ab034e626f659",
+    "bytesize": 535,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قال رجلٌ لمعاوية: اقطعني البحرين، قال: إني لا أصِلُ إلى ذلك.<br />\r\n\tقال: فاستعملني على البصرة، قال: ما أريدُ عَزلَ عامِلها، قال: تأمر لي بألفين، قال: ذاك لك. فقيل له: وَيحك أرضيتَ بعد الأوليين بهذا؟ قال: اسكتوا لَولا الأولان ما أُعطيت الألفان.</span></span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-04T03:07:48Z",
+  "attributes": {
+    "old_id": 134
+  },
+  "language": "ar",
+  "history": []
+}

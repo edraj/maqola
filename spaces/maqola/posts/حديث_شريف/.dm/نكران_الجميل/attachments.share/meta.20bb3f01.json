@@ -1,0 +1,33 @@
+{
+  "uuid": "20bb3f01-9390-46ec-b630-731bff76a179",
+  "shortname": "20bb3f01",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-23T16:58:02Z",
+  "author_locator": { "type": "content",
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-23T16:58:02Z",
+  "attributes": {
+    "old_id": 332,
+    "old_entry_id": 1067
+  },
+  "language": "en",
+  "location": {
+    "uuid": "20bb3f01-9390-46ec-b630-731bff76a179",
+    "shortname": "20bb3f01",
+    "subpath": "posts/حديث_شريف",
+    "space_name": "maqola",
+    "parent_shortname": "نكران_الجميل",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "bf0ce29d-84b1-4db4-8c8a-af0512cbe92d",
+  "shortname": "سيدى_يارسول_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سيدى يارسول الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bfb825c74118fdc9b56b5ae7643009b94ce55c03",
+    "bytesize": 478,
+    "body": "<p><span style=\"color: rgb(99, 36, 35);\">سيدى يارسول الله , لو يعلمون تواضعك , سماحتك , حبك  , رحمتك , رأفتك ,</span></p><p><span style=\"color: rgb(99, 36, 35);\">ما أهانوك وما استهزأوا بك ,  لكن يكفيك ربك : إنا كفيناك المستهزأين.</span></p><p><span style=\"color: rgb(99, 36, 35);\"><br></span></p><p><span style=\"color: rgb(0, 0, 0);\">الكاتب : نبيل جلهوم.</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَدح"
+  ],
+  "created_at": "2015-02-10T08:48:55Z",
+  "attributes": {
+    "old_id": 1002
+  },
+  "language": "ar",
+  "history": []
+}

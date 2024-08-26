@@ -1,0 +1,33 @@
+{
+  "uuid": "1e69ef53-e20d-4a07-8030-c9422a0e7fb5",
+  "shortname": "1e69ef53",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-05-17T00:06:32Z",
+  "author_locator": { "type": "content",
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-05-17T00:06:32Z",
+  "attributes": {
+    "old_id": 35,
+    "old_entry_id": 602
+  },
+  "language": "en",
+  "location": {
+    "uuid": "1e69ef53-e20d-4a07-8030-c9422a0e7fb5",
+    "shortname": "1e69ef53",
+    "subpath": "posts/شعر",
+    "space_name": "maqola",
+    "parent_shortname": "الأدب_مقام_الوالد",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

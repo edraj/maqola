@@ -1,0 +1,29 @@
+{
+  "uuid": "f283dbb6-a14b-4642-8abe-3ae35b066448",
+  "shortname": "جميل_هذا_الشعر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جميل هذا الشعر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:dd90810d63b5a449044b3ca2c3916761eb249a0d",
+    "bytesize": 254,
+    "body": "شكراً يا شباب  + اقتراح بسيط لنشر الموقع يرجى إضافة أيقونة النشر على تويتر  لتعم الفائدة على الجميع من هذا الموقع القيم في انتظار جديدكم سلام"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-12T14:40:57Z",
+  "attributes": {
+    "old_id": 546,
+    "old_entry_id": 527
+  },
+  "language": "ar"
+}

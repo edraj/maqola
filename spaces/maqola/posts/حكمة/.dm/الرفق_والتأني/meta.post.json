@@ -1,0 +1,42 @@
+{
+  "uuid": "87fb6e2c-ae7b-4b2c-9a40-21e584b1d987",
+  "shortname": "الرفق_والتأني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الرفق والتأني"},
+  "updated_at": "2010-12-03T07:09:16Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b069c5e31de793bea88503ec7a57be7cb4cbf4d2",
+    "bytesize": 1403,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قالوا يَدُ الرِّفقِ تَجني ثَمرَةَ السلامة ويَدُ العَجَلَةِ تَغرِسُ شَجَرَةَ النَّدامَة، وأنشدوا في ذلك :<br />\r\n\tقَد يُدرِكُ المُتأَنّي بَعضَ حَاجَتِهِ -- وقَد يَكونُ مَعَ المُستَعجلِ الزَّلَلُ<br />\r\n\tوقالوا التأني حِصنُ السلامة والعَجَلَةُ مِفتاحُ النَّدامة وقالوا إذا لَم يُدرَكُ الظُّفرُ بالرِّفقِ والتأني فَبِماذا يُدرَك ؟ وقال المُهَلَّبُ : أناةٌ في عَواقِبِها دَرْكٌ خَيرٌ مِن عَجَلَةٍ في عَواقِبِها فَوْتٌ،<br />\r\n\tوقالوا مَن تأنّى نَالَ ما تَمَنّى، والرِّفقُ مِفتاحُ النجاحِ، وقال بعضُ الحُكماءِ إيّاكَ والعَجَلَة فإنّها تُكَنَّى أُمُّ الندامَة لأنَّ صاحِبَها يَقولُ قَبلَ أنْ يَعلَم ويُجيبُ قَبلَ أنْ يَفهَم ويَعزِمُ قَبلَ أنْ يُفَكِّر ويَحِمدُ قبلَ أنْ يُجَرِّب وإنْ تَصحَبْ هذه الصِّفةُ أحداً إلا صَحِبَ الندامةَ وجانَبَ السلامة.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-12-03T07:09:16Z",
+  "attributes": {
+    "old_id": 302
+  },
+  "language": "ar",
+  "history": []
+}

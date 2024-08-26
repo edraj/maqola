@@ -1,0 +1,29 @@
+{
+  "uuid": "d2a09217-11d4-41b9-be07-fae49db29278",
+  "shortname": "صدر_الأول_غير_موزون",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"صدر الأول غير موزون"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:319b2186de61666dc1ce73da480c0477bff01da5",
+    "bytesize": 62,
+    "body": "الصحيح: إذا المرء لم يرض ما أمكنه..."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-14T02:24:32Z",
+  "attributes": {
+    "old_id": 302,
+    "old_entry_id": 366
+  },
+  "language": "ar"
+}

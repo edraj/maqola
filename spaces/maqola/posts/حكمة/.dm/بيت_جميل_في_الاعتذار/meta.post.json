@@ -1,0 +1,46 @@
+{
+  "uuid": "0de3f140-7ad3-463d-9401-174bcd74ff7f",
+  "shortname": "بيت_جميل_في_الاعتذار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بيت جميل في الاعتذار"},
+  "updated_at": "2015-06-09T00:53:14Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:67d4a08d806f0978dc7892796a7b0e3797f5899f",
+    "bytesize": 726,
+    "body": "<p><span style=\"color: rgb(١٢٨, ١٠٠, ١٦٢);\"><span style=\"background-color: rgb(٢٥٥, ٢٥٥, ٢٥٥);\" data-redactor-style=\"background-color: rgb(٢٥٥, ٢٥٥, ٢٥٥);\"><span style=\"color: rgb(٠, ٠, ٠);\"><strong></strong></span></span></span><span style=\"color: rgb(١٢٨, ١٠٠, ١٦٢);\"><span style=\"background-color: rgb(٢٥٥, ٢٥٥, ٢٥٥);\" data-redactor-style=\"background-color: rgb(٢٥٥, ٢٥٥, ٢٥٥);\"><span style=\"color: rgb(٠, ٠, ٠);\"><strong>            وَإنْ كانَ ذَنْبي كلَّ ذَنْبٍ فإنّهُ ................................ مَحا الذّنْبَ كلَّ المَحوِ مَن جاءَ تائِبَا              </strong></span></span></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "eb9ca728-dc5c-4993-8024-266bd62c9bf4",
+    "shortname": "mahmoud_salah",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر",
+    "عربية",
+    "لُغة عربيّة",
+    "مَدح"
+  ],
+  "created_at": "2015-06-09T00:51:32Z",
+  "attributes": {
+    "old_id": 1338
+  },
+  "language": "ar",
+  "history": []
+}

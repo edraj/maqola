@@ -1,0 +1,46 @@
+{
+  "uuid": "49219929-fe72-4de4-a5f2-751902e1f142",
+  "shortname": "من_أقوال_أبو_إسماعيل_عبد_الله_بن_محمد_الهروي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أقوال أبو إسماعيلَ عبد الله بن محمدٍ الهروي"},
+  "updated_at": "2014-02-09T14:52:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:53fc0a42f8f9d727037ba1d7deadf13c1075f034",
+    "bytesize": 351,
+    "body": "قالَ أبو إسماعيلَ عبد الله بن محمدٍ الهروي: <br> عرضتُ على السيفِ خمسَ مرات، لا يقالُ لي ارجع عن مذهبك، لكن يقالُ لي: اسكت عما خالفك، فأقولُ لا أسكت.<br> <br> [تذكرة الحفاظ: 3/1184]<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "ذَكاء",
+    "شَجاعَة",
+    "فَصاحَة"
+  ],
+  "created_at": "2014-02-09T14:52:39Z",
+  "attributes": {
+    "old_id": 831
+  },
+  "language": "ar",
+  "history": []
+}

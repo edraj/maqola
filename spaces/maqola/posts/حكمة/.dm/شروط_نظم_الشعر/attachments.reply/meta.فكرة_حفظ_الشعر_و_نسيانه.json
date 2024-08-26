@@ -1,0 +1,29 @@
+{
+  "uuid": "3a68fd85-5410-4317-8a88-81ad4bfd7e19",
+  "shortname": "فكرة_حفظ_الشعر_و_نسيانه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فكرة حفظ الشعر و نسيانه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:07946b71ca107124a9a9e7c01b60979088340f50",
+    "bytesize": 738,
+    "body": "السلام عليكم،     الشاعر تنجبه الفطرة و تسيره الموهبة و سعة الخيال و تشحذه الصنعة و الأنة و الصبر في النظم، لكن الخيال محدود و خيالات الناس لو اجتمعت لا تحد، و ما قد يعرفه فرد قد لا يعينه على القول و النظم و الإبداع، مما يكون حريا به التثقيف و القراءة و الاستماع، فكما تبدع العين بالوصف من كثرة التجوال في البلدان و الأمصار، يبدع اللسان و القلم في الوصف من كثرة الحفظ و التثقيف، فلن تعطي إن لم تأخذ.   و الله أعلم."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-28T13:42:12Z",
+  "attributes": {
+    "old_id": 229,
+    "old_entry_id": 26
+  },
+  "language": "ar"
+}

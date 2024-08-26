@@ -1,0 +1,46 @@
+{
+  "uuid": "992a5378-e21f-4f82-9935-86ac09ed5852",
+  "shortname": "إيفان_الرهيب_والمسلمين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إيفان الرهيب والمسلمين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a935324ab50d1d0fa818e741edd7ed22e5befff6",
+    "bytesize": 379,
+    "body": "<p>في زمن أمير موسكو العظيم وقيصر عموم روسيا الأول \" إيفان الرهيب \" ، نشبت حرب بين المسلمين والروس عام 1571 م ، فقام المسلمون بغزو موسكو وحرقوها بالكامل بما فيها مبنى الكرملين ، وقتلوا 100 ألف روسي واسترقوا 150 ألف .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "سِياسَة",
+    "شَجاعَة",
+    "فَخر",
+    "قِصّة",
+    "مَدح"
+  ],
+  "created_at": "2015-04-11T20:59:27Z",
+  "attributes": {
+    "old_id": 1160
+  },
+  "language": "ar",
+  "history": []
+}

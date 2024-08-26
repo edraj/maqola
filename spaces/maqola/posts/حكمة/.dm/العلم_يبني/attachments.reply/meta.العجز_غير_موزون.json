@@ -1,0 +1,29 @@
+{
+  "uuid": "bb7e3eb7-5d0a-4604-a969-6664ce0af4e4",
+  "shortname": "العجز_غير_موزون",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العجز غير موزون"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c7707f1f05c087bd6df962b1104ec2a070aab5e8",
+    "bytesize": 64,
+    "body": "الصحيح: والجهل يهدم بيت العز والكرم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-14T02:21:52Z",
+  "attributes": {
+    "old_id": 301,
+    "old_entry_id": 363
+  },
+  "language": "ar"
+}

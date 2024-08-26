@@ -1,0 +1,43 @@
+{
+  "uuid": "3bb59b6a-d07f-4865-9da5-7636142f56c2",
+  "shortname": "إيثار_ما_بعده_إيثار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إيثار ما بعده إيثار..."},
+  "updated_at": "2010-11-04T03:06:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:78ac973502f17945c7f165909c9170eb680f7423",
+    "bytesize": 945,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">&#160;قال حذيفةُ العَدَويُّ: انطلقتُ يومَ اليرموكِ أطلبُ ابنَ عَمٍ لي ومعي شيءٌ مِن ماء وأنا أقول: إنْ كانَ به رَمَقٌ سَقَيتُه مِنه ومَسحتُ به وَجْهَهُ. فلمّا وَجدتُه أشَرتُ إليه أنْ أسقيَه، فقال لي ابن عمي: نَعم، فإذا برجلٍ يقول: آه، فأشارَ إلي ابن عمي أن انطلق إليه، فجِئتُهُ، فإذا هو هشامُ بن العاص. فلما أشَرتُ إليه سَمِعَ آخر يقول: آه، فأشار إلي هشام أنْ انطلقَ إليه، فَجِئتُهُ، فإذا هوَ قَد مات، فرَجَعتُ إلى هشامٍ فإذا هوَ قد مات، فانصرفتُ إلى ابن عَمّي فإذا هو قد مات!!</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة",
+    "كَرَم"
+  ],
+  "created_at": "2010-11-04T03:06:05Z",
+  "attributes": {
+    "old_id": 133
+  },
+  "language": "ar",
+  "history": []
+}

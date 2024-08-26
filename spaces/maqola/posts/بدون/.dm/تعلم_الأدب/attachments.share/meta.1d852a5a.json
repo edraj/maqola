@@ -1,0 +1,33 @@
+{
+  "uuid": "1d852a5a-ae95-4c7c-8919-f01c8d8e40a7",
+  "shortname": "1d852a5a",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-08-28T09:04:27Z",
+  "author_locator": { "type": "content",
+    "uuid": "b7907345-efbe-4a57-bf57-ec04ca768ebf",
+    "shortname": "abderrahmane_beaek",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-08-28T09:04:27Z",
+  "attributes": {
+    "old_id": 602,
+    "old_entry_id": 1490
+  },
+  "language": "en",
+  "location": {
+    "uuid": "1d852a5a-ae95-4c7c-8919-f01c8d8e40a7",
+    "shortname": "1d852a5a",
+    "subpath": "posts/بدون",
+    "space_name": "maqola",
+    "parent_shortname": "تعلم_الأدب",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

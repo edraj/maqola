@@ -1,0 +1,42 @@
+{
+  "uuid": "8f000c1c-b934-4e11-9c31-6cfdc9c4d4de",
+  "shortname": "كل_زول_بالزوجة_بتاعه",
+  "is_active": false,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كل زول بالزوجة بتاعه"},
+  "updated_at": "2015-05-16T13:03:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d12a96cca30b1a5ad7a96ae33776cae67255cc55",
+    "bytesize": 270,
+    "body": "<p>يا جرحنى بلقمة ناشفة و العيش عندك طرى .. </p><p>تقلان عليا ليه ارحمنى يا مفترى</p><p>طلعت فوق السطوح هز الهوا كمى ..</p><p>كل العيال اتجوزوا وانا لسه جمب امى</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "dd89d84a-7142-4e89-804a-bd75ffbc33f0",
+    "shortname": "aboubakr_elsayed",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2015-05-10T14:28:09Z",
+  "attributes": {
+    "old_id": 1253
+  },
+  "language": "ar",
+  "history": []
+}

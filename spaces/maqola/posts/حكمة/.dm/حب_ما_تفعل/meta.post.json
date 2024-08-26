@@ -1,0 +1,42 @@
+{
+  "uuid": "0d0ae0fe-9fb6-4ad9-a060-9af139bdfbbb",
+  "shortname": "حب_ما_تفعل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حب ما تفعل"},
+  "updated_at": "2013-05-04T02:39:48Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1a777a2ac5ec0f2e454848c43309eda268d20e94",
+    "bytesize": 232,
+    "body": "<span class=\"maqola_body\"> <br> </span><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><span class=\"maqola_body\"><span class=\"fontxxlarge\">حب ما تفعل حتي تفعل ما تحب</span></span></blockquote>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a24ed061-2a20-4f9d-a481-1ed08380ff7b",
+    "shortname": "rania_mohamed",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-05-04T02:39:48Z",
+  "attributes": {
+    "old_id": 594
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,53 @@
+{
+  "uuid": "adc8e4e2-155e-4a4c-985c-e46c7e3bab64",
+  "shortname": "السيوطي_وخلفاء_العبيديين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السيوطي وخلفاء العبيديين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8a2623b2d0097a6677e5d913366903c5c805f9ed",
+    "bytesize": 267,
+    "body": "<p>قال السيوطي في تاريخه : \" ولم أورد أحداً من الخلفاء العبيديين ، لأن خلافتهم غير صحيحة ، وذكر أن جدهم مجوسي ، وإنما سماهم بالفاطميين جهلة العوام \".</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "عربية",
+    "فَصاحَة",
+    "قاعدة أصولية",
+    "قَدح",
+    "لُغة عربيّة",
+    "مَثَل"
+  ],
+  "created_at": "2015-04-11T21:23:18Z",
+  "attributes": {
+    "old_id": 1167
+  },
+  "language": "ar",
+  "history": []
+}

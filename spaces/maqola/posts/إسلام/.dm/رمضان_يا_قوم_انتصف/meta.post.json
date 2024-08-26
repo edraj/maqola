@@ -1,0 +1,42 @@
+{
+  "uuid": "f122e61e-6717-4106-b018-2d9c7e6951f6",
+  "shortname": "رمضان_يا_قوم_انتصف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"​رَمَضَانُ يَا قَوْمُ انْتَصَفْ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bd08afcfd3fe095bf3fe276b7dc4cbce7ddf09c6",
+    "bytesize": 390,
+    "body": "<p>رَمَضَانُ يَا قَوْمُ انْتَصَفْ *** فَتَدَارَكُوا مَا قَدْ سَلَفْ</p><p>وَتَـزَوَّدُوا لِمِـــعَادِكُمْ *** قَبْلَ النَّدَامَةِ وَالأَسَـفْ</p><p>وَتَذَلَّلُــــوْا لِإلٰهــكُمْ *** فَالذُّلُّ لِلمَـــوْلَى شَرَفْ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "شِعر"
+  ],
+  "created_at": "2015-07-03T13:29:57Z",
+  "attributes": {
+    "old_id": 1369
+  },
+  "language": "ar",
+  "history": []
+}

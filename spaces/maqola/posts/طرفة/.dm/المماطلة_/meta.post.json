@@ -1,0 +1,42 @@
+{
+  "uuid": "59df7ee0-7cc0-4a98-86a3-554c9cfcaf24",
+  "shortname": "المماطلة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المماطلة،"},
+  "updated_at": "2010-11-04T05:04:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:31365c83888126c2edd330365234cb34061b3a17",
+    "bytesize": 489,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قيل: لَمْ يُرَ الأحنَفُ ضَجِرًا قَطُّ إلا مَرَّةً واحدة فإنَّهُ أعطى خَيّاطاً قَميصًا يَخيطُه لَهُ، فَحَبَسَهُ حَولينِ كاملين، فَأخذَ الأحنفُ بِيَدِ ابنِهِ بَحر، فأتى الخَيّاطَ وقال: إذا مِتُّ فادفعْ القميصَ إلى هذا!</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-04T05:04:40Z",
+  "attributes": {
+    "old_id": 160
+  },
+  "language": "ar",
+  "history": []
+}

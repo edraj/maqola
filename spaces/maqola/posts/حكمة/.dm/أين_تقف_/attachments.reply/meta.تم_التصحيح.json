@@ -1,0 +1,29 @@
+{
+  "uuid": "1f57fe3c-3525-448e-ac42-00be1a4f941d",
+  "shortname": "تم_التصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تم التصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0def5a7f6695668957725d961cce29952f7c80dc",
+    "bytesize": 38,
+    "body": "أشكرك على الملاحظة. :)"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-04-27T14:11:25Z",
+  "attributes": {
+    "old_id": 767,
+    "old_entry_id": 576
+  },
+  "language": "ar"
+}

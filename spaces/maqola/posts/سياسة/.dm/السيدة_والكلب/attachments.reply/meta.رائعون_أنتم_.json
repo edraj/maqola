@@ -1,0 +1,29 @@
+{
+  "uuid": "322b2a79-6c6f-4125-a20b-19f8727fa31e",
+  "shortname": "رائعون_أنتم_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رائعون أنتم !!!"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9fa242a5278d14fcb856a94ba341dbdc10c81de6",
+    "bytesize": 193,
+    "body": "والله إني فرحت لهذا الموقع كفرحة  الحبيب بلقيا حبيبه.. بارك الله فيكم. سأحاول نشره بين المهتمين والمختصين..."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-28T16:32:28Z",
+  "attributes": {
+    "old_id": 496,
+    "old_entry_id": 498
+  },
+  "language": "ar"
+}

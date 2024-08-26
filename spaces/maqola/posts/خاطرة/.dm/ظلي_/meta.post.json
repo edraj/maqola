@@ -1,0 +1,41 @@
+{
+  "uuid": "b67342f1-38c9-4f39-9bdd-2ebeceadfba4",
+  "shortname": "ظلي_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ظلي ."},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3087a304081925682a847e506c9d91ba568f010f",
+    "bytesize": 294,
+    "body": "<p>   كيف ستغدو من بعدي يا ظلي ؟!</p><p>أراهن أنك لن تقوى .<br>وسترى ما سيفعله رحيلك بك أنت أولاً .<br>افعل ما شئت وتأن .<br>ثم اقتل .. ومزق ..<br>وارحل بصمت .</p><p>بقمي : يوسف مدحدح</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "be63c21d-7c63-4bb7-9a62-77b5f5ae3812",
+    "shortname": "يوسف_مدحدح",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-03-25T23:23:21Z",
+  "attributes": {
+    "old_id": 1128
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "dc2c45e8-3c99-4227-bc9c-efc12eac0db1",
+  "shortname": "شروط_نظم_الشعر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شروط نظم الشعر"},
+  "updated_at": "2010-11-01T12:16:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f2de3725d5b7c64e58c0feb72ceb7e923e15220f",
+    "bytesize": 1188,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">استأذن أبو نواس خلفًا الأحمر في نظم الشعر، فقال له:‏ ‏ لا آذن لك في عمل الشعر إلا أن تحفظ ألف مقطوع للعرب ما بين أرجوزة وقصيدة ومقطوعة.‏ ‏ فغاب عنه مدة وحضر إليه، فقال له:‏ ‏ قد حفظتُها.‏ ‏ فقال له خلف الأحمر: أَنشِدْها.‏ ‏ فأنشده أكثرها في عدة أيام. ثم سأله أن يأذن له في نظم الشعر، فقال له:‏ ‏ لا آذن لك إلا أن تنسى هذه الألف أرجوزة كأنك لم تحفظها.‏ ‏ فقال له:‏ ‏ هذا أمرٌ يصعب عليَّ، فإني قد أتقنت حفظها.‏ ‏ فقال له:‏ ‏ لا آذن لك إلا أن تنساها.‏ ‏ فذهب أبو نواس إلى بعض الأديرة، وخلا بنفسه، وأقام مدّة حتى نسيها. ثم حضر فقال:‏ ‏ قد نسيتها حتى كأن لم أكن حفظتها قط.‏ ‏ فقال له خلف:‏ ‏ الآن انظم الشِّعر! ‏ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-17T13:25:15Z",
+  "attributes": {
+    "old_id": 26
+  },
+  "language": "ar",
+  "history": []
+}

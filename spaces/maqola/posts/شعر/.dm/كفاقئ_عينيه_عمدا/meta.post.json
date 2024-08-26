@@ -1,0 +1,43 @@
+{
+  "uuid": "6271c2da-c867-4754-91e8-d39bb33689fb",
+  "shortname": "كفاقئ_عينيه_عمدا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كَفاقئِ عَينَيهِ عَمداً"},
+  "updated_at": "2010-12-29T15:54:09Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2a7eac67931cd13169be69c669da907b8d3fc428",
+    "bytesize": 1204,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يُضربُ لمن أخطَرَ وغَرَّرَ بنفسه ولا يقدر على الخلاص مما وقع فيه. وكان الكُسعي ممن ضُرب بهم المثل في شدة الندامة، حتى قيل &quot;كندامة الكسعي&quot; .</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">رُوي أنَّ الفرزدق قال عندما طلق زوجته النَّوَار‏:‏<br />\r\n\tنَدِمتُ نَدامَةَ الكُسَعّي لمّا -- غَدَت مِنّي مُطَلَّقَةً نَوَارُ<br />\r\n\tوكانَت جَنَّتي فَخَرَجتُ مِنها -- كآدَمَ حِينَ أخرَجَهُ الضِّرارُ<br />\r\n\tفَكُنْتُ كَفاقِئٍ عَينَيِه عَمداً -- فأصبَحَ مَا يُضِئُ لَهُ النَّهَارُ<br />\r\n\tوَلَو أَنِّي مَلكَتُ يَدِي وَقَلبي -- لَكانَ عَلىّ لِلقَدَرِ الخِيارُ<br />\r\n\tوَ ما </span><span style=\"font-size: 1.5em;\">فارَقتُها </span><span style=\"font-size: 1.5em;\"> شِبَعاً، ولكِنْ -- رَأيْتُ الدَّهرَ يأخُذُ مَايُعارُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "مَثَل"
+  ],
+  "created_at": "2010-12-29T15:54:09Z",
+  "attributes": {
+    "old_id": 430
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "8b35e3f7-a95d-47c0-beec-96b367ec70c6",
+  "shortname": "الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0a7dcf5f9457a392d2e3d3667e7b57c23f7c8208",
+    "bytesize": 79,
+    "body": "<p>لن تعرف الله بعقلك   </p><p>بل ستعرفه بقلبك </p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4b8bd7a3-6b0c-4c92-814e-1ae857f13dcb",
+    "shortname": "sohaib_alhalaybeh",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-04-11T18:44:13Z",
+  "attributes": {
+    "old_id": 1151
+  },
+  "language": "ar",
+  "history": []
+}

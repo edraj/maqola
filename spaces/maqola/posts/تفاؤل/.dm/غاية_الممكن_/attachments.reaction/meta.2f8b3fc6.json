@@ -1,0 +1,23 @@
+{
+  "uuid": "2f8b3fc6-bdcd-4091-b70e-b9531b3bf295",
+  "shortname": "2f8b3fc6",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "31c0d6ce-4c68-4d70-b75c-1253b2cc4d24",
+    "shortname": "anime_girl",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2017-04-30T19:08:30Z",
+  "attributes": {
+    "old_id": 1650,
+    "old_entry_id": 619
+  },
+  "language": "en",
+  "type": "like"
+}

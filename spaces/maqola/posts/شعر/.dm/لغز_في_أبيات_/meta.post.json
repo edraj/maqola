@@ -1,0 +1,43 @@
+{
+  "uuid": "ff0c453f-c252-4626-a708-807f69aebfee",
+  "shortname": "لغز_في_أبيات_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لُغز في أبيات ..."},
+  "updated_at": "2013-11-14T20:16:18Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cda18c784d6052d3d9fff8f156fc74da81057198",
+    "bytesize": 724,
+    "body": "<span class=\"maqola_body\"> ما اسمٌ إذا جَوَّدَه قائلُهْ -- يكثُرُ من بيْن الوَرَى حامِلُهْ<br>أحْرُفُه ثلاثةٌ؛ ثُلْثُها -- معجَمُ بحْرٍ لا يُرَى ساحِلُهْ<br>إذا حَذَفْت وَسطَهُ عامدًا -- يصيرُ أمْراً مُبغَضًا فاعِلُهْ<br>والبحرُ قدْ ألْهَمَهُ رَبُّنا -- عِلْمًا يَظُنُّ عُسْرَهُ جاهِلُهْ<br>مكّةَ معْ مدينة المصطفى -- فهل فَهِمْت ما أنا قائلُهْ؟<br>والعلمُ مختصٌّ بالاسم الذي -- عنيتُ في اللغز، فمَنْ طائِلُهْ؟<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "لُغز"
+  ],
+  "created_at": "2013-11-14T20:16:07Z",
+  "attributes": {
+    "old_id": 713
+  },
+  "language": "ar",
+  "history": []
+}

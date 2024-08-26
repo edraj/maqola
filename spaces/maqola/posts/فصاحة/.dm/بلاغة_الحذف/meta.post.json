@@ -1,0 +1,43 @@
+{
+  "uuid": "409b77b2-59ce-423a-a0de-ba0e349b20d4",
+  "shortname": "بلاغة_الحذف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بلاغَةُ الحَذف"},
+  "updated_at": "2013-09-07T21:12:06Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:aca2a07e858de9c46c590c40bd0b96e7242d9659",
+    "bytesize": 838,
+    "body": "<span class=\"maqola_body\"> العربيّة رائعة ؛ فكلّما حُذف من الكلام ما لا ضير في حذفه كان أبلغ .<br><br>فقول أحدهم : \"قُم بقتل هذا الرّجل\" أبلغ منه قوله : \"اقتل هذا الرّجل\"<br><br>وأبلغ من هذا قوله : \"اقتل الرّجل\" ، وأبلغ منه : \"اقتله\"<br><br>وأبلغ منه قوله : \"اقتل\" مشيراً للمقتول<br><br>وأبلغ من ذلك كلّه أن يشير للتّعيس ويمرّر يده المبسوطة على منحره ،<br><br>بإشارة \"تراي ذابحك\" المشهورة ، دون فوهٍ بحرف .<br><br><span class=\"fonttohama\"></span><span class=\"fontsmall\"><span class=\"fonttohama\">(مع التحفظ طبعا على المثال :) )</span></span><br><br><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2013-09-07T21:11:42Z",
+  "attributes": {
+    "old_id": 665
+  },
+  "language": "ar",
+  "history": []
+}

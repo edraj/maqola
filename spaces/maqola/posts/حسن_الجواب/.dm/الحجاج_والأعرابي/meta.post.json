@@ -1,0 +1,45 @@
+{
+  "uuid": "a79fe75c-6641-4f7b-a5dd-7498c5528f32",
+  "shortname": "الحجاج_والأعرابي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحجاج والأعرابي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:44db232fc725721705b0691baa198ea5c2724d83",
+    "bytesize": 896,
+    "body": "<p>خرج الحجّاج متصيداً ، فلقي أعرابياً فقال : كيف سيرة الحجاج فيكم ؟!! قال: ظلوم غشوم لا حيَّاه الله ولا بيَّاه ، قال له : فلو شكوتموه إلى أمير المؤمنين عبد الملك ؟!! فقال الأعرابي : هو والله أظلمُ منه وأغشم ، فعليه لعنة الله!!. فأغضب ذلك الحجّاج وقال له : أما تدري من أنا ؟!! قال : وما عسيت أن تكون ؟!! قال : أنا الحجّاج فقال الأعرابي : وتدري من أنا ؟!! قال : لا ، من أنت ؟!! قال مولى بني أبي ثور أُجَنُّ مرتين مِنَ الشهر وهذه إحداهما ، فضحك الحجّاج وانصرف عنه.</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "شَجاعَة",
+    "طُرفَة",
+    "قِصّة",
+    "مَعروف"
+  ],
+  "created_at": "2015-05-25T23:23:05Z",
+  "attributes": {
+    "old_id": 1298
+  },
+  "language": "ar",
+  "history": []
+}

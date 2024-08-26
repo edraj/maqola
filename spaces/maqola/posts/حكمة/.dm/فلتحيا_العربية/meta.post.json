@@ -1,0 +1,44 @@
+{
+  "uuid": "5fa63267-4023-4d7e-87c6-f596e871b061",
+  "shortname": "فلتحيا_العربية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فلتحيا العربية"},
+  "updated_at": "2014-02-01T15:34:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:63b9790b2f75b705b2476d708805dfd0881ffbed",
+    "bytesize": 283,
+    "body": "<br> ويقال: فلانٌ فصيحُ اللَّهْجَة، <br> <br> وهيَ لغتهُ التي جُبِلَ عليها فاعتادها، ونشأَ عليها. <br> <br> واللَّهْجَةُ في اللّغة: اللّسان.<span class=\"maqola_body\"> <br> <br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "فَصاحَة"
+  ],
+  "created_at": "2014-02-01T15:34:01Z",
+  "attributes": {
+    "old_id": 760
+  },
+  "language": "ar",
+  "history": []
+}

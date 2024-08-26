@@ -1,0 +1,43 @@
+{
+  "uuid": "87f9e65a-d9a6-427e-a4be-b6ee3f2398fe",
+  "shortname": "حكاية_رجل_و_ولده",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حكايةُ رجلٍ و ولده."},
+  "updated_at": "2010-10-31T20:15:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bb1a208b81c14c6c8be4e5684b40fca5ac7b39d3",
+    "bytesize": 1435,
+    "body": "<p>\r\n\t<img alt=\"a man and his son\" src=\"http://maqola.org/data/20/120/the-man-and-his-son.jpg\" style=\"width: 550px;\" title=\"a man and his son\" /></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">بعضُنا يَحكُمُ على الناسِ من مظهَرِهِم .. وبالطبع هذا خطأ!!<br />\r\n\tوهذهِ الحكاية التي نَحكِيها لَكُم تؤكِّدُ ما نَقولُه : </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">- في يومٍ مُمطر، والأرضُ مليئةٌ بالطينِ، كانَ الأبُ وولده يركبان معاً على الحمار.. أحسَّ الأبُ بِضَعفِ الحمار .. فاقترح على ولده النزولَ من فوقهِ شفقةً عليهِ والسير بجوارِه للتَخفيفِ عنهُ.<br />\r\n\tعندما شاهد الناسُ ذلك قال أحدُهُم : كيف هان على الأب أن يترك ولده ويسير على قدميه في هذا الوحل ولم يفكر في وضعه على الحمار!!<br />\r\n\tقال رجلٌ آخر : فعلاً إنهُ لا يَهتَمُّ بولده.<br />\r\n\tنظر الرجل إلى ولده هامسا: لا تحزن يا ولدي، فالناس هم الناس في كل زمان ومكان، يتعجل بعضهم في إبداء الرأي قبل أن يعرفوا الحقيقة. </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُفولَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-30T18:29:53Z",
+  "attributes": {
+    "old_id": 120
+  },
+  "language": "ar",
+  "history": []
+}

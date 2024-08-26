@@ -1,0 +1,41 @@
+{
+  "uuid": "e041d51e-59b4-4d88-913b-99e4361dd2ef",
+  "shortname": "خلق_التغافل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خلق التغافل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:88e42d2d0cf04400c68be55c0e93f7454cb86218",
+    "bytesize": 2436,
+    "body": "<p><span dir=\"rtl\" data-ft='{\"tn\":\"K\"}' data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body\"><span class=\"UFICommentBody _1n4g\" data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body.0\"><span data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body.0.0\"><span data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body.0.0.$end/=1$text0/=010\">يقول ابن الجوزي: (ما يزال التغافل عن الزلات من أرقى شيم الكرام، فإنّ الناس مجبولون على الزلات والأخطاء، فإن اهتم المرء بكل زلة وخطيئة تعب وأتعب، والعاقل الذكي من لا يدقّق في كل صغيرة وكبيرة، مع أهله، أحبابه، وأصحابه، وجيرانه، وزملائه، كي تحلو مجالسته، </span></span><span data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body.0.3\"><span data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body.0.3.0\"><span data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body.0.3.0.$end/=1$text0/=010\">وتصفو عشرته). </span><br data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body.0.3.0.$end/=1$text1/=010\"><span data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body.0.3.0.$end/=1$text2/=010\">ويقول الحسن البصري - رحمه الله -: (ما زال التغافل من فعل الكرام). </span><br data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body.0.3.0.$end/=1$text3/=010\"><span data-reactid=\".gv.1:5:1:$comment10153637147520409_10153637177565409/=10.0.$right.0.$left.0.0.1.$body.$comment-body.0.3.0.$end/=1$text4/=010\">ويقول الإمام أحمد بن حنبل - رحمه الله - (تسعة أعشار حسن الخلق في التغافل).فضلا لايك ومتابعة سيصلكم ان شاء الله كل مفيد</span></span></span></span></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f2cf48da-162a-42e4-afc3-409b34a5d366",
+    "shortname": "أم_شعيب_شعبة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب"
+  ],
+  "created_at": "2015-10-15T11:04:12Z",
+  "attributes": {
+    "old_id": 1528
+  },
+  "language": "ar",
+  "history": []
+}

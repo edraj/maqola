@@ -1,0 +1,42 @@
+{
+  "uuid": "8f0d0c99-2f97-4302-b901-cfe90e64cdf1",
+  "shortname": "فما_ترى_فيما_ترى_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فما ترى فيما ترى؟"},
+  "updated_at": "2010-12-29T15:59:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f9477b9d76dd62cf514531fceae1a4d5d9dab2a8",
+    "bytesize": 412,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قال الأصمعي: أصابت الأعرابَ مجاعة، فمررتُ برجل منهم قاعد مع زوجته بقارعة الطريق، وهو يقول:<br />\r\n\tيا ربّ إني قاعدٌ كما ترى -- وزوجتي قاعدة كما ترى<br />\r\n\tوالبطنُ مني جائعٌ كما ترى -- فما ترى يا ربنا فيما ترى؟</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-29T15:59:47Z",
+  "attributes": {
+    "old_id": 431
+  },
+  "language": "ar",
+  "history": []
+}

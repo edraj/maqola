@@ -1,0 +1,18 @@
+{
+  "uuid": "0f5b457c-799d-42a9-8c5d-ef3e5bf10b50",
+  "shortname": "nofoso_kebaran.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:ed1e50739be2fd10900ef00d21f86ac69ab0372e",
+    "bytesize": 116899,
+    "body": "nofoso_kebaran.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:05+03:00",
+  "attributes": {
+    "old_id": 40
+  },
+  "language": "en"
+}

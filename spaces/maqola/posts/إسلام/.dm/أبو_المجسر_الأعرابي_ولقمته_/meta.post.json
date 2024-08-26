@@ -1,0 +1,51 @@
+{
+  "uuid": "58230203-fcc0-4824-baa5-9bba12011a5e",
+  "shortname": "أبو_المجسر_الأعرابي_ولقمته_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أبو المجسر الأعرابيّ ولقمته!"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b770a874e315f859e1b4b75257c9d52633f76077",
+    "bytesize": 578,
+    "body": "<p>قال أبو المجسر الأعرابيّ : \" كانت لي بنتٌ ، تجلس معي على المائدة ، فلا تقع عينها على لُقمةٍ نفيسة إلا خصّتني بها ، فكبرت وزوّجتها ، وصِرتُ أجلس إلى المائدة مع ابن لي ، فوالله لن تسبق عيني ، إلى لُقمةٍ طيّبة ، إلا سبقت يدهُ إليها!! .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "طُفولَة",
+    "عربية",
+    "فَخر",
+    "قَدح",
+    "لُغة عربيّة",
+    "مَثَل",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-08-04T02:05:38Z",
+  "attributes": {
+    "old_id": 1460
+  },
+  "language": "ar",
+  "history": []
+}

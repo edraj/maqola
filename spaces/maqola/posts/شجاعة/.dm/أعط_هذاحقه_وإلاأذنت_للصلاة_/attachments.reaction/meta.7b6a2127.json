@@ -1,0 +1,23 @@
+{
+  "uuid": "7b6a2127-8e96-4d9a-a506-70d2c6f41626",
+  "shortname": "7b6a2127",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "e4deab74-cc61-4867-be31-a247ccd43c34",
+    "shortname": "mohammed_noury_tabbakh",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2016-08-27T14:39:13Z",
+  "attributes": {
+    "old_id": 1532,
+    "old_entry_id": 623
+  },
+  "language": "en",
+  "type": "like"
+}

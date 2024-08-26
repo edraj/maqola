@@ -1,0 +1,29 @@
+{
+  "uuid": "7027cbc5-de2f-4c7a-9c7e-19d50ff010e1",
+  "shortname": "فعل_الخير",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فعل الخير"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:824a2607045c08142d8325b0eb930ee89bfc9a8a",
+    "bytesize": 564,
+    "body": "بسم الله الرحمن الرحيم .. فاعل الخير ان كان يفعلها لله ,لانريد منكم جزاءا ولاشكورا, اوكان يفعلها حبا للناس , في كل الاحوال يجب ان يصبر على التعب والعناء , وحتى جحود الناس ونكرانهم للجميل , فلا يرتد على اعقابه , وينسلخ من عقيدته , ويترك فعل الخير مرة اخرى , بل يجب لن يصبر ويصابر , وتواصو بالحق وتواصوا بالصبر , شكرا لكم "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-06-24T12:10:46Z",
+  "attributes": {
+    "old_id": 653,
+    "old_entry_id": 557
+  },
+  "language": "ar"
+}

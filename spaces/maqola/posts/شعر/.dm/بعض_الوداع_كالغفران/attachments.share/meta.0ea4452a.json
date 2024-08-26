@@ -1,0 +1,33 @@
+{
+  "uuid": "0ea4452a-3ca4-42c4-aa10-a64adbb5f05a",
+  "shortname": "0ea4452a",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-04-26T14:58:41Z",
+  "author_locator": { "type": "content",
+    "uuid": "7188dc3b-3f07-43d6-843d-92493de5099a",
+    "shortname": "space",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-04-26T14:58:41Z",
+  "attributes": {
+    "old_id": 418,
+    "old_entry_id": 1197
+  },
+  "language": "en",
+  "location": {
+    "uuid": "0ea4452a-3ca4-42c4-aa10-a64adbb5f05a",
+    "shortname": "0ea4452a",
+    "subpath": "posts/شعر",
+    "space_name": "maqola",
+    "parent_shortname": "بعض_الوداع_كالغفران",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

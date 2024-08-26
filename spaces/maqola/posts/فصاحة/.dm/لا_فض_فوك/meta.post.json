@@ -1,0 +1,43 @@
+{
+  "uuid": "8b3e6a13-c7a3-4737-8116-cf265fdfe77a",
+  "shortname": "لا_فض_فوك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا فُضَّ فُوكَ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8be40d9cd6ae5ba2b70370ba48c49b134390e3ae",
+    "bytesize": 353,
+    "body": "<p>عبارةٌ تقال عند إرادةِ مَدحِ المتكِّلم بكلامٍ أعجبَ قائلَ العبارةِ، فَيَقولُ دعاءً له: لا يفضُضِ الله فاك، ومعناها سلَّمَ اللهُ أسنانَكَ مِن أنْ تَسقطَ مِن فَمِكَ الذي قال مِثلَ هذا الكلام.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "فَصاحَة",
+    "لُغة عربيّة",
+    "مَثَل"
+  ],
+  "created_at": "2015-09-13T17:43:37Z",
+  "attributes": {
+    "old_id": 1505
+  },
+  "language": "ar",
+  "history": []
+}

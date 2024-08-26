@@ -1,0 +1,41 @@
+{
+  "uuid": "2b20b41d-eb38-45b1-90ad-1b91d3153299",
+  "shortname": "الحقيقة_كالنحلة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحقيقة كالنحلة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a9dc30367a7f9d513b6115334284ce0e687fe7d4",
+    "bytesize": 113,
+    "body": "<p>الحقيقية مثل النحلة .. تحمل في جوفها العسل وفي ذنبها الإبرة</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "56b7aedf-b3ff-435e-bbe4-658b457c86aa",
+    "shortname": "musab_qafesha",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-02-02T09:41:04Z",
+  "attributes": {
+    "old_id": 967
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "9243146b-5393-4a11-826a-1780d3b23283",
+  "shortname": "جدوا_بالدعاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جِدُّوا بالدُّعَاءِ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4b0df500fa493aed7cfd54d03d21c67dff5f1c4f",
+    "bytesize": 406,
+    "body": "<p>\r\n\tقَالَ أَبُو الدَّرْدَاءِ رَضِيَ اللهُ عَنْهُ:\r\n</p><p>\r\n\tجِدُّوا بالدُّعَاءِ، فَإِنَّهُ مَنْ يُكْثِرُ قَرْعَ البَابِ يُوشِكُ أَنْ يُفْتَحَ لَهُ.\r\n</p><p>\r\n\t\r\n<br>\r\n<span class=\"small\" data-redactor-class=\"small\">\r\n- مُصَنَّفُ ابْنِ أَبِي شَيْبَةَ.</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "دُعَاء",
+    "قاعدة أصولية"
+  ],
+  "created_at": "2015-07-14T18:42:16Z",
+  "attributes": {
+    "old_id": 1392
+  },
+  "language": "ar",
+  "history": []
+}

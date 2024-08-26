@@ -1,0 +1,33 @@
+{
+  "uuid": "ae491f16-d94d-4551-9b79-c02020133a70",
+  "shortname": "ae491f16",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-04T16:07:40Z",
+  "author_locator": { "type": "content",
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-04T16:07:40Z",
+  "attributes": {
+    "old_id": 253,
+    "old_entry_id": 983
+  },
+  "language": "en",
+  "location": {
+    "uuid": "ae491f16-d94d-4551-9b79-c02020133a70",
+    "shortname": "ae491f16",
+    "subpath": "posts/شعر",
+    "space_name": "maqola",
+    "parent_shortname": "معلقة_عنترة_بن_شداد_العبسي",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "c5e24ca9-9030-4478-ba5c-51df3347edda",
+  "shortname": "تتمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تتمة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bf3bdd830c7958519160529c700cd9b768a5e5dc",
+    "bytesize": 104,
+    "body": "أحتال للمال إن أودى فأجمعه   ---   و لست للعرض إن أودى بمحتال"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-22T14:53:42Z",
+  "attributes": {
+    "old_id": 337,
+    "old_entry_id": 409
+  },
+  "language": "ar"
+}

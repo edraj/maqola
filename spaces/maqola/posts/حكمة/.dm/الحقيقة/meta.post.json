@@ -1,0 +1,41 @@
+{
+  "uuid": "9505e7ef-5847-432d-afe0-9732365743d4",
+  "shortname": "الحقيقة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحقيقة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:83efefcd23caf7149c96861cc7aacc5b79ee95e9",
+    "bytesize": 110,
+    "body": "<p>إن يكون عندك حاسة واحدة </p><p>فانها لا تكفي لمعرفة الحقيقة </p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4b8bd7a3-6b0c-4c92-814e-1ae857f13dcb",
+    "shortname": "sohaib_alhalaybeh",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-04-11T18:46:01Z",
+  "attributes": {
+    "old_id": 1152
+  },
+  "language": "ar",
+  "history": []
+}

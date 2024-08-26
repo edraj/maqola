@@ -1,0 +1,42 @@
+{
+  "uuid": "3b7f62d7-de8b-42f0-a275-a8116a6f542b",
+  "shortname": "جهل_الناس_واختلافهم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جهلُ النّاسٍ واختِلافِهم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9d4b294f5e0bd436897447b60025fa4242a5294d",
+    "bytesize": 258,
+    "body": "<p>يَقُولُ الإمامُ الشًّافِعيّ:</p><p>\" ما جَهِلَ النَّاسُ ولا اخْتَلَفُوا إلّا لِجَهلِهم بالعَرَبِيَّةِ ومَيْلِهم إلى لِسَانِ أرُسْطَاليس \" !</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عربية",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-01-31T02:17:55Z",
+  "attributes": {
+    "old_id": 963
+  },
+  "language": "ar",
+  "history": []
+}

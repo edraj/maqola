@@ -1,0 +1,43 @@
+{
+  "uuid": "2cb7b71d-c7fe-4de7-9969-222c76e0aac2",
+  "shortname": "صار_سيد_العرب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"صار سيّدَ العرب"},
+  "updated_at": "2010-12-11T18:25:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ca54e5a2edfbe12710106cdf8f25372759c93998",
+    "bytesize": 593,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">دخل حاجب بن زرارة على كسرى أنوشيروان، فأستأذن عليه، فقال للحاجب : سله من هو ؟ فقال : رجل من العرب. فلما مَثَلَ بين يَديهِ، قال له أنوشيروان : مَن أنت ؟ قال : سَيِّدُ العرب. قال : أليس زَعمتَ أنّك أحَدهم ؟ فقال : إنّي كُنتُ كذلك، ولكن لما أكرَمَني الملكُ بمكالمته صِرتُ سَيّدَهُم. فأمر بِحَشو فَمِه دُرّاً.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-12-11T18:25:02Z",
+  "attributes": {
+    "old_id": 353
+  },
+  "language": "ar",
+  "history": []
+}

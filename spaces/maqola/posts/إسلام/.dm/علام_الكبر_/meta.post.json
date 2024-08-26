@@ -1,0 +1,46 @@
+{
+  "uuid": "2423da66-3808-44da-a744-37102690e979",
+  "shortname": "علام_الكبر_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"علامَ الكِبر؟!"},
+  "updated_at": "2013-11-20T16:51:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7de4cc336d98470e33703c3834801a8cfc3d9595",
+    "bytesize": 309,
+    "body": "<span class=\"maqola_body\"> <br> في بَشَريّتِنا منَ الضَّعف ما يعيبُ علينا أنْ نتكبّرَ على بعضِنا،<br>وفي دِيننا منَ الرُّقيّ ما يَمنعُنا مِن ذلك ...<br><br><br>القائل: جَنان السّحيباني<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f65a1775-7d93-475b-8ecc-f58b0b7062f0",
+    "shortname": "ظــلال_",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "مَعروف"
+  ],
+  "created_at": "2013-11-20T16:51:15Z",
+  "attributes": {
+    "old_id": 720
+  },
+  "language": "ar",
+  "history": []
+}

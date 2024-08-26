@@ -1,0 +1,18 @@
+{
+  "uuid": "a0f61091-2c4d-4d8e-8d65-cb7a22af3ba6",
+  "shortname": "tharaatom.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:8d10d53dbd8863a05977f686260555f09a05c0f2",
+    "bytesize": 284002,
+    "body": "tharaatom.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 19
+  },
+  "language": "en"
+}

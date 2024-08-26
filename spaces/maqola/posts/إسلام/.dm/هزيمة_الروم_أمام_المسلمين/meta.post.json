@@ -1,0 +1,43 @@
+{
+  "uuid": "9cf8812e-4cd9-4720-a377-dda90df99dcb",
+  "shortname": "هزيمة_الروم_أمام_المسلمين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هزيمة الرومِ أمام المسلمين."},
+  "updated_at": "2010-11-04T03:55:32Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:65227dd3582cff7191241e4116fa39a624ce4182",
+    "bytesize": 2589,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قَدِمَت مُنهَزِمَةُ الرومِ على هِرَقل ـ وهو بأنطاكية ـ فَدعا رجالاً مِن عُظمائِهم، فقال: وَيحَكُم! أخبروني، ما هؤلاءِ الذينَ تُقاتِلونَهم</span></span><span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">؟&#160;</span></span><span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\"> </span></span><span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">- يعني العرب المسلمين -</span></span><span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\"> أليسوا بشرا مِثلُكُم؟<br />\r\n\tقالوا: بَلى ..<br />\r\n\tقال: فأنتُم أكثرُ أم هُم؟<br />\r\n\tقالوا: بَل نَحن أكثر منهم أضعافا في كلِّ مَوطن.<br />\r\n\tقال: ويلكُم! فما بالكم تنهزمون كُلَّما لقيتُموهُم؟<br />\r\n\tفسكتوا، فقال شيخٌ مِنهُم:<br />\r\n\tأنا أخبرك أيها الملك، من أين تؤتَون.<br />\r\n\tقال: أخبرني.<br />\r\n\tقال: إذا حملنا عليهم، صَبروا، وإذا حَملوا علينا، صدقوا ونَحمل عليهُم، فنكذبُ، ويحملونَ علينا، فلا نَصبِر.<br />\r\n\tقال: ويلُكُم فما بالكُم كما تَصِفون، وهُم كما تَزعمون؟<br />\r\n\tقال الشيخ: ما كُنتُ أراكَ إلا وقد علمت من أين هذا.<br />\r\n\tقال له: من أين هذا؟<br />\r\n\tقال: لأنَّ القومَ يصومون بالنهارِ، ويقومون بالليل، ويوفون بالعهدِ، ويأمرون بالمعروفِ، وينهونَ عَن المنكر، ولا يَظلِمون ً، ويتناصفونَ بينهم، ومن أجل أَنَّا نشربُ الخمر، ونَزني، ونَركَبُ الحرامَ، وننقضُ العهدَ، ونغصبُ، ونظلمُ، ونأمرُ بما يُسخطُ الله، ونَنهى عمّا يُرضي الله، ونُفسدُ في الأرض.<br />\r\n\tقال: صدقتني، والله لأخرُجَنَّ مِن هذه القرية، فما لي في صحبتكم خيرٌ وأنتم هكذا.<br />\r\n\tقالوا: نشهدك الله -أيها الملك- تَدَعُ سوريَّةَ وهي جَنَّةُ الدُنيا وحولك مِن الرومِ عَدَدٌ الحصى والترابِ ونجوم السماء، ولم يؤت عليهم.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "قِصّة"
+  ],
+  "created_at": "2010-11-04T03:55:32Z",
+  "attributes": {
+    "old_id": 141
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,18 @@
+{
+  "uuid": "ed40d411-232d-4577-8676-df98bf619915",
+  "shortname": "mata.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:ad6e80d39230843ed93e1a666df69aca2056558c",
+    "bytesize": 112430,
+    "body": "mata.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 17
+  },
+  "language": "en"
+}

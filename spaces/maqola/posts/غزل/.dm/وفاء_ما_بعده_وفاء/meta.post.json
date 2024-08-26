@@ -1,0 +1,43 @@
+{
+  "uuid": "ecb52904-0c27-4026-9cf8-d67add526890",
+  "shortname": "وفاء_ما_بعده_وفاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وفاءٌ ما بعدَه وفاء"},
+  "updated_at": "2014-10-18T09:47:09Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:07de55fb71afe314e9de67df2eb6001ad7a5464f",
+    "bytesize": 1476,
+    "body": "<span class=\"maqola_body\"> ترجم المقريزي لزوجته في (درر العقود الفريدة) فقال:<br>[[ اتُّفِقَ أني كنتُ \r\nأكثر الاستغفار لها بعد موتها، فأُريتُها في بعض الليالي وقد دَخَلت عليَّ \r\nبهيئتها التي كفنتها بها، فقلتُ لها -وقد تذكّرتُ أنها ميتة-: يا أم \r\nمحمد، الذي أُرسِله إليكِ يصل ؟ أعني استغفاري لها، فقالت: نعم يا سيدي، \r\nفي كل يوم تصل هديتك إليَّ، ثم بكت وقالت: قد علمتَ يا سيدي أني عاجزة عن \r\nمكافأتك، فقلتُ لها: لا عليكِ، عمّا قليل نلتقي. <br>وكانت غفر الله لها -مع\r\n صغر سنها- مِن خير نساء زمانها عِفّة وصيانة وديانة وثقة وأمانة ورزانة، \r\nما عُوّضتُ بعدها مثلها.<br> أبكي فراقهم عيني فأرَّقها -- إن التفرّق للأحباب بكّاء<br> ما زال يعدو عليهم صرف دهرهم -- حتى تفانوا وصرف الدهر عدّاء!!<br>  جمعنا الله بها في جنته، وعمّنا بعفوه ومغفرته]]<br><br><span class=\"fonttohama\"></span><span class=\"fontsmall\"><span class=\"fonttohama\">الله! هل بعد هذا الحب حب؟ وهل بعد هذا الوفاء وفاء؟!</span></span><br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "غَزَل",
+    "قِصّة"
+  ],
+  "created_at": "2014-10-18T09:43:43Z",
+  "attributes": {
+    "old_id": 927
+  },
+  "language": "ar",
+  "history": []
+}

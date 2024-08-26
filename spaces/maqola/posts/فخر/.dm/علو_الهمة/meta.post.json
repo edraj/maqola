@@ -1,0 +1,43 @@
+{
+  "uuid": "f1c9fd7a-93c2-4737-87e0-fe1392ae3cb7",
+  "shortname": "علو_الهمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عُلوُ الهِمّة..."},
+  "updated_at": "2010-11-04T04:19:33Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6a84b82143da60723f57b9cf7bc98fae7657d0aa",
+    "bytesize": 1176,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">حُكي أنَّ الأميرَ عِمارةُ بن حمزة كان في بعضِ الأيامِ جالسًا في مجلسِ الخليفة المنصور أبي جعفر، وكان يومُ نَظرِهِ في المظالم، فَنَهضَ رَجلٌ على قدميه، وقال: يا أميَر المؤمنين أنا مظلوم.<br />\r\n\tوقال: عمارةُ بن حمزة اغتصب ضياعي، وابتزَّ مُلكي وعقاري.<br />\r\n\tفأمر المنصور أن يقوم عمارةُ مِن مَوضِعه ويُساوي خَصمَهُ للمحاكمة.<br />\r\n\tفقال عمارة بن حمزة: يا أميرَ المؤمنين، إنْ كانت الضياعُ له فما أعارضهُ فيها، وإن كانت لي فقد وهبتُها له، وما لي حاجة في محاكمَتِهِ ومماثلته، ولا أبيعُ مكاني الذي أكرمني به أميرُ المؤمنين بضياع.<br />\r\n\tفَتَعجّبَ الأكابرُ الحاضرون مِن عُلوِّ هِمَتهِ، وشرفُ نفسِه ومروءته.</span></span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "فَخر",
+    "قِصّة"
+  ],
+  "created_at": "2010-11-04T04:19:33Z",
+  "attributes": {
+    "old_id": 147
+  },
+  "language": "ar",
+  "history": []
+}

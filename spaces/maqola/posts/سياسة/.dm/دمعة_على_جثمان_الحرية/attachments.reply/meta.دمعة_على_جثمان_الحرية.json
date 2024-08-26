@@ -1,0 +1,29 @@
+{
+  "uuid": "161c5064-9741-4c99-875d-7dea77f6e972",
+  "shortname": "دمعة_على_جثمان_الحرية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"دمعة على جثمان الحرية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b273454f8120f78628ccec27e16aca165e10b2bf",
+    "bytesize": 67,
+    "body": "شعر رائع وجميل الله يوفقك ان شاء الله"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-01-13T17:52:58Z",
+  "attributes": {
+    "old_id": 743,
+    "old_entry_id": 552
+  },
+  "language": "ar"
+}

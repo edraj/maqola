@@ -1,0 +1,33 @@
+{
+  "uuid": "bbbeea48-5beb-4cb8-adb2-7c723e64ae8e",
+  "shortname": "bbbeea48",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-05-10T14:14:09Z",
+  "author_locator": { "type": "content",
+    "uuid": "dd89d84a-7142-4e89-804a-bd75ffbc33f0",
+    "shortname": "aboubakr_elsayed",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-05-10T14:14:09Z",
+  "attributes": {
+    "old_id": 445,
+    "old_entry_id": 1252
+  },
+  "language": "en",
+  "location": {
+    "uuid": "bbbeea48-5beb-4cb8-adb2-7c723e64ae8e",
+    "shortname": "bbbeea48",
+    "subpath": "posts/طرفة",
+    "space_name": "maqola",
+    "parent_shortname": "الحب_في_زمن_الكوليرا",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

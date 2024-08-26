@@ -1,0 +1,42 @@
+{
+  "uuid": "96970c7a-13f9-4bad-a075-3721010c1460",
+  "shortname": "التنائي_بديلا_عن_التداني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"التنائي بديلا عن التداني"},
+  "updated_at": "2010-12-02T13:48:11Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d62f4112552b3dc05b1529dc847464acb0c41952",
+    "bytesize": 1955,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أَضحَى التَّنَائِي بَدِيلاً مِن تَدانِينا -- وَنَابَ عَن طِيبِ لُقيَانَا تَجَافِينَا<br />\r\n\tوَ كُنّا و ما يُخشى تَفَرُّقُنا&#160; -- فَنَحنُ اليومَ و ما يُرجى تلاقينا</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">التنائي : التباعُد.</span></span><br />\r\n\t<span style=\"font-size: 1.5em;\">مِن نونِيَّة ابن زيدون&#160; وهو أحد شعراء الأندلس. وقد استخدم ألفاظا جَزِلَة في التعبير عَن مدى وطُولِ البُعد وقوَّةِ الشوق و استخدم ألفاظا ذات حروف ممدودة يَمتَدُّ فيها النَفَس ليُعبرَ عن ألمه.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">وقد عارضه أحمد شوقي في قصيدة مطلعها:<br />\r\n\tيا نائِحَ الطَّلحِ أشباهٌ عوادينا -- نَشْجَى لواديكَ أم نَأسَى لوادينا؟</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">الطلح : شجر شائك من العضاه تأكل الإبل أغصانه اللدنة . واحده : طلحة . والمُراد به هنا وادي الطلح ، مِن متنزهات الأندلس، في شرقي إشبيلية، ملتف الأشجار، تترنم فيه الطيور. ونائحُ الطلح : هو المعتمد بن عباد ملك إشبيلية ، وكان يُحبُّ هذا الوادي ، ويخرج إليه متنزهاً . العوادي : النوازل والمصائب. </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">ويقصد أحمد شوقي التقريب والتشبيه بين حال الأندلس إبان سقوطها وحالنا اليوم.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-12-02T13:48:11Z",
+  "attributes": {
+    "old_id": 291
+  },
+  "language": "ar",
+  "history": []
+}

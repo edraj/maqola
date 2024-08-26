@@ -1,0 +1,43 @@
+{
+  "uuid": "57e252fd-4388-43ed-904a-fac91a8c30cc",
+  "shortname": "من_حكم_الإمام_علي_كرم_الله_وجهه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من حكم الإمام علي كرم الله وجهه"},
+  "updated_at": "2014-02-28T14:25:39Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6f26aa98ca331b113c55e330ced8b515f9baf6b9",
+    "bytesize": 3857,
+    "body": "<span class=\"maqola_body\"> </span><span class=\"fonttohama\"><span class=\"maqola_body\"><br></span><span class=\"uthman\"><span class=\"maqola_body\"><b></b></span><span class=\"uthmanb\"><span class=\"maqola_body\"><b></b></span><span class=\"fontxxlarge\"><span class=\"maqola_body\"><b><span class=\"fontxxlarge\"></span></b></span><span class=\"fontxxlarge\"><span class=\"maqola_body\"><b><span class=\"fontxxlarge\"></span><span class=\"fontxxlarge\"><span class=\"fontxxlarge\"></span></span></b></span><span class=\"fontlarge\"><span class=\"maqola_body\"><b><span class=\"fontxxlarge\"><span class=\"fontxxlarge\"></span></span></b></span><span class=\"fontxlarge\"><span class=\"maqola_body\"><b><span class=\"fontxxlarge\"><span class=\"fontxxlarge\"></span></span></b></span><span class=\"fontxxlarge\"><span class=\"maqola_body\"><b><span class=\"fontxxlarge\"><span class=\"fontxxlarge\"></span></span></b></span><span class=\"fontsmall\"><span class=\"maqola_body\"><b><span class=\"fontxxlarge\"><span class=\"fontxxlarge\"></span></span></b></span><span class=\"fontxxlarge\"><span class=\"maqola_body\"><b><span class=\"fontxxlarge\"><span class=\"fontxxlarge\"></span></span></b></span><span class=\"uthman\"><span class=\"maqola_body\"><b><span class=\"fontxxlarge\"><span class=\"fontxxlarge\">أرى الدنيا تؤذن بانطلاق ***** مشمرة على </span>قدم وسـاق<span class=\"uthmanb\"></span> <span class=\"fontxlarge\"></span></span><span class=\"fontxxlarge\"></span> </b></span><span class=\"fontxlarge\"><b><span class=\"maqola_body\"></span></b><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><span class=\"fontxxlarge\"><b><span class=\"fontxlarge\"></span><span class=\"fontxxlarge\"></span><span class=\"fontxxlarge\"></span>فلا<span class=\"fontxxlarge\"></span> الدنيا ببــــاقية لحي ***** ولا حي على الدنيا ببـاق</b></span></span></font></div></span></span><span class=\"fontxlarge\"><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><span class=\"fontxxlarge\"><b></b></span></span></font></div></span></span><span class=\"fontxlarge\"><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><span class=\"fontxxlarge\"><b></b></span></span></font></div></span></span><span class=\"fontxlarge\"><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><span class=\"fontxxlarge\"><b></b></span></span></font></div></span></span><span class=\"fontxlarge\"><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><span class=\"fontxxlarge\"><b></b></span></span></font></div></span></span><span class=\"fontxlarge\"><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><span class=\"fontxxlarge\"><b></b><span class=\"fontsmall\"></span></span></span></font></div></span></span><span class=\"fontxlarge\"><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><span class=\"fontxxlarge\"></span></span></font></div></span><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><span class=\"fontxxlarge\"></span></span></font></div></span><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><span class=\"fontxxlarge\"></span></span></font></div></span><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><span class=\"fontxxlarge\"></span><span class=\"fontsmall\"></span><span class=\"fontlarge\"></span></span></font></div></span><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"></span></font></div></span><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"></span></font></div></span><div><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"></span></font></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "2fbfdf91-2716-4da9-a301-5f922bf3f2a4",
+    "shortname": "ruby_splendide",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2014-02-28T14:24:55Z",
+  "attributes": {
+    "old_id": 848
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "e5a55f95-5789-4871-9f7e-1901acb144a0",
+  "shortname": "وجه_صادق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وجه صادق"},
+  "updated_at": "2013-08-01T20:32:13Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:af4dd4f8438b2b0a19bfad4d3d5b01088b2b4d27",
+    "bytesize": 610,
+    "body": "<span class=\"fontxlarge\"><span class=\"fontxlarge\"></span>لما دخل الرسول صلى الله عليه وسلم المدينة المنورة قال عبدالله بن سلام وكان يهوديا نظرت في وجه رسول الله فقلت أشهد ان لا اله الا الله وانك يا محمد رسول الله فقال لي اليهود ما الذي دفعك الى ما قلت يا ابن سلام؟ فقال عبدالله بن سلام لهم والذي لا اله غيره ما هذا الوجه بوجه كذاب ابدا.<span class=\"maqola_body\"> <br> <br>  </span>\r\n</span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2013-08-01T20:31:32Z",
+  "attributes": {
+    "old_id": 656
+  },
+  "language": "ar",
+  "history": []
+}

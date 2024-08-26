@@ -1,0 +1,29 @@
+{
+  "uuid": "9641dfcd-f748-47c6-9f98-e9cc9522b42c",
+  "shortname": "جواب_اللغز",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جواب اللغز"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9e701a3124569161a5075b252247fc034132e06d",
+    "bytesize": 277,
+    "body": "الحرف الثالث في تفاحة :الألف آخر حرف في التفاح : الحاء الحرف الرابع في العمر : الميم آخر حرف في الورد : الدال  أ ح م د  أحمد :D اتمنى توصل الجائزة في اقرب وقت :D"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-29T22:51:34Z",
+  "attributes": {
+    "old_id": 241,
+    "old_entry_id": 245
+  },
+  "language": "ar"
+}

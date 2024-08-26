@@ -1,0 +1,42 @@
+{
+  "uuid": "caf47f75-d089-4bf5-842d-f27af19a9b75",
+  "shortname": "القاب_الملوك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القاب الملوك"},
+  "updated_at": "2013-08-17T10:05:46Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4f8d2456c860c80b121ea50b988e5a496413c3ce",
+    "bytesize": 93,
+    "body": "<div><span class=\"maqola_body\"><br></span></div><span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ca3284c6-a404-44fc-9b08-7341cb023f2c",
+    "shortname": "عباس",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "لُغة عربيّة"
+  ],
+  "created_at": "2013-08-15T19:23:29Z",
+  "attributes": {
+    "old_id": 660
+  },
+  "language": "ar",
+  "history": []
+}

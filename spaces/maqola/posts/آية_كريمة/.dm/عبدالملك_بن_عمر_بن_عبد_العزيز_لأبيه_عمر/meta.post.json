@@ -1,0 +1,60 @@
+{
+  "uuid": "581f599a-62d2-4bb4-bb73-60bc61a74961",
+  "shortname": "عبدالملك_بن_عمر_بن_عبد_العزيز_لأبيه_عمر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عبدالملك بن عمر بن عبد العزيز لأبيه عمر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:58eeb80128830db7b8352ee052115bca1ac4ab2e",
+    "bytesize": 602,
+    "body": "<p>قال عبد الملك بن عمر بن عبد العزيز لأبيه عمر: يا أبت ، مالك لا تنفذ في الأمور ، فو الله لا أبالي في الحق لو غلت بي وبك القدور . قال له عمر : لا تعجل يا بني ، فإن الله تعالى ذم الخمر في القرآن مرتين وحرّمها في الثالثة ، وأنا أخاف أن أحمل الناس على الحق جملة فيدفعوه وتكون فتنة .</p><p>من كتاب العقد الفريد لابن عبد ربه الأندلسي \" 246 هـ - 328 هـ \"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "تَفاؤل",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "ذَكاء",
+    "سِياسَة",
+    "شَجاعَة",
+    "عربية",
+    "فَخر",
+    "فَصاحَة",
+    "قاعدة أصولية",
+    "قَناعَة",
+    "قِصّة",
+    "كَرَم",
+    "لُغة عربيّة",
+    "مَثَل",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-04-11T21:20:04Z",
+  "attributes": {
+    "old_id": 1165
+  },
+  "language": "ar",
+  "history": []
+}

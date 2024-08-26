@@ -1,0 +1,42 @@
+{
+  "uuid": "fe4a9583-b678-4ed2-a406-661d84ceda48",
+  "shortname": "خصلتان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خِصلتان"},
+  "updated_at": "2010-10-28T08:16:34Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ef2c14f911c780abfca8cf7f251092f9ab9e87e0",
+    "bytesize": 852,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قيلَ لأشعَب: ‏ ‏ لو أنّكَ حَفِظتَ الحديثَ حِفْظُكَ هذهِ النوادرِ، لكانَ أولَى بِك.‏ ‏<br />\r\n\tقال: ‏ ‏ قد فَعَلتُ.‏ ‏<br />\r\n\tقالوا له: فَما حَفِظتَ مِن الحديثِ؟<br />\r\n\t‏ ‏ قال: ‏ ‏ &quot;حَدَّثَني نَافعٌ عن ابن عُمَر عَن النبي صلى اللّه عليه وسلمَ قال: &quot;مَن كان فيهِ خِصلتان كُتِبَ عِندَ اللّه خالصاً مُخلّصاً&quot; ‏ ‏<br />\r\n\tقالوا: ‏ ‏ هذا حديثٌ حَسن فما هاتان الخصلتان؟ ‏ ‏<br />\r\n\tقال: ‏ ‏ نَسي نافعٌ واحدة، ونسيتُ أنا الأُخرى! ‏ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-10-17T18:06:30Z",
+  "attributes": {
+    "old_id": 53
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "5a816fd2-d172-4905-88bf-08aedc88d7b1",
+  "shortname": "القضاء_الذي_لا_طائل_منه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القضاء الذي لا طائل منه"},
+  "updated_at": "2010-10-23T08:35:03Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:48b82a411ef9086bf6f7b06b8dc45044309dd3ea",
+    "bytesize": 1120,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">قيل، التَقَطَتِ الأرنبُ تَمرَةً فاختَلَسَها الثَّعلَبُ فأَكَلَها فانطَلَقا يَتَخاصَمانِ إلى الضَّبِ.<br />\r\n\tفقالت الأرنبُ يا أبا حسل.<br />\r\n\tفقال، سميعاً دَعوتِ.<br />\r\n\tقالت، أتيناكَ لنَختَصِم.<br />\r\n\tقال، عادلاً وحكيماً.<br />\r\n\tقالت، فاخرُج إلينا.<br />\r\n\tقال، في بَيتِهِ يُؤتى الحَكَم.<br />\r\n\tقالت، إنِّي وَجدتُ تَمرَةً حُلوَةً.<br />\r\n\tقال، فَكُليها.<br />\r\n\tقالت، اختَلَسَها الثعلبُ.<br />\r\n\tقال، لِنَفسِهِ بَغى الخيرَ.<br />\r\n\tقالت، فَلَطَمتُهُ.<br />\r\n\tقال، بِحَقِّكِ أخذتِ.<br />\r\n\tقالت، فَلَطَمَني.<br />\r\n\tقال، اقتَصَّ.<br />\r\n\tقالت، فاقضِ بَينَنا.<br />\r\n\tقال، قَد قَضَيتُ.<br />\r\n\tفَذَهبَت أقوالهُ أمثالاً ...</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-10-23T05:19:24Z",
+  "attributes": {
+    "old_id": 104
+  },
+  "language": "ar",
+  "history": []
+}

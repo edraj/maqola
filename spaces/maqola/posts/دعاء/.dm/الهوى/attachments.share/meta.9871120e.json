@@ -1,0 +1,33 @@
+{
+  "uuid": "9871120e-c53c-4024-8ce4-388099be56b4",
+  "shortname": "9871120e",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-10-15T08:15:44Z",
+  "author_locator": { "type": "content",
+    "uuid": "f2cf48da-162a-42e4-afc3-409b34a5d366",
+    "shortname": "أم_شعيب_شعبة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-10-15T08:15:44Z",
+  "attributes": {
+    "old_id": 627,
+    "old_entry_id": 1522
+  },
+  "language": "en",
+  "location": {
+    "uuid": "9871120e-c53c-4024-8ce4-388099be56b4",
+    "shortname": "9871120e",
+    "subpath": "posts/دعاء",
+    "space_name": "maqola",
+    "parent_shortname": "الهوى",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

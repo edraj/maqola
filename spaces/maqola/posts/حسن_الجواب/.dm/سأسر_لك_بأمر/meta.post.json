@@ -1,0 +1,45 @@
+{
+  "uuid": "49194ed2-fef5-4d3a-b445-f1da6edd83d8",
+  "shortname": "سأسر_لك_بأمر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سَأُسِرُّ لَكَ بِأَمْرٍ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ec19e80cbcf8a0cdccc2e9c989e7b85e9acadb79",
+    "bytesize": 389,
+    "body": "<p>قَالَ رَجُلٌ لِلخَلِيْفَةِ عَبْدِ المَلِكِ بِن مَرْوَان: سَأُسِرُّ لَكَ بِأَمْرٍ.</p><p>قَالَ: نَعَمْ.. تَكَلَّمْ، لَكِنْ لا تَكْذِبْ وَلا تَغْتَبْ وَلا تَتَمَلَّقْ.</p><p>قَالَ: إِذَنْ، ائْذَنْ لي بِالانْصِرَافِ!</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "طُرفَة",
+    "قاعدة أصولية",
+    "قِصّة"
+  ],
+  "created_at": "2015-03-23T08:45:52Z",
+  "attributes": {
+    "old_id": 1126
+  },
+  "language": "ar",
+  "history": []
+}

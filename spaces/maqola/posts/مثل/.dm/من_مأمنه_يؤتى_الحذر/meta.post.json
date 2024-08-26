@@ -1,0 +1,42 @@
+{
+  "uuid": "6190a3b6-d197-4c2c-bed2-5ccf149c11bd",
+  "shortname": "من_مأمنه_يؤتى_الحذر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مِن مأمَنِهِ يُؤتى الحَذِر"},
+  "updated_at": "2010-11-28T15:07:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:28a78e92ce84fc79debea611afa804200ab3612a",
+    "bytesize": 457,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">&quot;مِن مأمَنِهِ يُؤتى الحَذِر&quot;، يُضرَبُ هذا المثل، ليُنَبِّه الحَذِر، أو ليعزيه في ما أصابه،&#160; أي أنَّ الحَذَرَ قد لاَ يَدفَعُ عَنه ما لاَ بُدَّ لَهُ مِنه، وإنْ جَهِدَ جَهْده، و قيل &quot;لاَ ينفَعُ حَذَرٌ مِنْ قَدَرٍ&quot;.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-11-28T15:07:10Z",
+  "attributes": {
+    "old_id": 251
+  },
+  "language": "ar",
+  "history": []
+}

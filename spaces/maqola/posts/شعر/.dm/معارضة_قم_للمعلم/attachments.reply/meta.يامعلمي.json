@@ -1,0 +1,29 @@
+{
+  "uuid": "c4c19fdb-b6a0-46ed-80f0-5b9019848383",
+  "shortname": "يامعلمي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يامعلمي  "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0e19f59a1ede2ecae6b711bbd98300c5f19469c3",
+    "bytesize": 116,
+    "body": "لن نوفيهم افضالهم وحقهم علينا ، صنعونا تعبوا علينا \r\nكيف نجازيهم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "70d9f4cd-dcbc-4699-bb18-f09d25a842c6",
+    "shortname": "ساحق_الدواعش",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-07-08T08:45:00Z",
+  "attributes": {
+    "old_id": 892,
+    "old_entry_id": 201
+  },
+  "language": "ar"
+}

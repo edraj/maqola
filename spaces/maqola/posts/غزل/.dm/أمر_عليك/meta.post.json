@@ -1,0 +1,41 @@
+{
+  "uuid": "36b23a80-a405-4e67-aefd-394cb7ff268a",
+  "shortname": "أمر_عليك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أمر عليك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e74a4574ce9c39636a18e6e090f07b0812c5ae0f",
+    "bytesize": 1056,
+    "body": "<p>أمر عليك أراك في كل يوم وأروح</p><p><br><br>أبحث فيك عن نظرة ترد لي الروح</p><p><br>أداوي بها أمراض قلب متعب مجروح</p><p><br>أسكت بها فؤادي أتعبني هذا اللحوح</p><p><br>ياشفاء الروح يامهجتي ياذا الوجه الصبوح </p><p><br>تتعبني أشواق انتظارك واصبحبها مفضوح</p><p><br>وأنادي عليك في الفيافي اينانت يامملوح</p><p><br>واعزف لك احلى القوافي فيكياخير ممدوح</p><p><br>هل من سبيل الى لقياكياعمري قبل النزوح</p><p><br>وانشد عنك في الصحاري لقاءقبل خروج الروح</p><p><br>واحكي للنجوم والقمر عناسرار حبك وابوح</p><p><br>والجمع يتهامسون مال الفتى صار مثل المذبوح</p><p><br>وهم لايدورن عني وعنك يامهجة القلب والروح</p><p><br>خرابيش بقلم احسان الصالحي<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "675ade74-78d4-48da-926c-c8feb4a638c5",
+    "shortname": "احسان_الصالحي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "غَزَل"
+  ],
+  "created_at": "2015-08-30T09:14:35Z",
+  "attributes": {
+    "old_id": 1493
+  },
+  "language": "ar",
+  "history": []
+}

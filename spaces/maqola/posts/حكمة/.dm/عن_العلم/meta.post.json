@@ -1,0 +1,42 @@
+{
+  "uuid": "708f7198-81e3-4c92-b3a9-57c6ec62839a",
+  "shortname": "عن_العلم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عن العلم"},
+  "updated_at": "2013-05-27T12:24:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5470ea964d8266641e4ea17609ae87073ee11ef8",
+    "bytesize": 86,
+    "body": "<span class=\"maqola_body\"> <br>من ذاق عرف، و من عرف اغترف  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "d96ec278-67a5-4964-8e3e-939b8943e235",
+    "shortname": "taher_tarek",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-05-27T12:24:00Z",
+  "attributes": {
+    "old_id": 614
+  },
+  "language": "ar",
+  "history": []
+}

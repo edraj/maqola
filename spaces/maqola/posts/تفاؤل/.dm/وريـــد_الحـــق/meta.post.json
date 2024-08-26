@@ -1,0 +1,48 @@
+{
+  "uuid": "96aaaa8b-9bb3-4437-9e4e-8b5d9a0294c8",
+  "shortname": "وريـــد_الحـــق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وريـــد الحـــق"},
+  "updated_at": "2015-07-20T11:07:48Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bd12f67094089d3864e5f2a976995c6ac2efd144",
+    "bytesize": 1686,
+    "body": "<p>ضاقت مشاعري في زحمة المآسي<br>ولم يبقى من نفسي سوى أنفاسي<br>ضللت حصارا أقاسي<br>حتى غدا ثوب الموت على مقاسي.<br><br>على هذه الأرض، ما يستحق الممات<br>على هذه الأرض،<br>ما يروي التراب دما<br>ويسمو بطيف الشهيد نبات<br>ما يُلجم المحتل فحما<br>ويقلب المغزوين غزاة<br>ما يرد الإستشهاد وحما<br>تحلم به جميع الأمهات<br>ما يبقي الخنوع وهما <br>ويجعلها للصمود نواة<br>على هذه الأرض.<br><br><br>دع كوفيتي بدمي غرقانه<br>واجمع وابلع، فتات نخوتك العريانه<br>وازرع وارفع، لبني الصهيون حيطانه<br>فبنهر نيلك، تُعشش حيتانه<br>وبغدر نفطك، ترهلت ديدانه<br><br><br>وابعث سلامي سلام الذل<br>سلام الخزي سلام المهانه<br>لمعالي حكام أمتنا السكرانه<br>عبادٓ الغرب وبهتانه<br>خدام السام وأقرانه<br>جحر الذئب وميدانه<br>جذور العهر وأغصانه<br>ذراع القصف وعدوانه<br>عشاق البغي ورهبانه<br>ولاة الظلم وربانه<br>فساق العصر وزمانه<br><br><br>أن هذه الأرض، فلسطين،<br>بالقدس عاصمة، وغزة<br><br>ستدوم وريد الحق وشِريانه.<br><br><br></p><p>صـدام درويــش</p><p><iframe src=\"//www.youtube.com/embed/nhFb6RhQIBU\" allowfullscreen=\"\" frameborder=\"0\" height=\"281\" width=\"500\"></iframe></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة",
+    "ذَكاء",
+    "سِياسَة",
+    "شَجاعَة",
+    "شِعر",
+    "قَدح"
+  ],
+  "created_at": "2015-07-20T10:05:49Z",
+  "attributes": {
+    "old_id": 1412
+  },
+  "language": "ar",
+  "history": []
+}

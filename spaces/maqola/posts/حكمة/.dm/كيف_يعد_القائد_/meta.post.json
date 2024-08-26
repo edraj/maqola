@@ -1,0 +1,42 @@
+{
+  "uuid": "742742cd-75d3-4448-9ca2-db6e610d2cdc",
+  "shortname": "كيف_يعد_القائد_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كيف يُعدُّ القائد ..."},
+  "updated_at": "2011-06-22T03:59:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f609cfee05b3f18667ef101fd145891921e3e0e4",
+    "bytesize": 850,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يُروى أن </span><span style=\"font-size: 1.5em;\">صالح بن كيسان - مؤدب </span><span style=\"font-size: 1.5em;\">عمر بن عبد العزيز - قد قال في عمر: ما خبرت أحدًا اللهُ أعظمُ في صدره من هذا الغلام! وحدَث أن</span><span style=\"font-size: 1.5em;\"> تأخر</span><span style=\"font-size: 1.5em;\"> عمر مرةً عن صلاة الجماعة، فقال له صالح بن كيسان: ما شَغَلَك؟ فقال: كانت مُرجّلتي تُسكّنُ شعري، فقال له: قَدَّمتَ ذلك على الصلاة؟ فَكتبَ إلى أبيه وهو والٍ على مصر يُعلِمُهُ بذلك، فبعث أبوه إليه رسولاً فَلم يُكَلِّمهُ حتى حلقَ رأسَهُ.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2011-06-22T03:59:08Z",
+  "attributes": {
+    "old_id": 496
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,48 @@
+{
+  "uuid": "1007a2fe-2923-4fdf-9e58-0bc7ddd9efc6",
+  "shortname": "عمر_بن_عبد_العزيز_وطلبه_للعنب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عمر بن عبد العزيز وطلبه للعنب"},
+  "updated_at": "2015-05-15T01:47:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a16f0b577791aa8b33c7afb65956de11fb69d263",
+    "bytesize": 645,
+    "body": "<p>عن عون بن المعمر ، قال : دخل عمر بن عبد العزيز على امرأته فقال : يا فاطمة ، عندك درهم أشتري به عنباً ؟!! قالت : لا ، قال : فعندكِ ثُمُنـُـه \" يعني الفلوس \" نشتري به عنباً ؟!! فأقبلت عليه فقالت : أنت أمير المؤمنين لا تقدر على درهم ، ولا ثُمُنـُـه تشتري به عنباً ؟!! فقال : هذا أهونُ علينا من معالجة الأغلال في جهنم .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "فَخر",
+    "مَثَل",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-05-15T01:45:41Z",
+  "attributes": {
+    "old_id": 1267
+  },
+  "language": "ar",
+  "history": []
+}

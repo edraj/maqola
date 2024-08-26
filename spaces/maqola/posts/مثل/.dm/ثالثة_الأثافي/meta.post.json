@@ -1,0 +1,42 @@
+{
+  "uuid": "ee3092db-c9d2-4639-8ac1-65d8c4d6f99b",
+  "shortname": "ثالثة_الأثافي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ثالِثَةُ الأثافِي"},
+  "updated_at": "2010-10-22T19:05:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:749c82f075c7447a21dbd75f6b35738745daa5dc",
+    "bytesize": 657,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\"><span class=\"maqola_font_bold\"><span style=\"color: rgb(255, 0, 0);\">ثالِثَةُ الأثافِي</span></span><br />\r\n\tهي القطعةُ من الحجر يُوضَعُ إلى جَنْبِها حَجَران ويُنْصَبُ عليها القِدْرُ فوقَ النارِ (لطهو الطعام).<br />\r\n\tويُضربُ هذا المثلُ لمن رُمي بداهية عظيمة، لأن الأثْفِيَّةَ ثلاثةُ أحجارٍ كلُّ حجرٍ مثلُ رأس الإنسان فإذا رُمِيَ بالثالثة فقد بلغ النهاية.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-10-22T18:57:43Z",
+  "attributes": {
+    "old_id": 103
+  },
+  "language": "ar",
+  "history": []
+}

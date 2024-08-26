@@ -1,0 +1,23 @@
+{
+  "uuid": "4f45705e-ef23-439e-8f4f-84c8c69388a7",
+  "shortname": "4f45705e",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "98c05580-9d4c-4379-b9ee-265dce111570",
+    "shortname": "نصر_الدين_أبوطالب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-03-13T03:42:44Z",
+  "attributes": {
+    "old_id": 558,
+    "old_entry_id": 92
+  },
+  "language": "en",
+  "type": "like"
+}

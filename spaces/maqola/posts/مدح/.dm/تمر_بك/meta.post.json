@@ -1,0 +1,41 @@
+{
+  "uuid": "417f22b4-7c56-46f6-ad9d-968e7b37b9d8",
+  "shortname": "تمر_بك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تمرُّ بك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b91beebaa8444ef3c262b1bc980cedec957cc3d0",
+    "bytesize": 104,
+    "body": "<p>تمر بك الأبطال كلمى هزيمة .......... ووجهك وضاح وثغرك باسم</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "78e126ec-ac1f-483a-a696-3e84ab4bc5b2",
+    "shortname": "abbas_al_robaiyee",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَدح"
+  ],
+  "created_at": "2015-05-10T18:23:21Z",
+  "attributes": {
+    "old_id": 1257
+  },
+  "language": "ar",
+  "history": []
+}

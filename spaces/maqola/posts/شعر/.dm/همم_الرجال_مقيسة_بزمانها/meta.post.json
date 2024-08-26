@@ -1,0 +1,44 @@
+{
+  "uuid": "fe194a49-00ad-47cb-9933-a5ae48681255",
+  "shortname": "همم_الرجال_مقيسة_بزمانها",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"همّم الرجال مَقِيُسة بزمانها"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7b17b65bbac79ba0dab06345ae48fb99da6c01e3",
+    "bytesize": 4689,
+    "body": "<table class=\"poem\"><tbody><tr><td class=\"poem_right\"><span style=\"word-spacing: 18px;\">همّم الرجال مَقِيُسة بزمانها</span></td><td class=\"poem_left\"><span style=\"word-spacing: 16px;\">وسعادة الأوطان في عُمرانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 15px;\">وأساس عمران البلاد تَعاوُن</span></td><td class=\"poem_left\"><span style=\"word-spacing: 12px;\">مُتواصل الأسباب من سُكّانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 14px;\">وتعاون الأقوام ليس بحاصل</span></td><td class=\"poem_left\"><span style=\"word-spacing: 16px;\">إلاّ بنَشْر العلم في أوطانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 17px;\">والعلم ليس بنافع إلاّ إذا</span></td><td class=\"poem_left\"><span style=\"word-spacing: 8px;\">أجرت به الأعمال خَيْل رهانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 20px;\">أن التجارب للشيوخ وإنما</span></td><td class=\"poem_left\"><span style=\"word-spacing: 13px;\">أمَل البلاد يكون في شُبانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 4px;\">هذي لدى العرب الكرام مبادئٌ</span></td><td class=\"poem_left\"><span style=\"word-spacing: 14px;\">نزلت بها الآيات في قرآنها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 19px;\">والعُرب أكبر أمة مشهورة</span></td><td class=\"poem_left\"><span style=\"word-spacing: 37px;\">بفُتوحها وعلومها وبيانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 11px;\">كم قد أقامت للعلوم مدارساً</span></td><td class=\"poem_left\"><span style=\"word-spacing: 6px;\">يَعيا ذوو الإحصاء عن حسُبانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 16px;\">وبَنَت بأقطار البلاد مَصانعاً</span></td><td class=\"poem_left\"><span style=\"word-spacing: 26px;\">تتحيّر الأفكار في بُنيانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 21px;\">فالمجد مَأثور بكل صراحة</span></td><td class=\"poem_left\"><span style=\"word-spacing: 12px;\">عن قَيْسها أبداً وعن قحطانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 8px;\">طُبِعت على حبّ العَلاء فسعيُها</span></td><td class=\"poem_left\"><span style=\"word-spacing: 20px;\">للمكْرُمات يُعَدّ من دَيْدانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 6px;\">نهضت بماضي الدهر نهضتها التي</span></td><td class=\"poem_left\"><span style=\"word-spacing: 6px;\">خَضَعت لها الأفلاك في دَورانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 6px;\">حَسُنت عواقب أمرها حتى لقد</span></td><td class=\"poem_left\"><span style=\"word-spacing: 11px;\">بَهَرت بني الدنيا جلالة شانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 8px;\">فهم الأُلى فتحوا البلاد ونشّروا</span></td><td class=\"poem_left\"><span style=\"word-spacing: 22px;\">رايات مَعدَلة على قُطّانها </span></td></tr><tr><td class=\"poem_right\">وهم الألى خضعت لهم أمم الورى</td><td class=\"poem_left\"><span style=\"word-spacing: 15px;\">من تركها طُرّاً إلى أسبابها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 5px;\">والروم قد نزلت لهم عن مُلكها</span></td><td class=\"poem_left\"><span style=\"word-spacing: 12px;\">والفُرس عمّا شيد من إيوانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 15px;\">يا أمةً عاش البرية أعصُراً</span></td><td class=\"poem_left\"><span style=\"word-spacing: 13px;\">في عدلها رغداً وفي إحسانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 8px;\">ثم انقضت تلك العصور فجاءها</span></td><td class=\"poem_left\"><span style=\"word-spacing: 12px;\">زمن به انقادت إلى عُبدانها </span></td></tr><tr><td class=\"poem_right\"><span style=\"word-spacing: 11px;\">فَنَضَت ملابس عزَها وتثاقلت</span></td><td class=\"poem_left\"><span style=\"word-spacing: 13px;\">في الذُلّ راسفةً بقَيد هوانها</span></td></tr></tbody></table>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "عربية",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-02T15:56:36Z",
+  "attributes": {
+    "old_id": 970
+  },
+  "language": "ar",
+  "history": []
+}

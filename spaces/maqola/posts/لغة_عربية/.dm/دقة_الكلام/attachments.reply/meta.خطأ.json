@@ -1,0 +1,29 @@
+{
+  "uuid": "0f6169c9-9639-4fe7-9e48-e0df04ee865a",
+  "shortname": "خطأ",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خطأ "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:58e9529f1ab28112c1c119199a99a254f126799d",
+    "bytesize": 166,
+    "body": "ورد في المقولة  أتعرف ( الأعراب ) بهمزة فوقية ، والأسلم _  دفعًا للبس _ أن تكتب هكذا : ( الإعراب )"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-05T16:21:40Z",
+  "attributes": {
+    "old_id": 274,
+    "old_entry_id": 154
+  },
+  "language": "ar"
+}

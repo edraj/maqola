@@ -1,0 +1,29 @@
+{
+  "uuid": "1851cd7e-8e5c-4728-ad61-05dc70da4bb2",
+  "shortname": "حكايات_ونوادر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حكايات ونوادر "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:787ef57149d6cbd7e3aa004381321434e7ae28f2",
+    "bytesize": 597,
+    "body": "هناك رجل كان يجلس الى جوار القاضي ابي يوسف فلا يتكلم  فقال له ابي يوسف :الا تستطيع الكلام   قال الرجل :بلى انني استطيع الكلام   ثم قال له الرجل متى يفطر الصائم ؟  قال ابي يوسف :اذا غابت الشمس . فقال الرجل : فاذا لم تغب الى منتصف الليل ؟ فقال ابي يوسف : هاهاهاهاهاهاها  اصبت في صمتك  وانا اخطات في استعادتي له.    _-__________________-_________________--________   "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-12-05T13:02:14Z",
+  "attributes": {
+    "old_id": 717,
+    "old_entry_id": 450
+  },
+  "language": "ar"
+}

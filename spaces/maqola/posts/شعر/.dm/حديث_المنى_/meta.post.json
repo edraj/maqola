@@ -1,0 +1,42 @@
+{
+  "uuid": "80a7315a-d571-4b0b-9bbf-ff991241ee71",
+  "shortname": "حديث_المنى_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حَديثُ المُنى،"},
+  "updated_at": "2011-11-01T22:35:18Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9cbd4e494f2a9a6d7c0706e09b2d051dff079d55",
+    "bytesize": 307,
+    "body": "<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\">حَدِّثوني بالمُنى يا أصدقائي -- وَ صِفوا لي بَعضَ أوقاتِ الهَناءِ<br />\r\n\tمُظلِمُ النَّفسِ كأنّي مَلَكٌ -- غَضِبَ الله عَليهِ في السماءِ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2011-11-01T22:35:18Z",
+  "attributes": {
+    "old_id": 536
+  },
+  "language": "ar",
+  "history": []
+}

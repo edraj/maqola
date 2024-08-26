@@ -1,0 +1,29 @@
+{
+  "uuid": "6d5dc6cf-d595-4165-bb9f-ce413d9aad20",
+  "shortname": "التقييم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"التقييم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:47d83e08657ac57b60765cf58e07147b96bdeae1",
+    "bytesize": 16,
+    "body": "جميل جدا "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "78e126ec-ac1f-483a-a696-3e84ab4bc5b2",
+    "shortname": "abbas_al_robaiyee",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-05-09T09:35:24Z",
+  "attributes": {
+    "old_id": 866,
+    "old_entry_id": 793
+  },
+  "language": "ar"
+}

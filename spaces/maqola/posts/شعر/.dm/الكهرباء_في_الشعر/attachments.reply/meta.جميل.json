@@ -1,0 +1,29 @@
+{
+  "uuid": "f6875142-368f-43b0-9190-7b385624ac1a",
+  "shortname": "جميل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جميل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2349dd665374bac6dbd6be7d76649b116de609d6",
+    "bytesize": 89,
+    "body": "يا هلا بالغالي شعر جميل في معناه أعجبني شكراً لكم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-08T20:13:24Z",
+  "attributes": {
+    "old_id": 538,
+    "old_entry_id": 522
+  },
+  "language": "ar"
+}

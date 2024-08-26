@@ -1,0 +1,44 @@
+{
+  "uuid": "90731b15-bea4-4f29-89a2-64826d1799b6",
+  "shortname": "آمن_بالله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"آمن بالله"},
+  "updated_at": "2014-02-04T14:15:25Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d8f30598d55761438d821a0edc717c76fcd12dff",
+    "bytesize": 340,
+    "body": "<span class=\"maqola_body\"> <br> قد يتأخرُ الفرح / قد تنقبضُ الصدورُ / وَ تنحبسُ السّعادةُ !<br> لكنَّ الفرجَ حتمًا سيأتي بألفِ طريقةٍ ولوْن / طالما أننا نُؤمنُ بأنَّ اللّهَ قدَّر لنا كلَّ شيء لسببْ .<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "خاطِرة"
+  ],
+  "created_at": "2014-02-04T14:15:19Z",
+  "attributes": {
+    "old_id": 795
+  },
+  "language": "ar",
+  "history": []
+}

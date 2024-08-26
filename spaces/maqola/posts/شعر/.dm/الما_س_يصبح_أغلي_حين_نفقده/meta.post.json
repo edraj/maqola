@@ -1,0 +1,41 @@
+{
+  "uuid": "f4eb3a44-289c-48be-9e28-cddd9f78a779",
+  "shortname": "الما_س_يصبح_أغلي_حين_نفقده",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الما سُ يصبحُ أغلي حين نفقدُهُ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1c9e4849c428e96f4e710079818e5de4b51d75e8",
+    "bytesize": 800,
+    "body": "<p>نافورةُ العِطرِ بعضَ العام ِ غائبةٌ</p><p><br><br>عنِ المكان ِ.. فبعضَ العام ِ.. لا أَلَقُ</p><p><br><br>عرفتُ كيف يمُطُّ الوقتُ أرجُلَهُ<br></p><p><br><br>وكيف يشوي لهيبُ الشوق ِ من عشقوا</p><p><br><br>تركتَني في مهبِّ الشوق ِ يسحقُني</p><p><br><br>كأنَّك المُتشفِّي حينَ أنسحِقُ</p><p><br><br>خزائنُ البلَح ِ الشاميِّ فارغةٌ<br></p><p><br><br>منذُ اختفيت َ فلا شامٌ ولا عَرقُ</p><p><br><br>الماسُ يصبحُ أغلي حين نفقدُهُ<br></p><p><br><br>ويصبحُ العودُ أحلي حينَ يحترقُ</p><p><br></p><p>محمد رفعت الدومي<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "7188dc3b-3f07-43d6-843d-92493de5099a",
+    "shortname": "space",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-04-26T15:06:48Z",
+  "attributes": {
+    "old_id": 1198
+  },
+  "language": "ar",
+  "history": []
+}

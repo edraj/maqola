@@ -1,0 +1,42 @@
+{
+  "uuid": "31aae571-da93-4715-b438-cad0964d33c2",
+  "shortname": "انشد_شعرك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"انشِدْ شِعرَك،"},
+  "updated_at": "2010-12-07T21:23:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f7c90067c614d2e9052b4f27854c55cb6c93508b",
+    "bytesize": 839,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">نَظرَ طُفَيليٌّ إلى قومٍ سائرين فَظنَّ أَنَّهُم ذاهبون إلى وليمة فَتَبِعَهُم فإذا هُم شُعراءُ قصدوا الأميرَ بِمدائحَ لَهم، فَلما أنشَدَ كُلُّ واحدٍ قَصيدَتَهُ في حَضرَةِ الأميرِ لَم يَبقَ إلا الطُفَيليّ ، فقال له الأميرُ: انشِدْ شِعرَك، قال : لَستُ بِشاعر</span><span style=\"font-size: 1.5em;\">، قال الأميرُ : فَمَن أنت؟ قال الطُفيلي : مِن الغاوين الذين قال الله فيهِم : (( والشُّعراءُ يَتَّبِعُهُمُ الغَاوُونَ )) ، فَضَحِكَ الأميرُ وأَمرَ لَه بِصِلة.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-07T21:23:35Z",
+  "attributes": {
+    "old_id": 331
+  },
+  "language": "ar",
+  "history": []
+}

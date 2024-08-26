@@ -1,0 +1,47 @@
+{
+  "uuid": "a5e0c1a2-ed2b-4acb-9e62-dc6298dd982a",
+  "shortname": "احسن_الجواب_من_عبد_المسيح_بن_عمرو_بن_نفيلة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"احسن الجواب من عبد المسيحِ بن عمرو بن نفيلة،"},
+  "updated_at": "2014-02-07T14:07:46Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b455df4b2fd328d8779f125e62f17ea1c1d4f92c",
+    "bytesize": 1026,
+    "body": "حكى أنَ خالد بن الوليدِ لما توجّهَ من الحجازِ إلى أطرافِ العراقِ دخلَ عليهِ عبد المسيحِ بن عمرو بن نفيلة، <br> فقالَ له خالد: أينَ أقصى أثرك؟<br> قال: ظهرُ أبي،<br> قال: من أينَ خرجت،<br> قال: من بطنِ أمي،<br> قال علامَ أنت؟<br> قال: على الأرض،<br> قال: فيمَ أنت؟<br> قال: في ثيابي،<br> قال: فمن أين أقبلت؟<span><br> قال: من خلفي،<br> قال: أين تريد؟<br> قال: أمامي،<br> قال: ابنُ كم أنت؟<br> قال: ابن رجلٍ واحد،<br> قال: أتعقل؟<br> قال: نعم وأقيد،<br> قال: أحرب أنت أم سلم؟<br> قال: سلم،<br> قال: فما بال هذه الحصون؟<br> قال: بنيناها لسفيه حتى يجيء حليم فينهاه.<br> <br> مجمع الأمثال للميداني.</span><span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c88c8279-2c17-491b-a7bf-d60de527a28d",
+    "shortname": "خالد_بن_الوليد",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-07T14:07:19Z",
+  "attributes": {
+    "old_id": 811
+  },
+  "language": "ar",
+  "history": []
+}

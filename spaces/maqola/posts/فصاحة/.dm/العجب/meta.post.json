@@ -1,0 +1,42 @@
+{
+  "uuid": "961e0cd9-d9e8-44f1-b93e-05d0a0306ecc",
+  "shortname": "العجب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العجب"},
+  "updated_at": "2013-06-29T01:39:28Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cf47d032474050e38f331ba9cdb0e9432203efce",
+    "bytesize": 300,
+    "body": "<span class=\"maqola_body\">تعجبنا منهم وتعجبو&#160; بنا وتعجبنا من&#160; تعجبهم وتعجبو في تعجبنا&#160; فعجبا في العجب ويا للعجب في العجب<br><br><br><br><br><br>القائل عبدالعزيز الكيلاني<br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a2a002f2-86bb-4a00-8bd9-516261d3c617",
+    "shortname": "abdilazez_alkilani",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "فَصاحَة"
+  ],
+  "created_at": "2013-06-29T01:39:28Z",
+  "attributes": {
+    "old_id": 640
+  },
+  "language": "ar",
+  "history": []
+}

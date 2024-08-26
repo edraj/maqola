@@ -1,0 +1,47 @@
+{
+  "uuid": "00d1b951-d394-4da3-ad6f-893a17c3286b",
+  "shortname": "الفضيلة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الفضيلة"},
+  "updated_at": "2014-02-13T14:20:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ed739b0cbd926f3c59955812aaaf74a9ec9520bd",
+    "bytesize": 299,
+    "body": "أرى الغِرَّ في الدنيا إذا كانَ فاضلا** تَرَقَّى على رؤوسِ الرجالِ و يخطبُ<br> و إن كانَ مثلي لا فضيلةَ عنـدهُ **يـقاسُ بطفلٍ في الشوارعِ يلعـبُ<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء",
+    "شَجاعَة",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-13T14:20:48Z",
+  "attributes": {
+    "old_id": 838
+  },
+  "language": "ar",
+  "history": []
+}

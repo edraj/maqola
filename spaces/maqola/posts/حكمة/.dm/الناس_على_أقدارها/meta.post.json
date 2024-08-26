@@ -1,0 +1,44 @@
+{
+  "uuid": "df453868-28fc-42ef-9399-95cfdb91acdb",
+  "shortname": "الناس_على_أقدارها",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الناس على أقدارها"},
+  "updated_at": "2011-11-19T00:02:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:75c1e1e46b20de81044855dd8513b239c3f302a1",
+    "bytesize": 386,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\">عَلى قَدرِ أَهلِ العَزمِ تأتي العَزائِمُ --&#160;&#160;&#160; وَتأتي على قَدرِ الكِرامِ المَكارِمُ<br />\r\n\tوَتَعظُمُ في عَينِ الصّغيرِ صِغارُها --&#160;&#160;&#160; وَتَصغُرُ في عَينِ العَظيمِ العَظائِمُ </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2011-11-19T00:02:24Z",
+  "attributes": {
+    "old_id": 541
+  },
+  "language": "ar",
+  "history": []
+}

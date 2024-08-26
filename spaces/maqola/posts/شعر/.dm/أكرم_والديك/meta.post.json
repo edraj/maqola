@@ -1,0 +1,42 @@
+{
+  "uuid": "215d0775-442e-434f-b758-0b4070c8711b",
+  "shortname": "أكرم_والديك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أَكْرِمْ وَالِدِيْك"},
+  "updated_at": "2015-11-20T19:58:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:52df921ef037e691db899f1cb964e393a11f90ea",
+    "bytesize": 175,
+    "body": "<p>الْعَيّشُ مَاضٍ فَأَكْرِمْ وَالِدِيّكَ بِهِ وَالْأَمُ أَوْلَى بِإِكْرَامٍ وَإِحْسَانًا<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b314a2ef-e00e-4242-bca9-b8d68b0bb0a4",
+    "shortname": "المعري",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4a396cec-f540-4f4b-98f1-08ff3f27828d",
+    "shortname": "حسين_ال_لال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-11-20T19:53:56Z",
+  "attributes": {
+    "old_id": 1542
+  },
+  "language": "ar",
+  "history": []
+}

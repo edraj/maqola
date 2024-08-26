@@ -1,0 +1,33 @@
+{
+  "uuid": "6972b39b-7968-4cd2-bf73-7d865ce9e22f",
+  "shortname": "6972b39b",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-09-13T20:56:45Z",
+  "author_locator": { "type": "content",
+    "uuid": "238464c9-bd9a-4028-8139-3196b1016575",
+    "shortname": "yosef_mohamad",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-09-13T20:56:45Z",
+  "attributes": {
+    "old_id": 612,
+    "old_entry_id": 1507
+  },
+  "language": "en",
+  "location": {
+    "uuid": "6972b39b-7968-4cd2-bf73-7d865ce9e22f",
+    "shortname": "6972b39b",
+    "subpath": "posts/قصة",
+    "space_name": "maqola",
+    "parent_shortname": "المال_الضائع",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

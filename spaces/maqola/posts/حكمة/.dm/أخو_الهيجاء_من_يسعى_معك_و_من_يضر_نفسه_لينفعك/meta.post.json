@@ -1,0 +1,43 @@
+{
+  "uuid": "8472262f-7857-4396-8663-72387c593d2e",
+  "shortname": "أخو_الهيجاء_من_يسعى_معك_و_من_يضر_نفسه_لينفعك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أخو الهيجاء من يسعى معك و من يضر نفسه لينفعك"},
+  "updated_at": "2011-07-30T22:37:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9fcdece8d600cf7f213e66358a29011d37c2e192",
+    "bytesize": 1010,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">حَدَّثَ عمرو بن سعيد قال : كُنت في نوبتي في الحرس، في أربعة آلاف، إذ رأيتُ المأمونَ قد خرج ومعه غلمان صغار وشموع؛ فلم يعرفني، فقال : من أنت ؟ فقلت عمرو عمرك الله ، ابن سعيد أسعدك الله ، ابن مسلم سلمك الله. فقال : أنت تكلؤنا مُنذ الليلة. فقلت الله يكلؤك يا أمير المؤمنين وهو خير حافظاً وهو أرحم الرا حمين. فتبسم مِن مقالي ثم قال :<br />\r\n\tإن أخا الهيجاء من يسعى معك . . . ومن يضر نفسه لينفعك<br />\r\n\tومن إذا ريب زمان صدعك . . . بدد شمل نفسه ليجمعك<br />\r\n\tيا غلام أعطه أربع مائة فقبضتها وانصرفت.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">(من كتاب الكشكول للبهاء العاملي)</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة"
+  ],
+  "created_at": "2011-07-30T22:37:24Z",
+  "attributes": {
+    "old_id": 502
+  },
+  "language": "ar",
+  "history": []
+}

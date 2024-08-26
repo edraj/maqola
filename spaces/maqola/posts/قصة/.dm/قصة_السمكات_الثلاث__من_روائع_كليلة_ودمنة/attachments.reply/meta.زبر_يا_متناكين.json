@@ -1,0 +1,29 @@
+{
+  "uuid": "1da5d8cc-9b88-4f1e-89d0-243c648b6b15",
+  "shortname": "زبر_يا_متناكين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"زبر يا متناكين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1f78214f034ee75ff36454f8aa71b48e314ed106",
+    "bytesize": 94,
+    "body": "للقصه معاني خفيه كتييير وده رقمي تعارف واتساب01157663239"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "dfe08ee5-861d-46b0-9bd6-f4c92af40e05",
+    "shortname": "tarek_khallaf",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-11-01T21:23:57Z",
+  "attributes": {
+    "old_id": 932,
+    "old_entry_id": 83
+  },
+  "language": "ar"
+}

@@ -1,0 +1,57 @@
+{
+  "uuid": "4c224acf-53bb-489b-bf07-fe7cbe68b5fb",
+  "shortname": "وصف_صلاة_شيخ_الإسلام_ابن_تيمية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وصف صلاة شيخ الإسلام ابن تيمية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ef36e51de41da4ddb2f885b795b7dced76be3a76",
+    "bytesize": 398,
+    "body": "<p>قال البزَّار يصف صلاة شيخ الإسلام ابن تيمية رحمه الله : \" وأما صلاته ، فكان يصلي في بعض الأحيان بالناس في مسجد بني أمية في دمشق ، فكان إذا قال : ( الله أكبر ) رفع صوته حتى يسمعه من في الطرقات ، فتكاد تنخلع القلوب إذا كبر!! \"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "تَفاؤل",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "ذَكاء",
+    "رِثاء",
+    "شَجاعَة",
+    "صَداقَة",
+    "عربية",
+    "فَخر",
+    "فَصاحَة",
+    "كَرَم",
+    "لُغة عربيّة",
+    "مَثَل",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-04-14T21:03:05Z",
+  "attributes": {
+    "old_id": 1183
+  },
+  "language": "ar",
+  "history": []
+}

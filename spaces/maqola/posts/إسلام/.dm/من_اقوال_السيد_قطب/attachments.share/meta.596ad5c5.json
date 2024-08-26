@@ -1,0 +1,33 @@
+{
+  "uuid": "596ad5c5-b210-4da8-a885-d1b63c211763",
+  "shortname": "596ad5c5",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2014-02-04T14:12:23Z",
+  "author_locator": { "type": "content",
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2014-02-04T14:12:23Z",
+  "attributes": {
+    "old_id": 148,
+    "old_entry_id": 794
+  },
+  "language": "en",
+  "location": {
+    "uuid": "596ad5c5-b210-4da8-a885-d1b63c211763",
+    "shortname": "596ad5c5",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "من_اقوال_السيد_قطب",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

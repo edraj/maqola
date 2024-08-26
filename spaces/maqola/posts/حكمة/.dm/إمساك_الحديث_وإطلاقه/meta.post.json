@@ -1,0 +1,43 @@
+{
+  "uuid": "b5fc6d3f-a459-4ce1-a221-cfc7f2fc757d",
+  "shortname": "إمساك_الحديث_وإطلاقه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إمساك الحديث وإطلاقه"},
+  "updated_at": "2014-01-12T12:49:27Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fa27c94fa2111c403c7be00bd267808b111b45f7",
+    "bytesize": 426,
+    "body": "<span class=\"maqola_body\"><span class=\"fontxlarge\">قال عُبيد الله بن أبي جعفر :</span></span><div><span class=\"maqola_body\"><span class=\"fontxlarge\">\"إِذَا كانَ المَرءُ يُحدِّثُ في مَجلسٍ فأعجَبَه الحديثُ فَلْيُمسِكْ ،&#160;وإذَا كانَ ساكتًا فأعجبَهُ السُّكوتُ فَلْيتَحدَّثْ\"</span><br>  </span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a3b522e4-2a27-4598-aa55-eba5e171481e",
+    "shortname": "niazi_elhadi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة"
+  ],
+  "created_at": "2013-10-20T08:59:05Z",
+  "attributes": {
+    "old_id": 690
+  },
+  "language": "ar",
+  "history": []
+}

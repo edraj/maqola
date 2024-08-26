@@ -1,0 +1,42 @@
+{
+  "uuid": "5f214e30-1e12-4101-a8d8-5ce7b50cc927",
+  "shortname": "دعه_في_النار_وأنا_في_الدار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"دَعهُ في النار وأنا في الدار"},
+  "updated_at": "2010-12-02T14:18:34Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3e76fcc952ea3c373484404a2e46d7791f9aabea",
+    "bytesize": 490,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">ماتَ أحدُ المجوسِ وكان عليه دينٌ كثير، فقال بعض غرمائه لولده : لَو بِعتَ دار أبيك ووَفَّيتَ بها دَينَه. فقال الولد: إذا أنا بِعتُ الدار و قَضيتُ بها عَن أبي دَينَه فَهَلْ يَدخُلُ الجَنَّة ؟فقالوا : لا. قال الولد : فَدَعهُ في النار وأنا في الدار !</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-02T14:18:34Z",
+  "attributes": {
+    "old_id": 293
+  },
+  "language": "ar",
+  "history": []
+}

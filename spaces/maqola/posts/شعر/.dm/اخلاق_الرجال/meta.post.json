@@ -1,0 +1,41 @@
+{
+  "uuid": "b6132727-3e98-41a1-8886-a933bf9a68aa",
+  "shortname": "اخلاق_الرجال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اخلاق الرجال"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ab79adb5edbd6fe887c1409c50fb8f71a981dca2",
+    "bytesize": 193,
+    "body": "<p>لَعَمْرُكَ ما ضاقَتْ بِلاَدٌ بأَهْلِهَا ... ولكنَّ أَخلاقَ الرِّجالِ تَضيقُ عمرو بن أهتم بن سمي السعدي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "786da9ae-5c96-4484-80f3-168f7a92eb3d",
+    "shortname": "wahid_nour",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-08-15T13:23:49Z",
+  "attributes": {
+    "old_id": 1478
+  },
+  "language": "ar",
+  "history": []
+}

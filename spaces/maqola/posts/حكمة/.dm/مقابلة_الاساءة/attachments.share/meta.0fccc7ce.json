@@ -1,0 +1,33 @@
+{
+  "uuid": "0fccc7ce-e883-45c2-a809-9f2ee6b58bc9",
+  "shortname": "0fccc7ce",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2014-03-01T16:01:13Z",
+  "author_locator": { "type": "content",
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2014-03-01T16:01:13Z",
+  "attributes": {
+    "old_id": 206,
+    "old_entry_id": 858
+  },
+  "language": "en",
+  "location": {
+    "uuid": "0fccc7ce-e883-45c2-a809-9f2ee6b58bc9",
+    "shortname": "0fccc7ce",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "مقابلة_الاساءة",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

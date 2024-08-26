@@ -1,0 +1,45 @@
+{
+  "uuid": "f438cb2f-0cf0-4278-bead-d672353b885f",
+  "shortname": "وصايا_البغل_المستنير",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وصايا البغل المستنير"},
+  "updated_at": "2015-07-20T11:15:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eb9fc5524a4c5ac31e465e9128fa0d706a206b77",
+    "bytesize": 1097,
+    "body": "<p>قال بغل مستنير واعظا بغلا فتيا :<br> يا فتى إصغ إليا ..<br> إنما كان أبوك امرأ سوء<br> وكذا أمك قد كانت بغيا .<br> أنت بغل<br> يا فتى .. والبغل نغل<br> فاحذر الظن بأن الله سواك نبيا .<br> يا فتى .. أنت غبي .<br> حكمة الله، ﻷمر ما، أرادتك غبيا<br> فاقبل النصح<br> تكن بالنصح مرضيا رضيا<br> أنت إن لم تستفد منه فلن تخسر شيا .<br> يا فتى .. من أجل أن تحمل أثقال الورى<br> صيرك الله قويا .<br> يا فتى .. فاحمل لهم أثقالهم ما دمت حيا<br> واستعذ من عقدة النقص<br> فلا تركل ضعيفا حين تلقاه ذكيا .<br> يا فتى .. إحفظ وصاياي<br> تعش بغلا ،<br> وإﻻ ..<br> ربما يمسخك الله .. رئيسا عربيا !<br><br></p><p><iframe src=\"//www.youtube.com/embed/Eu4t_ZEqNgg\" allowfullscreen=\"\" frameborder=\"0\" height=\"281\" width=\"500\"></iframe><br></p><p><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء",
+    "شِعر",
+    "قَدح"
+  ],
+  "created_at": "2015-07-20T10:15:50Z",
+  "attributes": {
+    "old_id": 1413
+  },
+  "language": "ar",
+  "history": []
+}

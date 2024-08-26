@@ -1,0 +1,44 @@
+{
+  "uuid": "a2c81569-3add-4a66-b2c4-3e96f744a16b",
+  "shortname": "غزل_الريح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"غَزْل الريح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cb01e079f1ee7fa8d20faa5067033c4dad84b050",
+    "bytesize": 561,
+    "body": "<p>كنتِ هناك .. كـَ غَيثْ ولـا غَيثْ ..<br> حَدثتني آياتُ الحُضور بـِ ترتيل نَيْسَان ..<br> لِـ تَطرُق نظرتكِ فوضى الحَواسْ وتَخِيْط القَوافي لـآيـار أجمل ..<br> ويَسْتأنف القمر إطلالة الروح مع هَمْسْ الفراشات و وقع الزنابق ..<br> لــ أرْتقِبْ مـا هو آتْ .. <br> غَزْل الريح .. يَزف قَصائد كَتبها ليل النوافذ ..<br></p><p>بيسار<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "عربية",
+    "غَزَل",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-19T14:11:38Z",
+  "attributes": {
+    "old_id": 1034
+  },
+  "language": "ar",
+  "history": []
+}

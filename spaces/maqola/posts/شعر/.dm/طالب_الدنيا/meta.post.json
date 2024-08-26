@@ -1,0 +1,42 @@
+{
+  "uuid": "5eca73dc-400d-4165-8caa-23b0c8aa27bb",
+  "shortname": "طالب_الدنيا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طالب الدنيا"},
+  "updated_at": "2014-07-02T21:31:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b18f02a897899430d34331e445738c066e74c6ae",
+    "bytesize": 290,
+    "body": "<span class=\"maqola_body\"> <br> <p>يا طالب الدنيا الدنية إنــها ‍* * * شرك الردى وقرارة الأقذار</p><p>دار متى ما أضحكت في يومها * * * أبكــت غداً تبا ًلها من دار</p><p>لقائلها..</p><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "945a78fc-63f7-42c1-a380-1730a1a586cc",
+    "shortname": "فياض_دوابشة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2014-07-02T21:31:20Z",
+  "attributes": {
+    "old_id": 898
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "373fe4ba-1e24-4246-86a7-ff8cb001745b",
+  "shortname": "البخيل_بخيل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"البخيل بخيل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3f50b6a62635d4ab5d4c8fe4f2a447433cb4f108",
+    "bytesize": 100,
+    "body": "يا معاذه هههه  لم يجيْ وقت القدقد الاْن والله في ناس هيك"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-27T08:54:29Z",
+  "attributes": {
+    "old_id": 354,
+    "old_entry_id": 361
+  },
+  "language": "ar"
+}

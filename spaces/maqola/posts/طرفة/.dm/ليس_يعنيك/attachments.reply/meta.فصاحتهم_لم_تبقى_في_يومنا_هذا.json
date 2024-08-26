@@ -1,0 +1,29 @@
+{
+  "uuid": "9954052f-39db-4eac-afc6-a709700ed035",
+  "shortname": "فصاحتهم_لم_تبقى_في_يومنا_هذا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فصاحتهم لم تبقى في يومنا هذا........"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2ae12de81a68024139f2646a7012cd5c4a428c9f",
+    "bytesize": 126,
+    "body": "جميلة الا اني لم افهم معنى حماميز الله فارجوا شرحها لي لمن فهمها شكرا "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-30T15:43:09Z",
+  "attributes": {
+    "old_id": 249,
+    "old_entry_id": 266
+  },
+  "language": "ar"
+}

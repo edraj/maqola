@@ -1,0 +1,41 @@
+{
+  "uuid": "6fb894aa-8b2c-49c5-a335-4334c5a21bad",
+  "shortname": "الحياة_قصيرة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحَيَاةَ قَصِيْرَةٌ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:869dc371acef95b662a0dba24d1b20bf78795021",
+    "bytesize": 504,
+    "body": "<p style=\"margin-left: 20px; \">قَالَ رَبُنَا ﷻ :</p><p style=\"margin-left: 20px; \">﷽</p><p style=\"margin-left: 20px; \">﴿مِنْ نُطفَةٍ خلقَهُ فَقدَّره ۞ ثُمَّ السَّبِيل يسَّرَه ۞ ثُمَّ أمَاتهُ فَأقبرَه﴾</p><p style=\"margin-left: 20px; \">مَا أَقْصَرَهَا مِنْ رِحْلَةٍ،ثَلَاثُ آيَٰاتٍ تَخْتَصِرُ الحَيَاةَ</p><p style=\"margin-left: 20px; \">.</p><div><br></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a29a922d-1dde-479f-9695-99f32c7b58a4",
+    "shortname": "تنزيل_العزيز_الحكيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4a396cec-f540-4f4b-98f1-08ff3f27828d",
+    "shortname": "حسين_ال_لال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة"
+  ],
+  "created_at": "2015-11-21T03:54:05Z",
+  "attributes": {
+    "old_id": 1548
+  },
+  "language": "ar",
+  "history": []
+}

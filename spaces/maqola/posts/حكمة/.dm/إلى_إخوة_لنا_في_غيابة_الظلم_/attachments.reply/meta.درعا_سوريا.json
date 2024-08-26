@@ -1,0 +1,29 @@
+{
+  "uuid": "62d4667a-50c8-4cec-b000-952461198616",
+  "shortname": "درعا_سوريا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"درعا سوريا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ab19a8c547804c5243af0ec36a193aff79ef7af8",
+    "bytesize": 474,
+    "body": "اختيارات معبرة من قصيدة شاعر النيل والتي كتبها في ظروف مماثلة لظروف أهل سوريا في الوقتنا الراهن. إني رأيت وفي الايام تجربة -- للصبر عاقبة محمودة الأثر  باركالله في جهودكم وفرحتي لا تسع بعد رؤية رد أخي \\\" أبو الحسن السوري\\\" من الشام أرض الكرام فالنصر قريب بإذن الله. "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-06-03T10:22:21Z",
+  "attributes": {
+    "old_id": 459,
+    "old_entry_id": 478
+  },
+  "language": "ar"
+}

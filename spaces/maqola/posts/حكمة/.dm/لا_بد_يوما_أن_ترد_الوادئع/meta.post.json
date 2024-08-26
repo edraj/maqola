@@ -1,0 +1,43 @@
+{
+  "uuid": "97ee1e52-8d12-4e10-a1d9-36ccb9166bc2",
+  "shortname": "لا_بد_يوما_أن_ترد_الوادئع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا بُدّ يوماً أن تُردّ الوادئعُ"},
+  "updated_at": "2010-12-23T09:17:23Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:01fdc2cdf9515556c9ab53280b43bfed92acb865",
+    "bytesize": 1622,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">بَلينا وما تَبلى النُّجومُ الطَّوالِعُ -- وتَبقى الجِبالُ بَعدَنا والمصانِعُ<br />\r\n\tفلا جَزِعٌ إِنْ فَرَّقَ الدَّهرُ بَينَنا -- وكُلُّ فتىً&#160; يَوماً بِه الَّدهرُ فاجِعُ<br />\r\n\tوما المرءُ إلا كالشِهابِ وضَوئِهِ -- يَحورُ رَماداً بَعدَ إذ هُوَ ساطِعُ<br />\r\n\tوما المالُ والأهلونَ إلا وَدائِعٌ -- ولابُدَّ يَوماً أنْ تُرَدَّ الودائِعُ<br />\r\n\tأتجزَعُ مِمّا أحدَثَ الدّهرُ بالفَتى -- وأيُّ كَريمٍ لمْ تُصِبْهُ القَوَارِعُ<br />\r\n\tلَعَمْرُكَ ما تَدري الضَّوَارِبُ بالحصَى -- وَلا زاجِراتُ الطّيرِ ما اللّهُ صانِعُ</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">(المصانع هي العمران الظاهر من البيوت وغيرها، وتعني أيضا احواضٌ تجمع ماءَ المطر. &quot;الضوراب بالحصى&quot; و&quot;زاجرات الطير&quot; هي أفعالُ الكهانة والتنجيم؛ فلا يعلم من يفعل ذلك ماذا يصنع الله. وكانت العرب قبل الإسلام ترمي الطائر بحصاة أو تصيح به، فإن ولى في طيرانه ميامنه تفاءلت به خيراً، وان ولى مياسره تطيرت منه)</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b38a3016-3d89-4da6-b77c-2c6c63e1817f",
+    "shortname": "لبيد_بن_ربيعة",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-21T11:43:55Z",
+  "attributes": {
+    "old_id": 399
+  },
+  "language": "ar",
+  "history": []
+}

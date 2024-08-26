@@ -1,0 +1,18 @@
+{
+  "uuid": "4a436f80-eaf8-49ec-8f1d-dba2f750e6fe",
+  "shortname": "194487.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:ef3346ca195d58c61081375c32a37434ef91a531",
+    "bytesize": 277466,
+    "body": "194487.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:09+03:00",
+  "attributes": {
+    "old_id": 83
+  },
+  "language": "en"
+}

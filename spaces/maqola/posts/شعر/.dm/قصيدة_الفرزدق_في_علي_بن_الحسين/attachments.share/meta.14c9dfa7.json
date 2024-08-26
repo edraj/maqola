@@ -1,0 +1,33 @@
+{
+  "uuid": "14c9dfa7-a2cb-4ae6-a096-fd549673e293",
+  "shortname": "14c9dfa7",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-04T16:09:37Z",
+  "author_locator": { "type": "content",
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-04T16:09:37Z",
+  "attributes": {
+    "old_id": 254,
+    "old_entry_id": 984
+  },
+  "language": "en",
+  "location": {
+    "uuid": "14c9dfa7-a2cb-4ae6-a096-fd549673e293",
+    "shortname": "14c9dfa7",
+    "subpath": "posts/شعر",
+    "space_name": "maqola",
+    "parent_shortname": "قصيدة_الفرزدق_في_علي_بن_الحسين",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "0e0ee8a9-8216-4336-a192-10248bc4a958",
+  "shortname": "أجابه_بمثل_سؤاله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أجابه بمثل سؤاله"},
+  "updated_at": "2010-12-27T14:58:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:35e9e58275a39a2aef3108b4ddae20428e47fb2a",
+    "bytesize": 983,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كان أبو علقمه مِن المُتقعرين في اللغه وكان يُكثرُ أستعمال وحشي الكلام وغريب اللفظ؛ دخل يوماً على الطبيب، فقال له: إني أكلتُ مِن لحوم هذه الجوازل، فطسِئتُ طسأةً فأصابني وجعٌ بينَ الوابلةِ إلى دايةِ العُنُق. فَلَم يزل يربو وينمو حتى خالط الخلب، فألمت لها الشراسف. فهل عندك دواء؟<br />\r\n\tفقال له الطبيب :خذ خربقاً، وشلفقاً وشبرقاً. فزهزقه وزقزقه واغسله بماء روث واشربه بماء الماء.<br />\r\n\tفقال أبو علقمه :أَعِد عَليَّ ويحك فإني لم افهم منك!<br />\r\n\tفقال له الطبيب:قاتل الله أقلنا إفهاماً لصاحبه! وهل فهمت أنا شيئاً مما قُلتَ أنت؟</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-27T14:58:10Z",
+  "attributes": {
+    "old_id": 426
+  },
+  "language": "ar",
+  "history": []
+}

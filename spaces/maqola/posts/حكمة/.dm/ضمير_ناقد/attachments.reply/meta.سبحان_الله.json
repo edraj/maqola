@@ -1,0 +1,29 @@
+{
+  "uuid": "9c4b2dbd-44d8-447d-9ea9-2d0903acd8a0",
+  "shortname": "سبحان_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سبحان الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:faa9c9a8d3fd83f9f657276f6a2ab637d896f63a",
+    "bytesize": 261,
+    "body": "سبحان الله كيف يتغيّر تقييم الشخص للإنسان! مثل الفتح ابن خاقان كثير هذه الأيّام فما أن تعطي أحدهم منصباً حتى ينقلب من بغض من أعطاهُ إلى مدح جزيل."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-12-30T16:01:22Z",
+  "attributes": {
+    "old_id": 589,
+    "old_entry_id": 61
+  },
+  "language": "ar"
+}

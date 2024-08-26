@@ -1,0 +1,29 @@
+{
+  "uuid": "07428f61-9b9b-4647-a036-47b5861c6efc",
+  "shortname": "ملاحظة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ملاحظة "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:69a16046636a3fd2f08906a0d1c13d38791c0d1d",
+    "bytesize": 126,
+    "body": "ستكون يقية المواد _حوالي 200 كلمة _ كلها تحت هذا الموضوع في شكل تعليقات ."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "ab095b91-60aa-4674-a6ef-5b84e39bc318",
+    "shortname": "خالد_أبو_علي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-04-28T18:08:06Z",
+  "attributes": {
+    "old_id": 851,
+    "old_entry_id": 1207
+  },
+  "language": "ar"
+}

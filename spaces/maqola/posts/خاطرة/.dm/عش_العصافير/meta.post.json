@@ -1,0 +1,41 @@
+{
+  "uuid": "13d0b3fa-16cb-4d6b-87b3-352846377c67",
+  "shortname": "عش_العصافير",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عشُ العصافير"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:49c8f078ce2d9f430728bb06cf29999a4cdd97b0",
+    "bytesize": 387,
+    "body": "<p>العصافيرُ تَرى الدُنيا لحَظاتْ</p><p>فَتعْبَثُ فوقَ الأغصان ِوتُتغنى في جمَاعاتْ</p><p>تَبني أعْشَاشَها قِشًّة قِشَة في وفاقٍ وعِناقْ</p><p>وكلً مْن في الأرضِ يُريدُ أن تَدومَ تلكَ اللحظات ْ.</p><p>ــــــ ضياء ابراهيم</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-02-28T14:37:02Z",
+  "attributes": {
+    "old_id": 1076
+  },
+  "language": "ar",
+  "history": []
+}

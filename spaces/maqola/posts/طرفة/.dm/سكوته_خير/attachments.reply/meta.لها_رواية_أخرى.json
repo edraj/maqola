@@ -1,0 +1,29 @@
+{
+  "uuid": "8c12edf4-d439-4f06-9452-d0468c7b10dc",
+  "shortname": "لها_رواية_أخرى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لها رواية أخرى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:40a174421d51320b38f5d4a47af868d74be9d230",
+    "bytesize": 481,
+    "body": "قرأتها وسمعتها عديد المرات تروى أن رجلا ذو مهابة جلس إلى أبي حنيفة في مجلسه فكان من مهابته أن طوى أبو حنيفة رجليه أدبا وكان من عادته أن يمد رجليه في مجلسه وبقي على هذا الحال إلى أن سأل هذا الرجل السؤال المذكور في هذه الطرفة فقال أبو حنيفة :\\\"آن لأبي حنيفة أن يمد رجليه\\\""
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-02-12T22:44:00Z",
+  "attributes": {
+    "old_id": 405,
+    "old_entry_id": 450
+  },
+  "language": "ar"
+}

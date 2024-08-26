@@ -1,0 +1,29 @@
+{
+  "uuid": "3c96724c-c8d9-4276-b6ec-2ee21bfe64e8",
+  "shortname": "بأي_لغة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بأي لغة؟"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:189cea11add07d7be8cdfed006d3c5b4ea803730",
+    "bytesize": 349,
+    "body": "بل يعجز اللسان لصياغة تلك الافكار والخلجات بلغة ترضيك أولا قبل عرضها. والحمد لله أن الله وحده من نستطيع أن نبوح له كما نشاء ولا نخشى أن يفهمنا خطأ ولا نحتاج لصياغة العبارات. هو يعلم ما في الصدور"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c4fdb6ec-ce57-4812-abb0-d240b3c17f96",
+    "shortname": "أوراق_ثقافية_للنشر_والتوزيع",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-09-16T01:43:55Z",
+  "attributes": {
+    "old_id": 917,
+    "old_entry_id": 1484
+  },
+  "language": "ar"
+}

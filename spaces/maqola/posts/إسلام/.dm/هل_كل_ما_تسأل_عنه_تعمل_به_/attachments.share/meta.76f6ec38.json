@@ -1,0 +1,33 @@
+{
+  "uuid": "76f6ec38-7061-452a-897c-0634ca3f26ef",
+  "shortname": "76f6ec38",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-01T09:36:50Z",
+  "author_locator": { "type": "content",
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-01T09:36:50Z",
+  "attributes": {
+    "old_id": 502,
+    "old_entry_id": 1365
+  },
+  "language": "en",
+  "location": {
+    "uuid": "76f6ec38-7061-452a-897c-0634ca3f26ef",
+    "shortname": "76f6ec38",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "هل_كل_ما_تسأل_عنه_تعمل_به_",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

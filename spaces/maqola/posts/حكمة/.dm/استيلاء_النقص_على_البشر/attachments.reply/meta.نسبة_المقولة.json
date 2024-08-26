@@ -1,0 +1,29 @@
+{
+  "uuid": "a987b521-74ae-4373-b523-54b6dcd8372f",
+  "shortname": "نسبة_المقولة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نسبة المقولة "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:40ddb744d91bd9dc0a9e51e686d4b6bf332c40a8",
+    "bytesize": 261,
+    "body": "ومن الشائع أيضا نسبة المقولة إلى الجاحظ ؛ بل إن هذا هو المشهور!!!!! وربما رجع ذلك أيضا للنقل دون روية والكارثة أنه يصدر عن مختصين أساتذة وعلماء !!!\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "39b04725-3c05-43e8-879b-69e6118ef07d",
+    "shortname": "مصري_مصري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-02-23T19:42:12Z",
+  "attributes": {
+    "old_id": 819,
+    "old_entry_id": 94
+  },
+  "language": "ar"
+}

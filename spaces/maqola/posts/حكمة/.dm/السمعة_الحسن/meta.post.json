@@ -1,0 +1,42 @@
+{
+  "uuid": "3966a6de-1d2a-4f82-b1ab-dc352d989556",
+  "shortname": "السمعة_الحسن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السمعة الحسن"},
+  "updated_at": "2013-11-11T19:09:21Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:58b7ebaf634c99bcc6f330fd01fb414da7533589",
+    "bytesize": 203,
+    "body": "<span class=\"maqola_body\"> <br> <span>إِذا المَرءُ لَم يُدنَس مِنَ اللُؤمِ عِرضُهُ -- فَكُلُّ رِداءٍ يَرتَديهِ جَميلُ</span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "12e25d4b-1c45-4542-84fd-53646a27abc0",
+    "shortname": "nasr_el_deen_abou_taleb",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-11-11T19:09:21Z",
+  "attributes": {
+    "old_id": 712
+  },
+  "language": "ar",
+  "history": []
+}

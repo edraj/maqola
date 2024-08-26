@@ -1,0 +1,29 @@
+{
+  "uuid": "a6b750f1-1cf1-4b8a-98a5-1fbfe827cb97",
+  "shortname": "المصدر_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المصدر ... "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:26919eaeaa69ca61845498a3497c6ad122f45d81",
+    "bytesize": 85,
+    "body": "مصدر القصة هو كتاب حياة الحيوان الكبرى للدميري"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-22T20:28:23Z",
+  "attributes": {
+    "old_id": 340,
+    "old_entry_id": 398
+  },
+  "language": "ar"
+}

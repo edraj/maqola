@@ -1,0 +1,42 @@
+{
+  "uuid": "e6008ea5-d502-4f0a-bf15-a21c0f7d9d29",
+  "shortname": "بانت_سعاد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بانَت سُعادُ"},
+  "updated_at": "2010-12-20T08:07:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:acbbdba2c315cf17fffc75b0c75f2c55432f6e80",
+    "bytesize": 1403,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">بانَتْ سُعادُ فَقَلبي اليَومَ مَتبولُ -- مُتَيَّمٌ إثرَها لم يُفَدْ مَكبولُ<br />\r\n\tوَمَا سُعَادُ غَداةَ البَين إِذْ رَحَلوا -- إِلاّ أَغَنُّ غضيضُ الطَّرفِ مَكحُولُ<br />\r\n\tهَيفاءُ مُقبِلَةً عَجزاءُ مُدبِرَةً -- لا يُشتَكى قِصَرٌ مِنها ولا طُولُ<br />\r\n\tتَجلُو عَوارِضَ ذي ظَلْمٍ إذا ابتَسَمَتْ -- كأنَّهُ مُنهَلٌ بالرَّاحِ مَعلُولُ<br />\r\n\t<br />\r\n\tبانت: ابتعدت وفارقت. متبول: الذي ضعفه الحب. متيم: الذي استولى عليه الهوى. مكبول: المقيد. أغن: الذي في صوته غُنّة (من صفات الجمال). المكحول: من كان فيه كحل. هيفاء: لا بطن لها (رشيقة القوام). عجزاء: ممتلئة العُجز أي المؤخرة. تجلو عوارض ذي ظلم: كناية عن جمال ابتسامتها. منهل بالراح معلول: يشبه فمها وريقها بالمشرب والشراب.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">هذه الأبيات قالها كعب بن زهير بن أبي سُلمى في مطلع قصيدته الشهيرة البردة.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bba44cbf-5d41-4a21-88e2-4ddd27e3a491",
+    "shortname": "كعب_بن_زهير_بن_أبي_سلمي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-12-20T08:05:23Z",
+  "attributes": {
+    "old_id": 396
+  },
+  "language": "ar",
+  "history": []
+}

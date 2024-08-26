@@ -1,0 +1,29 @@
+{
+  "uuid": "dbf85a7b-a823-401d-bbf6-e905dba7dd26",
+  "shortname": "قائب_هذه_الأبيات_ليس_بمجهول",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قائب هذه الأبيات ليس بمجهول"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3545932b803331339b436b76b0955a5c602a6a43",
+    "bytesize": 116,
+    "body": "السلام عليكم.. أليس قائلها هو أبو البقاء الرندي؟  بارك الله فيكم."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-01T14:26:35Z",
+  "attributes": {
+    "old_id": 26,
+    "old_entry_id": 95
+  },
+  "language": "ar"
+}

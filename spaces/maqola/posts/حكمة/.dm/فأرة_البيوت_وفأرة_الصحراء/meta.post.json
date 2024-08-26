@@ -1,0 +1,43 @@
+{
+  "uuid": "6e516a98-0e91-43e0-b98b-448e05a293bb",
+  "shortname": "فأرة_البيوت_وفأرة_الصحراء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فأرةُ البيوت وفأرة الصحراء"},
+  "updated_at": "2010-12-07T21:45:25Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3323a6259940e6250c07419eacd67a6b1a275417",
+    "bytesize": 1136,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قيلَ إنَّ فأرةَ البيوت رأتْ فأرةَ الصحراءِ في شِدَّةٍ ومِحنَة فقالت لها ما تَصنَعينَ هَهُنا ؟ اذهبي معي إلى البيوتِ التي فيها أنواعُ النَّعيمِ والخِصبِ فَذهَبتْ مَعَها وإذا صاحِبُ البيتِ الذي كانت تَسكُنُه قد هَيّأ لها الرَصَدَ لَبِنَةً تَحتها شَحمة فاقتحمت لِتأخُذَ الشحمةَ فوقعت عليها اللبِنة فَحَطَمّتها، فَهَربَتِ الفارةُ البَرَّيةُ وهَزّت رأسَها مُتَعَجِبَةً وقالت أرى نِعمَةً كثيرة وبَلاءً شديدا إلّا أنّ الفقرَ والعافيةَ أحَبُّ إليَّ مِن غِنىً يكونُ فيه الموتُ ثُمَّ فَرَّتْ إلى البرية.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- مِن كتاب المستطرف في كل فن مستظرف.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-12-07T21:45:25Z",
+  "attributes": {
+    "old_id": 334
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,45 @@
+{
+  "uuid": "62921b69-4bcf-4a9a-a743-08787d37211d",
+  "shortname": "فنون_الرد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فنون الرد"},
+  "updated_at": "2014-02-05T13:20:43Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:10a86a17c2726c61a8705e9e6a0572f19286ea6f",
+    "bytesize": 303,
+    "body": "فنونُ الردِ :<br> گانَ رجل مسن منحني الظهرِ يسيرُ في الطريقِ فقالَ له شابٌ بسخرية : بكم القوسُ يا عم ؟ قال : إن أطالَ الله بعمركِ سيأتيكَ بلا ثمن ' .<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-05T13:20:24Z",
+  "attributes": {
+    "old_id": 803
+  },
+  "language": "ar",
+  "history": []
+}

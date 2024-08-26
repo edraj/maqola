@@ -1,0 +1,46 @@
+{
+  "uuid": "20877073-47d6-4a52-9118-f863ded9f14c",
+  "shortname": "يا_أخي_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يا أخي!"},
+  "updated_at": "2013-11-20T16:46:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3d2f02d6463a6cfdc67eb880f11b0648fd4bf892",
+    "bytesize": 553,
+    "body": "<span class=\"maqola_body\"> <br> <span class=\"fonttohama\"></span><span class=\"uthman\"><span class=\"fonttohama\"></span></span><span class=\"uthman\"><span class=\"uthman\"><span class=\"fonttohama\"></span></span></span><span class=\"uthman\"><span class=\"uthman\"><span class=\"fonttohama\"></span><span class=\"uthman\"></span></span><span class=\"uthmanb\"></span></span><br><br>يالِوحدةِ مَن إذا نادى (يا أخي) ما أجابَه إلّا الذينَ وَلَدتْهُم أمُّه!<br><br>القائل: ميخائيل نعيمة<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f65a1775-7d93-475b-8ecc-f58b0b7062f0",
+    "shortname": "ظــلال_",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "صَداقَة",
+    "فَصاحَة"
+  ],
+  "created_at": "2013-11-20T16:46:10Z",
+  "attributes": {
+    "old_id": 719
+  },
+  "language": "ar",
+  "history": []
+}

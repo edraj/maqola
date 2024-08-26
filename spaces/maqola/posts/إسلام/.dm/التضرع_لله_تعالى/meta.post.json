@@ -1,0 +1,44 @@
+{
+  "uuid": "baf59a81-ce3f-4b5e-b388-8d6730ca2c0e",
+  "shortname": "التضرع_لله_تعالى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"التضرع لله تعالى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:136443bd4a455739872f51ec78540fad8a36303e",
+    "bytesize": 1229,
+    "body": "<p>\"يا من يرى ما في الضمير و يسمع * أنت المعدّ لكل ما يتوقع<br></p><p>يا من يرجّى للشدائد كلها * يا من اليه المشتكى و المفزع<br>يا من خزائن رزقه في قول كن * امنن فان الخير عندك أجمع<br>ما لي سوى فقري اليك وسيلة * و بالافتقار اليك فقري أدفع<br>ما لي سوى قرعي لبابك حيلة * فلئن طردت فأي باب أقرع<br>و من الذي أدعو و أهتف باسمه * ان كان فضلك عن فقير يمنع<br>حاشا لمجدك أن تقنِّط عاصيا * الفضل أجزل و المواهب أوسع<br>بالذل قد وافيت بابك عالما * ان التذلل عند بابك ينفع<br>وجعلت معتمدي عليك توكلا * و بسطت كفي سائلا أتضرّع<br>و بحق من أحببته و بعثته * و أجبت دعوة من به يتشفع<br>اجعل لنا من كل ضيق مخرجا * و الطف بنا يا من اليه المرجع<br>ثم الصلاة على النبي و آله * خير الخلائق شافع و مشفّع\"</p><p>------------- ضياء ابراهيم<span></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "شِعر",
+    "قاعدة أصولية"
+  ],
+  "created_at": "2015-02-18T18:40:26Z",
+  "attributes": {
+    "old_id": 1028
+  },
+  "language": "ar",
+  "history": []
+}

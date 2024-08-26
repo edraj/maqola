@@ -1,0 +1,29 @@
+{
+  "uuid": "b4242770-fdb7-4c2c-b3ab-cef52860a2cc",
+  "shortname": "شكرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكرا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:71585a7d92facd175f0f5ea31b85536fde453835",
+    "bytesize": 91,
+    "body": "السلام عليكم  سبحان الله ، كلمات قوية جدا ، شكرا لك"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-08-01T18:21:52Z",
+  "attributes": {
+    "old_id": 508,
+    "old_entry_id": 504
+  },
+  "language": "ar"
+}

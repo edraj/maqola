@@ -1,0 +1,43 @@
+{
+  "uuid": "e2579fb5-09e8-4ee7-8a90-e40bd027d516",
+  "shortname": "العلم_صيد_وكتابته_قيد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العِلم صَيد وكتابتهُ قَيد"},
+  "updated_at": "2010-11-30T10:06:16Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:02c87ffdd35ae7a6d3fd56e51ae71fcdfb6c15aa",
+    "bytesize": 483,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">العِلمُ صَيدٌ والكِتابةُ قَيدُهُ -- قَيِّدْ صيودكَ بالحِبالِ الواثِقَة<br />\r\n\tفَمِن الحَماقَةِ أَنْ تَصيدَ غَزالَةً -- وتَترُكها بَينَ الخَلائقِ طالِقةَ</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1em;\"><span style=\"font-family: Tahoma,Geneval,sans-serif;\">- من مُساهمات زوار الموقع.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-29T10:16:01Z",
+  "attributes": {
+    "old_id": 267
+  },
+  "language": "ar",
+  "history": []
+}

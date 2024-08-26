@@ -1,0 +1,42 @@
+{
+  "uuid": "46120e0d-7ff0-4b26-80c8-c107d2a66457",
+  "shortname": "لا_أحسن_ذلك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا أُُحسِنُ ذلك"},
+  "updated_at": "2010-11-01T12:15:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:36fa9fbf65bfbef79672208fc87df91ee2391f18",
+    "bytesize": 927,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">أضافَ بَعضُهم رَجُلاً كَسولاً، فلمّا أتى باللحمِ قال للضيفِ:‏ ‏ قَطِّعِ اللحمَ حَتى أوقدُ النار.‏ ‏ فقال الضيفُ:‏ ‏ لا أُحسِن ذلك.‏ ‏ فقال له:‏ ‏ فَنَقِّ هذا الأرُز إلى أن أشتَغِلَ أنا بأمرِ اللحمِ على النَّار.‏ ‏ فقالَ الضيفُ:‏ ‏ لا أُحسِن ذلك.‏ ‏ فلمّا استَوى الطَعامُ قالَ لَهُ:‏ ‏ مُدَّ الخِوان.‏ ‏ فقالَ الضيفُ:‏ ‏ لا أُحسِن هذا.‏ ‏ فقالَ لَهُ:‏ ‏ قُم فَكُل.‏ ‏ فقالَ الضيفُ:‏ ‏ ـ واللهِ لقد استَحييتُ مِن كَثرةِ خِلافي لَك.‏ ‏ وتَقَدَّمَ فأكل.‏</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-10-17T19:05:08Z",
+  "attributes": {
+    "old_id": 71
+  },
+  "language": "ar",
+  "history": []
+}

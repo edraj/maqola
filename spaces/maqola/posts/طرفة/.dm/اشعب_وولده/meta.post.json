@@ -1,0 +1,42 @@
+{
+  "uuid": "6ce64ef1-8035-496d-a4a8-3855df8b5088",
+  "shortname": "اشعب_وولده",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اشعب وولده"},
+  "updated_at": "2013-11-08T20:52:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0843cac9d66a75818f3bb84547394d3bd95f81e0",
+    "bytesize": 1078,
+    "body": "<span class=\"maqola_body\"> <br> اشتهر عن( أشعب)أنه كان رجلا\" طفيليا\"، يحب الطعام،ويشتم أخبار الولائم، ويحضرها ، ويأكل فيها بشراهة كبيرة...<br>وذات\r\n يوم جلس مع ابنه في إحدى الولائم وجلسا على مائدة واحدة، ولاحظ أشعب أن \r\nابنه أكثر من شرب الماء، وهو يأكل ، فانتظر حتى خرجا، ونادى ولده، ولطمه \r\nعلى وجهه بقسوة قائلا\"له:<br>لو جعلت مكان الماء الذي شربته طعاما\" لكان خيرا\" لك!<br>ولكن الابن تحسس مكان اللطمه وقال لوالده:<br>إنك مخطىء يا والدي... لأن شرب الماء يوسع مكانا\" للطعام!..<br>وهنا رفع (أشعب) يده إلى أعلى، ولطم ابنه لطمة أقسى من الأولى وهو يقول له:<br>لماذا لم تخبرني بذاك قبل الاّن...لقد ضيعت علىّ الكثير أيها التعس!...<br><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba2d5487-1f31-4067-b462-3f5ff05ca394",
+    "shortname": "أبو_أحمد",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2013-10-23T22:01:27Z",
+  "attributes": {
+    "old_id": 705
+  },
+  "language": "ar",
+  "history": []
+}

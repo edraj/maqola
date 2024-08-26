@@ -1,0 +1,43 @@
+{
+  "uuid": "58234901-76bb-4ac3-b876-e3118dd0f0d0",
+  "shortname": "الضد_يظهر_حسنه_الضد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الضدّ يُظْهِرُ حُسْنَه الضِدُّ"},
+  "updated_at": "2010-11-20T05:45:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6f2ec6b36043a63b11aa4afb3f45db4945bea378",
+    "bytesize": 334,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">فالوجهُ مِثْل الصُّبْحِ مُنْبِلجٌ&#160; -- &#160; والشَّعْر مِثلُ الليلِ مُسْوَّدُ<br />\r\n\tضِدانِ لمّا استَجمَعا حَسُنا&#160; -- &#160; والضِدّ يُظْهِرُ حُسْنَهُ الضِدُّ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "غَزَل"
+  ],
+  "created_at": "2010-11-20T05:44:35Z",
+  "attributes": {
+    "old_id": 191
+  },
+  "language": "ar",
+  "history": []
+}

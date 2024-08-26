@@ -1,0 +1,43 @@
+{
+  "uuid": "1c09ff55-b257-40c7-bf91-855dd21c36e9",
+  "shortname": "أمر_الدنيا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أمرُ الدّنيا"},
+  "updated_at": "2011-06-22T04:13:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3bbd47e623ab98cafc091f6aa6802ffa8a662dc5",
+    "bytesize": 951,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يقول الشاعر،</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">حَلاوَةُ الدُّنيا مَسمومَةٌ -- فَما تأكُلُ الشَهدَ إلّا بِسُم<br />\r\n\tفَكُن موسِراً أو مُعسِراً -- فما تَقطَعُ الدّهرَ إلّا بِهَم<br />\r\n\tإذا تَمَّ أمرٌ بدا نَقصُهُ -- تَوَقّع زوالاً إذا قيلَ تَم</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">ويقولُ آخر ...</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">هَوِّن الأمرَ تَعِش في راحَةٍ -- قَلَّما هوَّنتَهُ إلا يَهون<br />\r\n\tليسَ أمرُ المرءِ سهلاً كُلَّهُ -- إنما الأمر سهولٌ وحُزون<br />\r\n\tتَطلبُ الراحةَ في دار العَنا -- خابَ مَن يَطلُبُ شيئاً لا يَكون </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2011-06-22T04:13:05Z",
+  "attributes": {
+    "old_id": 497
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "c342ca59-e639-4945-907b-5e51a377ac62",
+  "shortname": "خير_الامور_اوسطها",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خير الامور اوسطها"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e291d390227172deaff4dea0bfb534e4e519e231",
+    "bytesize": 558,
+    "body": "ان خير الاموراوسطها افضل شئ الاعتدال في الامور كلها وقد حثنا الدين الاسلامي علي الاعتدال في كل امور فقد حث علي الاعتدال في الانفاق فقال{لاتتجعل يدك مغلوله الي عنقك ولاتبسطها كل البسط}وقال{ لا افراط ولاتفريط}وقال  صلي الله عليه وسلم{خير الامور اوسطها}وخير العباده ماقل واتصل خيرا مماكثر ونقطع ومثلة ذلك كثيره"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-02-10T10:59:46Z",
+  "attributes": {
+    "old_id": 404,
+    "old_entry_id": 350
+  },
+  "language": "ar"
+}

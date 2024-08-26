@@ -1,0 +1,42 @@
+{
+  "uuid": "b259baf2-5a56-44f0-bd3c-585f2c62749b",
+  "shortname": "المال_لله_في_يدي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المالُ لله في يدي"},
+  "updated_at": "2013-04-07T16:37:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8f164b03c7325d1ac02e0fca6c7658c46442d908",
+    "bytesize": 161,
+    "body": "<span class=\"maqola_body\"> <br> قيل لأعرابي يَسوقُ مالا كثيراً : لمن هذا المال؟ فقال : لله في يدي.<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-04-07T16:37:39Z",
+  "attributes": {
+    "old_id": 568
+  },
+  "language": "ar",
+  "history": []
+}

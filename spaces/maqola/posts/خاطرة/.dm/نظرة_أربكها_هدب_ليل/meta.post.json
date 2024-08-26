@@ -1,0 +1,44 @@
+{
+  "uuid": "1daacc16-09e0-46f0-96d1-47391ae01610",
+  "shortname": "نظرة_أربكها_هدب_ليل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نظرةٌ أربكها هدب ليل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:62c7b6c93ebcdcd7d76e99bbb742b6a5f9fa5578",
+    "bytesize": 586,
+    "body": "<p>براءةٌ منك وتوبة نصوحة هي الأخيرة عن حبك  ..<br> شيءٌ من العواطف ولحن وبقايا عطر كل ما تبقى لي منك ،<br> نظرةٌ أربكها هدب ليل وبحة صوت  في أدعيةِ  راهب ..<br> كُنت أعلم أن الصمت يوماً ما سيمدحك ،<br> هو ذاته يرثِيك الآن ..<br> ببقية من روح سأحجب  عني أنت ،<br> وأَجمعُ  حرفينا  بـ جناح ليل ،<br> ولا أعلم ما سيكون في ليلة قادمة ..<br></p><p>بيسار<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "عربية",
+    "غَزَل",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-19T14:21:24Z",
+  "attributes": {
+    "old_id": 1041
+  },
+  "language": "ar",
+  "history": []
+}

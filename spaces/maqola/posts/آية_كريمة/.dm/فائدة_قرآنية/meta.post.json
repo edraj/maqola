@@ -1,0 +1,43 @@
+{
+  "uuid": "12d25350-ba3d-410b-85ee-9dee384cac3d",
+  "shortname": "فائدة_قرآنية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فائدة قرآنيّة"},
+  "updated_at": "2015-01-24T18:58:28Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:40906db264bb42115766cdb236e676fcc887a664",
+    "bytesize": 871,
+    "body": "<p><span class=\"uthmanb\"></span>ان الله عندما امر الناس بالصلاة والزكاة قال واقيموا الصلاة واتوا الزكاة ... امر اجباري فيه معنى الامر واضح وكذلك الصوم .. كتب عليكم الصيام ... اما الحج فجاءت صيغة الامر تختلف  (ولله على الناس حج البيت من استطاع اليه سبيلا )  لان من يدعوك لزيارة بيته لا تتناسب الدعوه مع الامر الصارم وانما بها تودد وتحبب لذلك قال ولله على الناس حج البيت ولم يقل وادوا الحج  فسبحان الله احسن الخالقين قوله الحق وهو اصدق القائلين .......................................................</p><p>الاستاذ نافذ حسين <br></p><br>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4077ff49-dabe-45f0-b963-dea61705ed20",
+    "shortname": "nafez_hussain",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "خاطِرة"
+  ],
+  "created_at": "2015-01-17T04:34:24Z",
+  "attributes": {
+    "old_id": 949
+  },
+  "language": "ar",
+  "history": []
+}

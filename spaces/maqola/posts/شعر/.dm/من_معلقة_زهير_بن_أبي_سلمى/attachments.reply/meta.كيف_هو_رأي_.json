@@ -1,0 +1,29 @@
+{
+  "uuid": "1d60e127-fa72-4abe-949c-3a0105983477",
+  "shortname": "كيف_هو_رأي_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كيف هو رأي؟"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:935b0705354592a045a5deddda048999fd45048e",
+    "bytesize": 144,
+    "body": "أتمنى ان تقدموا رأيكم لي يعني كيف هو تعليق .بواسطة التعليق* شكرااااااااااااااا*"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-11-04T12:51:53Z",
+  "attributes": {
+    "old_id": 563,
+    "old_entry_id": 199
+  },
+  "language": "ar"
+}

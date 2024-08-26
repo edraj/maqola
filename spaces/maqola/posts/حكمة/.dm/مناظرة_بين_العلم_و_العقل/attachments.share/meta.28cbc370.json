@@ -1,0 +1,33 @@
+{
+  "uuid": "28cbc370-6bab-4b23-bcf8-86cba494c78b",
+  "shortname": "28cbc370",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-06-17T07:51:40Z",
+  "author_locator": { "type": "content",
+    "uuid": "901a087e-9bd4-43cc-a123-270a6a70732a",
+    "shortname": "alhytham_shawky",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-06-17T07:51:40Z",
+  "attributes": {
+    "old_id": 47,
+    "old_entry_id": 632
+  },
+  "language": "en",
+  "location": {
+    "uuid": "28cbc370-6bab-4b23-bcf8-86cba494c78b",
+    "shortname": "28cbc370",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "مناظرة_بين_العلم_و_العقل",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

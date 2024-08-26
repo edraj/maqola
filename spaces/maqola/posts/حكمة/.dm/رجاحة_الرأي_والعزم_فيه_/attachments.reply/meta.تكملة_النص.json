@@ -1,0 +1,29 @@
+{
+  "uuid": "776e9c65-35c5-4e15-9b63-a46482b18e57",
+  "shortname": "تكملة_النص",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تكملة النص"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1a6e30094fa6dad36511569a642cf0de2a96bd5e",
+    "bytesize": 100,
+    "body": "وإن كنت ذا عزم فانفذه عاجلاً -- فإن فساد العزم أن يتقيدا "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-25T06:36:18Z",
+  "attributes": {
+    "old_id": 625,
+    "old_entry_id": 130
+  },
+  "language": "ar"
+}

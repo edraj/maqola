@@ -1,0 +1,41 @@
+{
+  "uuid": "a763ba22-862e-4521-a6ba-00a737af6e93",
+  "shortname": "درر_الإمام_علي_بن_أبي_طالب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"درر الإمام علي بن أبي طالب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1fcbc074cac7ff9cb92de0f7823e748a42d6f60e",
+    "bytesize": 193,
+    "body": "<p>استعْملِ العدْلَ واحذرِ العَسْفَ والحَيْفَ فإنَّ العسْفَ يعودُ بالجَلاءِ والحيفَ يدعو إلى السَّيْفِ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "21327be8-3be7-4ee1-96a6-d33a91a12be9",
+    "shortname": "abdenacer_bencherif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-06-11T23:11:02Z",
+  "attributes": {
+    "old_id": 1341
+  },
+  "language": "ar",
+  "history": []
+}

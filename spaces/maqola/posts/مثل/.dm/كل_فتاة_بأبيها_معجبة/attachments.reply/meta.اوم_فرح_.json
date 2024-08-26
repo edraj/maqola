@@ -1,0 +1,29 @@
+{
+  "uuid": "e52d6d3d-4fdf-4639-af24-8fa4c2c3386e",
+  "shortname": "اوم_فرح_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اوم فرح‏*‏"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:12a1b20deb130c4489c5f0e1e597ae37502d503a",
+    "bytesize": 31,
+    "body": "قصه رائعه جد‏~‏ا"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-01-22T19:41:55Z",
+  "attributes": {
+    "old_id": 397,
+    "old_entry_id": 449
+  },
+  "language": "ar"
+}

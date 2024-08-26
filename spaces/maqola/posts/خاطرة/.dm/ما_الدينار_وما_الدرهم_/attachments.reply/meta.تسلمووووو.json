@@ -1,0 +1,29 @@
+{
+  "uuid": "36676aba-1a26-4313-baae-73dbbd67aeb6",
+  "shortname": "تسلمووووو",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تسلمووووو"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1ac504b96c109f95d2cf2bd91cdd1e0188ee9b8d",
+    "bytesize": 130,
+    "body": "شكرا على هذا الموضوع الرائع بارك الله فيكم ولكم مني جزيل الشكر والتقدير"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-31T15:53:22Z",
+  "attributes": {
+    "old_id": 364,
+    "old_entry_id": 422
+  },
+  "language": "ar"
+}

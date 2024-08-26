@@ -1,0 +1,41 @@
+{
+  "uuid": "2e4daa8c-f596-4399-87c6-ed7f30c381c8",
+  "shortname": "تعلم_الأدب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تعلم الأدب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:aae1c75072283c3b8cb5485b8ccea8b6498a2fa8",
+    "bytesize": 182,
+    "body": "<p>كن ابن من شئت واكتسب أدباً يغنيك محموده عن النسب إن الفتى من قال ها أنذا ليس الفتى من قال كان أبـي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "78ee65be-2ec6-47fd-b2f2-23895d2e4dd1",
+    "shortname": "الإمام_القحطاني",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "b7907345-efbe-4a57-bf57-ec04ca768ebf",
+    "shortname": "abderrahmane_beaek",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-08-28T09:04:27Z",
+  "attributes": {
+    "old_id": 1490
+  },
+  "language": "ar",
+  "history": []
+}

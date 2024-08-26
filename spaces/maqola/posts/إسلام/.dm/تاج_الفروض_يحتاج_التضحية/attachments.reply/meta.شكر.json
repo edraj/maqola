@@ -1,0 +1,29 @@
+{
+  "uuid": "1e29aeb0-43dd-46a9-ab47-8335f3a9b043",
+  "shortname": "شكر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b23079abbb2226f1673ab16f3d1b8aba2e2d203b",
+    "bytesize": 117,
+    "body": "الاخوة الاحرار في اراضي الشام المباركة .. جزاكم الله خير الجزاء =)"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "ca3284c6-a404-44fc-9b08-7341cb023f2c",
+    "shortname": "عباس",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-07-02T08:36:13Z",
+  "attributes": {
+    "old_id": 776,
+    "old_entry_id": 637
+  },
+  "language": "ar"
+}

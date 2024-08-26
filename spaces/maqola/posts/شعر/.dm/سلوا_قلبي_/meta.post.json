@@ -1,0 +1,43 @@
+{
+  "uuid": "b05b6f1e-4b90-4356-9e0d-df3aa3d787c2",
+  "shortname": "سلوا_قلبي_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سَلوا قَلبي،"},
+  "updated_at": "2010-11-25T14:17:23Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9edaef019744fcd6ee79e102610f48037dbe6096",
+    "bytesize": 433,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">سَلوا قَلبي غَداةَ سَلا وتَابا&#160; -- لَعَلَّ على الجمالِ لَه عِتابا<br />\r\n\tويَسألُ في الحوادثِ ذو صَوابٍ -- فَهلْ تَركَ الجَمالُ لَهُ صَوابا<br />\r\n\tوكُنتُ إذا سألتُ القَلبَ يَوماً -- تَولّى الدَّمعُ عَن قلبي الجَوابا</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "غَزَل"
+  ],
+  "created_at": "2010-11-25T14:17:23Z",
+  "attributes": {
+    "old_id": 229
+  },
+  "language": "ar",
+  "history": []
+}

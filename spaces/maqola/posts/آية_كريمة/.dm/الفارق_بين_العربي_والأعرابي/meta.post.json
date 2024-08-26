@@ -1,0 +1,52 @@
+{
+  "uuid": "3d27d917-2987-451b-9928-e0c9393a0418",
+  "shortname": "الفارق_بين_العربي_والأعرابي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الفارق بين العربي والأعرابي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c23cd13420c0476c621c385736f034d41daddd9f",
+    "bytesize": 690,
+    "body": "<p>العربي : \" هو كل من نسب إلى العرب وإن لم يكن من البدو ، اما الأعرابي : هو من سكن البادية من العرب \" قال ابن الأثير في كتابه \" النهاية في غريب الحديث والأثر \" : الاعرابي هو البدوي وجمعه أعراب . وقال ابن عزيز \" يقال : رجل أعرابي ، إذا كان بدويا ، وإن لم يكن من العرب ، ورجل عربي ، إذا كان منسوبا إلى العرب ، وإن لم يكن بدويا \" . قال ابن قتيبة : \" الأعرابي لزيم البادية ، والعربي منسوب إلى العرب \".</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "ذَكاء",
+    "شَجاعَة",
+    "عربية",
+    "فَخر",
+    "كَرَم",
+    "لُغة عربيّة",
+    "مَدح"
+  ],
+  "created_at": "2015-04-11T21:27:46Z",
+  "attributes": {
+    "old_id": 1170
+  },
+  "language": "ar",
+  "history": []
+}

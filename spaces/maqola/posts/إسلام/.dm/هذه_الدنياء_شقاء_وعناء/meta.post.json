@@ -1,0 +1,68 @@
+{
+  "uuid": "a9f3d871-4126-4433-94f2-72f5c8f61533",
+  "shortname": "هذه_الدنياء_شقاء_وعناء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هذه الدنياء شقاء وعناء"},
+  "updated_at": "2015-02-05T20:15:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d2cd594e471e6742c340b219a782e0e3049f4ba4",
+    "bytesize": 2754,
+    "body": "<p><img style=\"float: left; margin: ٠px ١٠px ١٠px ٠px; width: ٣٧٢.٥١٤px; height: ٢٤٦px;\" alt=\"\" src=\"http://٤.bp.blogspot.com/-qbpxbIiO٤k٤/UWiF٩C١Fp_I/AAAAAAAAAgA/j_Af٧xmCTV٠/s١٦٠٠/٤٣٠٦٧٤_٢٥٢٠٢٣٢٠٨٢١٧٨٩٠_١٧١٦٤٩٢٧٠_n.jpg\"><span class=\"fontsmall\"><span class=\"fontlarge\"><span class=\"fontxlarge\"><span class=\"fonttohama\"></span></span></span><span class=\"fontlarge\"></span><span class=\"uthman\"><span class=\"fontlarge\"></span></span><span class=\"uthmanb\"><span class=\"uthman\"><span class=\"fontlarge\"></span></span></span></span><span style=\"color: #٦٣٢٤٢٣;\"></span><span class=\"fontlarge\"><span class=\"uthmanb\"><span style=\"background-color: rgb(٠, ٠, ٠);\"><span style=\"background-color: rgb(٢٥٥, ٢٥٥, ٢٥٥);\"><span style=\"color: #٦٣٢٤٢٣;\"><span class=\"fontsmall\"><span class=\"fontlarge\"><span class=\"uthmanb\"><span class=\"uthman\"><span class=\"fontlarge\">هَذِهِ الدُّنْيا شَقَاءٌ وَعَنَاء  لَيْسَ لِي فِيهَا هَنَاءٌ بَلْ عَزَاءٌ وَعَزَاء</span></span></span></span></span></span><br><span style=\"color: #٦٣٢٤٢٣;\"><span class=\"fontsmall\"><span class=\"fontlarge\"><span class=\"uthmanb\"><span class=\"uthman\"><span class=\"fontlarge\"> كُلَّمَا جَفَّتْ دُموعَي وَتَجَرَّعْتُ الْبُكاء وَحَسِبَتْ الْهَمَّ يَعُدُّوا زَارَنِي لَيْلُ الْبَلاءِ</span></span></span></span></span></span>  .<br><span style=\"color: #٦٣٢٤٢٣;\"><span class=\"fontsmall\"><span class=\"fontlarge\"><span class=\"uthmanb\"><span class=\"uthman\"><span class=\"fontlarge\"> فِي معاناتي سَجِينٌ لَيْسَ لِي إلا الرِّضاءَ أُبْتَلَى وَالْجُرْحَ يدمِّي وَلَيْسَ لِلْجرْحِ دَواء<span class=\"maqola_body\"></span></span><span class=\"maqola_body\"></span></span><span class=\"maqola_body\"></span></span><span class=\"maqola_body\"></span></span></span></span></span></span></span></span> !</p><p><br><br></p><blockquote><span style=\"color: #٦٣٢٤٢٣;\"><span style=\"background-color: rgb(٢٥٥, ٢٥٥, ٢٥٥);\"><span class=\"fontsmall\">A٧SASEY@  </span></span></span></blockquote><span class=\"uthmanb\"><span style=\"background-color: rgb(٠, ٠, ٠);\"></span></span><span class=\"uthman\"></span><span class=\"uthmanb\"></span><span class=\"fontsmall\"><span class=\"maqola_body\"></span></span><blockquote><span class=\"fontsmall\"><span class=\"maqola_body\"></span></span></blockquote><span class=\"fontsmall\"><span class=\"maqola_body\"><span class=\"uthman\"></span></span></span><span class=\"maqola_body\"><br></span><blockquote><br><span class=\"maqola_body\">  </span>\r\n</blockquote>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "2b7eacfb-077b-4df8-a567-ef3b10f3528d",
+    "shortname": "س_ـقت_مشاع_",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "بُخل",
+    "تَفاؤل",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "رِثاء",
+    "سِياسَة",
+    "شَجاعَة",
+    "شِعر",
+    "صَداقَة",
+    "طُرفَة",
+    "طُفولَة",
+    "عُلوم",
+    "غَزَل",
+    "فَخر",
+    "فَصاحَة",
+    "قاعدة أصولية",
+    "قَدح",
+    "قَناعَة",
+    "قِصّة",
+    "لُغة عربيّة",
+    "لُغز",
+    "مَثَل",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2014-12-25T17:05:48Z",
+  "attributes": {
+    "old_id": 945
+  },
+  "language": "ar",
+  "history": []
+}

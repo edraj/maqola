@@ -1,0 +1,29 @@
+{
+  "uuid": "31e3fb0b-a54e-4b2d-9f23-20b1e2728e29",
+  "shortname": "جميلة_هذه_القصيدة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جميلة هذه القصيدة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:16ba35e7c4920e4afb00c6202564e07984f5b325",
+    "bytesize": 98,
+    "body": "جميلة هذه القصيدة وﻷحمد نقول صح لسانك أحب أشعار الحكم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-27T09:46:51Z",
+  "attributes": {
+    "old_id": 628,
+    "old_entry_id": 555
+  },
+  "language": "ar"
+}

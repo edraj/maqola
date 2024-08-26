@@ -1,0 +1,23 @@
+{
+  "uuid": "d1427e77-499f-4c9c-a41d-383a995e591c",
+  "shortname": "d1427e77",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "9a5c294b-89e8-41de-ab4e-0fc5bb2692c8",
+    "shortname": "ayad_derbal",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:07+03:00",
+  "attributes": {
+    "old_id": 389,
+    "old_entry_id": 926
+  },
+  "language": "en",
+  "type": "like"
+}

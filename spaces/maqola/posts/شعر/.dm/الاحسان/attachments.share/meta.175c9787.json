@@ -1,0 +1,33 @@
+{
+  "uuid": "175c9787-482e-4299-ae94-16006bf2cede",
+  "shortname": "175c9787",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-04-02T13:57:13Z",
+  "author_locator": { "type": "content",
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-04-02T13:57:13Z",
+  "attributes": {
+    "old_id": 397,
+    "old_entry_id": 1141
+  },
+  "language": "en",
+  "location": {
+    "uuid": "175c9787-482e-4299-ae94-16006bf2cede",
+    "shortname": "175c9787",
+    "subpath": "posts/شعر",
+    "space_name": "maqola",
+    "parent_shortname": "الاحسان",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "cfbb64d6-17f1-4622-a908-5dceab823e08",
+  "shortname": "الثقة_بالنفس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الثقة بالنفس"},
+  "updated_at": "2014-02-12T08:59:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0db4d460e75847b9fe0cb2c018ba78bbb4032cba",
+    "bytesize": 569,
+    "body": "<span class=\"uthman\"><span class=\"fontxxlarge\"><span class=\"uthmanb\"><span class=\"fonttohama\"><span class=\"uthmanb\"><span class=\"uthman\"><span class=\"maqola_body\"> فَليَكُنْ لَدَيّكَ مَاْ يَكُون .. عَقلِي دَلِيْلي لَنْ يَخُون</span></span><span class=\"maqola_body\"></span></span><span class=\"maqola_body\"></span></span><span class=\"maqola_body\"></span></span><span class=\"fontxlarge\"></span><span class=\"maqola_body\"></span></span> <span class=\"maqola_body\"></span></span><span class=\"maqola_body\"><br> <br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "777c5300-108f-4ccb-b758-24d96759bf8d",
+    "shortname": "ahmad_nattouf",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-02-01T05:07:18Z",
+  "attributes": {
+    "old_id": 743
+  },
+  "language": "ar",
+  "history": []
+}

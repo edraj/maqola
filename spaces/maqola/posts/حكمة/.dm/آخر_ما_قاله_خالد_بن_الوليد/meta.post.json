@@ -1,0 +1,42 @@
+{
+  "uuid": "e3bc4351-9e41-4f6e-b076-1bcda1afa204",
+  "shortname": "آخر_ما_قاله_خالد_بن_الوليد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"آخر ما قاله خالد بن الوليد"},
+  "updated_at": "2010-11-01T14:31:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:41d265153027cabc4c46dff73ffe2c4acb039785",
+    "bytesize": 448,
+    "body": "<p>\r\n\t<span class=\"maqola_font_normal\"><span style=\"font-size: 2em;\">لَقَد شَهِدتُ مائَةَ زَحفٍ أو زُهاءَها، وما في بَدَني مَوضُعُ شِبرٍ إلا وفيهِ ضَربَةٌ بِسَيفٍ أو رَميةٌ بِسَهمٍ أو طَعنَةٌ بِرُمحٍ. وها أنذا أموتُ على فِراشي حَتفَ أنفي، فَلا نامت أعينُ الجُبَناء.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c88c8279-2c17-491b-a7bf-d60de527a28d",
+    "shortname": "خالد_بن_الوليد",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-10-18T22:47:16Z",
+  "attributes": {
+    "old_id": 87
+  },
+  "language": "ar",
+  "history": []
+}

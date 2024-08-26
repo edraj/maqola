@@ -1,0 +1,29 @@
+{
+  "uuid": "2fa71ff0-a20e-4454-a558-22952fb4d838",
+  "shortname": "الفطنة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الفطنة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:175a3ddf332827871670623a23e15b5928c12de5",
+    "bytesize": 74,
+    "body": "اللهم ارزقنا ذكاء ينجنا من كيد الاعداء ..."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "408ce0c9-ab58-4640-b1fd-76dce0b65e36",
+    "shortname": "شجون_رؤية",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-03T12:47:28Z",
+  "attributes": {
+    "old_id": 825,
+    "old_entry_id": 612
+  },
+  "language": "ar"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "cfb255f9-1f71-484b-828d-f9cd17396a89",
+  "shortname": "في_طول_العيش",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في طول العيش"},
+  "updated_at": "2010-12-25T11:49:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6d2b1eb502d97740d2b6445ebb34a6f9f6c39ab8",
+    "bytesize": 504,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">المَرءُ يَأمَلُ أَنْ يَعِيشَ -- وطُولُ عَيشٍ قَدْ يَضُرُّهْ<br />\r\n\tتَفنَى بَشَاشَتُهُ ويَبقَى -- بَعدَ حُلوِ الْعَيشِ مُرُّهْ<br />\r\n\tوَتَخُونُهُ الأَيَّامُ حَتَّى -- لا يَرَى شَيئَاً يَسُرُّهْ<br />\r\n\tكَمْ شَامِتٍ بِي إِنْ -- هَلَكْتُ وَقَائِلٍ للهِ دَرُّهْ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8f1f3100-0b26-4571-8a32-6e185be7ed45",
+    "shortname": "النابغة_الذبياني",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-23T09:29:41Z",
+  "attributes": {
+    "old_id": 415
+  },
+  "language": "ar",
+  "history": []
+}

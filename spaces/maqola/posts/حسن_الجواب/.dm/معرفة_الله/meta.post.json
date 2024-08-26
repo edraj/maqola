@@ -1,0 +1,42 @@
+{
+  "uuid": "8150ec60-1605-4dab-bd4e-5866e1a2b5b8",
+  "shortname": "معرفة_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"معرفةُ الله"},
+  "updated_at": "2013-07-27T10:29:51Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3472fd4b89d7bc4501b968b1765efe7c58bd8f5b",
+    "bytesize": 479,
+    "body": "<span class=\"maqola_body\"> <br> <span class=\"fontxlarge\"></span>قيلَ لأبي بكرٍ رضيَ اللهُ عنه: يا ابا بكر بما عرفت ربّك؟ فقال ابو بكرٍ رضي الله عنه: عرفتُ ربي بربي، ولولا ربي ما عرفتُ ربي، فقيل لهُ فكيف عرفت ربك؟ فقال الصديق رضي الله عنه: العجز عن الإدراك إدراك، والبحث في ذات الله اشراك.<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب"
+  ],
+  "created_at": "2013-07-27T10:29:05Z",
+  "attributes": {
+    "old_id": 649
+  },
+  "language": "ar",
+  "history": []
+}

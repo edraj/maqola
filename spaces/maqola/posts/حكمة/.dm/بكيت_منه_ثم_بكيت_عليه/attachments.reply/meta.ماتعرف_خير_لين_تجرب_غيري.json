@@ -1,0 +1,29 @@
+{
+  "uuid": "5d7b7356-be04-4fb4-8683-2f3091fbf519",
+  "shortname": "ماتعرف_خير_لين_تجرب_غيري",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ماتعرف خير لين تجرب غيري"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:afc30a8de1ab2f4e68fd8a7062e6c2f922985b4c",
+    "bytesize": 414,
+    "body": "رُبَّ يَومٍ بَكَيتُ مِنهُ فَلَمّا -- صِرتُ في غَيرِهِ بَكَيتُ عَليه  وهو هذه ما كان عليها الليبين ايام الملك ادريس الاول رحمها الله قبل انقلب المقبور 1969م   مع ذالك ان الملك لم يبكي يوم شعبها ولكن بعد عام69 صارو يبكو دماً   علي الملك "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-07-22T00:57:07Z",
+  "attributes": {
+    "old_id": 655,
+    "old_entry_id": 400
+  },
+  "language": "ar"
+}

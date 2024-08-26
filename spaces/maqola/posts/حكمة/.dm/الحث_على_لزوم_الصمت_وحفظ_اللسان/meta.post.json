@@ -1,0 +1,41 @@
+{
+  "uuid": "ab059846-b5dc-48a2-86fb-ece5e07a0540",
+  "shortname": "الحث_على_لزوم_الصمت_وحفظ_اللسان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحث على لزوم الصمت وحفظ اللسان"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e5b6751faacb53072e0b40d2ac95cd304511227c",
+    "bytesize": 862,
+    "body": "<p>جَاءَ فِى رَوضَه العقلاء ونُزْهَه الفُضَلاء </p><p>___________________________</p><p>كَاَن مَالِكَ بْنَ أَنَسٍ يَقُولُ : \" كُلُّ شَيْءٍ يُنْتَفَعُ بِفَضْلِهِ إِلا الْكَلامَ فَإِنَّ فَضْلَهُ يَضُرُّ \"</p><p>وَعن سعيد ابن عَبْدِ الْعَزِيزِ قَالَ قَالَ أَبُو الدَّرْدَاءِ :  \" لا خَيْرَ فِي الْحَيَاةِ إِلا لأَحَدِ رَجُلَيْنِ مُنْصِتٌ وَاعٍ أَوْ مُتَكَلِّمٌ عَالِمٌ  \"</p><p>___________________________________</p><p>حُرِرَتْ مِنْ قِبَل : أُسَامَة الحُصَرِى<br><a href=\"https://www.facebook.com/osama.elhosary.٧\">https://www.facebook.com/osama.elhosary.٧</a></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "3defc0b7-8c89-4965-b0ac-944be80d283d",
+    "shortname": "usama_elhosary",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-07-19T22:20:48Z",
+  "attributes": {
+    "old_id": 1407
+  },
+  "language": "ar",
+  "history": []
+}

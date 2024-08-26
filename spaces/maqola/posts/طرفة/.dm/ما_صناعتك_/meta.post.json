@@ -1,0 +1,42 @@
+{
+  "uuid": "a706ebc7-f557-48b7-902b-b450aa90a0ab",
+  "shortname": "ما_صناعتك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما صَناعَتُك؟"},
+  "updated_at": "2010-11-29T07:47:52Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7c3b1eff0da0c904e9a1fcbc0b82115df47e034d",
+    "bytesize": 781,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">دَخلَ يَزيدُ بن منصور الحِميَري على المهدي و بَشّارُ بن بُردٍ بَينَ يَديهَ يُنشِدُهُ قَصيدةً امتَدَحَهُ بِها، فَلمّا فَرغَ مِن شِعرِه أقبَلَ عليهِ يَزيدُ وكانت فيه غَفلَةٌ فقال : يا شَيخُ ما صِناعَتُكَ ؟<br />\r\n\tفقال بشار : أثقُبُ اللؤلؤ .فَضِحِكَ المَهديُ ثُمَّ قال لِبشار : أغرُب وَيلَك أتَتَنادُرُ على خالي ؟<br />\r\n\tفقال بشار : ما أصنع به ؟ يَرى شيخاً أعمى يُنشِدُ الخليفةَ شِعراً ويسألُهُ عَن صِناعَتِه!؟</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-29T07:47:52Z",
+  "attributes": {
+    "old_id": 259
+  },
+  "language": "ar",
+  "history": []
+}

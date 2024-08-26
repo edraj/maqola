@@ -1,0 +1,29 @@
+{
+  "uuid": "6bcd8bdc-e9fb-46ae-a8aa-aff9bf838359",
+  "shortname": "ردك_صائب_يا_عبدالله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ردك صائب يا عبدالله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a596f8b004318e28c644c8f13c0f0c8c9338cb51",
+    "bytesize": 252,
+    "body": "جزاك الله كل خير ، لقد نظرت في تعقيبك فوجدت الصدق ماشاء الله وقد خالفتَ ما ورد في البيت مخالفة طيبة بأسلوب لبق ، شكرا لك ولأخوتك وصدق يراعك ."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-06-24T10:11:28Z",
+  "attributes": {
+    "old_id": 652,
+    "old_entry_id": 394
+  },
+  "language": "ar"
+}

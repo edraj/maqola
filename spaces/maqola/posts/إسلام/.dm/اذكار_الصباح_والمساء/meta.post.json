@@ -1,0 +1,43 @@
+{
+  "uuid": "744ff506-5c1c-424f-b5f6-5c60cdeec5f6",
+  "shortname": "اذكار_الصباح_والمساء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اذكار الصباح والمساء"},
+  "updated_at": "2014-02-09T14:45:16Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:98cdbb7b07c43bbff3b316401e42f869c602c903",
+    "bytesize": 307,
+    "body": "أذكارُ الصباحِ والمساءِ بمثابةِ الدّرع كلما زادت سماكتهُ لم يتأثر صاحبهُ ، بل تصلُ قوة ُالدرعِ أن يعودَ السهم فيصيبَ من أطلقهُ..<br> <br> ابن القيم .<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة"
+  ],
+  "created_at": "2014-02-09T14:45:11Z",
+  "attributes": {
+    "old_id": 829
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "ae9601a5-f47d-4364-9ce6-cd85fd51ded3",
+  "shortname": "منفيون",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مَنفيّون"},
+  "updated_at": "2012-03-27T21:25:55Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:449bf9cade350a93fd0bec4714007bf875021085",
+    "bytesize": 1391,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">لمن نشكو مآسينا؟<br />\r\n\tومن يُصغي لِشكوانا، ويُجدينا؟<br />\r\n\tأنشكو موتَنا ذُلاً لِوالينا؟<br />\r\n\tوهَل مَوتٌ سَيُحيينا؟<br />\r\n\tقَطيعٌ نَحنُ والجزارُ راعينا؛<br />\r\n\tومَنفيّونَ نَمشي في أراضينا؛<br />\r\n\tونَحمِلُ نَعشنا قَسراً بأيدينا؛<br />\r\n\tونُعرِبُ عن تعازينا لنا فينا؛<br />\r\n\tفوالينا، أدام الله والينا،<br />\r\n\tرآنا أُمّةً وسطاً، فما أبقى لنا دُنيا،<br />\r\n\tولا أبقى لنا دينا؛<br />\r\n\tولاةُ الأمرِ : ما خُنتُم، ولا هِنتُم،<br />\r\n\tولا أبديتُم اللينا،<br />\r\n\tجزاكم ربنا خيراً، كفيتُم أرضنا بلوى أعادينا،<br />\r\n\tوحقّقتُم أمانينا،<br />\r\n\tوهذي القدسُ تَشكُرُكُم،<br />\r\n\tفَفي تَنديدِكُم حينا،<br />\r\n\tوفي تَهديدِكم حينا،<br />\r\n\tسحبتم أنفَ أمريكا،<br />\r\n\tفلم تَنقُل سَفارَتها،<br />\r\n\tولو نَقلت - معاذ الله لو نقلت - لضيعنا فلسطينا؛<br />\r\n\tولاةُ الأمرِ هذا النصرُ يَكفيكُم، ويَكفينا،<br />\r\n\tتهانينا!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2012-03-27T21:25:55Z",
+  "attributes": {
+    "old_id": 554
+  },
+  "language": "ar",
+  "history": []
+}

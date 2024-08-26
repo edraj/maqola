@@ -1,0 +1,29 @@
+{
+  "uuid": "eec92873-3f50-4451-8b9c-794c91ee7e36",
+  "shortname": "تصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eb62a104e85433aa5b0c3c27c3e1b08a53963363",
+    "bytesize": 128,
+    "body": "الصحيح: وقَد يُورِثُ الذُّلَ إدمانُها  الادمان: فاعل، والذل: مفعول به! "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-10T00:24:55Z",
+  "attributes": {
+    "old_id": 85,
+    "old_entry_id": 166
+  },
+  "language": "ar"
+}

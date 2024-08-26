@@ -1,0 +1,29 @@
+{
+  "uuid": "e4402f8f-8942-41b3-aa8f-fa163edcab9c",
+  "shortname": "تعديل_هام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تعديل هام"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0f128c2377c1ce61048ae53515c41590492024c5",
+    "bytesize": 339,
+    "body": "إذا غضبت عليكَ بنو تميمٍ ...... حسبتَ الناس كلهم غضابا كلمة حسبت بفتح التاء وليس بضمها ثم اني لارجو منكَ خيراً عاجلاً ...... والنفسُ مولعةٌ بحبِ العاجلَ كلمة بحب بكسر الباء الاخيرة وليس بفتحها"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "42c7360c-874d-47a1-946b-57847dcf43a6",
+    "shortname": "mohammed_mahmoud_abd_el_fattah",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-12-23T11:36:14Z",
+  "attributes": {
+    "old_id": 792,
+    "old_entry_id": 645
+  },
+  "language": "ar"
+}

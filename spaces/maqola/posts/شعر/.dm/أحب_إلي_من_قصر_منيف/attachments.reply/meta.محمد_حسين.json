@@ -1,0 +1,29 @@
+{
+  "uuid": "ae5fca3d-1b56-43e7-ad13-10e2afb7fc9f",
+  "shortname": "محمد_حسين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"محمد حسين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7e833b032d206c423fd404ca1511fa7789cb6f2c",
+    "bytesize": 406,
+    "body": "لا عجب من ذلك، فيروى عن معاوية بن أبي فسيان أكثر من ذلك الكثير، وهو اللاعب بالدنيا حين كان الخليفة الرابع علي بن أبي طالب (كرم الله وجهه) يُسب جهاراً على منابر الشام، لكن التاريخ الخؤون جعل منه خليفةً وأميراً وخالاً للمؤمنين."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-22T16:43:50Z",
+  "attributes": {
+    "old_id": 339,
+    "old_entry_id": 398
+  },
+  "language": "ar"
+}

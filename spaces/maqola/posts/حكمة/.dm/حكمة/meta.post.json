@@ -1,0 +1,41 @@
+{
+  "uuid": "b02b58f0-9eee-44e4-ae31-2aedc06ca606",
+  "shortname": "حكمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حكمة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a7e0b7e89c8b6156940a20c27e1d4421a75c6edf",
+    "bytesize": 553,
+    "body": "<p><strong><span data-redactor-tag=\"span\" class=\"fonttohama\"><span class=\"uthman\" data-redactor-class=\"uthman\">إن الحكم يحتاج إلى العقل والقوة</span></span></strong></p><p><strong><span data-redactor-tag=\"span\" class=\"fonttohama\"><span class=\"uthman\" data-redactor-class=\"uthman\"></span></span></strong><strong><span data-redactor-tag=\"span\" class=\"fonttohama\"><span class=\"uthman\" data-redactor-class=\"uthman\">كما انه لا يمكن الحكم بسلام إلا باستشارة رجل حكيم</span></span></strong></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "99358994-6426-4bce-9250-f5bf48d5d98d",
+    "shortname": "بكار_المصري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-12-21T00:50:46Z",
+  "attributes": {
+    "old_id": 1568
+  },
+  "language": "ar",
+  "history": []
+}

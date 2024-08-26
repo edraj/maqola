@@ -1,0 +1,43 @@
+{
+  "uuid": "36bb3c79-31d3-4600-b4e2-f338026aa90b",
+  "shortname": "أدنى_أهل_الجنة_منزلة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أدنى أهل الجنةِ مَنزِلةً!"},
+  "updated_at": "2011-01-03T00:22:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:de1b990b3901db94675bbb25e6a9cbfff446b504",
+    "bytesize": 1337,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">عن ابن مسعود رضي الله عنه قال، قال رسول الله ﷺ : إني لأَعلَمُ آخرَ أهلِ النارِ خُروجاً مِنها وآخرَ أَهلِ الجَنَّةِ دُخولاً الجنة، رَجلٌ يَخرُجُ مِن النارِ حَبواً؛ فَيقولُ الله - عز وجل- له:&#160; اذهب فادخل الجنة؛ فيأتيها، فَيُخَيَّلُ إليه أَنَّها مَلأى، فيرجع فيقول: يارب وَجَدتُها ملأى؛ فيقول الله عز وجل له: اذهب فادخل الجنة؛ فيأتيها فيخيل إليه أنها ملأى فيرجع فيقول يارب وجدتها ملأى، فيقول الله عز وجل له : اذهب فادخل الجنة، فإنَّ لَكَ مِثلَ الدُّنيا وعشرَةَ أَمثالِها؛ فيقول أَتَسخَرُ بي! وأنت الملك! قال فلقد رأيت رسول الله ﷺ ضحك حتى بدت نواجِذُه؛ فكان يقول ذلك أدنى أهلِ الجنةِ مَنزِلَةً. مُتَّفَقٌ عَليه.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- مِن كتاب &quot;رياضُ الصالحين&quot; للنووي.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "fb9d54cf-2eca-48ad-870b-47ace16e059f",
+    "shortname": "رسول_الله_",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف"
+  ],
+  "created_at": "2011-01-03T00:22:38Z",
+  "attributes": {
+    "old_id": 439
+  },
+  "language": "ar",
+  "history": []
+}

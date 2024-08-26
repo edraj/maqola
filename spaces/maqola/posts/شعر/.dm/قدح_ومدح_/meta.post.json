@@ -1,0 +1,45 @@
+{
+  "uuid": "508a1346-cf45-4ff4-92dc-e4702b205c8f",
+  "shortname": "قدح_ومدح_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قَدحٌ ومَدح!"},
+  "updated_at": "2011-10-11T22:33:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:289f9d1e9cdb342ba543b07fdf495f8ab7086ef9",
+    "bytesize": 889,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كان بنو عبد المدان الحارثيون يفخرون بطول أجسامهم، وقديم شَرِفهم، حتى قال فيهم حسان بن ثابت:<br />\r\n\tلا بأسَ بِالقَومِ مِن طولٍ و مِن غِلَظٍ -- جِسمُ البِغالِ و أحلامُ العَصافيرِ<br />\r\n\t<br />\r\n\t&#160;فقالوا له: والله يا أبا الوليد لقد تركتنا ونحن نستحي مِن ذكر أجسامنا، بعد أن كنَّا نفخر بها، فقال لهم: سأُصلِح منكم ما أفسدت، فقال فيهم:<br />\r\n\tو قَد كُنّا نَقولُ إِذا رَأينا -- لِذي جِسمٍ يُعَدُّ و ذي بَيانِ<br />\r\n\tكَأنَّكَ أَيُّها المُعطي لِسانًا -- وَجِسمًا مِن بنِي عَبدِ المدانِ </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "طُرفَة",
+    "قَدح",
+    "مَدح"
+  ],
+  "created_at": "2011-10-11T22:33:45Z",
+  "attributes": {
+    "old_id": 527
+  },
+  "language": "ar",
+  "history": []
+}

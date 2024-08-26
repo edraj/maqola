@@ -1,0 +1,48 @@
+{
+  "uuid": "da5527f0-dd87-4a0a-acf1-43940ceff9bc",
+  "shortname": "من_عجيب_ما_ذكره_العالم_المسلم_جابر_بن_حيان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"​من عجيب ما ذكره العالم المسلم جابر بن حيّان"},
+  "updated_at": "2015-07-24T13:39:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:79bea717bdf9b70ac4930dddc04b50194a142422",
+    "bytesize": 971,
+    "body": "<p>من عجيب ما ذكره العالم المسلم \" جابر بن حيّان \" ( ١٠١هـ - ١٩٧هـ / ٧٢١م - ٨١٣م ) في كتابه ( الخيمياء ) قوله : \" إن أصغر جزء من المادة وهو الجزء الذي لا يتجزأ ( الذرة ) يحتوي على طاقة كثيفة. وليس من الصحيح أنه لا يتجزأ مثلما ادّعى علماء اليونان القدامى ، بل يمكن أن يتجزأ ، وأن هذه الطاقة التي تنطلق من عملية التجزئ هذه ، يمكن أن ( تقلب مدينة بغداد عاليها سافلها وتنسفها ) . وهذه علامة من علامات قدرة الله تعالى \". هذه المعلومات لا تزال تدهش العلماء حتى اليوم ..</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p><p>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "تَفاؤل",
+    "حُسنُ الجواب",
+    "ذَكاء",
+    "عُلوم",
+    "فَخر",
+    "مَدح"
+  ],
+  "created_at": "2015-07-24T13:39:14Z",
+  "attributes": {
+    "old_id": 1425
+  },
+  "language": "ar",
+  "history": []
+}

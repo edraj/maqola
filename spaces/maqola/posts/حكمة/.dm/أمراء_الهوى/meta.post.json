@@ -1,0 +1,45 @@
+{
+  "uuid": "6c0bb8cc-c7c1-465b-adba-52516f9b22f1",
+  "shortname": "أمراء_الهوى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أمراء الهوى"},
+  "updated_at": "2013-12-12T19:49:48Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:98477541f0695f45173b37f4750b0527a5b8a784",
+    "bytesize": 2234,
+    "body": "<span class=\"maqola_body\"> أقضي ليال الـــــهجر لا أدرِ&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; ظلماً أعاني أم هــــو&nbsp; قدري<br>لا خفّفَ الرَّحمن عن&nbsp; غَـــمِرٍ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; يسري عـلى جرنٍ بلا&nbsp; حذرِ<br>من كان مثلي نائياً هـجـــــراً&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; وحياته عـــــبرٌ من العـبر<br>تجـــتاحه الأشواقُ عاصــفةً&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; تسري وتجري ساعة السَّحر<br>قد لا يبالي ظلــمَ آســـــرةٍ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; جعلت فؤادي عاشق السّهَرِ<br>أقضي طـــويل الليلِ منتظراً&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ربَّةَ الأشواقِ كالـــــــخَدِرِ<br>حتّى إذا ما لحظــةً وَصَــلت&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; كانت توَدِعُ قُــــبيلةَ السّفرِ<br>يا ربّ كاد الشَّوق يقـــــتلنا&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; نحن اليتامى زبدةُ&nbsp; البــــشر<br>لولا هوانا لا أتت&nbsp; غمَـــــمٌ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; حتَّى ولا جادت بذا الــمطرِ<br>حزناً ولا ناحـــــت يماماتٌ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; سَحَراً ولا حطَّت على الشَّجر<br>نحيا ونفنى لا لنــــا&nbsp; دِعــةٌ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ونخامرُ الخلَّان&nbsp; كالــــفِكَرِ<br>ونعلِّــــمُ الأبشارَ موعِــظةً&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \"قولوا لها قد ماتَ&nbsp; فاصطبري\"<br>.............................................................<span class=\"uthman\"><span class=\"uthmanb\">إياد صالح</span></span>...................<br> <br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "36c4af31-5150-42c3-96a8-d31123ca960f",
+    "shortname": "إياد_صالح",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر",
+    "غَزَل",
+    "فَخر"
+  ],
+  "created_at": "2013-12-12T19:49:31Z",
+  "attributes": {
+    "old_id": 729
+  },
+  "language": "ar",
+  "history": []
+}

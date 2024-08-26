@@ -1,0 +1,44 @@
+{
+  "uuid": "57fe5f91-2971-4927-b322-6c96610a80b6",
+  "shortname": "المطر_التشريني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المطر التشريني"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2ccbb4ed09457008dd0d2de98802679466719798",
+    "bytesize": 385,
+    "body": "<p>هي من تجبر نفسي كل مرة أنظر إليها أن تقامر بأيلول وآذار معا ...<br> أعشق تلك الندبة الشامية حين يبدو ما لا أريد من حجر النرد ...<br> وأهيم بهمسات شتاء , وردهة روحانية لأقداح من قطرات ذاك المطر التشريني ...<br></p><p>بيسار<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "عربية",
+    "غَزَل",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-19T14:23:28Z",
+  "attributes": {
+    "old_id": 1042
+  },
+  "language": "ar",
+  "history": []
+}

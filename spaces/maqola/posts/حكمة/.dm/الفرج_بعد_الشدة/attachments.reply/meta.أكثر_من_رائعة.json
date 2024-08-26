@@ -1,0 +1,29 @@
+{
+  "uuid": "403ac1dc-1e25-4e70-870c-52ab70fe4981",
+  "shortname": "أكثر_من_رائعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أكثر من رائعة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1407171184907efe723ab750e1bf46a0f1ff387e",
+    "bytesize": 243,
+    "body": "موقع جميل أشكركم عليه وفعلًا ان من البيان لسحرًا ان شاء الله انا من متابعي هذا الموقع , فأنا أحب مثل هذه الأشياء الجميلة تحياتي لكم , ^__^"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-03T15:16:01Z",
+  "attributes": {
+    "old_id": 41,
+    "old_entry_id": 81
+  },
+  "language": "ar"
+}

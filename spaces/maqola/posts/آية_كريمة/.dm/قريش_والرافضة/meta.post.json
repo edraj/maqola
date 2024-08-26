@@ -1,0 +1,53 @@
+{
+  "uuid": "473145ad-06c0-4929-89ac-5638ce71b476",
+  "shortname": "قريش_والرافضة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قريش والرافضة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:71e4926ca5806d4e2697010cb53df3953bbeb196",
+    "bytesize": 588,
+    "body": "<p>قال الإمام العلامة عبد اللطيف بن عبد الرحمن بن حسن : \" وقريش في ذلك الوقت مع كفرهم وضلالهم ، أهدى من كثير من العسكر ، والزوار من الرافضة بكثير ، فكيف وقد بلغ شركهم إلى تعطيل الربوبية ، والصفات العلية ، وإخلاص العبادات للمعبودات الوثنية ومعارضة الشريعة المحمدية ، بأحكام الطواغيت ، والقوانين الإفرنجية ؟!! \" الدرر السنية ج 10</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "سِياسَة",
+    "شَجاعَة",
+    "عربية",
+    "فَصاحَة",
+    "قاعدة أصولية",
+    "قَدح",
+    "قَناعَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-04-11T21:18:10Z",
+  "attributes": {
+    "old_id": 1164
+  },
+  "language": "ar",
+  "history": []
+}

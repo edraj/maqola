@@ -1,0 +1,41 @@
+{
+  "uuid": "06f8c074-2874-4cb6-91bb-a93d257b44ce",
+  "shortname": "السهو_في_الصلاة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السهو في الصلاة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b86370b787f620a95215aa6d7ff40dca7064f6fb",
+    "bytesize": 297,
+    "body": "<div dir=\"rtl\" class=\"_5wj-\"><p>سئل الإمام كثير الحمصي رحمه الله عن سبب عدم سهوه في الصلاة قط - وقد كان إمام أهل حمص ٦٠ سنة - فقال :<br> ( ما دخلت باب المسجد قط وفي نفسي غير الله ) .</p></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f2cf48da-162a-42e4-afc3-409b34a5d366",
+    "shortname": "أم_شعيب_شعبة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب"
+  ],
+  "created_at": "2015-10-15T11:49:40Z",
+  "attributes": {
+    "old_id": 1529
+  },
+  "language": "ar",
+  "history": []
+}

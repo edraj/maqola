@@ -1,0 +1,29 @@
+{
+  "uuid": "18c3086c-c540-4822-80af-28f4a6cfc031",
+  "shortname": "ابو_بقاء_زيد_الرندي_و_رثاء_الاندلس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ابو بقاء زيد الرندي و رثاء الاندلس"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:56d1b38ba4e4c071d554924b106c267aa190d2dc",
+    "bytesize": 62,
+    "body": "ابو بقاء زيد الرندي و رثاء الاندلس"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-24T15:50:44Z",
+  "attributes": {
+    "old_id": 11,
+    "old_entry_id": 95
+  },
+  "language": "ar"
+}

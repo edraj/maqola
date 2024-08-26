@@ -1,0 +1,42 @@
+{
+  "uuid": "0819ef10-c7b1-40b5-9acd-d1d419cea933",
+  "shortname": "قضاة__الدهر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قُضَاة ُ الدهر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:846007149746deb310f70383336ee01627ea56c2",
+    "bytesize": 216,
+    "body": "<p>قُضَاة ُ الدهر قدْ ضَلُّوا<br> فقد باتت خسارتهمْ<br> فباعوا الدين بالدنيا<br> فما رَبِحَتْ تجارتُهمْ<br> - الإمام الشافعي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء"
+  ],
+  "created_at": "2015-07-25T00:13:28Z",
+  "attributes": {
+    "old_id": 1441
+  },
+  "language": "ar",
+  "history": []
+}

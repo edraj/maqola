@@ -1,0 +1,43 @@
+{
+  "uuid": "b650d2d3-35b0-4def-9184-3ba3834bc0c1",
+  "shortname": "اليمين_القاصمة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اليمينُ القاصِمة!"},
+  "updated_at": "2011-10-12T09:52:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3181c7a01c37dd16d3394601920c04c2e2027516",
+    "bytesize": 620,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">اختصم أعرابيَّان إلى بعض الولاة في دَين لأحدهما على صاحبه، فجعل المدَّعَى عليه يحلف بالطلاق والعتاق. فقال المدَّعِي: دعني من هذه الأيمان، واحلفْ بما أقوله لك: لا تَركَ الله لك خُفًّا يتبع خفًّا، ولا ظلفًا يتبع ظلفًا، وحتَّك من أهلك ومالك حتَّ الورق من الشجر إن لم يكن لي هذا الحقُّ قِبلك. فأعطاه حقَّه، ولم يحلف له.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "طُرفَة"
+  ],
+  "created_at": "2011-10-12T09:52:19Z",
+  "attributes": {
+    "old_id": 531
+  },
+  "language": "ar",
+  "history": []
+}

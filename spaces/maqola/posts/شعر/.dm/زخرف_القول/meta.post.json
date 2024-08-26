@@ -1,0 +1,42 @@
+{
+  "uuid": "e405f567-3aa0-4072-8e4f-3c8cd76b1f22",
+  "shortname": "زخرف_القول",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"زخرف القول"},
+  "updated_at": "2014-10-09T11:52:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:45b1125f0be6537e7594bbe72d847d5d6a36cce4",
+    "bytesize": 1101,
+    "body": "<span class=\"maqola_body\"><b>&nbsp;قال ابن الرومي :<span class=\"fontxxlarge\"><br></span></b><strong><span><span><br></span></span></strong></span><p><span class=\"maqola_body\"><strong><span><span></span></span></strong></span></p><span class=\"fontxlarge\"><p><span class=\"maqola_body\"><strong><span><span>فِي زُخْرُفِ&nbsp; الْقَوْلِ&nbsp; تَزْيِينٌ&nbsp; لِبَاطِلِهِ &nbsp; &nbsp; &nbsp;وَالْحَقُّ&nbsp; قَدْ&nbsp; يَعْتَرِيهِ&nbsp; سُوءُ&nbsp; تَعْبِيرِ<br>تَقُولُ: هَذَا مُجَاجُ النَّحْلِ&nbsp; تَمْدَحُهُ &nbsp; &nbsp; &nbsp;وَإِنْ&nbsp; ذَمَمْتَ&nbsp; تَقُلْ:&nbsp; قَيْءُ&nbsp; الزَّنَابِيرِ<br>مَدْحًا وَذَمًّا وَمَا جَاوَزْتَ وَصْفَهُمَا &nbsp; &nbsp; &nbsp;حُسْنُ الْبَيَانِ يُرِي الظَّلْمَاءَ كَالنُّورِ</span></span></strong></span></p><div></div></span><div><span class=\"maqola_body\"><br><hr>  </span><hr><hr><hr><hr><hr><hr><p></p></div>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "8393a5e0-ae57-444b-af9a-1b64351d0442",
+    "shortname": "سعيد_علي_أندي_العالمين",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2014-10-09T11:46:39Z",
+  "attributes": {
+    "old_id": 926
+  },
+  "language": "ar",
+  "history": []
+}

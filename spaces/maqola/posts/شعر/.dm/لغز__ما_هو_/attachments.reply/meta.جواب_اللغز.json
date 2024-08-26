@@ -1,0 +1,29 @@
+{
+  "uuid": "a8a15d20-a0e8-48b1-9466-962dcefc7bb6",
+  "shortname": "جواب_اللغز",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جواب اللغز"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eab81ea46de521a6c85a20eb7c508cc052ca6e64",
+    "bytesize": 14,
+    "body": "الميزان"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-28T11:36:56Z",
+  "attributes": {
+    "old_id": 228,
+    "old_entry_id": 216
+  },
+  "language": "ar"
+}

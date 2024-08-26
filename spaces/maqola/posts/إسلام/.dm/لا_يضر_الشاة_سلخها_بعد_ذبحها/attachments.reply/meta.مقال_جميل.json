@@ -1,0 +1,29 @@
+{
+  "uuid": "3df6bffb-ae36-44da-8a61-e9e1ae185652",
+  "shortname": "مقال_جميل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مقال جميل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3eacddce28653d22b7468878aed0337692734d9b",
+    "bytesize": 141,
+    "body": "مقال جميل ولكن لو وضع المرجع - او المراجع - لكان افضل واعمّ للفائدة. والله أعلم."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-12-30T17:32:24Z",
+  "attributes": {
+    "old_id": 590,
+    "old_entry_id": 322
+  },
+  "language": "ar"
+}

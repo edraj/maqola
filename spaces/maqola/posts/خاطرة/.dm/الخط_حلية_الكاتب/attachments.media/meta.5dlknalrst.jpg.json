@@ -1,0 +1,18 @@
+{
+  "uuid": "ddd03fab-0a6c-4866-8605-ddf74ccf7759",
+  "shortname": "5dlknalrst.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:13b88192cafc35b1cc21eb2550c615b97c15ea61",
+    "bytesize": 74960,
+    "body": "5dlknalrst.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:05+03:00",
+  "attributes": {
+    "old_id": 39
+  },
+  "language": "en"
+}

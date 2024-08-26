@@ -1,0 +1,29 @@
+{
+  "uuid": "383786d6-5bf2-45ea-b84b-bde2eca99d6f",
+  "shortname": "الصبر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصبر "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:74e12b3832d3bc6ba3fa9cac9bdfa96e7efbc0fc",
+    "bytesize": 150,
+    "body": "فصبر على مضض الحسود فان صبرك قاتله ...................... النار تاكل بعضها ان لم تجد ما تأكله "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "942c7483-b786-42e1-b7a4-1d2cbf0d167b",
+    "shortname": "rmad_alhob",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-09-04T20:38:10Z",
+  "attributes": {
+    "old_id": 784,
+    "old_entry_id": 533
+  },
+  "language": "ar"
+}

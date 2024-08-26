@@ -1,0 +1,45 @@
+{
+  "uuid": "b63769d9-a7a9-4076-8a25-c0bae42052f3",
+  "shortname": "مصر_وحقبة_الردة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مصر وحقبة الردة"},
+  "updated_at": "2015-04-14T21:38:18Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3e949d53fd94cd4df95f034d4c169901a622bc10",
+    "bytesize": 354,
+    "body": "<p>شهد تاريخ مصر الإسلامي حقبتي ردة كبيرتين على مستوى النظام السياسي- الردة العبيدية ( ٩٦٩ - ١١٧١ م ) - حقبة الردة العلمانية ( ١٧٩٨ حتى اليوم )</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء</p><p><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "سِياسَة",
+    "قاعدة أصولية",
+    "قَدح"
+  ],
+  "created_at": "2015-04-11T21:14:05Z",
+  "attributes": {
+    "old_id": 1162
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "e7361b7a-0ab6-4d45-9d00-59b8afd8ec53",
+  "shortname": "e7361b7a",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-23T18:02:21Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-23T18:02:21Z",
+  "attributes": {
+    "old_id": 535,
+    "old_entry_id": 1423
+  },
+  "language": "en",
+  "location": {
+    "uuid": "e7361b7a-0ab6-4d45-9d00-59b8afd8ec53",
+    "shortname": "e7361b7a",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "عبد_الله_بن_رواحة_في_غزوة_مؤتة",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

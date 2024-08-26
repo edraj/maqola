@@ -1,0 +1,29 @@
+{
+  "uuid": "287fc9a1-0a5d-42c7-bef3-ca81c8412a93",
+  "shortname": "لا_تبكي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تبكي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9f9814ff16ec51d1f6e97a0cc372d91e1ab386ed",
+    "bytesize": 105,
+    "body": "لا تبكي ولا تقتل نفسا بيدك حسرة على مخلوق غدرك و حرق كاهنك "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-04-23T13:13:37Z",
+  "attributes": {
+    "old_id": 435,
+    "old_entry_id": 402
+  },
+  "language": "ar"
+}

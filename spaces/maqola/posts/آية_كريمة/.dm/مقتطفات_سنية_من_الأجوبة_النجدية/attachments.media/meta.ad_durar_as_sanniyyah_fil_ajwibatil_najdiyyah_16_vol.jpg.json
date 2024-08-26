@@ -1,0 +1,18 @@
+{
+  "uuid": "3e8a92fc-f8dc-4c22-9c25-bd7e766d7c74",
+  "shortname": "ad_durar_as_sanniyyah_fil_ajwibatil_najdiyyah_16_vol.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:faafa749775693c2a58b48cccf0d2fd45eeb9f4a",
+    "bytesize": 354592,
+    "body": "ad_durar_as_sanniyyah_fil_ajwibatil_najdiyyah_16_vol.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:09+03:00",
+  "attributes": {
+    "old_id": 79
+  },
+  "language": "en"
+}

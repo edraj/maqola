@@ -1,0 +1,33 @@
+{
+  "uuid": "b1d6ce0b-5e64-493b-8a04-eee095029571",
+  "shortname": "b1d6ce0b",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-11T20:52:27Z",
+  "author_locator": { "type": "content",
+    "uuid": "77a78c74-fe9c-4930-b09f-e1c9e81dbfb1",
+    "shortname": "قناة_خالد_الدعوية",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-11T20:52:27Z",
+  "attributes": {
+    "old_id": 515,
+    "old_entry_id": 1383
+  },
+  "language": "en",
+  "location": {
+    "uuid": "b1d6ce0b-5e64-493b-8a04-eee095029571",
+    "shortname": "b1d6ce0b",
+    "subpath": "posts/قصة",
+    "space_name": "maqola",
+    "parent_shortname": "خالد_الجبوري_العراق",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

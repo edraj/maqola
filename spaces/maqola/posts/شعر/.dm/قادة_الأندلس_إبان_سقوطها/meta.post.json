@@ -1,0 +1,43 @@
+{
+  "uuid": "4249f750-bd68-49c5-9336-e86ce890d24d",
+  "shortname": "قادة_الأندلس_إبان_سقوطها",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قادةُ الأندلس إبان سُقوطها"},
+  "updated_at": "2010-10-22T17:33:22Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7202184f65ba0c550793984ce2428bb403f6c41b",
+    "bytesize": 797,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">أقادَةُ أندَلسٍ هؤلاءَ و هُم - مَن سَقَوها كُؤوسَ الرَّدى<br />\r\n\tفيا أُمَّةً دَبَّ فيها الفَسادُ - و طَمَّ بأقطابِها واغتلى<br />\r\n\tوما اتقنَت غَيرَ فَنِّ النِفاقِ - غَذَتُهُ ورَوَّتهُ حتى رَبى<br />\r\n\tإذا رَفَّ نَجمٌ فَخُدَّامُهُ - و أحنَقُ أعدائِهِ إن هَوى<br />\r\n\tضَلَلتُم بإسفافِكُم في الهوانِ - فَسُحقاً لَكُم يا عَبيدَ العصى </span></span></p>\r\n<p>\r\n\tهل يا تُرى، يوجَدُ فرقٌ بين حال الهزيمةِ في الأمسِ وحالُها اليوم؟</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "قَدح"
+  ],
+  "created_at": "2010-10-22T17:31:45Z",
+  "attributes": {
+    "old_id": 100
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "1da52aaf-a71c-4b8a-b2cd-5b81aacff89e",
+  "shortname": "معاملة_الجاهل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"معاملة الجاهل"},
+  "updated_at": "2010-10-13T22:07:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ecffc46fc724f056db292c8586f2a8686bef534d",
+    "bytesize": 329,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">يُخَاطِبُني السَّفيهُ بِكُلِّ قُبحٍ - فأكرَهُ أن أكونَ لَهُ مُجيبا<br />\r\n\tيَزيدُ سَفاهةً فأزيدُ حُلماً - كَعودٍ زَادَهُ الإحراقُ طيبا</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-10-13T22:06:18Z",
+  "attributes": {
+    "old_id": 19
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "646b3402-91c7-4f91-9043-ced104f54958",
+  "shortname": "طموح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طموح"},
+  "updated_at": "2013-07-18T19:51:43Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:796bd0283e09ebdaf74fb6cd55d32abf565faa0b",
+    "bytesize": 160,
+    "body": "<span class=\"maqola_body\"> <br> على المرءِ أن يسعى لتحصيلِ مطلبٍ ........ وليسَ عليهِ أن يكون موفقا<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2013-07-18T19:51:34Z",
+  "attributes": {
+    "old_id": 642
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,59 @@
+{
+  "uuid": "86b04dd9-e52b-4889-a897-c0f80c3ec4a6",
+  "shortname": "جباية_الزكاة_والحاكم_المسلم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جباية الزكاة والحاكم المسلم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:05f3b1b3362d6efe3d7181a0c022a7fbc360b673",
+    "bytesize": 651,
+    "body": "<p>( جباية الزكاة )</p><p> الصحيح من أقوال أهل العلم أنه يجب على ولي أمر المسلمين أن يبعث السُعاة لجمع الزكاة ، لقول الله تعالى : { خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا } ولأن النبي صلى الله عليه وسلم وخلفاءه كانوا يفعلون ذلك ، ولأن في الناس من يملك المال ولا يعرف ما يجب عليه ، ومنهم من يبخل ، فوجب على الإمام أن يبعث من يأخذ الزكاة .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "تَفاؤل",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "سِياسَة",
+    "صَداقَة",
+    "عربية",
+    "فَخر",
+    "فَصاحَة",
+    "قاعدة أصولية",
+    "قَناعَة",
+    "قِصّة",
+    "كَرَم",
+    "لُغة عربيّة",
+    "مَثَل",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-04-14T21:00:39Z",
+  "attributes": {
+    "old_id": 1182
+  },
+  "language": "ar",
+  "history": []
+}

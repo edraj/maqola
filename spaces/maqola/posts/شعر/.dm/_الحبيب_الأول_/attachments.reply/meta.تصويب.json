@@ -1,0 +1,29 @@
+{
+  "uuid": "a163c7cf-2180-4ded-876d-4f8a7f819314",
+  "shortname": "تصويب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصويب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0b2ebacfff5d0e7dc57edb3e9b7e0521d1a163e4",
+    "bytesize": 178,
+    "body": "الحُبُّ للمَحبوبِ ساعةَ حُبِّهِ -- مالحُبُّ فيه لآخرٍ ولا أولِ خطأ  والصحيح  ولأول بدلاً عن ولا أول"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-27T17:03:59Z",
+  "attributes": {
+    "old_id": 219,
+    "old_entry_id": 237
+  },
+  "language": "ar"
+}

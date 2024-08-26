@@ -1,0 +1,29 @@
+{
+  "uuid": "ab4145f3-0c51-4584-86c7-84cda6e16b31",
+  "shortname": "وهل_الدف_محرم_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وهل الدُّف محرم؟"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b06caba53d02b1efc0c30bb2582afc92cfcb9fac",
+    "bytesize": 582,
+    "body": "أخي عبدالله، هل  ترى حُرمة في هذا، وهل هذه الحُرمة بما تبت قطعا و له دلالة قطعية عن رسول الله صلى الله عليه وسلم. أعرف أن هذه مسألة شائكة، ولكنني وبعد البحث الطويل، وجدت الرأيين، الذي يبيح والذي يحرم، ورأيت الذي يبيح، بناء على النظر في الأدلة وليس ما أهوى، رأيته أقرب للصواب والله تعالي أعلم.  ولك مني كل التقدير والاحترام،"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-07T18:41:47Z",
+  "attributes": {
+    "old_id": 288,
+    "old_entry_id": 330
+  },
+  "language": "ar"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "d34ed5aa-2339-4960-839c-23ecfe3345cd",
+  "shortname": "الاستغفار_للوالدين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الاستغفار للوالدين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4769b049dedf8bbb550ea8f9e6f2d4a0d8ea8311",
+    "bytesize": 888,
+    "body": "<p>عن أبي هريرة رضي الله عنه ، أنّ النبي صلى الله عليه و سلّم قال : ( إِذَا مَاتَ الإنْسَانُ انْقَطَعَ عنه عَمَلُهُ إِلا مِنْ ثَلاثةٍ :</p><p><br></p><p>صَدَقَةٌ جَارِيَة أو عِلْمٌ يُنْتَفَعُ بِهِ أو وَلَدٍ صَالِحٌ يَدْعُو لَهُ ) .</p><p><br></p><p>و في سنن ابن ماجة أيضاً بإسنادٍ صحيح (3660 ) عن أبي هريرة رضي الله عنه ، قال : قال رَسُولُ اللَّهِ صَلَّى اللَّه عَلَيْه ِ وَ سَلَّمَ : إِنَّ الرَّجُلَ لَتُرْفَعُ دَرَجَتُهُ فِي الْجَنَّةِ فَيَقُولُ : أَنَّى لِيْ هَذَا ؟ فَيُقَالُ :باسْتِغْفَارِ وَلَدِكَ لَكَ ) .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "fb9d54cf-2eca-48ad-870b-47ace16e059f",
+    "shortname": "رسول_الله_",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4a396cec-f540-4f4b-98f1-08ff3f27828d",
+    "shortname": "حسين_ال_لال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حَديثٌ شَريف"
+  ],
+  "created_at": "2015-11-21T19:37:30Z",
+  "attributes": {
+    "old_id": 1550
+  },
+  "language": "ar",
+  "history": []
+}

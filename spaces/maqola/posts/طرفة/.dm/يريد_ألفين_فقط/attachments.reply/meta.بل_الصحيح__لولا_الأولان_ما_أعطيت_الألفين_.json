@@ -1,0 +1,29 @@
+{
+  "uuid": "b44430e8-1fa9-430c-88ef-fae8b47a75a3",
+  "shortname": "بل_الصحيح__لولا_الأولان_ما_أعطيت_الألفين_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بل الصحيح: لولا الأولان ما أُعطيت الألفين!"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:de5efc1f6fc1687801e3b58007539e41ccec78ff",
+    "bytesize": 195,
+    "body": "ذلك أننا لو جعلناها مفردة لصارت: لولا الأولُ ما أٌعطيت الألفَ, برفع الأول ونصب الثاني. أليس كذلك؟ والله أعلم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-01-10T07:26:18Z",
+  "attributes": {
+    "old_id": 377,
+    "old_entry_id": 134
+  },
+  "language": "ar"
+}

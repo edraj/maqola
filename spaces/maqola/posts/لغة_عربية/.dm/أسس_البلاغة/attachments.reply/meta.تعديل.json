@@ -1,0 +1,29 @@
+{
+  "uuid": "5a77d813-e1a5-45f3-94cf-d79a92852e79",
+  "shortname": "تعديل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تعديل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:13e4acce7375225c44ca04b1b076db79f760317c",
+    "bytesize": 388,
+    "body": "فى جزء  القرآن الكريم أس البلاغة  هناك خطاأ فى كتابة كلمة الجودى فى الأية الكريمة رقم 44 من سورة هود والأية  { وقيل يا أرض ابلعي ماءك ويا سماء أقلعي وغيض الماء، وقضي الأمر، واستوت على الجودى وقيل بعداً للقوم الظالمين }"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-20T04:03:57Z",
+  "attributes": {
+    "old_id": 487,
+    "old_entry_id": 348
+  },
+  "language": "ar"
+}

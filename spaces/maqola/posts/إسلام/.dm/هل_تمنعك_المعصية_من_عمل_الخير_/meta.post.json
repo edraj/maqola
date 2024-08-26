@@ -1,0 +1,43 @@
+{
+  "uuid": "0568a82a-6e8a-4496-bfe1-1aa425290c7c",
+  "shortname": "هل_تمنعك_المعصية_من_عمل_الخير_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هل تَمنَعُكَ المَعصيةُ مِن عَملِ الخير؟"},
+  "updated_at": "2013-04-27T08:19:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:128c1ffc06c0a9d1ac1d22a5f2a9341361176291",
+    "bytesize": 1203,
+    "body": "<span class=\"maqola_body\"> <br> الإنسانُ مِنّا قَد يَكونُ عاصياً. فَهَل تَمنَعُكَ المَعصيةُ مِن أنْ تعمل الخيرَ أو تَكونَ داعياَ إلى الله؟<br>الإجابَةُ بالقطع هي \"لا!\".<br><br>سَمِعَ رَجلٌ آخرَ يَطوفُ بالكعبةِ&nbsp; ويقول : <br>\"اللهم إنّكَ تَعلَمُ أني أعصيك، ولكني أُحبُّ مَن يُطيعُكَ، فاجعَلْ حُبي لمن أطاعَكَ شَفاعةً لي مِن مَعصيتَي\"<br><br>إذا، فحتى لو لم تكن تصلي، فأن غَيرُ مَعفِيٍ من عمل الخير والدعوةِ إلى الله.<br><br>كلمات رائعة من الشيخ الشعراوي ....<br><br>\r\n<iframe src=\"http://www.youtube.com/embed/cmnAT958UK0\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" width=\"420\"></iframe>\r\n\r\n<br>ولله دَرُّ الشاعر :<br>أُحبُّ الصالحينَ ولَستُ مِنهُم -- لَعلِّي أنْ أنالَ بِهم شَفاعة<br>وأكرَهُ مِن تِجارَتُهُ المعاصي -- ولَو كُنا سَواء في البِضاعة<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة"
+  ],
+  "created_at": "2013-04-27T08:19:37Z",
+  "attributes": {
+    "old_id": 590
+  },
+  "language": "ar",
+  "history": []
+}

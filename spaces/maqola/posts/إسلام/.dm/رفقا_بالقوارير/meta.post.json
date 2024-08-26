@@ -1,0 +1,44 @@
+{
+  "uuid": "8d1081c9-19c2-40c8-baca-77c36ac5405e",
+  "shortname": "رفقا_بالقوارير",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رفقا بالقوارير"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:619b1bfb2fc43af84bd4c3bc8ed9776850525468",
+    "bytesize": 940,
+    "body": "<p>تحكي صفية بنت حيي <br>أن النبي (صلى الله عليه وسلم) حج بنسائه، فلما كان في بعض الطريق نزل رجل <br>فساق بهن فأسرع، فقال النبي كذلك، سوقك بالقوارير - يعني النساء - فبينما <br>هم يسيرون برك لصفية بنت حيي جملها، وكانت من أحسنهن ظهرًا، فبكت وجاء رسول<br> الله (صلى الله عليه وسلم) حين أخبر بذلك، فجعل يمسح دموعها بيده، وجعلت <br>تزداد بكاء وهو ينهاها.<br> إنه لموقف جميل من الحبيب محمد (صلى الله عليه <br>وسلم) مع زوجته حين مسح دمعتها بيده، ثم أمر الناس بالوقوف والنزول، علما <br>بأنه لم يكن يريد أن ينزل.<br> صل الله عليه وعلى وآله وصحبه وسلم</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "fb9d54cf-2eca-48ad-870b-47ace16e059f",
+    "shortname": "رسول_الله_",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حِكمَة",
+    "ذَكاء"
+  ],
+  "created_at": "2015-07-25T01:01:46Z",
+  "attributes": {
+    "old_id": 1450
+  },
+  "language": "ar",
+  "history": []
+}

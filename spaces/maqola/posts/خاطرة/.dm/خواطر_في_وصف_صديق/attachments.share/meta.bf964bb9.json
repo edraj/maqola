@@ -1,0 +1,33 @@
+{
+  "uuid": "bf964bb9-9a72-4de8-91a6-92840db4bb0c",
+  "shortname": "bf964bb9",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-08-15T09:27:31Z",
+  "author_locator": { "type": "content",
+    "uuid": "675ade74-78d4-48da-926c-c8feb4a638c5",
+    "shortname": "احسان_الصالحي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-08-15T09:27:31Z",
+  "attributes": {
+    "old_id": 588,
+    "old_entry_id": 1475
+  },
+  "language": "en",
+  "location": {
+    "uuid": "bf964bb9-9a72-4de8-91a6-92840db4bb0c",
+    "shortname": "bf964bb9",
+    "subpath": "posts/خاطرة",
+    "space_name": "maqola",
+    "parent_shortname": "خواطر_في_وصف_صديق",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

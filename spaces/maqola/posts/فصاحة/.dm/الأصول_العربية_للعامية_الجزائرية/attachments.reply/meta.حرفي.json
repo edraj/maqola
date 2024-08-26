@@ -1,0 +1,29 @@
+{
+  "uuid": "ef818bc3-e197-43d8-a922-8895b8e2ff8a",
+  "shortname": "حرفي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حرفي "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a38e90430a8d50d1fa8ab6834f2676c31d833f5c",
+    "bytesize": 660,
+    "body": "يقال في عاميتنا عن الأكل :حَرْفي ، أي ليس به دهن أو ليس مع مرق يمرر به ،ويقال حرّيف خبز كذلك .وله في اللغة من الحَرَافة معنى والله أعلم .\r\nحرف (لسان العرب) :......والحَرافةُ: طَعْم يُحْرِقُ اللِّسانَ والفَمَ.\r\nوبصل حِرِّيفٌ: يُحْرِقُ الفم وله حَرارةٌ، وقيل: كل طعام يُحْرِقُ فم آكله بحَرارة مَذاقِه حِرِّيف، بالتشديد، للذي يَلْذَعُ اللسانَ بحَرافته .....\r\n\r\nيتبع إن شاء الله"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "ab095b91-60aa-4674-a6ef-5b84e39bc318",
+    "shortname": "خالد_أبو_علي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-10-21T13:07:58Z",
+  "attributes": {
+    "old_id": 930,
+    "old_entry_id": 1207
+  },
+  "language": "ar"
+}

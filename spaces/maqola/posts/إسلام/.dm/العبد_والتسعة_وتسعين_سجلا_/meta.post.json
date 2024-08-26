@@ -1,0 +1,44 @@
+{
+  "uuid": "c800e5a1-ad4e-4dbb-b0af-001c23b8298e",
+  "shortname": "العبد_والتسعة_وتسعين_سجلا_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العبد والتسعة وتسعين سجلا!!"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5648c36cafebe76a65841df0ba40a07ac150ca7b",
+    "bytesize": 1115,
+    "body": "<p>قال رسول الله صلى الله عليه وسلم : \" إن الله عز وجل يستخلص رجلا من أمتي على رؤوس الخلائق يوم القيامة فينشر عليه تسعة وتسعين سجلا ، كل سجل مد البصر ؛ ثم يقول له : أتنكر من هذا شيئا ؟!! أظلمتك كتبتي الحافظون ؟!! قال : لا يا رب ، فيقول : ألك عذر أو حسنة ؟!! فيبهت الرجل ، فيقول : لا يا رب ، فيقول : بلى ؛ إن لك عندنا حسنة واحدة لا ظلم اليوم عليك ، فيخرج لها بطاقة فيها : أشهد أن لا إله إلا الله وأن محمدا عبده ورسوله ، فيقول : أحضروه ، فيقول : يا رب ، ما هذه البطاقة مع هذه السجلات ؟!! فيقال : إنك لا تظلم ، قال : فتوضع السجلات في كفة ، والبطاقة في كفة . قال : فطاشت السجلات وثقلت البطاقة \" .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "مَعروف"
+  ],
+  "created_at": "2015-05-10T21:09:01Z",
+  "attributes": {
+    "old_id": 1259
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "9cce1c3a-5e36-4c17-a95b-9a48953c4c16",
+  "shortname": "9cce1c3a",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-16T13:47:21Z",
+  "author_locator": { "type": "content",
+    "uuid": "3c8d7816-868c-4009-82e1-a1a03367e281",
+    "shortname": "المحامي_أحمد_الهاشمي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-16T13:47:21Z",
+  "attributes": {
+    "old_id": 521,
+    "old_entry_id": 1403
+  },
+  "language": "en",
+  "location": {
+    "uuid": "9cce1c3a-5e36-4c17-a95b-9a48953c4c16",
+    "shortname": "9cce1c3a",
+    "subpath": "posts/شعر",
+    "space_name": "maqola",
+    "parent_shortname": "قصيدة_الفرزدق_في_وصف_زين_العابين",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

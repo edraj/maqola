@@ -1,0 +1,42 @@
+{
+  "uuid": "8d9ecc6d-ecdf-40a4-83fa-c70bcc9dc6be",
+  "shortname": "قالوا_عن_الدنيا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قالوا عن الدنيا"},
+  "updated_at": "2015-03-22T22:07:43Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9bf9d296da9d4973e5914fb4f5be1103458ebf7a",
+    "bytesize": 410,
+    "body": "<p>قَالُوا عنِ الدُّنْيا <br>كَثيِراً ظالِمهْ<br>الْعدْلُ فيهَا مُسْتَبَاحٌ<br>والضَّمَائِرُ نائمهْ<br>لاَ حَقَّ فيهَا للضَّعِيفَ<br>وَإنْ أَبَى<br>تَلْطُمهُ لطْماً<br>وَالْمَحَاكِمُ<br></p><p>قَائِمهْ</p><p><br></p><p><span></span>كلمات| هاني زين</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "240f763f-62d4-4984-becf-004014e9f6ce",
+    "shortname": "hani_zein",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-03-22T22:06:50Z",
+  "attributes": {
+    "old_id": 1125
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "9f28f3f7-49b1-4475-abc4-088512ef6d20",
+  "shortname": "تصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ce8d521fba630b0379f106446dc1f0360f0e698b",
+    "bytesize": 56,
+    "body": "فقال لهم استقفر الله من غال هذا"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-30T05:23:33Z",
+  "attributes": {
+    "old_id": 363,
+    "old_entry_id": 432
+  },
+  "language": "ar"
+}

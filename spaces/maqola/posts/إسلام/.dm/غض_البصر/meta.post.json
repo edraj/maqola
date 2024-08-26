@@ -1,0 +1,47 @@
+{
+  "uuid": "931080bf-437a-47c2-af94-5c61ba63eae5",
+  "shortname": "غض_البصر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"غض البصر"},
+  "updated_at": "2014-02-04T14:38:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:40d22392b4dbc17c4785bba5b5551ccca3dbfb59",
+    "bytesize": 450,
+    "body": "متى ينفعُ غضُ البصر؟ <br> <br> (الفرقُ بين الزهدِ والورعِ الشكلي الظاهري، <br> والزهدِ والورعِ الحقيقي الباطني):<br> <br> قالَ المتنبي:<br> <br> إِطْرَاقُ طَرْفِ العَيْنِ لَيْسَ بِنَافِعٍ = إِذَا كَانَ طَرْفُ القَلْبِ لَيْسَ بِمُطْرِقِ<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "ذَكاء",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-04T14:38:42Z",
+  "attributes": {
+    "old_id": 800
+  },
+  "language": "ar",
+  "history": []
+}

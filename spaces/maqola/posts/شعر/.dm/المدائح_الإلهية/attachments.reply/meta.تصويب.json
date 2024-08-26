@@ -1,0 +1,29 @@
+{
+  "uuid": "b386e748-d6b1-41fc-9a17-8dc791f88293",
+  "shortname": "تصويب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصويب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1c0df89400c6fd0f117f71d60fab84dcc62d9984",
+    "bytesize": 131,
+    "body": "الأبيات لأبي فراس الحمداني من قصيدة  أمَا لِجَمِيلٍ عِنْدَكُنّ ثَوَابُ "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-09T17:49:33Z",
+  "attributes": {
+    "old_id": 81,
+    "old_entry_id": 80
+  },
+  "language": "ar"
+}

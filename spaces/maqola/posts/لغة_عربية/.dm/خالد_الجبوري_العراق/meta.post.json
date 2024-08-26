@@ -1,0 +1,41 @@
+{
+  "uuid": "93e653a3-6ec6-419f-ae0f-8da99ab573ee",
+  "shortname": "خالد_الجبوري_العراق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خالد الجبوري العراق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6c24bf5b0eb9146674dab7d455f87730b01b0850",
+    "bytesize": 300,
+    "body": "<p>سل نفسك، هل علاقاتك الاجتماعية الحالية تعلو بك أم تهبط بك. أن تحيط نفسك بالايجابيين المحبين من الناس هو نصف الطريق إلى عيش حياة السعادة والنجاح   </p><p>خالد الجبوري</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "49943992-b9cc-4275-a9df-4258ff254065",
+    "shortname": "خالد_الجبوري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-07-02T08:16:17Z",
+  "attributes": {
+    "old_id": 1367
+  },
+  "language": "ar",
+  "history": []
+}

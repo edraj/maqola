@@ -1,0 +1,29 @@
+{
+  "uuid": "f070ef3e-e385-4087-85fb-79478d014723",
+  "shortname": "بلى_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بلى :)"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0a5842018242ebd21ebafb878963742f1bcbb167",
+    "bytesize": 60,
+    "body": "تم تعريف القائل، شكرا لك للتصحيح."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-03T14:44:39Z",
+  "attributes": {
+    "old_id": 40,
+    "old_entry_id": 79
+  },
+  "language": "ar"
+}

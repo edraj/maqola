@@ -1,0 +1,23 @@
+{
+  "uuid": "b906fe96-c02b-4cca-b8f9-aad0352dfa9e",
+  "shortname": "b906fe96",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "462d6776-1a22-4946-a1ca-1df8db40c32e",
+    "shortname": "قرآني_حياتي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2017-03-29T13:11:10Z",
+  "attributes": {
+    "old_id": 1643,
+    "old_entry_id": 1540
+  },
+  "language": "en",
+  "type": "like"
+}

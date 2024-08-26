@@ -1,0 +1,42 @@
+{
+  "uuid": "7016d040-f8f4-48ad-b588-305852313df7",
+  "shortname": "بعت_جاري",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بِعتُ جاري"},
+  "updated_at": "2010-12-11T18:21:49Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6b3b2c246a1607e13ca1c3c3b508751f6b533b8a",
+    "bytesize": 515,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كان لأبي الأسود الدؤلي جيرانٌ يُؤذونَهُ ويَرمونَ عليه الحجارةَ ليلاً، فقالوا له في الصباح : إنّما يَرجُمك الله . فيقول : كَذَبتُم لو رجمني الله لأصابني، وأنتم ترجمونني ولا يصيبني. ثُمَّ باعَ دارَهُ فقيل له : بِعتَ الدّار ؟ فقال : بَل بِعتُ جاري. فذهبت مثلاً. </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-12-11T18:21:49Z",
+  "attributes": {
+    "old_id": 352
+  },
+  "language": "ar",
+  "history": []
+}

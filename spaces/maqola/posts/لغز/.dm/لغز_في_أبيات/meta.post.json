@@ -1,0 +1,42 @@
+{
+  "uuid": "3d3cf1b9-3f4b-4cff-a010-ef6b51103689",
+  "shortname": "لغز_في_أبيات",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لُغزٌ في أبيات"},
+  "updated_at": "2011-06-05T21:47:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b16e34ef351d1ea1d2375ebe60401789d413ed03",
+    "bytesize": 336,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">وأسوَدٌ عارٍ أنحَلَ البَردُ جِسمَهُ -- وما زالَ مِن أوصافِه الحِرصُ والمَنعُ<br />\r\n\tوأعجَبُ شَيءٍ كَونُهُ الدّهرَ حارِساً -- ولَيسَ لَه عَينٌ ولا سَمعُ</span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "da52280d-f181-47cf-8a9c-16c21bdba9a2",
+    "shortname": "إبن_أبي_سلمي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "لُغز"
+  ],
+  "created_at": "2011-06-05T21:47:38Z",
+  "attributes": {
+    "old_id": 487
+  },
+  "language": "ar",
+  "history": []
+}

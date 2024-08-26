@@ -1,0 +1,44 @@
+{
+  "uuid": "13adf0c7-2e2b-4828-bab6-29eace5ed4ef",
+  "shortname": "بناء_دولة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بناء دولة"},
+  "updated_at": "2013-04-21T12:06:36Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:df9766b1255746a4f166e2bf1af3ba0ba0cbcccd",
+    "bytesize": 159,
+    "body": "<span class=\"fontxxlarge\"><span class=\"fontxxlarge\"></span> قضيتنا ليست استلام حكم فحسب ، قضيتنا بناء دولة</span><br>  \r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2a1670e7-7a52-4c30-b5d1-bcd368df6ffb",
+    "shortname": "تقي_الدين_النبهاني",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f38768e4-d585-4772-9d76-4d773046a3a8",
+    "shortname": "محمدنجم_ابوعرقوب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "سِياسَة"
+  ],
+  "created_at": "2013-04-21T12:06:19Z",
+  "attributes": {
+    "old_id": 579
+  },
+  "language": "ar",
+  "history": []
+}

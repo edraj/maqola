@@ -1,0 +1,33 @@
+{
+  "uuid": "fd43aebd-fc79-4868-b4cc-ceeddd7d78c8",
+  "shortname": "fd43aebd",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-20T10:05:49Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-20T10:05:49Z",
+  "attributes": {
+    "old_id": 529,
+    "old_entry_id": 1412
+  },
+  "language": "en",
+  "location": {
+    "uuid": "fd43aebd-fc79-4868-b4cc-ceeddd7d78c8",
+    "shortname": "fd43aebd",
+    "subpath": "posts/تفاؤل",
+    "space_name": "maqola",
+    "parent_shortname": "وريـــد_الحـــق",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

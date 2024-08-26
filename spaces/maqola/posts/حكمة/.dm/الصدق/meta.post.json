@@ -1,0 +1,41 @@
+{
+  "uuid": "ec4a9357-a09f-4a60-9042-e7cbb19f3e32",
+  "shortname": "الصدق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصدق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:478f3dd3f925a2c636bee7a3c69824f82a9a03b4",
+    "bytesize": 172,
+    "body": "<span class=\"kufi\">عليك بالصدق و إن قتلك.</span><p><span class=\"kufi\"></span></p><span class=\"kufi\"> عمر بن الخطاب رضي الله عنه</span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "7aa1b5bc-29f9-4648-820e-c49bb3d8acee",
+    "shortname": "rafik_lombarkia",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-08-18T08:15:24Z",
+  "attributes": {
+    "old_id": 1480
+  },
+  "language": "ar",
+  "history": []
+}

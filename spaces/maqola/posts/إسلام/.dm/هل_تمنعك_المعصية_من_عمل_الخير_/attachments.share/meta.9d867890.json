@@ -1,0 +1,33 @@
+{
+  "uuid": "9d867890-5751-47e4-9735-8be4e526c7c9",
+  "shortname": "9d867890",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-04-27T08:19:46Z",
+  "author_locator": { "type": "content",
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-04-27T08:19:46Z",
+  "attributes": {
+    "old_id": 22,
+    "old_entry_id": 590
+  },
+  "language": "en",
+  "location": {
+    "uuid": "9d867890-5751-47e4-9735-8be4e526c7c9",
+    "shortname": "9d867890",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "هل_تمنعك_المعصية_من_عمل_الخير_",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

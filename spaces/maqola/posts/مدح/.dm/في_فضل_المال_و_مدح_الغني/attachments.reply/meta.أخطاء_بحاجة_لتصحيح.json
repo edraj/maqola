@@ -1,0 +1,29 @@
+{
+  "uuid": "7214ada4-4def-47a2-95b4-fc56dbf41ee8",
+  "shortname": "أخطاء_بحاجة_لتصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أخطاء بحاجة لتصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:612468399c6b8f6d679c402083a3822f12eae887",
+    "bytesize": 581,
+    "body": "شكراً على المقالة ولكن في الشعر الوارد بعض الأخطاء العروضيّة والنحويّة التي ينبغي تصحيحها. فعلى سبيل المثال لا الحصر: - البيت الاول المفروض ان يكون صدره (ذريني للغنى أسعى فإني) وليس \\\"فإنّني\\\". - البيت قبل الأخير المفروض ان تكون كلمة \\\"الغناء\\\" منصوبة وليست مجرورة إذ أنّها بدلٌ من \\\"ذا\\\" التي هي في محل نصب مفعول به.  والله أعلم."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-12-30T17:38:18Z",
+  "attributes": {
+    "old_id": 591,
+    "old_entry_id": 125
+  },
+  "language": "ar"
+}

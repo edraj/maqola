@@ -1,0 +1,33 @@
+{
+  "uuid": "28f5bd6f-6253-41cf-9363-7cf20cb57791",
+  "shortname": "28f5bd6f",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-06-17T17:52:47Z",
+  "author_locator": { "type": "content",
+    "uuid": "f38768e4-d585-4772-9d76-4d773046a3a8",
+    "shortname": "محمدنجم_ابوعرقوب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-06-17T17:52:47Z",
+  "attributes": {
+    "old_id": 48,
+    "old_entry_id": 637
+  },
+  "language": "en",
+  "location": {
+    "uuid": "28f5bd6f-6253-41cf-9363-7cf20cb57791",
+    "shortname": "28f5bd6f",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "تاج_الفروض_يحتاج_التضحية",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

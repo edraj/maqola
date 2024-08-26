@@ -1,0 +1,59 @@
+{
+  "uuid": "3b553015-52f7-46d7-92e0-81b292a61f59",
+  "shortname": "سأمضي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سأمضي"},
+  "updated_at": "2014-12-22T18:04:53Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:41c569aa000f203a5992679b27995b93aba657f9",
+    "bytesize": 1506,
+    "body": "<span class=\"fontxlarge\"></span><img alt=\"\" style=\"float: left; margin: 0px 10px 10px 0px; width: 382px; height: 382px;\" src=\"http://download.chatalkhaleej.com/uploads/14197335451.jpg\"><span class=\"fontxxlarge\"></span><span class=\"uthmanb\"></span><span class=\"fontlarge\"><span class=\"uthmanb\"></span></span><span class=\"fontxlarge\"><span class=\"fontlarge\"><span class=\"uthmanb\"></span></span></span><span class=\"fontxxlarge\"><span class=\"fontxlarge\"><span class=\"fontlarge\"><span class=\"uthmanb\"></span></span></span></span><span class=\"fontxxlarge\"><span class=\"fontxxlarge\"><span class=\"fontxlarge\"><span class=\"fontlarge\"><span class=\"uthmanb\"></span></span></span></span></span><font color=\"#5f497a\"><span class=\"fontxxlarge\"><span class=\"fontxxlarge\"><span class=\"fontxxlarge\"><span class=\"fontxlarge\"><span class=\"fontlarge\"><span class=\"uthmanb\">سَأَمْضِي فِي ليال الْيَأْسُ <br>وَحْدِي<br> بِكَأْسِي لَا أَرَى دربً<br>&nbsp;أَمَامَِي<br> سَأَمْضِي وَالْخُطَى تنهار <br>بَعْدَِي<br> وَأَحْمِلُهَا وَأَمْضِيَ فِي <br>هيَامَي<span class=\"maqola_body\"></span></span><span class=\"maqola_body\"></span></span><span class=\"maqola_body\"></span></span><span class=\"maqola_body\"></span></span><span class=\"maqola_body\"></span></span><span class=\"maqola_body\"></span></span></font><span class=\"maqola_body\"><br><br> <br>&nbsp;&nbsp;&nbsp; ــــ@A7SASEY@ــــــ<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "2b7eacfb-077b-4df8-a567-ef3b10f3528d",
+    "shortname": "س_ـقت_مشاع_",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "رِثاء",
+    "سِياسَة",
+    "شَجاعَة",
+    "شِعر",
+    "صَداقَة",
+    "طُرفَة",
+    "عُلوم",
+    "غَزَل",
+    "فَخر",
+    "فَصاحَة",
+    "قَدح",
+    "قَناعَة",
+    "كَرَم",
+    "لُغز",
+    "مَثَل",
+    "مَدح"
+  ],
+  "created_at": "2014-12-06T00:34:42Z",
+  "attributes": {
+    "old_id": 938
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "c179ef13-d943-4e68-a00c-11b807358f11",
+  "shortname": "لكن_سيد_قومه_المتغابي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لكِنَّ سَيِّدَ قَوْمِهِ المُتَغَابِي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f1b21378fa8c1e526dd2fb6503733c9653893ecc",
+    "bytesize": 240,
+    "body": "قَالَت الْعَرَبُ قدِيمَاً: \r\nلَيْسَ الْغَبِيُّ بِسَيِّدٍ فِي قَوْمِهِ ... لكِنَّ سَيِّدَ قَوْمِهِ المُتَغَابِي \r\n(أَيْ المُتَغَافِل)"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-10-15T21:29:21Z",
+  "attributes": {
+    "old_id": 928,
+    "old_entry_id": 1528
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "2bf9dc77-7e29-4279-9e6b-df8afd595261",
+  "shortname": "موضوع_راااائع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"موضوع راااائع"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ff79ecc7750afb0691c95351d67ea6b8a51115b0",
+    "bytesize": 68,
+    "body": "ما شاء الله   ابداااااع   و كلام جميييل"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-23T18:42:38Z",
+  "attributes": {
+    "old_id": 344,
+    "old_entry_id": 407
+  },
+  "language": "ar"
+}

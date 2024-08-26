@@ -1,0 +1,29 @@
+{
+  "uuid": "b8e22166-869f-4fb3-b551-d67402d3f815",
+  "shortname": "لنتغزل_ببنت_عدنان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لنتغزّلْ ببنت عدنان"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:71d2a3de804006b36505518020846d03688ba739",
+    "bytesize": 325,
+    "body": "نزلت قبل أن يخلق الوالد ..وإليها تنتهي كل الروافد  ..جناحك المهيض يبقى يرفرف رغم جحود الجاحد ..أنت العفّة وأنت ربّة ربّات الحجال وصانعة الرجال وراسية الخلال سرّك من سرّ خالق الجمال  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "21327be8-3be7-4ee1-96a6-d33a91a12be9",
+    "shortname": "abdenacer_bencherif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-02-19T19:47:59Z",
+  "attributes": {
+    "old_id": 817,
+    "old_entry_id": 1036
+  },
+  "language": "ar"
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "82e54202-7f06-4768-8a14-59fd888ec157",
+  "shortname": "درر_سنية_2",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"دُرر سُّنية 2"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:39b94149557a095916d0fcd8717b75ff5d577e20",
+    "bytesize": 713,
+    "body": "<p>جاء في السُنن أن عبد الله بن مسعود رضي الله عنه ، حكمَ بكفر أهل مسجد في الكوفة ، قال واحد : إنما مُسيلمة ( مسيلمة الكذاب ) على حق فيما قال ، وسكت الباقون ، فأفتى بكفرهم جميعاً!! ؛ فلا يأمنُ الإنسان : أن يكون قد صدر منه كلمةَ كفر ، أو سمعها وسكت عليها ، ونحو ذلك .</p><p>- من سلسلة ( الدُرر السُّنية في الأجوبة النجدية )</p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p><p>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حُسنُ الجواب",
+    "قاعدة أصولية"
+  ],
+  "created_at": "2015-07-03T14:47:22Z",
+  "attributes": {
+    "old_id": 1371
+  },
+  "language": "ar",
+  "history": []
+}

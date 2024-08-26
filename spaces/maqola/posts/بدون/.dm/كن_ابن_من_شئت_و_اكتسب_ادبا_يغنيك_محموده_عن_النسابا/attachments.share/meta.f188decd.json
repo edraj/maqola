@@ -1,0 +1,33 @@
+{
+  "uuid": "f188decd-167c-47de-a04d-638393c39608",
+  "shortname": "f188decd",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-06-25T15:20:24Z",
+  "author_locator": { "type": "content",
+    "uuid": "16cfc4b2-c0ae-4639-bf9d-089c91a6cbc8",
+    "shortname": "muhammad_e_muhra",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-06-25T15:20:24Z",
+  "attributes": {
+    "old_id": 483,
+    "old_entry_id": 1354
+  },
+  "language": "en",
+  "location": {
+    "uuid": "f188decd-167c-47de-a04d-638393c39608",
+    "shortname": "f188decd",
+    "subpath": "posts/بدون",
+    "space_name": "maqola",
+    "parent_shortname": "كن_ابن_من_شئت_و_اكتسب_ادبا_....يغنيك_محموده_عن_النسابا",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

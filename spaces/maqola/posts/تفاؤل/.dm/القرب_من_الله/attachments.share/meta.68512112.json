@@ -1,0 +1,33 @@
+{
+  "uuid": "68512112-01e6-4a8f-8823-5ccdeabd3384",
+  "shortname": "68512112",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-08-22T16:56:00Z",
+  "author_locator": { "type": "content",
+    "uuid": "85b97c51-2e58-4891-93de-072b729616cc",
+    "shortname": "_آ__ع__آ_",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-08-22T16:56:00Z",
+  "attributes": {
+    "old_id": 596,
+    "old_entry_id": 1485
+  },
+  "language": "en",
+  "location": {
+    "uuid": "68512112-01e6-4a8f-8823-5ccdeabd3384",
+    "shortname": "68512112",
+    "subpath": "posts/تفاؤل",
+    "space_name": "maqola",
+    "parent_shortname": "القرب_من_الله",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

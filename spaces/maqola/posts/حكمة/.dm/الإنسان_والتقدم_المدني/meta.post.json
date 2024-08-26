@@ -1,0 +1,43 @@
+{
+  "uuid": "ec3c02ef-95cd-4136-88e2-59999e0a348d",
+  "shortname": "الإنسان_والتقدم_المدني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الإنسان والتقدم المدني"},
+  "updated_at": "2010-11-11T18:35:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:666ab65b5e6e5e1d326d94ce3c2fd38f9af2f4ce",
+    "bytesize": 813,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">ذَرَعتُمُ الجَوَّ أشباراً وأميالا - وجُبتُمُ البَحرَ أعماقاً و أطوالاً<br />\r\n\tفَهل نَقَصتُم مِن هُمومِ العَيشِ خَردَلَةً - أو زِدتُم في نَعيمِ العَيشِ مِثقالاً<br />\r\n\tصرعى الهواءِ وصرعى الماءِ قَد كَثُروا - وراكِبُ الخيلِ جَرَّ الذَيل مُختالا<br />\r\n\tتَسَنَّمَ القومُ غَربَ الجَوِّ وانطَلَقوا - كأنَّ للقومِ في الأفلاكِ آمالا<br />\r\n\tأقسَمتُ لو دَنت الأفلاكُ طائِعَةً - فَنالها المَرءُ لَم يَقنَع بِما نالا</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-10-22T17:11:03Z",
+  "attributes": {
+    "old_id": 98
+  },
+  "language": "ar",
+  "history": []
+}

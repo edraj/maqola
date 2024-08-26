@@ -1,0 +1,29 @@
+{
+  "uuid": "06942bda-88b4-4d91-bbb2-10a59e49b638",
+  "shortname": "ما_شاء_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما شاء الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:39fe87419a7a0145b378a9ccefd1f1575e173844",
+    "bytesize": 81,
+    "body": "اللهم اجمعني مع الصالحين بالرغم اني لست منهم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "50d32ec1-d642-49f6-b9fc-204decd4b4d5",
+    "shortname": "widad_ajmi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-28T15:29:46Z",
+  "attributes": {
+    "old_id": 838,
+    "old_entry_id": 243
+  },
+  "language": "ar"
+}

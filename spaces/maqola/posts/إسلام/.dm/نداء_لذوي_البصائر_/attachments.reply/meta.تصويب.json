@@ -1,0 +1,29 @@
+{
+  "uuid": "f7208058-8de6-45af-a4c5-647fa3672b09",
+  "shortname": "تصويب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصويب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:968f36b292c614663623971e523e3e04d21e20cc",
+    "bytesize": 162,
+    "body": "السلام عليكم  يرجى تصحيح لفظ الجلالة المقترن بلام الملكية \\'لله\\'  \\'أما لله و الإسلام حق....\\'"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-10T07:53:35Z",
+  "attributes": {
+    "old_id": 89,
+    "old_entry_id": 171
+  },
+  "language": "ar"
+}

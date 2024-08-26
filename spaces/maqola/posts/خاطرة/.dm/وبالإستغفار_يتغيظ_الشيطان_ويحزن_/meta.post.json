@@ -1,0 +1,41 @@
+{
+  "uuid": "50b7fdfe-eaa9-4b35-a715-8154487c0639",
+  "shortname": "وبالإستغفار_يتغيظ_الشيطان_ويحزن_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وبالإستغفار يتغيظ الشيطان ويحزن ."},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:20dc165d6a816ba84b70e7c5c762cb581c9fdabc",
+    "bytesize": 474,
+    "body": "<p><span style=\"color: rgb(151, 72, 6);\">فى كثرة الإستغفار رحمة وهداية وصيانة ورزق وسكينة </span></p><p><span style=\"color: rgb(151, 72, 6);\">وبالإستغفار يتغيظ الشيطان ويحزن .</span></p><p><span style=\"color: rgb(151, 72, 6);\">اللهم ارزقنا الإستغفار ماتعاقب ليل مع نهار .</span></p><p><span style=\"color: rgb(151, 72, 6);\">الكاتب : نبيل جلهوم </span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-03-30T06:09:52Z",
+  "attributes": {
+    "old_id": 1131
+  },
+  "language": "ar",
+  "history": []
+}

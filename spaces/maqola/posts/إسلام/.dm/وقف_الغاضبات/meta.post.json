@@ -1,0 +1,50 @@
+{
+  "uuid": "2d6945ca-c77a-473d-a09f-2fb37be6d03f",
+  "shortname": "وقف_الغاضبات",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وقف الغاضِبات"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:194e2d9721e14c2541d839dd844cb2b6503aca7e",
+    "bytesize": 826,
+    "body": "<p>من الأوقاف الإسلامية المختصة بالمرأة ( وقف الغاضِبات ) تم إنشاؤه أول مرة في عهد ( دولة الخلافة العباسية ) وهو : \" وقف يؤسَّس مِن ريعِه بيت ، ويُعدُّ فيه الطعام والشراب ، وما يَحتاج إليه الساكِنون ، تذهب إليه الزوجة التي يقع بينها وبين زوجها نُفور ، وتظلُّ آكِلةً شارِبةً إلى أن يذهب ما بينها وبين زوجها من الجفاء وتَصفو النفوس ، فتعود إلى بيت الزوجيَّة من جديد .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p><p><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "سِياسَة",
+    "عربية",
+    "فَخر",
+    "كَرَم",
+    "لُغة عربيّة",
+    "مَعروف"
+  ],
+  "created_at": "2015-08-04T02:08:47Z",
+  "attributes": {
+    "old_id": 1463
+  },
+  "language": "ar",
+  "history": []
+}

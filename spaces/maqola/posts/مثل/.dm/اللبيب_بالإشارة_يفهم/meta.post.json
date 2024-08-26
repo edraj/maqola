@@ -1,0 +1,42 @@
+{
+  "uuid": "64719def-feb5-4464-a912-e5b193c0699b",
+  "shortname": "اللبيب_بالإشارة_يفهم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اللبيبُ بالإشارةِ يَفهَمُ"},
+  "updated_at": "2010-12-22T06:12:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:510396de9930c77d7d31cdcdb709965e634ce98c",
+    "bytesize": 957,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">واللبيبُ هو صاحِبُ العقل والرأي (مِن اللب).<br />\r\n\t<br />\r\n\tوقيل، مَن لَم يَهدِه قَليلُ الإِشارة لَم يَنفَعهُ كَثيرُ العِبارَة‏.<br />\r\n\t<br />\r\n\tومِثلُهُ قيل &quot;إنَّ مَن لا يعرف الوحي أحمق&quot;<br />\r\n\tيقول معجم لسان العرب {الوحي الإشارة والكتابة والرسالة والإلهام والكلام الخفي وكل ما ألقيته إلى غيرك، يقال وحيت إليه الكلام وأوحيت ووحى وحيا}،<br />\r\n\tيُضرَبُ لمن لا يعرف الإيماء والتعريض حتى يُجاهَرَ بما يُرادُ إليه.</span></p>\r\n<p>\r\n\t<br />\r\n\t<span style=\"font-size: 1.5em;\">يقول الشاعر،<br />\r\n\tالعَبدُ يُقرعُ بالعصا -- والحُرُّ تكفيهِ الإِشارَة</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-12-22T06:12:08Z",
+  "attributes": {
+    "old_id": 405
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "bb306003-8773-4fd2-9b65-54961fc546d2",
+  "shortname": "أنت_كنت_يهوديا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أنتَ كُنتَ يهوديا"},
+  "updated_at": "2010-11-20T15:52:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:753f2bf8eb1f6fd32508cca89e0c5e5b63ca8a41",
+    "bytesize": 709,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قال عبدُ اللهِ بنُ سليمانَ بن أشعث: سَمِعتُ أبي يقول:<br />\r\n\tكانَ هارونُ الأعورُ يَهودِيِّاً، فأسْلَمَ وحَسُنَ إسلامُهُ، وحَفِظَ القرآنَ وضَبَطَهُ، وحَفِظَ النَّحوَ، فناظَرهُ إنسانٌ يوماَ في مسألة، فَغَلَبَهُ هارون فَلمْ يَدرِ المَغلوبُ ما يَصنَع، فقال له:<br />\r\n\tأنتَ كُنتَ يَهودياً فأسلَمتْ.<br />\r\n\tفقال له هارون: أ فبئسَ ما صَنعت؟<br />\r\n\tفَغلبهُ أيضا، والله المُوفق.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-20T15:52:40Z",
+  "attributes": {
+    "old_id": 202
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "d1a2b5f6-3665-4805-b18c-7f3454018ea7",
+  "shortname": "دين_الثعلب_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"دينُ الثّعلَب ..."},
+  "updated_at": "2011-05-21T20:48:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a4394b1eaae53e9d941a3b1f57068f0c849a9f3e",
+    "bytesize": 1201,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">بَرَزَ الثَّعلَبُ يَوماً - في لِباسِ الواعظينا<br />\r\n\tومشى في النّاس يهذي - وَ يَسُبُّ الماكرينا<br />\r\n\tويقول الحمد لله - إله العالمينا<br />\r\n\tيا عبادَ الله توبوا - فَهو مَلجَأُ التّائبينا<br />\r\n\tوازهدوا في الطّير إنَّ - العيشَ عَيشُ الزّاهدينا<br />\r\n\tواطلبوا الدّيكَ يؤذِّنُ - لِصَلاةِ الصُّبحِ فينا<br />\r\n\tفأتى الدّيكَ رَسولٌ - مِن إمامِ النّاسكينا<br />\r\n\tعَرضَ الأمرَ عليه - وهو يَرجو أنْ يَلينا<br />\r\n\tفأجابَ الدّيكُ عُذراً - يا أضَلَّ المُهتدينا<br />\r\n\tبَلِّغِ الثّعلبَ عنّي - عَن جُدودي الصالحينا<br />\r\n\tعَن ذوي التّيجانِ مِمّن - دخل البطنَ اللّعينا<br />\r\n\tأَنَّهم قالوا وخيرُ القو - لِ قولُ العارفينا<br />\r\n\tمُخطئٌ مَن ظَنَّ يَوماً - أنَّ للثعلبِ دينا</span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2011-05-21T20:48:35Z",
+  "attributes": {
+    "old_id": 470
+  },
+  "language": "ar",
+  "history": []
+}

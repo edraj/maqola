@@ -1,0 +1,42 @@
+{
+  "uuid": "d171c1a0-6f8e-470f-b211-865b6a62f7fd",
+  "shortname": "الكلـب_والثعلـب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الكلـب والثعلـب"},
+  "updated_at": "2010-11-05T15:27:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6b0b3924d373be56e179bca358d361de7319baea",
+    "bytesize": 1880,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">كان سفيان الثوري يقول: ‏ ‏ ما رأيتُ الزهد في شيء أقلَّ منه في الرئاسة، ترى الرجلَ يزهد في المطعم والمشرب والمال والثياب، فإن نوزع الرئاسة تمسّك بها وعادى الناس.‏ ‏ حدّث عطاء بن مسلم قال:‏ ‏ لما تولّى المهدي الخلافة بعث إلى سفيان الثوري. فلما دخل عليه، خلع المهدي خاتمه فرمى به إليه وقال: ‏ ‏ يا أبا عبد الله! هذا خاتمي، فاعمل في هذه الأمة بالكتاب والسُّنة.‏ ‏ فردّ سفيان الخاتم وقال:‏ ‏ تأذن في الكلام يا أمير المؤمنين؟‏ ‏ قال: نعم.‏ ‏ قال: لا تبعث إليّ حتى آتيك، ولا تعطني حتى أسألك.‏ ‏ فغضب المهديّ غضبا شديدا وصرفه. فلما خرج سفيان حفَّ به أصحابه فقالوا:‏ ‏ ما منعك وقد أمرك أن تعمل في الأمة بالكتاب والسُّنة؟‏ ‏ قال:‏ ‏ إني لا أخاف إهانة الأمراء لي، وإنما أخاف إكرامهم لي حتى لا أرى سيئاتهم سيئات. ولم أَرَ للعلماء والسلاطين مثلاً إلا مثلاً ضُرِب على لسان الثعلب، قال: عرفتُ نيفا وسبعين حيلة للتخلص من الكلب، ليس منها حيلة أفضل من أن لا أرى الكلب ولا يراني! ‏ </span></span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\"><span class=\"maqola_font_normal\">- من كتاب &quot;سير أعلام النبلاء&quot; للذهبي.</span></span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2010-10-17T14:31:37Z",
+  "attributes": {
+    "old_id": 39
+  },
+  "language": "ar",
+  "history": []
+}

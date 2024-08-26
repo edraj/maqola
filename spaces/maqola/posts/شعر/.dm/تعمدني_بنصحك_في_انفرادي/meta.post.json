@@ -1,0 +1,43 @@
+{
+  "uuid": "ab4c2b1b-90d0-4c7c-ab80-5553f548dc54",
+  "shortname": "تعمدني_بنصحك_في_انفرادي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"​تَعَمَّدْني بِنُصْحِكَ فِي انْفِرَادِي"},
+  "updated_at": "2015-05-22T18:27:26Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:36167c163ec224b6f3be2a3cf4f9d239e5bea26b",
+    "bytesize": 507,
+    "body": "<p>\r\n\tتَعَمَّدْني بِنُصْحِكَ فِي انْفِرَادِي *** وَجَنِّبْنِي النَّصِيْحَةَ فِي الجَمَاعَة\r\n</p><p>\r\n\tفَإِنَّ النُّصْـحَ بَيْنَ النَّاسِ نَوْعٌ *** مِنَ التَّوْبِيْخِ لا أَرْضَى اسْتِمَاعَه\r\n</p><p>\r\n\tوَإنْ خَالَفْتَنِي وَعَصَيْـتَ قَوْلِي *** فَلاَ تَجْزَعْ إِذَا لَمْ تُعْـطَ طَاعَه\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "قاعدة أصولية"
+  ],
+  "created_at": "2015-05-22T18:26:56Z",
+  "attributes": {
+    "old_id": 1290
+  },
+  "language": "ar",
+  "history": []
+}

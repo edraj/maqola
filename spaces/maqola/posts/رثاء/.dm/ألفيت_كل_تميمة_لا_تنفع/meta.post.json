@@ -1,0 +1,43 @@
+{
+  "uuid": "55aa9c82-7342-4fa9-bf01-86022a39d6f6",
+  "shortname": "ألفيت_كل_تميمة_لا_تنفع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ألفيتُ كُلّ تميمةٍ لا تنفعُ"},
+  "updated_at": "2010-12-13T18:12:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f3e74c61253f21435afa27a2f6d5ca1cd59eff8a",
+    "bytesize": 791,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أَمِنَ المَنونِ ورَيبِها تتوجَّعُ؟ -- والدَّهرُ ليس بمُعتبٍ مَن يَجزَعُ<br />\r\n\tولقد حَرَصتُ بأَن أُدافعَ عنهمُ -- فإذا المنيَّةُ أقبلتْ لا تُدفَعُ<br />\r\n\tوإذا المنيَّةُ أنشبتْ أظفارَها -- ألفيتُ كلَّ تميمةٍ لا تنفَعُ<br />\r\n\tوالنَّفسُ راغبةٌ إذا رغَّبْتَها -- وإذا تُرَدُّ إلى قليلٍ تقنَعُ</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">يُروى أنّ هذه المرثية قالها أبو ذؤيبٍ الهَذلي عندما تُوفيَّ أولادُه الخمسة في يومٍ واحد.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "رِثاء",
+    "شِعر"
+  ],
+  "created_at": "2010-12-13T18:12:10Z",
+  "attributes": {
+    "old_id": 364
+  },
+  "language": "ar",
+  "history": []
+}

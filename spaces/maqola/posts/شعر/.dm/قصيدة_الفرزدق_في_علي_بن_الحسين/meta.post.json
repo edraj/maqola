@@ -1,0 +1,41 @@
+{
+  "uuid": "61a2c91f-f3e8-441a-8990-030b339721c7",
+  "shortname": "قصيدة_الفرزدق_في_علي_بن_الحسين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قصيدة الفرزدق في علي بن الحسين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:568324f30dcf6ef7df35e8e0c416fd620705abc9",
+    "bytesize": 613,
+    "body": "<p>هَذا الّذي تَعرِفُ البَطْحاءُ وَطْأتَهُ<br> وَالبَيْتُ يعْرِفُهُ وَالحِلُّ وَالحَرَمُ<br> هذا ابنُ خَيرِ عِبادِ الله كُلّهِمُ <br> هذا التّقيّ النّقيّ الطّاهِرُ العَلَمُ<br> هذا ابنُ فاطمَةٍ، إنْ كُنْتَ جاهِلَهُ<br> بِجَدّهِ أنْبِيَاءُ الله قَدْ خُتِمُوا<br> وَلَيْسَ قَوْلُكَ: مَن هذا؟ بضَائرِه<br> العُرْبُ تَعرِفُ من أنكَرْتَ وَالعَجمُ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "95604bb3-78a0-4708-b0e9-3aa1580221d1",
+    "shortname": "الفرزدق",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-02-04T16:09:37Z",
+  "attributes": {
+    "old_id": 984
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "ae046065-c6c7-4b20-8c95-cf1210e19009",
+  "shortname": "حكاية_عباس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حكاية عباس"},
+  "updated_at": "2010-10-23T17:44:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b7ed7e686367b569bb9625aaae1396605ded3bbc",
+    "bytesize": 2247,
+    "body": "<p style=\"text-align: center;\">\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_bold\">حِكَايَةُ عَبَّاسْ </span><br />\r\n\t<br />\r\n\t<span class=\"maqola_font_normal\"> عَبّاسُ وَرَاءَ المِتْرَاسْ<br />\r\n\tيَقِظٌ مُنْتَبِهٌ حَسَّاسْ<br />\r\n\tمُنْذُ سِنِينِ الفَتْحِ يُلَمِّعُ سَيْفَهْ<br />\r\n\tوَيُلَمِّعُ شَارِبَهُ أَيْضَاً .. مُنْتَظِراً مُحْتَضِناً دُفَّهْ<br />\r\n\t***<br />\r\n\tبَلَعَ السَّارِقُ &quot;ضَفَّةْ&quot;<br />\r\n\tقَلَّبَ عَبَّاسُ القِرْطَاسْ<br />\r\n\tضَرَبَ الأَخْمَاسَ لأَسْدَاسْ<br />\r\n\tبَقِيَتْ &quot;ضَفَّةْ&quot;<br />\r\n\tلَمْلَمَ عَبَّاسُ ذَخِيْرَتَهُ وَالمِتْراسْ<br />\r\n\tوَمَضَى يَصْقِلُ سَيْفَهْ<br />\r\n\t***<br />\r\n\tعَبَرَ اللِّصُّ إِلَيْهِ وَحَلَّ بِبَيْتِهْ<br />\r\n\tأَصْبَحَ &quot;ضَيْفَهْ&quot;<br />\r\n\tقَدَّمَ عَبَّاسُ لَهُ القَهْوَةْ .. وَمَضَى يَصْقِلُ سَيْفَهْ !<br />\r\n\t***<br />\r\n\tصَرَخَتْ زَوْجَتَهُ : عَبَّاسْ .. !<br />\r\n\tضَيْفُكَ رَاوَدَني عَبَّاسْ !<br />\r\n\tأَبْنَاؤُكَ قَتْلى عَبَّاسْ !<br />\r\n\tقُمْ أَنْقِذْني يَا عَبَّاسْ !<br />\r\n\tعَبَّاسُ اليَقِظُ الحَسَّاسْ مُنْتَبِهٌ لَمْ يَسْمَعْ شَيْئاً<br />\r\n\tزَوْجَتُهُ تَغْتَابُ النَّاسْ<br />\r\n\tصَرَخَتْ زَوْجَتُهُ : عَبَّاسْ .. !<br />\r\n\tالضَّيْفُ سَيَسْرِقُ نَعْجَتَنَا<br />\r\n\tقَلَّبَ عَبَّاسُ القِرْطَاسْ<br />\r\n\tضَرَبَ الأَخْمَاسَ لأَسْداسْ<br />\r\n\tأَرْسَلَ بَرْقِيَّةَ تَهْدِيدْ !<br />\r\n\t***<br />\r\n\t- فَلِمَنْ تَصْقُلُ سَيْفَكَ يَا عَبَّاسْ ؟<br />\r\n\t- لِوَقْتِ الشِّدَّةْ .<br />\r\n\t- اصْقُلْ سَيْفَكَ يَا عَبَّاسْ!</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-10-23T09:02:48Z",
+  "attributes": {
+    "old_id": 106
+  },
+  "language": "ar",
+  "history": []
+}

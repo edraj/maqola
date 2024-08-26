@@ -1,0 +1,29 @@
+{
+  "uuid": "69ae92b5-9c02-40e7-b154-878bda67b655",
+  "shortname": "قول_بطلة_الجاهلية_و_بطلة_الاسلام_هند_بنت_عتبة_رضي_الله_عنها",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قول بطلة الجاهلية و بطلة الاسلام هند بنت عتبة رضي الله عنها"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:037080209f7104c685feb76623378f0e29111c2c",
+    "bytesize": 617,
+    "body": "هذه قصة للصحابة رغم انوف الرافضة الطاعنين في الصحابة رضي الله عنهم  وكما قال ابو زرعة رحمه الله : اذا رأيت احد ينتقص اصحاب محمد صلى الله عليه وسلم فأعلم انه زنديق    وقال الإمام مالك رحمه الله: \\\"إنما هؤلاء قوم أرادوا القدح في النبي صلى الله عليه وسلم فلم يمكنهم ذلك؛ فقدحوا في أصحابه حتى يقال: رجل سوء ؛ ولو كان رجلاً صالحًا لكان أصحابه صالحين\\\"."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-01-06T02:52:12Z",
+  "attributes": {
+    "old_id": 594,
+    "old_entry_id": 118
+  },
+  "language": "ar"
+}

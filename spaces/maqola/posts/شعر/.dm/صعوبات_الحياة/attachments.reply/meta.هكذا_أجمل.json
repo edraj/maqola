@@ -1,0 +1,29 @@
+{
+  "uuid": "02407a6e-3ca5-4117-90c0-3fd6a7de2803",
+  "shortname": "هكذا_أجمل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هكذا أجمل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cc9c65a938ad2d9f48d4bc4e9b8bfea8489a6f21",
+    "bytesize": 142,
+    "body": " لَولا المَشَقَةُ سادَ النّاسُ كُلُّهُمُ - الجودُ يُفقِرُ والإقدامُ قَتَّالُ "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-03T01:06:15Z",
+  "attributes": {
+    "old_id": 33,
+    "old_entry_id": 2
+  },
+  "language": "ar"
+}

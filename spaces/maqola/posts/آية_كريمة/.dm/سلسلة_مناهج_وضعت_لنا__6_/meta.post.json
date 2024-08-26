@@ -1,0 +1,44 @@
+{
+  "uuid": "71d218c0-b6b2-4ee2-b17c-9e59930c79ca",
+  "shortname": "سلسلة_مناهج_وضعت_لنا__6_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سلسلة مناهج وضعت لنا [ 6 ]"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e1fbb049558345a00d86b1012c53dd8e81f85707",
+    "bytesize": 460,
+    "body": "<p>أحاديث الوصاية بالقِبط ( الصليبين ) في مصر ، الذي منها : \" إذا افتتحتم مصر فاستوصوا بالقِبط خيراً ، فإن لهم ذمة ورَحِماً \". لم يصح منها شيء .</p><p><br></p><p>‫#‏مناهج_وضعت_لنا‬</p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p><p>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب"
+  ],
+  "created_at": "2015-07-24T13:36:37Z",
+  "attributes": {
+    "old_id": 1424
+  },
+  "language": "ar",
+  "history": []
+}

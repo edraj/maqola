@@ -1,0 +1,42 @@
+{
+  "uuid": "f8334af1-025f-4cf4-a1cb-ca8ecd2d5dd1",
+  "shortname": "بلاد_العرب_أوطاني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بلادُ العُربِ أوطاني"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fc242823035f63bc6e4a021ffccf4a024a2ed1b0",
+    "bytesize": 1285,
+    "body": "<table><tbody><tr><td style=\"width: auto;\">بلادُ العُربِ أوطاني</td><td style=\"width: 3em;\"></td><td style=\"width: auto;\">منَ الشّـامِ لبغدان</td></tr></tbody></table><center><table><tbody><tr><td style=\"width: auto;\">ومن نجدٍ إلى يَمَـنٍ</td><td style=\"width: 3em;\"></td><td style=\"width: auto;\">إلى مِصـرَ فتطوانِ</td></tr></tbody></table></center><center><table><tbody><tr><td style=\"width: auto;\">فلا حدٌّ يباعدُنا ولا دينٌ يفرّقنا</td><td style=\"width: 3em;\"></td><td style=\"width: auto;\">لسان الضَّادِ يجمعُنا بغسَّانٍ وعدنانِ</td></tr></tbody></table></center><center><table><tbody><tr><td style=\"width: auto;\">لنا مدنيّةُ سَـلفَـتْ سنُحييها وإنْ دُثرَتْ</td><td style=\"width: 3em;\"></td><td style=\"width: auto;\">ولو في وجهنا وقفتْ دهاةُ الإنسِ و الجانِ</td></tr></tbody></table></center><center><table><tbody><tr><td style=\"width: auto;\">فهبوا يا بني قومي إلى العـلياءِ بالعلمِ</td><td style=\"width: 3em;\"></td><td style=\"width: auto;\">و غنوا يا بني أمّي بلادُ العُربِ أوطاني</td></tr></tbody></table></center>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2015-02-06T13:31:06Z",
+  "attributes": {
+    "old_id": 997
+  },
+  "language": "ar",
+  "history": []
+}

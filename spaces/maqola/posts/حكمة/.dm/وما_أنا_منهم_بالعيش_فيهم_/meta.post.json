@@ -1,0 +1,43 @@
+{
+  "uuid": "8689461d-3d80-4fc1-8f2a-8bac165aa2b5",
+  "shortname": "وما_أنا_منهم_بالعيش_فيهم_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وما أنا مِنهُم بالعيشِ فيهم ..."},
+  "updated_at": "2013-04-26T21:37:58Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f20446ec337ab5febe2f875e23bf3ac4870ad193",
+    "bytesize": 426,
+    "body": "<span class=\"maqola_body\"> <span class=\"fontxlarge\">فُؤادٌ ما تُسَلّيهِ المُدامُ -- وعُمرٌ مثلُ ما تَهَبُ اللِّئامُ<br>ودَهْرٌ ناسُهُ ناسٌ صِغارٌ -- وإنْ كانتْ لهمْ جُثَثٌ ضِخامُ<br>وما أنا مِنهُمُ بالعَيشِ فيهم -- ولكنْ مَعدِنُ الذّهَبِ الرَّغامُ</span><br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2013-04-26T21:37:32Z",
+  "attributes": {
+    "old_id": 587
+  },
+  "language": "ar",
+  "history": []
+}

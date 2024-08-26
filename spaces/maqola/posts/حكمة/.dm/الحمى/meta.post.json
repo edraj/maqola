@@ -1,0 +1,43 @@
+{
+  "uuid": "fe99821c-66b8-402a-8d07-a3d02703315a",
+  "shortname": "الحمى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحُمى"},
+  "updated_at": "2011-12-26T14:55:29Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3010a5f6455a6a65be6c46697a0c2d43e29e3a1c",
+    "bytesize": 886,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قَليلٌ عائِدي سَقِمٌ فُؤادي -- كَثيرٌ حاسِدي صَعبٌ مَرامي&#160;<br />\r\n\tوَزائِرَتي كَأَنَّ بِها حَياءً -- فَلَيسَ تَزورُ إِلّا في الظَلامِ<br />\r\n\tيَضيقُ الجِلدُ عَن نَفسي وَعَنها -- فَتوسِعُهُ بِأَنواعِ السِقامِ&#160;&#160;&#160;<br />\r\n\tأُراقِبُ وَقتَها مِن غَيرِ شَوقٍ -- مُراقَبَةَ المَشوقِ المُستَهامِ&#160;&#160;&#160;<br />\r\n\tوَيَصدُقُ وَعدُها وَالصِدقُ شَرٌّ -- إِذا أَلقاكَ في الكُرَبِ العِظامِ&#160;&#160;&#160;<br />\r\n\tأَبِنتَ الدَهرِ عِندي كُلُّ بِنتٍ -- فَكَيفَ وَصَلتِ أَنتِ مِنَ الزِحامِ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2011-12-26T14:55:29Z",
+  "attributes": {
+    "old_id": 550
+  },
+  "language": "ar",
+  "history": []
+}

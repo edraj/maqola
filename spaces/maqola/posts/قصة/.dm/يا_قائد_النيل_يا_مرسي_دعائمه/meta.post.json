@@ -1,0 +1,43 @@
+{
+  "uuid": "42ff0676-cbe5-4e56-9958-d46b2bb95a7c",
+  "shortname": "يا_قائد_النيل_يا_مرسي_دعائمه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يا قائد النيل يا مرسي دعائمه"},
+  "updated_at": "2013-04-25T09:56:12Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:861f91a4f25ae188bf507d3b4fc1fa3c5963ad6b",
+    "bytesize": 2380,
+    "body": "<span class=\"maqola_body\"><span class=\"fontxxlarge\">ياقائدَ النيل&#160;يا مرسي&#160;دعائمَهُ</span></span><div><span class=\"maqola_body\"><span class=\"fontxxlarge\"><br>والنُّورُ يزهو بوجْهٍ منهُ نوُراني<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">سرْ أيّها الشّهمُ في إصلاحِ أمّتنا<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">وأَعْـلِ رايتَها في كلّ ميْدانِ<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">وقُمْ وأعْلنْ قراراتٍ تُرَى مَثلاً<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">تزهوُ به مصْرُ في سرّ وإعلانِ<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">عليكَ ثوبٌ نسيجُ الشَّعبِ طرّتـُهُ<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">قد صاغَها الشّعبُ في عزمٍ وإيمانِ<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">والجاحدونَ عراةٌ ليسَ مقصدُهـم<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">إلاّ الخرابَ كفئْرانٍ وجرذانِ<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">أعَدْتَ في مصرَ عهداً طالمَا حلمتْ<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">به الشعوبُ ولم تبصرْهُ عينانِ<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">حتىّ صنعتَ به فخْراً لأمّتنا<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">يبقى على الدَّهرِ مُزداناً بعقْيانِ<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">في جانبٍ منه عزُّ الدّين منتظمٌ<br><br></span></span></div><div><span class=\"maqola_body\"><span class=\"fontxxlarge\">والمجدُ مرتفعٌ في الجانبِ الثاني<br><br><br><span class=\"uthmanb\">حامد بن عبدالله العلي</span></span><br>  </span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "637ce085-d490-4a0d-96a7-5cb40fd3f92c",
+    "shortname": "محمود_عاشور",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة",
+    "مَعروف"
+  ],
+  "created_at": "2013-04-25T09:55:49Z",
+  "attributes": {
+    "old_id": 584
+  },
+  "language": "ar",
+  "history": []
+}

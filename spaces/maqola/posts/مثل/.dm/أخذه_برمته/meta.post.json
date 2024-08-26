@@ -1,0 +1,42 @@
+{
+  "uuid": "5bd16150-7789-4b6e-abd7-8f7913d54f5d",
+  "shortname": "أخذه_برمته",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أخَذَهُ بِرُمَّتِهِ"},
+  "updated_at": "2010-12-04T12:27:22Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0aa4f173ee12f6f7401eea2dd4fa926610525400",
+    "bytesize": 682,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أي بجُمْلته، الرُّمَّة‏:‏ قِطعَةٌ مِن الحَبلِ بالية والجَمعُ رُمَم ورِمَام‏.‏<br />\r\n\tوأصلُ المثل أنَّ رَجلاً دَفَعَ إلى رَجُلٍ بعيراَ بحَبْلٍ في عُنُقِه؛ فقيلَ لِكُلِّ مَنْ دَفعَ شيئا بِجُملَتِه‏:‏ دفَعَهُ إليهِ بِرُمَّتهِ، وأخَذَهُ مِنهُ بِرُمَّتهِ.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من كتاب مجمع الأمثال للميداني.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-12-04T12:27:22Z",
+  "attributes": {
+    "old_id": 306
+  },
+  "language": "ar",
+  "history": []
+}

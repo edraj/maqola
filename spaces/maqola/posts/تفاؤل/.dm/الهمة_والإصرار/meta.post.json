@@ -1,0 +1,43 @@
+{
+  "uuid": "eb64ffe0-f5fe-4a0c-9d14-4a48c27b0be3",
+  "shortname": "الهمة_والإصرار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الهمة والإصرار"},
+  "updated_at": "2013-05-08T10:20:52Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b54e37f4dc9b31feb2f272616bd7f41776549c39",
+    "bytesize": 284,
+    "body": "<div><br></div><div><span class=\"maqola_body\"><span class=\"uthmanb\"><span class=\"fontxxlarge\">وَمَنْ تَكُنِ العَلْياءُ هِمَّةَ نَفْسِهِ *** فَكُلُّ الَّذِي يَلْقَاهُ فيها مُحَبَّبُ<br></span></span></span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "cd09d452-a2be-4bb2-9f33-18cc3ba4b832",
+    "shortname": "البارودي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "d35fcd8f-cac4-4c84-852c-c6c5b4d0c0a1",
+    "shortname": "abdulaziz_barahim",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "شِعر"
+  ],
+  "created_at": "2013-05-08T10:20:10Z",
+  "attributes": {
+    "old_id": 598
+  },
+  "language": "ar",
+  "history": []
+}

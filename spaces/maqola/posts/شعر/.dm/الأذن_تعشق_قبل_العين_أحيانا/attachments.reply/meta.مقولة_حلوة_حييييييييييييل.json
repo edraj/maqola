@@ -1,0 +1,29 @@
+{
+  "uuid": "4085384f-eb8b-4a9c-b4ef-7a1489a28622",
+  "shortname": "مقولة_حلوة_حييييييييييييل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مقولة حلوة حييييييييييييل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:36b61ebaa297ceea13d185cf3becb3f945ba3f24",
+    "bytesize": 69,
+    "body": "جزاكم الله خيرا على هذا الموقع الرائع "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-08-07T10:47:02Z",
+  "attributes": {
+    "old_id": 512,
+    "old_entry_id": 386
+  },
+  "language": "ar"
+}

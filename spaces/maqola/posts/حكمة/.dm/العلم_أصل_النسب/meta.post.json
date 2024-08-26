@@ -1,0 +1,42 @@
+{
+  "uuid": "72e72173-5575-449b-9058-d646c8442fa5",
+  "shortname": "العلم_أصل_النسب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العِلمُ أصلُ النَسب"},
+  "updated_at": "2012-04-27T08:07:55Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b725f934b8f166fe209b69fdcde90920074642f4",
+    "bytesize": 2521,
+    "body": "<p>\r\n\t<style type=\"text/css\">\r\n<!--{cke_protected}{C}%3C!%2D%2D%0A%09%09%40page%20%7B%20margin%3A%200.79in%20%7D%0A%09%09PRE.cjk%20%7B%20font-family%3A%20%22WenQuanYi%20Zen%20Hei%20Sharp%22%2C%20monospace%20%7D%0A%09%09P%20%7B%20margin-bottom%3A%200.08in%20%7D%0A%09%2D%2D%3E-->\t</style>\r\n</p>\r\n<pre class=\"western\" dir=\"RTL\" style=\"text-align: right\">\r\n<span style=\"font-size: 1.5em;\"><span style=\"font-family: UthmanTN1,&quot;Traditional Arabic&quot;,serif;\"><span lang=\"ar-EG\">النَّاسُ مِنْ جِهَةِ التِّمْثَالِ أَكْفَاءُ </span>-- <span lang=\"ar-EG\">أَبُوهُمُ آدَمُ وَالْأُمُّ حَوَّاءُ</span>\r\n<span lang=\"ar-EG\">نَفسٌ كَنَفسٍ وَأَرواحٌ مُشاكَلَةٌ </span>-- <span lang=\"ar-EG\">وَأَعظُمٍ خُلِقَت فيها وَأَعضاءُ</span>\r\n<span lang=\"ar-EG\">لاعيبَ للمرءِ فيما أن تَكون لهُ </span>-- <span lang=\"ar-EG\">أمٌ من الرومِ أمْ سوداءُ دعجاءُ</span>\r\n <span lang=\"ar-EG\">فَإِنَّمَا أُمَّهَاتُ النَّاسِ أَوْعِيَةٌ </span>-- <span lang=\"ar-EG\">مُسْتَوْدَعَاتٌ وَلِلْأَحْسَابِ آبَاءُ </span>\r\n<span lang=\"ar-EG\">ورُبّ واضحةٍ ليست بمنجبةٍ </span>-- <span lang=\"ar-EG\">ورُبّما أَنجبتْ للفحلِ عجماءُ</span>\r\n<span lang=\"ar-EG\">إنْ لَمْ يَكُنْ لَهُمُ مِنْ أَصْلِهِمْ شَرَفٌ </span>-- <span lang=\"ar-EG\">يُفَاخِرُونَ بِهِ فَالطِّينُ وَالْمَاءُ </span>\r\n<span lang=\"ar-EG\">وَإِنْ أَتَيْت بِفَخْرٍ مِنْ ذَوِي نَسَبٍ </span>-- <span lang=\"ar-EG\">فَإِنَّ نِسْبَتَنَا جُودٌ وَعَلْيَاءُ </span>\r\n<span lang=\"ar-EG\">ما الفَضلُ إِلا لِأَهلِ العِلمِ إِنَّهُمُ </span>-- <span lang=\"ar-EG\">عَلى الهُدى لِمَنِ اِستَهدى أَدِلّاءُ</span>\r\n<span lang=\"ar-EG\">وقِيمةُ المرءِ مَا قَدْ كان يُحسنـُـهُ </span>-- <span lang=\"ar-EG\">وَالجاهِلونَ لِأَهلِ العِلمِ أَعداءُ</span>\r\n<span lang=\"ar-EG\">فَفُز بِعِلمٍ وَلا تَطلُب بِهِ بَدَلاً </span>-- <span lang=\"ar-EG\">فَالناسُ مَوتى وَأهُلُ العِلمِ أَحياءُ</span></span></span></pre>\r\n<p>\r\n\t-- مساهمة من صديق الموقع : أحمد شريف.</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2012-04-27T08:07:55Z",
+  "attributes": {
+    "old_id": 555
+  },
+  "language": "ar",
+  "history": []
+}

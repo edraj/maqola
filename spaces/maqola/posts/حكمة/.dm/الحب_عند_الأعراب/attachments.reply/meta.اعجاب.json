@@ -1,0 +1,29 @@
+{
+  "uuid": "52b596d8-597b-4605-913b-128fa6084cdd",
+  "shortname": "اعجاب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اعجاب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6b799aa1d70e221c0859aeb46215f27b0b8577d0",
+    "bytesize": 54,
+    "body": "رااااااااائعة  بارك الله فيكم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-06-21T03:38:53Z",
+  "attributes": {
+    "old_id": 474,
+    "old_entry_id": 488
+  },
+  "language": "ar"
+}

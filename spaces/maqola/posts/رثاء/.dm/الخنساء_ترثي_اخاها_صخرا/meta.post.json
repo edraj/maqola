@@ -1,0 +1,42 @@
+{
+  "uuid": "d81c9cfd-7faf-4677-bf8e-3bfadaad910b",
+  "shortname": "الخنساء_ترثي_اخاها_صخرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الخنساء ترثي اخاها صخرا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:86c66b4184e469827fc1b247b0eacd4ba3416751",
+    "bytesize": 1813,
+    "body": "<table width=\"90%\" bgcolor=\"#efeeee\" border=\"0\" cellspacing=\"1\" cellpadding=\"1\"><tbody><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">أعينيّ جودا ولا تجمُدا</td><td align=\"center\" bgcolor=\"#ffffff\"> ألا تبكيانِ لصخرِ النّدى ؟ </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">ألا تبكيانِ الجريءَ الجميلَ</td><td align=\"center\" bgcolor=\"#ffffff\"> ألا تبكيانِ الفَتى السيّدا؟ </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">إذا القوْمُ مَدّوا بأيديهِمِ</td><td align=\"center\" bgcolor=\"#ffffff\"> إلى المَجدِ مدّ إلَيهِ يَدا </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">فنالَ الذي فوْقَ أيديهِمِ</td><td align=\"center\" bgcolor=\"#ffffff\"> من المجدِ ثمّ مضَى مُصْعِدا </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">يُكَلّفُهُ القَوْمُ ما عالهُمْ</td><td align=\"center\" bgcolor=\"#ffffff\"> وإنْ كانَ أصغرَهم موْلِدا </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">طَويلَ النِجادِ رَفيعَ العِمادِ</td><td align=\"center\" bgcolor=\"#ffffff\"> قد سادَ عَشيرَتَهُ أَمرَدا </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">تَرى المجدَ يهوي الَى بيتهِ</td><td align=\"center\" bgcolor=\"#ffffff\"> يَرى افضلَ الكسبِ انْ يحمدَا </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">وَانَ ذكرَ المجدُ الفيتهُ</td><td align=\"center\" bgcolor=\"#ffffff\"> تَأزّرَ بالمَجدِ ثمّ ارْتَدَى</td></tr></tbody></table>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "رِثاء",
+    "شِعر"
+  ],
+  "created_at": "2015-02-04T12:54:02Z",
+  "attributes": {
+    "old_id": 980
+  },
+  "language": "ar",
+  "history": []
+}

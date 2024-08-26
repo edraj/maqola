@@ -1,0 +1,45 @@
+{
+  "uuid": "2b8da52b-1356-480b-9e98-05d59647a1f0",
+  "shortname": "أحمق_ما_يكون_الشيخ",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أَحْمَقُ مَا يَكُوْنُ الشَّيْخُ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:79e2e9333beb76e69416fe72f3b1f6558f247b5e",
+    "bytesize": 499,
+    "body": "<p>\r\n\tقَالَ مَرْوَانُ لِحَبِيْشَ بنَ دَلْجَةٍ: أَظُنُّكَ أَحْمَقاً.\r\n</p><p>\r\n\tفَقَالَ حَبِيْشُ: أَحْمَقُ مَا يَكُوْنُ الشَّيْخُ إِذَا عَمِلَ بِظَنِّهِ.\r\n</p><p>\r\n\t<br>\r\n\t<small><span data-redactor-tag=\"span\" style=\"color: rgb(63, 63, 63);\">- مِنْ كِتَابِ الأَذْكِيَاءِ لِابْنِ الْجَوْزِيِّ رَحِمَهُ اللهُ.</span></small>\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "ذَكاء",
+    "طُرفَة",
+    "قاعدة أصولية",
+    "قِصّة"
+  ],
+  "created_at": "2015-05-11T19:10:02Z",
+  "attributes": {
+    "old_id": 1262
+  },
+  "language": "ar",
+  "history": []
+}

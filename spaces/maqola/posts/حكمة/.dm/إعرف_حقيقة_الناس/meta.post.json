@@ -1,0 +1,45 @@
+{
+  "uuid": "73ddc687-9d2e-496d-9a7d-3b3d8f9356ad",
+  "shortname": "إعرف_حقيقة_الناس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إعرف حقيقة الناس"},
+  "updated_at": "2014-02-08T12:16:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:315e4c5ede41cfe8ecfb7a14734d5c948e7011f5",
+    "bytesize": 263,
+    "body": "إذَا أرَدْتَ مَعْرِفَةِ حَقِيَقة إنْسَان فِي هَذَا العَالَم ؛<br> <br> انْظُرْ كَيْفَ يُعَامِلُ مَنْ هُمْ أضْعَف مِنْه .. !!<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-08T12:16:48Z",
+  "attributes": {
+    "old_id": 824
+  },
+  "language": "ar",
+  "history": []
+}

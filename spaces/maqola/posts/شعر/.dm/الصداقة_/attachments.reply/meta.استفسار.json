@@ -1,0 +1,29 @@
+{
+  "uuid": "e769e1e9-ccdd-4bbc-a383-591894dda0e2",
+  "shortname": "استفسار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"استفسار"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d3456b32a960dbbc2e54f4983897e7c2113ebe31",
+    "bytesize": 119,
+    "body": "السلام عليكم  برجاء دائما كتابة  من القائل للابيات  وجزاك الله خير"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-27T21:17:41Z",
+  "attributes": {
+    "old_id": 225,
+    "old_entry_id": 234
+  },
+  "language": "ar"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "180dffb9-e8b2-4ef2-8640-80e5f71495b8",
+  "shortname": "كالمستجير_من_الرمضاء_بالنار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كالمُستَجيرِ مِنَ الرَّمضاءِ بالنّارِ"},
+  "updated_at": "2010-11-20T12:38:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f2fadb8910639f3abe903d4496440beff352f141",
+    "bytesize": 1617,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يُضرَبُ هذا المَثَلُ لِمَنْ:<br />\r\n\tيَعدِلُ عَن أمرٍ مَثلاً، فِيهِ مَشقَّةٌ عَلَيهِ أو خَطرٌ أو نَحوَ ذلك، فَيَعدِلُ إلى أمرٍ يَظُنُّ أنَّهُ أهوَنُ مِن الأولِ وأنَّهُ يَصلُحُ أنْ يَكونَ بَديلاً عَنهُ، فإذا بِهِ قَدْ وَقَعَ في أمرٍ أشَدُّ مِن سابِقهِ.<br />\r\n\t<br />\r\n\tفهذا مثله كمثلِ الذي، كان واقفاً في الرمضاءِ وهي شدةُ الحرِّ فأرادَ أن يَحميَ نَفسَهُ مِنها فاستجارَ (طلب الحِمايةَ) بالنارِ.<br />\r\n\t<br />\r\n\tأوَّلُ مَنْ تَكلَّمَ بِهذا المثل ـ فيما زَعَموا ـ التكلام الضبعي، وذلك أنَّ عمرو بن الحارث مَرَّ على كُليبِ وائل وفيه رَمَقٌ مِن طَعنَةِ رُمح، فاستسقاهُ كُليب، فألوى عَليهِ الحارثُ فأجهَزَ عَليهِ. </span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">وقيل:<br />\r\n\tالمُستجيرُ بعمروٍ عِندَ كَربَتِهِ -- كالمُستَجيرِ مِن الرَّمضاءِ بالنارِ</span></p>\r\n<p>\r\n\t<br />\r\n\t<span style=\"font-size: 1.5em;\">والرَّمضَاءُ مِن الرَّمَضْ وهِيَ التُّرابُ الحارُّ ومِنهُ سُمِّيَ رَمضان لأنَّهُ جاءَهم في شِدَّةِ الحَرِّ. واللهُ أعلم. </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-11-20T12:06:31Z",
+  "attributes": {
+    "old_id": 195
+  },
+  "language": "ar",
+  "history": []
+}

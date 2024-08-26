@@ -1,0 +1,43 @@
+{
+  "uuid": "5dac2bdf-a358-4b0a-b36f-41d2544853c6",
+  "shortname": "أنت_لها_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أنتَ لَها!"},
+  "updated_at": "2010-11-10T07:17:28Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3a3c6029735dc66a00f42c5f22fd9e15204cb9df",
+    "bytesize": 951,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">استَعمَلَ مُعاويةُ، عبدَ الرحمن بن خالد بن الوليد على الجيش وقد جاشت الروم، وكَتَبَ لَه عَهدًا، ثُمَّ قال لَه: ‏ ‏ ما تَصنَعُ بِعهدي هذا؟ ‏ ‏ قال: ‏ ‏ أَتَّخذهُ إمامًا فلا أَتجاوزه. ‏ ‏ قال مُعاوية: ‏ ‏ رُدَّ عَليَّ عَهدي. ‏ ‏ وعَزَلَه. ثُمَّ بَعثَ إلى سُفيان بن عوف الغامدي، فَقال له: ‏ ‏ قَد وَلّيتُكَ الجيشَ وهذا عَهدي، فما أنتَ صانعٌ بِه؟ ‏ ‏ قال: ‏ ‏ أَتَّخِذهُ إمامًا ما وافقَ الحَزْم، فإذا خالفَهُ خالفتُهُ وأعَمَلتُ رأيي. ‏ ‏ قال مُعاوية: ‏ ‏ أنتَ لها! ‏ ‏ ‏ ‏ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-17T13:35:57Z",
+  "attributes": {
+    "old_id": 28
+  },
+  "language": "ar",
+  "history": []
+}

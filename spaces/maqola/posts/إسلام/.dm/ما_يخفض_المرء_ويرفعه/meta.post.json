@@ -1,0 +1,46 @@
+{
+  "uuid": "50f3efa8-d03c-4a6f-813e-9efceca9a213",
+  "shortname": "ما_يخفض_المرء_ويرفعه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما يخفض المرء ويرفعه"},
+  "updated_at": "2015-05-15T01:53:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9f5e2c9883c4c015a7eb16528be3e0ec076e41dc",
+    "bytesize": 765,
+    "body": "<p>ما يخفض المرء عُدمه ويتمه ، إذا رفعه دينه وعلمه . ولا يرفعه ماله وأهله ، إذا خفضه فجوره وجهله . العلم هو الأب ، بل هو للثأي أرْأَب . والتقوى هي الأم ، بل هي إلى اللبان أضم . فأحرز نفسك في حرزهما ، واشدد يديك بغرزهما . يسقك الله نعمة صيّبة ، ويحيك حياة طيبة.</p><p>من كتاب \" أطواقُ الذهبِ في المواعظِ و الخُطَبِ \" لـ أبو القاسم محمود بن عمرو بن أحمد ، الزمخشري جار الله ( المتوفى : ٥٣٨هـ )</p><p>لا تنسوا عبد الله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "مَدح"
+  ],
+  "created_at": "2015-05-15T01:52:32Z",
+  "attributes": {
+    "old_id": 1271
+  },
+  "language": "ar",
+  "history": []
+}

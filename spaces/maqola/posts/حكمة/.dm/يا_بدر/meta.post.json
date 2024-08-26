@@ -1,0 +1,47 @@
+{
+  "uuid": "0bd1434c-bef3-4497-b4d5-75f9a331a2f2",
+  "shortname": "يا_بدر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يا بدر"},
+  "updated_at": "2014-02-06T13:24:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ebd1c6dfbdd4a0598bca5a8e52ff880cb74bbcd4",
+    "bytesize": 509,
+    "body": "<span class=\"maqola_body\"> يا بدرُ... والأمثالُ يضربها لذي اللبِ الحكيم <br>دم للخليلِ بودهِ...ما خيرُ ودٍٍ لا يدومُ<br>واعرف لجاركَ حقهُ...فالحق يعرفهُ الكريمُ<br>والناسُ مبتنيانِ:محمودُ البنيةُ أو ذميمُ<br>إنَ الأمور دقيقها...مما يهيجُ لهُ العظيمُ<br> والبغي يصرعُ أهلهُ...والظلمُ مرتعهُ وخيمُ<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-06T13:24:39Z",
+  "attributes": {
+    "old_id": 809
+  },
+  "language": "ar",
+  "history": []
+}

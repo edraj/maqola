@@ -1,0 +1,44 @@
+{
+  "uuid": "aab78d69-12ca-49b4-8472-3d62d7829d63",
+  "shortname": "إلى_إخوة_لنا_في_غيابة_الظلم_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إلى إخوة لنا في غيابة الظُلم ..."},
+  "updated_at": "2011-05-31T21:54:28Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b2d22a00057e5e7d7945155e0ea368dfac8e330d",
+    "bytesize": 1430,
+    "body": "<p>\r\n\t&#160;</p>\r\n<p>\r\n\tرحمك الله يا أحمد شوقي، فما زال الظلم قائما كما كان في الأمس...</p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\">سَلامٌ مِن صَبا بَرَدى أَرَقُّ&#160; -- وَدَمعٌ لا يُكَفكَفُ يا دِمَشقُ<br />\r\n\tسَلي مَن راعَ غيدَكِ بَعدَ وَهنٍ -- أَبَينَ فُؤادِهِ وَالصَخرِ فَرقُ؟</span> <br />\r\n\r\n<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">(أي اسألي مَن أخاف نِسائك وبناتك)</span></span>\r\n</p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"> إِذا ما جاءَهُ طُلّابُ حَقٍّ -- يقولُ عِصابَةٌ خَرَجوا وَشَقّوا</span> <br />\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">(يعني وبلغة اليوم مندسون سلفيون يرفعون علم اسرائيل)<br />\r\n\t</span></span><span style=\"font-size: 2em;\"> وَلِلحُرِّيَّةِ الحَمراءِ بابٌ -- بِكُلِّ يَدٍ مُضَرَّجَةٍ يُدَقُّ<br />\r\n\tجَزاكُمْ ذو الجَلالِ بَني دِمَشقٍ -- وَعِزُّ الشَرقِ أَوَّلُهُ دِمَشقُ</span><br />\r\n\t&#160;</p>\r\n<p>\r\n\tرحم الله شهدائنا الأبرار، ولعنة الله على الظالمين.</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2011-05-31T21:54:28Z",
+  "attributes": {
+    "old_id": 478
+  },
+  "language": "ar",
+  "history": []
+}

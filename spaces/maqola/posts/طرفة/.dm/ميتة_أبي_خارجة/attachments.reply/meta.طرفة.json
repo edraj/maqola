@@ -1,0 +1,29 @@
+{
+  "uuid": "c600ed3d-c84f-45bc-803c-6bc6eb48eb63",
+  "shortname": "طرفة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طرفة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8fd457255e051f3398a14b5449eae7ce7c0a4a95",
+    "bytesize": 372,
+    "body": "قال القاضي شريح لغلامه: اشتر لي حمارا اذا أطعمته شكر،واذا جوعته صبر،اذا وجد بالطريق ضيقا ترفق،واذا وجدبها فسحة تدفق،ان وكبته هام،وإن ركبه غيري نام فقال الغلام:انتظر يامولاي حتى يمسخني الله حمارا فأكون لك"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "701d892e-710e-40af-be43-26810f7df3ac",
+    "shortname": "الحواس_تركي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-10-06T21:10:08Z",
+  "attributes": {
+    "old_id": 789,
+    "old_entry_id": 299
+  },
+  "language": "ar"
+}

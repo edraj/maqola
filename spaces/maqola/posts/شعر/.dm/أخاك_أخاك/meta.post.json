@@ -1,0 +1,43 @@
+{
+  "uuid": "cfb015a9-0b79-418b-a9de-2241557a0fe7",
+  "shortname": "أخاك_أخاك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أخاكَ أخاكَ"},
+  "updated_at": "2010-11-27T16:25:29Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b86adad0eadef4d733c26b38f531912f88cd7e77",
+    "bytesize": 968,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أخاكَ أخاكَ إنَّ مَن لا أخ لَه -- كَساعٍ إلى الهَيجا بِغَيرِ سِلاحِ</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">وعارَضَهُ آخرُ فقال،<br />\r\n\tأخاكَ أخاكَ إنَّ مَن لا أخ لَه -- كَساعٍ إلى الهَيجا بِكُلِّ سِلاحِ</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">والهيجاء هي المعركة أو الحرب. فأتت &quot;أخاك أخاك&quot; في البيت الأول على وجه الترغيب، كأنه قال &quot;إلزم أخاك&quot; وفي البيت المُعارض جاءت على وجه الزجر والتحذير، كأنه قال &quot;لا تقرب أخاك&quot;. </span></span><br />\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">فأيّهما أصوب؟</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "مَثَل"
+  ],
+  "created_at": "2010-11-27T16:17:51Z",
+  "attributes": {
+    "old_id": 236
+  },
+  "language": "ar",
+  "history": []
+}

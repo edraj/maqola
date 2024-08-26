@@ -1,0 +1,29 @@
+{
+  "uuid": "be8a3f3b-8ad0-4781-9d04-78ebd07763fe",
+  "shortname": "خالد_الجبوري",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خالد الجبوري "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:37009f85a3dbf264f00a5ef840605a30a70bc0a7",
+    "bytesize": 17,
+    "body": "من العراق"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "49943992-b9cc-4275-a9df-4258ff254065",
+    "shortname": "خالد_الجبوري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-07-02T08:13:23Z",
+  "attributes": {
+    "old_id": 888,
+    "old_entry_id": 1366
+  },
+  "language": "ar"
+}

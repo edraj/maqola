@@ -1,0 +1,41 @@
+{
+  "uuid": "d1c2bc86-9fd7-4a42-ba8e-2fd0bb4fa7da",
+  "shortname": "قالو_جننت_بمن_تـهـوى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قالو جننت بمن تـهـوى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1f459301f84267e674215d1940404bfe8b7a3a04",
+    "bytesize": 435,
+    "body": "<p><span class=\"fonttohama\"><span class=\"uthman\" data-redactor-tag=\"span\">قالو جننت بمن تـهـوى *** فقلت ما لدة العيش إلا للمجانين<br> نعــــم، نعم قد جنـــنت *** فهــــــــاتـــــــــو من جـنـنـت بـه<br> فإن كان يشفي جنوني *** فـــــلا تـلـــــــــــــــــــــــوموني</span></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "غَزَل"
+  ],
+  "created_at": "2015-07-25T00:47:59Z",
+  "attributes": {
+    "old_id": 1447
+  },
+  "language": "ar",
+  "history": []
+}

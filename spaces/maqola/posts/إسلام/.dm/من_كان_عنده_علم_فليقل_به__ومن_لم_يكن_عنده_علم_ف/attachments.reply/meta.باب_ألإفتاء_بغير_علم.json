@@ -1,0 +1,29 @@
+{
+  "uuid": "b8d0de0c-5ab5-4d5f-8d51-143441f565c1",
+  "shortname": "باب_ألإفتاء_بغير_علم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"باب ألإفتاء بغير علم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b15a687dce5068badc472dbc45d3ebf205178d2f",
+    "bytesize": 192,
+    "body": "قال تعالى في سورة الإسراء ألآيه36(ولا تقف ما ليس لك به علم إن ألسمع والبصر والفؤاد كل أولئك كان عنه مسئولاً)"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "d7715027-65bd-427b-a02b-eceac61c72b0",
+    "shortname": "nazmi_abu_samrah",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-07-24T21:49:45Z",
+  "attributes": {
+    "old_id": 898,
+    "old_entry_id": 1417
+  },
+  "language": "ar"
+}

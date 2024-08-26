@@ -1,0 +1,29 @@
+{
+  "uuid": "9e70c262-b5a6-4ad5-9ae0-f5c1bc50221a",
+  "shortname": "عمر_ابو_ريشه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عمر ابو ريشه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2791bf283abba8d0ad8df554a78d2a35ef729d3f",
+    "bytesize": 179,
+    "body": "رفقا بها يامبضع الجراح\r\nجرحت قلب الوالد الملتاح\r\nوالله لو اطلقت روحي لارتمت\r\nبين النصال تصدها بجراح"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "719fd4d4-6937-4609-b407-364952a7e8f9",
+    "shortname": "خالد_جاسم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-09-13T10:42:23Z",
+  "attributes": {
+    "old_id": 914,
+    "old_entry_id": 1431
+  },
+  "language": "ar"
+}

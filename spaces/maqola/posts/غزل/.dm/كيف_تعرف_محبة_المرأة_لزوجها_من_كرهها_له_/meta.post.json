@@ -1,0 +1,42 @@
+{
+  "uuid": "fde459dc-4d8d-4604-a4d2-22673960de2d",
+  "shortname": "كيف_تعرف_محبة_المرأة_لزوجها_من_كرهها_له_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كيف تعرف محبة المرأة لزوجها من كرهها له؟"},
+  "updated_at": "2010-11-13T13:16:32Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fd0d3daa12d331691065ce3d79c1a253adc078b0",
+    "bytesize": 615,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">يُقال: إنَّ المرأةَ إذا كانتْ مُبغِضَةً لِزَوجِها، فإنَّ عَلامَةَ ذلك أنْ تَكونَ عِندَ قُربِهِ مِنها مُرتَدَّةُ الطَرْفِ عَنهُ، كأنَّها تَنظُرُ إلى إنسانٍ غَيره، وإنْ كانت مُحِبَةً لَه، لا تُقلعُ عَن النظرِ إليه!</span></span></p>\r\n<p>\r\n\t<span class=\"maqola_font_normal\"><span style=\"font-size: 1.5em;\">من كتاب العِقد الفَريد.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "28ce6df0-dfa3-4809-a823-25a7d3634c4b",
+    "shortname": "ابـن_عـبـد_ربــه",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "غَزَل"
+  ],
+  "created_at": "2010-11-04T04:40:02Z",
+  "attributes": {
+    "old_id": 153
+  },
+  "language": "ar",
+  "history": []
+}

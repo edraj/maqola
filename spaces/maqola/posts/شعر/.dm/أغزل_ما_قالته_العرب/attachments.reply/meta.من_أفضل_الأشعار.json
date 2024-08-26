@@ -1,0 +1,29 @@
+{
+  "uuid": "012cf78b-a47b-4363-a8da-c79b2c6e36ff",
+  "shortname": "من_أفضل_الأشعار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أفضل الأشعار"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:901dedd853d9c233970be1fa72570942cdadefb1",
+    "bytesize": 163,
+    "body": "هذا الشعر من أعتبره أقوى أشعار الغزل وأنا معجب به حقاً. ولكن لماذا لم تضع لنا النص الكامل ؟"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-03T19:40:30Z",
+  "attributes": {
+    "old_id": 45,
+    "old_entry_id": 7
+  },
+  "language": "ar"
+}

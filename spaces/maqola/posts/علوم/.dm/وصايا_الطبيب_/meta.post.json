@@ -1,0 +1,42 @@
+{
+  "uuid": "22beb108-6580-47c5-a715-9e2b21251e06",
+  "shortname": "وصايا_الطبيب_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وصايا الطبيب،"},
+  "updated_at": "2010-11-04T03:15:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:74e9531518cf7aa9a86819e2b9224e376a6cf3ce",
+    "bytesize": 970,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قال الحجاجُ بن يوسف يومًا لطبيبهِ....<br />\r\n\tصِف لي صِفةً آخذُ بِها في نفسي ولا أعْدوَها قال له:<br />\r\n\tلا تَتَزوَّجْ مِن النساءِ إلا شابة، ولا تأكلْ مِن اللحم إلا فتيا، ولا تأكله حتى تُنعِمَ طَبخَهُ ولا تشربْ دواءً إلا مِن علةٍ، ولا تأكلْ مِن الفاكهةِ إلا نَضيجَها، ولا تأكلْ طعامًا إلا أجدتَ مضغهُ، وكُلْ ما أحببتَ مِن الطعام واشربْ عليه: فإذا شربتَ فلا تأكلْ، ولا تَحبس الغائطَ ولا البولَ، وإذا أكلتَ بالنهارِ فَنَمْ: وإذا أكلتَ بالليلِ فَقُمْ وامشِ قبلَ أنْ تنام ولو مائةَ خُطوة.</span></span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عُلوم"
+  ],
+  "created_at": "2010-11-04T03:15:02Z",
+  "attributes": {
+    "old_id": 136
+  },
+  "language": "ar",
+  "history": []
+}

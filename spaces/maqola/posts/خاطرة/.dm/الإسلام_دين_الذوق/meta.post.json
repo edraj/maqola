@@ -1,0 +1,41 @@
+{
+  "uuid": "dba3ba01-9ef4-4af8-bde0-449044193637",
+  "shortname": "الإسلام_دين_الذوق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الإسلام دين الذوق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a15e1fd82c0328748d6e3df0027eb77e44c4c4df",
+    "bytesize": 836,
+    "body": "<p>( <span style=\"color: rgb(79, 97, 40);\">وإذا حُييتم </span><span style=\"color: rgb(79, 97, 40);\">بتحية فحيّوا بأحسن منها أو ردّوها </span>).</p><p><span style=\"color: rgb(149, 55, 52);\">تلك رسالة ربانية تعلمنا الذوق الرفيع فى التعاملات ..</span></p><p><span style=\"color: rgb(149, 55, 52);\">فكم أنت والله يارب من عظيم جميل ,, حيث لم تقل : فردوها أو بأحسن منها</span></p><p><span style=\"color: rgb(149, 55, 52);\">وإنما قدّمت الأجمل ( أحسن ) على الجميل ( ردّوها ).</span></p><p><span style=\"color: rgb(149, 55, 52);\">حقا الإسلام دين الذوق .</span></p><p><br></p><p><span style=\"color: rgb(79, 129, 189);\">الكاتب : نبيل جلهوم .</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-02-10T09:04:10Z",
+  "attributes": {
+    "old_id": 1004
+  },
+  "language": "ar",
+  "history": []
+}

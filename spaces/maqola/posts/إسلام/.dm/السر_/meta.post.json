@@ -1,0 +1,49 @@
+{
+  "uuid": "98953828-f605-4df2-8f06-cffdeace65b0",
+  "shortname": "السر_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السر!!!"},
+  "updated_at": "2014-02-13T14:36:12Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c55d2e39f8c6134a10a65d8ab9f245456c6ab8cd",
+    "bytesize": 174,
+    "body": "سرُ الصلاةِ: الخشوع . <br> وسرُ الصدقةِ: الإسرار .<br>  وسرُ الذكرِ : الإكثار .<span class=\"maqola_body\"><br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "تَفاؤل",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "شَجاعَة",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-13T14:36:07Z",
+  "attributes": {
+    "old_id": 840
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "bf893594-4127-4a11-8b33-ce7acacb2718",
+  "shortname": "bf893594",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-01-28T03:14:27Z",
+  "author_locator": { "type": "content",
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-01-28T03:14:27Z",
+  "attributes": {
+    "old_id": 228,
+    "old_entry_id": 953
+  },
+  "language": "en",
+  "location": {
+    "uuid": "bf893594-4127-4a11-8b33-ce7acacb2718",
+    "shortname": "bf893594",
+    "subpath": "posts/طرفة",
+    "space_name": "maqola",
+    "parent_shortname": "اقترح_على_زوجته_التعدد",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

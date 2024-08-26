@@ -1,0 +1,43 @@
+{
+  "uuid": "55f2fe79-e58b-430b-b9fb-7c8756e15929",
+  "shortname": "و_نعم_بالله_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"و نِعمَ بالله !"},
+  "updated_at": "2013-04-26T08:24:06Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5b64b06ccaab66382452b07b54a387ddc2bff134",
+    "bytesize": 655,
+    "body": "<span class=\"maqola_body\"> <br> الفتاةُ تَظنُّ أنها لَن تَتَزوّج،<br>الشابُّ يَظنُّ أنه سَيواجِهُ الفَقرَ والبطالة،<br>العجوزُ يَظنُّ أنه سَيواجِهُ الأمراضَ،<br><br>...<br><br>كُلُّ هذه الظُنون تأتي من الشيطان،<br><span><em><br>يقول الله عزّ وجل :<br><br>{{الشَّيطانُ يَعِدُكُمُ الفَقرَ</em> وَيأمُرُكُم بِالفَحشاء واللّهُ يَعِدُكُم مَّغفِرَةً مِنهُ وفَضلاً واللّهُ واسِعٌ عَلِيمٌ}}</span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a29a922d-1dde-479f-9695-99f32c7b58a4",
+    "shortname": "تنزيل_العزيز_الحكيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "حِكمَة"
+  ],
+  "created_at": "2013-04-26T08:23:56Z",
+  "attributes": {
+    "old_id": 585
+  },
+  "language": "ar",
+  "history": []
+}

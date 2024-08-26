@@ -1,0 +1,29 @@
+{
+  "uuid": "58b8a1cd-1bd9-4731-aa93-e0340227b8c6",
+  "shortname": "فوتوا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فوتوا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b5635aabc013525393089a2e67313f7ca50f1864",
+    "bytesize": 207,
+    "body": "تقديم اقبح من قبيح أخطأت كثيرا ونسيت بعض الكلمات هل انت حمار ؟؟؟؟؟؟؟؟؟  عندما تقرر إلقاء قصة طويلة احفظها اولاًً   "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-02T12:40:56Z",
+  "attributes": {
+    "old_id": 612,
+    "old_entry_id": 231
+  },
+  "language": "ar"
+}

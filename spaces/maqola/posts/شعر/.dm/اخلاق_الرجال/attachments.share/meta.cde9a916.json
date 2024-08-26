@@ -1,0 +1,33 @@
+{
+  "uuid": "cde9a916-2725-407b-b461-83b24bdb236f",
+  "shortname": "cde9a916",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-08-15T13:23:49Z",
+  "author_locator": { "type": "content",
+    "uuid": "786da9ae-5c96-4484-80f3-168f7a92eb3d",
+    "shortname": "wahid_nour",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-08-15T13:23:49Z",
+  "attributes": {
+    "old_id": 591,
+    "old_entry_id": 1478
+  },
+  "language": "en",
+  "location": {
+    "uuid": "cde9a916-2725-407b-b461-83b24bdb236f",
+    "shortname": "cde9a916",
+    "subpath": "posts/شعر",
+    "space_name": "maqola",
+    "parent_shortname": "اخلاق_الرجال",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

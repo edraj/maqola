@@ -1,0 +1,43 @@
+{
+  "uuid": "d67765b4-0bd3-4f88-bf15-502d4f8108cc",
+  "shortname": "الكاتـب_الأحمـق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الكاتـب الأحمـق"},
+  "updated_at": "2010-10-17T14:29:58Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ff853eb71f16541f9ee0ccd1b7a17557acea3591",
+    "bytesize": 1036,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">كان بأنطاكية عاملٌ من قِبَلِ أمير حلب، وكان له كاتب أحمق. وحدث أنه غرق في البحر شَلَنّدِيّان من مراكب المسلمين التي يقصدون فيها الروم. فكتب الكاتب عن صاحبه إلى الأمير بحلب:‏ ‏ &quot;بسم الله الرحمن الرحيم. أعلم الأمير - أعزّه الله - أن شَلَنْدِيَّيْن، (أعني مركبين) صُفقا، (أي غرقا)، من خِبّ البحر، (أي من شدّة موجه)، فهلك من فيهما، (أي تلِفُوا)&quot;!‏ ‏ فأجابه صاحب حلب:‏ ‏ &quot;وَرَدَ كتابُك، (أي وصل)، وفهمناه، (أي قرأناه)، فأدّب كاتبك: (أي اصْفَعْه)، واستبدل به، (أي اصْرِفْه)، فإنه فائق، (أي أحمق)، والسلام (أي قد انقضى الكتاب)&quot;!</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-17T14:29:58Z",
+  "attributes": {
+    "old_id": 38
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "5553f057-1a13-4efb-88bb-cd5618cccf34",
+  "shortname": "القصيدبصوة_الشيخ_الأحمد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القصيدبصوة الشيخ الأحمد"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ce862d0d6fe312da1946dfbe41a830229033d155",
+    "bytesize": 295,
+    "body": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=٦&cad=rja&uact=٨&ved=٠CD٤QtwIwBQ&url=http%٣A%٢F%٢Fwww.youtube.com%٢Fwatch%٣Fv%٣Daxo٠ACISUHs&ei=O٦HPVInyN٥Gtabf-gbAF&usg=AFQjCNHtsLpo١_kld٨fwsF٠٩Ri_GjwaWxA&sig٢=Q_jP٩MrrRD٢LPZRQB_djVQ&bvm=bv.٨٥٠٧٦٨٠٩,d.d٢s"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "15d34541-3bed-4775-887b-b73a43598f8e",
+    "shortname": "فيصل_الوليدي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-02-02T17:05:37Z",
+  "attributes": {
+    "old_id": 813,
+    "old_entry_id": 973
+  },
+  "language": "ar"
+}

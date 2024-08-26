@@ -1,0 +1,33 @@
+{
+  "uuid": "4dbe14c2-6627-4eb4-abf1-96d40804e787",
+  "shortname": "4dbe14c2",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-09-18T08:27:37Z",
+  "author_locator": { "type": "content",
+    "uuid": "7cadbd4a-0424-46a1-8ef1-58802bc79851",
+    "shortname": "التنمية_البشرية",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-09-18T08:27:37Z",
+  "attributes": {
+    "old_id": 618,
+    "old_entry_id": 1511
+  },
+  "language": "en",
+  "location": {
+    "uuid": "4dbe14c2-6627-4eb4-abf1-96d40804e787",
+    "shortname": "4dbe14c2",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "أدرك_أن_العلم_نور",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

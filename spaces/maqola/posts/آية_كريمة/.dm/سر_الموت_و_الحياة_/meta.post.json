@@ -1,0 +1,45 @@
+{
+  "uuid": "f0520e50-2f80-4749-87c9-e2d9329a7265",
+  "shortname": "سر_الموت_و_الحياة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سِرُّ الموتِ و الحياة!"},
+  "updated_at": "2011-10-08T21:24:21Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:898d6f7c83e6c8d74fca4d6dfdd2636257ca3d43",
+    "bytesize": 1071,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\">&quot;تَبارَكَ الذي بيَدِهِ المُلكُ و هُوَ عَلى كُلِّ شَيءٍ قَدير (1) الذي خَلَقَ المَوتَ و الحَياةَ ليَبلوَكُمْ&#160; أَيُّكُمْ&#160; أَحسَنُ عَمَلا و هُوَ العَزيزُ الغَفور (2)&quot;</span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\">- سُورَةُ المُلك.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">التأملُّ في كلِّ كلمةٍ و إحساسِ يَنتابُك ... تُعيدُ قراءتَها مِراراً وتِكراراً، وفي كلِّ مَرَّةٍ يَخطرُ على بالِكَ وَجهٌ آخرٌ مِن مَعانيها. باختصارٍ شديد و إيجازٍ بالغ وشمولٍ واسع .... تُجيب هاتين الآيتين عَن عشراتِ الأسئلةِ التي تَدورُ في ذِهنِ الإنسان مُنذُ لحظاتِ إدراكهِ الأولى وحتى انتهاءِ حياتِه. صدقَ الله العظيم.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a29a922d-1dde-479f-9695-99f32c7b58a4",
+    "shortname": "تنزيل_العزيز_الحكيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حِكمَة",
+    "فَصاحَة"
+  ],
+  "created_at": "2011-10-08T21:24:21Z",
+  "attributes": {
+    "old_id": 523
+  },
+  "language": "ar",
+  "history": []
+}

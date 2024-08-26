@@ -1,0 +1,42 @@
+{
+  "uuid": "7c56c2ba-a100-4b85-9cee-74586b5964c1",
+  "shortname": "الصداقة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصداقة"},
+  "updated_at": "2014-07-20T19:54:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:db4a705794c5aab77f17a4e37d48363c0101f336",
+    "bytesize": 160,
+    "body": "<span class=\"maqola_body\"> <br> <i><i><br>ثمار الأرض تجنى كل موسم .. لكن ثمار الصداقة تجنى كل لحظ</i></i><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حَديثٌ شَريف"
+  ],
+  "created_at": "2014-07-20T19:54:02Z",
+  "attributes": {
+    "old_id": 906
+  },
+  "language": "ar",
+  "history": []
+}

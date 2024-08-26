@@ -1,0 +1,41 @@
+{
+  "uuid": "cdcf2f41-a7e6-4c43-b268-05030f883fc0",
+  "shortname": "خواطر_في_وصف_صديق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خواطر في وصف صديق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5fed8b6b16dbc2af2315cef9e5532bc013221b18",
+    "bytesize": 1065,
+    "body": "<p>خواطر في وصف صديق ..</p><p>ياصديقي هل تعرف معنى الصداقة <br>روحان تسكنان جسداً في علاقة </p><p>إذا غاب أحدهما الروح له مشتاقه <br>ويدعو له بالغيب أن تزاد له أرزاقه <br>وقلوبهما تنبضان بالحب وله خفاقه <br>لي صديق إبتسامته جميلة جذابة <br>أرتاح له ولحديثه والنفس له تواقه <br>المولى بعثه هدية وسخره لي وساقه <br>له عبق معطر يزينه في حضوره وغيابه<br>كلماته قناديل في ليل مدلهمة أعتابه <br>ونسماته رقيقة كسحابة رقيقة ربابة <br>طلته وحضوره كأجمل ورود في باقة <br>عباراته تمنحني في الحياة كل الطاقة <br>وهمساته للروح زاد تجعلها رقيقة مرتاحة <br>إنه مرآتي يارب لاتجعل بيني وبينه فراقه <br>.<br>.<br>خربشات بقلم احسان الصالحي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "675ade74-78d4-48da-926c-c8feb4a638c5",
+    "shortname": "احسان_الصالحي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-08-15T09:27:30Z",
+  "attributes": {
+    "old_id": 1475
+  },
+  "language": "ar",
+  "history": []
+}

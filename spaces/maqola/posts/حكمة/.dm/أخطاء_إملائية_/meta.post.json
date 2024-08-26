@@ -1,0 +1,44 @@
+{
+  "uuid": "c95e7922-f9c2-46b3-99b4-fbd4375bf38c",
+  "shortname": "أخطاء_إملائية_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أخطاء إملائية!!"},
+  "updated_at": "2014-02-03T10:37:12Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:45ad9aceeb86b657e76912825ce4bdead9a954d9",
+    "bytesize": 431,
+    "body": "منَ \r\nالأخطاءِ الإملائيةِ الشائعةِ وضعُ ألفٍ بعدَ جمعِ المذكرِ السالمِ عندَ إضافتهِ \r\nمرفوعا مثل: (مهندسوا المدينةُ ماهرونَ) فهذهِ الكتابةُ خطأٌ وصوابها حذفُ الألفِ \r\nبعدَ واو الرفعِ نحو: (مهندسو المدينةِ ماهرونَ).<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-03T10:37:06Z",
+  "attributes": {
+    "old_id": 775
+  },
+  "language": "ar",
+  "history": []
+}

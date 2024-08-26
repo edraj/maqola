@@ -1,0 +1,33 @@
+{
+  "uuid": "cce90ea7-6bc3-45a1-8c7a-5495deefc6de",
+  "shortname": "cce90ea7",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-11-10T21:27:06Z",
+  "author_locator": { "type": "content",
+    "uuid": "8fb34256-ae95-4934-ab80-6a4bd53d9267",
+    "shortname": "shafeqa_abu_jaber",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-11-10T21:27:06Z",
+  "attributes": {
+    "old_id": 83,
+    "old_entry_id": 711
+  },
+  "language": "en",
+  "location": {
+    "uuid": "cce90ea7-6bc3-45a1-8c7a-5495deefc6de",
+    "shortname": "cce90ea7",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "هل_هؤلاء_عائلة_أغبياء_",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

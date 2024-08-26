@@ -1,0 +1,52 @@
+{
+  "uuid": "5a8844e6-7b6b-44cf-88e1-dbc8e8d62e96",
+  "shortname": "يا_من_بحثت_عن_العطور_جميلها",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يا من بحثت عن العطور جميلها"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b67a5fd17fc4cfaaaed4e10bf2d45db16fcbdef9",
+    "bytesize": 337,
+    "body": "<p>\"يا من بحثت عن العطور جميلها<br> ليكون عطرك في الأنام نسيـما<br> هل لي بأن أهديك عطرا فاخرا<br> وهو الدواء إذا غـدوت سقيـما<br> هــذا كــلام الله في قرآنـــه<br> صلـوا عليـه وسلمـوا تسليمــا\"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "تَفاؤل",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "ذَكاء",
+    "صَداقَة",
+    "عربية",
+    "فَخر",
+    "فَصاحَة",
+    "قَناعَة",
+    "لُغة عربيّة",
+    "مَدح"
+  ],
+  "created_at": "2015-07-24T21:19:48Z",
+  "attributes": {
+    "old_id": 1432
+  },
+  "language": "ar",
+  "history": []
+}

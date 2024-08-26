@@ -1,0 +1,43 @@
+{
+  "uuid": "bbcb4a84-cd91-4bd2-ae4d-24455e971ee1",
+  "shortname": "فوائد_الأرض_وبركتها",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فوائدُ الأرض وبركتها"},
+  "updated_at": "2010-11-04T04:37:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2d2565d34a86b9d1c4640129f5a21cd130b1ba87",
+    "bytesize": 1409,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">(هُوَ الَّذِي جَعَلَ لَكُمُ الأَرْضَ ذَلُولاً فَامْشُوا فِي مَنَاكِبِهَا وَكُلُوا مِنْ رِزْقِهِ وَإِلَيْهِ النُّشُورُ) [المُلك: 15].<br />\r\n\tأخبرَ - سبحانه - أنَّهُ جَعلَ الأرضَ ذلولًا مُنقادةً للوطءِ عليها وحَفرِها وشَقّها والبناءِ عليها، ولم يجعلها مُستَصعِبة مُمتَنِعة على مَن أراد ذلك منها.<br />\r\n\tومِن بركتِها أنّ الحيوانات كُلّها وأرزاقها وأقواتها تَخرجُ مِنها.<br />\r\n\tومِن بركتها أنّك تُودِعُ فيها الحبَّ فَتُخرِجُهُ لكَ أضعافَ أضعاف ما كان.<br />\r\n\tومن بركتها أنَّها تَحملُ الأذى على ظَهرِها وتُخرجُ لكَ مِن بَطنِها أحسنَ الأشياءَ وأنفعَها، فتُواري منه كل قبيح، وتُخرجُ له كل مليح.<br />\r\n\tومن بركتها أنها تَستُر قبائحَ العبد وفضلاتِ بدنِه وتواريها، وتضمه وتؤويه وتُخرجُ له طعامَه وشرابَه، فَهي أحملُ شيءٍ للأذى وأعودُهُ بالنفع.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6ad06172-0310-4867-a7aa-30b8f2cd7ceb",
+    "shortname": "ابن_القيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "مَدح"
+  ],
+  "created_at": "2010-11-04T04:37:10Z",
+  "attributes": {
+    "old_id": 152
+  },
+  "language": "ar",
+  "history": []
+}

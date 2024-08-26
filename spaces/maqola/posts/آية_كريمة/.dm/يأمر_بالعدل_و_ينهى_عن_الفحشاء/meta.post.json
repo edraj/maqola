@@ -1,0 +1,43 @@
+{
+  "uuid": "c6c1ccaa-7358-4741-bab2-7c6d9787f54a",
+  "shortname": "يأمر_بالعدل_و_ينهى_عن_الفحشاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يأمرُ بالعدلِ و يَنهى عَن الفَحشاء"},
+  "updated_at": "2011-11-14T08:35:42Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7b51f8f90879ee0381d35d82d71a1bea6b474fde",
+    "bytesize": 1064,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\">{ إِنَّ الله يَأمُرُ بالعَدلِ و الإِحسانِ و إيتآءِ ذي القُربَى و يَنهَى عَنِ الفَحشآءِ و المُنكَرِ و البَغيِ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ }</span><br />\r\n\t<span style=\"font-size: 1.5em;\">(النحل - 90)<br />\r\n\t<br />\r\n\tقال عِكرِمَة : قرأ النبيُّ - صلى الله عليه وسلم - على الوليد بنُ المُغيرة إنَّ الله يأمرُ بالعدلِ والإحسانِ إِلى آخرِها، فقال : يا ابن أخي أعِدْ، فأعادَ عليه، فقال : والله إنَّ لَهُ لَحلاوَة، وإنَّ عَليهِ لَطلاوَة، وإنَّ أَصله لَمورِق، وأعلاهُ لَمثُمِر، وما هو بِقَولِ بَشر.<br />\r\n\t<br />\r\n\tوقال ابنُ مَسعود : هذه أَجمَعُ آيةٍ في القرآن لِخَيرٍ يُمتَثَل ، و لِشَرٍّ يُجتَنب. </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a29a922d-1dde-479f-9695-99f32c7b58a4",
+    "shortname": "تنزيل_العزيز_الحكيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "حِكمَة"
+  ],
+  "created_at": "2011-11-14T08:35:42Z",
+  "attributes": {
+    "old_id": 539
+  },
+  "language": "ar",
+  "history": []
+}

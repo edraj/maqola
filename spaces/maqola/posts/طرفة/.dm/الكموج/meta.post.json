@@ -1,0 +1,43 @@
+{
+  "uuid": "e90a1b65-6baa-4677-af15-05dfbf570251",
+  "shortname": "الكموج",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الكَمُوج"},
+  "updated_at": "2015-01-31T19:36:56Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eb29e9e09f27b9957a0a48143a8be4fa1b82bdd0",
+    "bytesize": 335,
+    "body": "<p>سَألَ رَجُلٌ اﻹمَامَ اﻹشْبِيلي: مَا الكَمُوج؟</p><p>فقَال: أينَ قَرَأتَها؟</p><p>قَال: في قَوْلِ امرِئ القَيس (وَلَيْلٍ كموج البَحْرِ).</p><p>فقَال: \"الكَمُوج\" دابَّةٌ تَقْرَأ ولا تَفْهَم.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-01-31T02:08:22Z",
+  "attributes": {
+    "old_id": 962
+  },
+  "language": "ar",
+  "history": []
+}

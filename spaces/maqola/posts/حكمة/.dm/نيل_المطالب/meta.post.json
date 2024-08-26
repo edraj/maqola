@@ -1,0 +1,42 @@
+{
+  "uuid": "953b9848-ff5e-49aa-9a6d-c554f136301a",
+  "shortname": "نيل_المطالب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نَيلُ المطالب"},
+  "updated_at": "2010-11-13T17:56:09Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:208623e79a230e9d83639ac8d63f6f61dd93d756",
+    "bytesize": 790,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">كتبَ سلمانُ الفارسيّ إلى أبي الدرداء: </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">أما بعد، فإنَّكَ لا تنالُ ما تريدُ إلا بتركِ ما تشتهي، ولَن تَبلُغَ ما تأملُ، إلا بالصبرِ على ما تكرهُ، فَليَكُن قولكَ ذِكراً، وصَمْتُكَ فِكراً، ونَظَرُكَ عِبرَةً، واعلم أنَّ أَعجَزَ الناسِ مَن أتَبعَ نَفسَهُ هواها وتَمَنى على الله، وأَن أَكْيَسُهُم مَن أَتعَبَ نَفسَهُ وعَمِلَ لما بعد الموتِ.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "217f4d0f-de8f-4290-9c49-9501180b449e",
+    "shortname": "سلمان_الفارسي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-10-25T19:12:52Z",
+  "attributes": {
+    "old_id": 111
+  },
+  "language": "ar",
+  "history": []
+}

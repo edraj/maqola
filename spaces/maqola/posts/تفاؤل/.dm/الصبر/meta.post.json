@@ -1,0 +1,43 @@
+{
+  "uuid": "58b85a36-e3c9-40a5-b6e8-5540114edf5a",
+  "shortname": "الصبر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصبر"},
+  "updated_at": "2014-05-02T19:12:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:52921bd7d01883294307871a2758ce6f46e2fe50",
+    "bytesize": 256,
+    "body": "<span class=\"maqola_body\"> <br> قال أحد السلف&#160; بنى الله للأحباب بيتا سماؤه هموم وأحزان وحيطانه الضر فأدخلهم فيه وأغلق بابه وقال مفتاح بابكم الصبر<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ad0af175-2290-424a-85bf-38e51a6241c1",
+    "shortname": "بلال_جمال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة"
+  ],
+  "created_at": "2014-05-02T19:12:00Z",
+  "attributes": {
+    "old_id": 881
+  },
+  "language": "ar",
+  "history": []
+}

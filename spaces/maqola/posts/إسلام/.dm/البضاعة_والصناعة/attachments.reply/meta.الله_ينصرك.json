@@ -1,0 +1,29 @@
+{
+  "uuid": "877d559d-2c4d-463a-b31c-80f66aa9bb61",
+  "shortname": "الله_ينصرك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الله ينصرك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:98d0253bd63df9caf7ac1fab1d007f857650fa5c",
+    "bytesize": 63,
+    "body": "نصرك الله يا شيخنا أبا ياسين وأيدك "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "57117116-fa81-4d6c-87b6-8b439427c3be",
+    "shortname": "موسى_أبو_عرقوب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-04-26T17:55:01Z",
+  "attributes": {
+    "old_id": 764,
+    "old_entry_id": 583
+  },
+  "language": "ar"
+}

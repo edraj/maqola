@@ -1,0 +1,41 @@
+{
+  "uuid": "01846df7-ab8a-4831-97e1-87549d5ee862",
+  "shortname": "نكران_الجميل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نكران الجميل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1a01670d89e9947727901ddbe692fa41bf69c00a",
+    "bytesize": 866,
+    "body": "<p>قال النبي صلى الله عليه وآله وسلم: (\"مَنْ استعاذ بالله فأعيذوه، ومَنْ سألكم فأعطوه، ومَنْ دعاكم فأجيبوه، ومَنْ آتى إليكم معروفاً فكافئوه، فإنْ لم تجدوا ما تكافئونه فادعوا له حتى تعلموا أن قد كافأتموه\".)</p><p><br></p><p>ـــــ إننا في حاجة إلى أن يقف كُلٌّ منَّا وقفة مراجعة مع نفسه من وقت لآخر؛ ليتأكد أنه في علاقاته مع غيره يسير على الطريق السوي الذي يكون سبباً في سعادته، وطريقاً لإرتقائه في التعامل مع غيره، فلا يُنكر لهم حقاً، ولا يجحد لهم معروفاً.<br></p><p>ـــــــــــ ضياء ابراهيم</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حَديثٌ شَريف"
+  ],
+  "created_at": "2015-02-23T16:58:02Z",
+  "attributes": {
+    "old_id": 1067
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,45 @@
+{
+  "uuid": "149dc589-577e-4d2e-a56d-08986354418a",
+  "shortname": "ولتعم_الفائدة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ولتعم الفائدة"},
+  "updated_at": "2014-02-01T15:38:48Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:09bad91f7395191c12c2ff26cc6dc2be7dc8ad52",
+    "bytesize": 185,
+    "body": "<br> <br> يقال: رَمَى الكلامَ على عَواهِنِه؛ <br> <br> أي: لم يُبالِ أصابَ أم أخطأَََ.<span class=\"maqola_body\"><br> <br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-01T15:38:43Z",
+  "attributes": {
+    "old_id": 761
+  },
+  "language": "ar",
+  "history": []
+}

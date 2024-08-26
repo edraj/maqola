@@ -1,0 +1,42 @@
+{
+  "uuid": "335e0ce7-030d-4a7d-8c94-aa1b4c624aba",
+  "shortname": "النقد_بتجرد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"النقد بتجرد"},
+  "updated_at": "2014-05-06T18:24:41Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8fcf5be39fc0e59f14dffa9a5367f2591b637250",
+    "bytesize": 1122,
+    "body": "<span class=\"maqola_body\"> الرافعيُّ عند نقده يُجردُ قلمَه من كل اعتبارٍ مما تقوم به الصلاتُ بين الناس، ولكنه يعتذر من ذلك بقوله: <br>\" إنما نعملُ على إسقاطِ فِكرةٍ خطِرة، إذا هي قامت اليومَ بفلانٍ الذي نعرفه، فقد تكونُ غدًا فيمن لا نعرفُه؛ ونحن نردُّ على هذا وعلى هذا بردٍّ سواء، لا جهلُـنا مَن نجهلُه يُـلطِّـفُ منه، ولا معرفتُـنا مَن نعرفُـه تُبالغُ فيه.. فإن كان في أسلوبنا شيءٌ من الشدّة، أو العُنف، أو القول المُؤلِم، أو التهكُّم، فما أردنا ذلك، ولكنَّا كالذي يصفُ الرجلَ الضالَّ ليَمنَعَ المُهتدي أن يضلّ، فما به زجرُ الأول، بل عِظةُ الثاني\" ا. هـ.<br><br>&#160;مقدمةُ للأستاذ محمد سعيد العُريان لكتاب \"كلمةٌ وكُليمة\" للرافعي<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-05-06T14:13:29Z",
+  "attributes": {
+    "old_id": 882
+  },
+  "language": "ar",
+  "history": []
+}

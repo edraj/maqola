@@ -1,0 +1,46 @@
+{
+  "uuid": "faec7c05-d0e2-4f2a-9fdd-9a5ab3d9e54b",
+  "shortname": "العلماء_ثلاثة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العلماء ثلاثة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:862a33e05a2da85533f8bac4cb5437c6ed63f2f2",
+    "bytesize": 869,
+    "body": "<p>قال سفيان الثوري عن أبي حيان التيمي عن رجل قال: كان يقال العلماء ثلاثة : عالم بالله عالم بأمر الله ، وعالم بالله ليس بعالم بأمر الله ، وعالم بأمر الله ليس بعالم بالله . فالعالم بالله وبأمر الله : الذي يخشى الله تعالى ويعلم الحدود والفرائض ، والعالم بالله ليس بعالم بأمر الله : الذي يخشى الله ولا يعلم الحدود ولا الفرائض . والعالم بأمر الله ليس العالم بالله : الذي يعلم الحدود والفرائض ولا يخشى الله عز وجل \" انتهى من تفسير ابن كثير ( 4 / 729 )</p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "عربية",
+    "قاعدة أصولية",
+    "لُغة عربيّة",
+    "مَثَل"
+  ],
+  "created_at": "2015-05-01T00:25:30Z",
+  "attributes": {
+    "old_id": 1211
+  },
+  "language": "ar",
+  "history": []
+}

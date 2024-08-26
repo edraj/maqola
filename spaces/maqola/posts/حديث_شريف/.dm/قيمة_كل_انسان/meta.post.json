@@ -1,0 +1,42 @@
+{
+  "uuid": "8cd2a22c-1dc1-43bc-a2c3-0c2273fe1580",
+  "shortname": "قيمة_كل_انسان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قيمة كل انسان"},
+  "updated_at": "2014-03-07T20:06:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:76e91f99270c8e24f958448d3436970bb4854bb3",
+    "bytesize": 121,
+    "body": "<span class=\"maqola_body\"> <i><b>الناس كإبل مائة لا تجد فيها راحلة </b></i>.<br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "238464c9-bd9a-4028-8139-3196b1016575",
+    "shortname": "yosef_mohamad",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حَديثٌ شَريف"
+  ],
+  "created_at": "2014-03-07T20:06:54Z",
+  "attributes": {
+    "old_id": 863
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "21885b3e-0ada-4b65-9e84-2d6c965e65fc",
+  "shortname": "صون_العرض_بالمال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"صون العِرض بالمال"},
+  "updated_at": "2010-12-22T12:22:43Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:78e00be80f70cbeff32f7c5b3fa58dbc988e79ba",
+    "bytesize": 180,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أصونُ عِرضي بمالي لا أُدَنِّسُهُ -- لا باركَ الله بَعدَ العِرضِ بالمالِ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2010-12-22T12:22:43Z",
+  "attributes": {
+    "old_id": 409
+  },
+  "language": "ar",
+  "history": []
+}

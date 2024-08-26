@@ -1,0 +1,29 @@
+{
+  "uuid": "5c5c6c21-f924-4f9f-917d-ee899fa6e8e2",
+  "shortname": "أحمد_مطر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أحمد مطر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e52bda6df707373f7350f8f413004b3da59d0759",
+    "bytesize": 95,
+    "body": "رائعة من روائع أحمد مطر ، ذلك الشاعر العراقي الموهوب"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-06-09T17:47:58Z",
+  "attributes": {
+    "old_id": 466,
+    "old_entry_id": 490
+  },
+  "language": "ar"
+}

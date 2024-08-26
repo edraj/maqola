@@ -1,0 +1,29 @@
+{
+  "uuid": "3573a29e-43d8-4152-ae22-d1cfcf82680d",
+  "shortname": "مطابق_تماما",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مطابق تماما"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ac69a3677891cac48a995a4309b79d135c7cf42e",
+    "bytesize": 462,
+    "body": "السلام عليكم... هذه المقولة تطابق تمام وضع العراق الان-حسب رأيي- و حسبنا الله و نعم الوكيل لقد كان الناس يبغضون قائدها لما كان منه من قسوة علي الناس, لكن نحن الان نبكي علي تلك الايام, فشتان بين تلك الايام و هذه الايام. اللهم انصرنا,,,,,,اميييين  و السلام عليكم..."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-23T17:49:00Z",
+  "attributes": {
+    "old_id": 342,
+    "old_entry_id": 400
+  },
+  "language": "ar"
+}

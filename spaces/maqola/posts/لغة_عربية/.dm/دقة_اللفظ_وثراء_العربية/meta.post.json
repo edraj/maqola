@@ -1,0 +1,42 @@
+{
+  "uuid": "ee613820-20fc-4968-8129-88bbe65f2fdc",
+  "shortname": "دقة_اللفظ_وثراء_العربية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"دِقَّةُ اللفظِ وثَراءُ العربية"},
+  "updated_at": "2015-05-09T14:21:34Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b25c900704df424712c240db31380d97c99dda18",
+    "bytesize": 1163,
+    "body": "<p>\r\n\t<span style=\"font-size: ١.٥em;\">قيل لأبي العباس المبرد :<br>\r\n\tإنَّ في كلام العرب حشوا (والحشو هو فضلُ الكلامِ الذي لا خَيرَ فيه)، فإنَّهم يقولون : عبدُ الله قائمٌ، ثُم يقولون :إنّ عبدَ الله قائمٌ ، ثُم يقولون : إنّ عبدَ الله لَقائِمٌ، فالألفاظُ مُتَكرِّرَةٌ، والمعنى واحد.<br>\r\n\tفقال : بَل المعاني مُختَلِفة،<br>\r\n\tفقولهم : \"عبد الله قائم\"، إخبارٌ عَن قيامِه، (كأن يُقال، كان أهل البيت نياماً، وعبدالله قائم يُصلي.)<br>\r\n\tوقولهم : \"إنَّ عبد الله قائم\" ، جَوابٌ عَن سؤالِ سائل، (كأن يسأل أحدهم، ما يفعل عبدالله؟ فيجاب، إنّ عبدالله قائم.)<br>\r\n\tوقولهم : إنّ عبد الله لقائم، ردٌّ على مُنكِر. (كأن يقول شخص، عبدالله ليس قائما، فَيُرَدّ عليه - بالإنكار - إنّ عبدالله لقائم.)</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "لُغة عربيّة"
+  ],
+  "created_at": "2010-12-08T11:41:10Z",
+  "attributes": {
+    "old_id": 346
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "ad7d34ac-c61c-40dc-b59b-81e41c333f04",
+  "shortname": "ad7d34ac",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "ccb45cc6-9fb9-4fff-88d0-9e8ae35a6684",
+    "shortname": "azpili_cueta",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2016-01-19T22:47:01Z",
+  "attributes": {
+    "old_id": 1426,
+    "old_entry_id": 889
+  },
+  "language": "en",
+  "type": "like"
+}

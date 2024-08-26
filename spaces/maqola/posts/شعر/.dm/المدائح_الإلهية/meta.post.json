@@ -1,0 +1,43 @@
+{
+  "uuid": "aba67ec2-98d3-449b-8373-901d52f8f39c",
+  "shortname": "المدائح_الإلهية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المدائح الإلهية"},
+  "updated_at": "2010-10-18T19:17:14Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:806c3e2db25b18180ff50cbbdee3c695877e444b",
+    "bytesize": 517,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">فَلَيتَكَ تَحلو و الحَياةُ مَريرَةٌ - وَ لَيتَكَ تَرضى و الأَنامُ غِضابُ<br />\r\n\tو لَيتَ الَّذي بَيني و بَينَكَ عَامِرٌ - و بَيني و بَينَ العالَمينَ خَرابُ<br />\r\n\tإذا صَحَ مِنكَ الوِدُّ فالكُلُّ هَيِّنٌ - و كُلُّ الَّذي فَوقَ التُرابِ تُرابُ.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "006c8b35-3ae9-4d24-b176-f3a98d1b20b4",
+    "shortname": "رابعة_العدوية",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "مَدح"
+  ],
+  "created_at": "2010-10-18T19:17:14Z",
+  "attributes": {
+    "old_id": 80
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "1c6d0016-9fb4-4618-9283-7dbe4ec8413c",
+  "shortname": "العظماء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العظماء"},
+  "updated_at": "2013-05-02T18:59:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c5eee44ccbe1d4e2d68b4f19366ec047adec7fd0",
+    "bytesize": 556,
+    "body": "<p><span class=\"maqola_body\"> <br>قُل للذي بِصُروفِ الدّهرِ عَيَّرنا -- هَلْ عانَدَ الدَّهرُ إلا مِن لَهُ خَطَرُ </span></p>\r\n<p><span class=\"maqola_body\">كَم في السماءِ نُجومٌ ما لها عَدَدٌ -- وَ لَيسَ يُكسَفُ إلا الشمسُ و القَمَرُ </span></p>\r\n<p><span class=\"maqola_body\">أما تَرى البحرَ تَعلو فَوقَهُ جِيفٌ -- و يَستَقِرُّ بأقصى قَعرِهِ الدُّرَرُ! <br></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9942e56e-4480-4efc-84ba-11d0a2aa25dd",
+    "shortname": "mohammed_hababi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-05-02T11:43:09Z",
+  "attributes": {
+    "old_id": 593
+  },
+  "language": "ar",
+  "history": []
+}

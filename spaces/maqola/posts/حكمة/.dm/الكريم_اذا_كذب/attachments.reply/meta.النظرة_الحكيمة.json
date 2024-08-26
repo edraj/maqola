@@ -1,0 +1,29 @@
+{
+  "uuid": "5a45f7eb-4df8-4667-944c-986a66164ab7",
+  "shortname": "النظرة_الحكيمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"النظرة الحكيمة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9aa6e74f30b0c22b852fba210af6f2d58d0a3e95",
+    "bytesize": 284,
+    "body": "انا لاتغشنى الطيالس والحلى...كم فى الطيالس منم سقيم اجرب عيناك من اثوابه فى جنة     ...     ويداك من اخلاقه فى سبسب واذا بصرت به بصرط باشمط... واذا تحدثه تكشف عن صبى"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a9c9e887-54a1-4b46-a4ae-198abb678049",
+    "shortname": "king_ahmed",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-11-07T09:13:45Z",
+  "attributes": {
+    "old_id": 804,
+    "old_entry_id": 859
+  },
+  "language": "ar"
+}

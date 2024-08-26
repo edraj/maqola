@@ -1,0 +1,44 @@
+{
+  "uuid": "07d7ced6-a1aa-4e50-b697-849ce3b245ca",
+  "shortname": "خذلان_المكروبين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خُذلانُ المَكروبين"},
+  "updated_at": "2011-06-05T21:43:01Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:312662b5a920da7699c664319ea70da253aeb204",
+    "bytesize": 487,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كَم يَستَغيثُ بِنا المُستَضعَفونَ وَ هُم&#160; --&#160; قَتلى وأسرى فَما يَهتَزُّ إنسانُ!<br />\r\n\tألا نفوسٌ أبياتٌ لها هِمَمٌ&#160; --&#160; أما على الخَيرِ أنصارٌ وأعوانُ؟<br />\r\n\tلِمثلِ هذا يَذوبُ القلبُ مِن كَمَدٍ&#160; --&#160; إن كان في القَلبِ إِسلامٌ وإيمانُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2011-06-05T21:43:01Z",
+  "attributes": {
+    "old_id": 484
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "07810db3-182a-4b10-b09b-bca6abd64c20",
+  "shortname": "هل_يصلح_العطار_ما_أفسد_الدهر_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هَل يُصلِحُ العَطّارُ ما أفسَدَ الدَّهرُ؟"},
+  "updated_at": "2010-12-29T15:31:39Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:08cf11bffcbb66f193e6335755c5f5dee0a4fb7e",
+    "bytesize": 822,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">عَجوزٌ تُرجّى أنْ تَكونَ فَتيَّةً -- وَ قَد نَحَلَ الجَنبانُ و احدَودَبَ الظَّهرُ</span><br />\r\n\t<span style=\"font-size: 1.5em;\">تَدُسُّ إلى العَطّارِ تَبغي شَبابَها -- وَ هَل يُصلِحُ العَطّارُ ما أفسَدَ الدَّهرُ؟</span><br />\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">و</span><span style=\"font-size: 1.5em;\"> كان </span><span style=\"font-size: 1.5em;\">العطار في الماضي، خبير التجميل م</span><span style=\"font-size: 1.5em;\">ِن حِنّاءٍ وكُحلٍ وغيره.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">يُضربُ لِمَن يبحث عن الأمر وقد مضى أوانه.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "مَثَل"
+  ],
+  "created_at": "2010-12-29T15:31:39Z",
+  "attributes": {
+    "old_id": 428
+  },
+  "language": "ar",
+  "history": []
+}

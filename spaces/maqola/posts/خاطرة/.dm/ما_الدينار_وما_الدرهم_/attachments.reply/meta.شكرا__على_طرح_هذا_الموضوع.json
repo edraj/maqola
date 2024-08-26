@@ -1,0 +1,29 @@
+{
+  "uuid": "bd212079-ee9d-4cd3-a9eb-40093137950c",
+  "shortname": "شكرا__على_طرح_هذا_الموضوع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكرا ً على طرح هذا الموضوع"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:48da60af468ff40ac487e42d4dc1c3420493d8e5",
+    "bytesize": 634,
+    "body": "السلام عليكم شكرا ً جزيلا ً على تناول هذا الموضوع و شرحه بشكل مبسط لغير أولي الاقتصاد -من أمثالي-  كما أود أن أكبر فيكم التزامكم بالكتابة بلغة فصيحة و سليمة زيادة على كونها تحوي معلومات مفيدة جدا ً.  إلا أنني أود أن أشير إلى إلى خطأين نحويين: الخطأ: يكافِئُ اثنا عشر درهما الصواب: يكافِئُ اثني عشر درهما  الخطأ: وسماكته مليمترين الصواب: وسماكته مليمتران "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-27T12:03:05Z",
+  "attributes": {
+    "old_id": 355,
+    "old_entry_id": 422
+  },
+  "language": "ar"
+}

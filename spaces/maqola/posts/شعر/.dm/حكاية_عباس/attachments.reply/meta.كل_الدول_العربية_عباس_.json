@@ -1,0 +1,29 @@
+{
+  "uuid": "d9e3d4ef-ee2b-49e9-a7e5-79d6519feeb8",
+  "shortname": "كل_الدول_العربية_عباس_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كل الدول العربية \"عباس\""},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:997febb95a4683e74fe604208fdfe6e2e21467f9",
+    "bytesize": 276,
+    "body": "كل الدول و النظم و الحكومات العربية .... و هي تتنافس وتتسابق و تتكالب نحو التسلح ... و أكثر من ذلك استظهار أسلحتها وتلميع سيوفها... لا يمكن إلا أن تكون \\\"عباس\\\""
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-01T15:20:53Z",
+  "attributes": {
+    "old_id": 257,
+    "old_entry_id": 106
+  },
+  "language": "ar"
+}

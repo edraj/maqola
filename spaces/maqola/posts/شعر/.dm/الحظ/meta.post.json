@@ -1,0 +1,42 @@
+{
+  "uuid": "97338575-84fc-49b8-b4e8-bdc7d83724be",
+  "shortname": "الحظ",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحَظُّ"},
+  "updated_at": "2015-11-20T21:25:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:efad4cb360ff7acfdaf8e8183e2c2f163d919062",
+    "bytesize": 451,
+    "body": "<p>إِنَّ حَظِّـي ْكَدَقِيْـقٍ فَوْقَ شَـوْكٍ نَثَـرُوْهُ</p><p>ثُمُّ قَالُــوْا لِحُفَــاةٍ يَوْمَ رِيْحٍ اِجْمَعُــوْهُ</p><p>عَظِـمَ الأمْرُ عَلِيْهـمْ ثُمَّ قَالُـوْا أُتْرُكُـوْهُ</p><p>إِنَّ مَنْ أَشْقَاهُ رَبِّيْ كَيْفَ أنْتُمْ تُسْعِدُوْهُ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4a396cec-f540-4f4b-98f1-08ff3f27828d",
+    "shortname": "حسين_ال_لال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-11-20T21:24:25Z",
+  "attributes": {
+    "old_id": 1546
+  },
+  "language": "ar",
+  "history": []
+}

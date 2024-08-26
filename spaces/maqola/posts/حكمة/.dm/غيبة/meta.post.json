@@ -1,0 +1,41 @@
+{
+  "uuid": "1a65bb8a-1183-410f-8f75-b6c144c6c68a",
+  "shortname": "غيبة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"غيبة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:66e7a46e15c4746a61d46eb6e87e5ec5c6b58a05",
+    "bytesize": 243,
+    "body": "<p>من مقاصد المغتابين: أن يضحك جلساءه، أو يشفي غيظه. والحقيقة: أنه أضحك شيطانه عليه، وسيزداد غيظه حين يعلم أنه أعطى حسناته لمن اغتابه!</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f2cf48da-162a-42e4-afc3-409b34a5d366",
+    "shortname": "أم_شعيب_شعبة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-10-15T10:03:52Z",
+  "attributes": {
+    "old_id": 1524
+  },
+  "language": "ar",
+  "history": []
+}

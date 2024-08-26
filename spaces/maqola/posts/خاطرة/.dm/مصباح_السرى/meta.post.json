@@ -1,0 +1,43 @@
+{
+  "uuid": "c4408dce-b3d5-49d1-b6d5-a0183bbcd0d0",
+  "shortname": "مصباح_السرى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مصباح السرى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1cedef98601e4e5a7514ac97c96acf015083405e",
+    "bytesize": 1285,
+    "body": "<p style=\"text-align: center;\">قَضَيتُ لَيلِي قَارِئاً ***  وَ جَفَوتُ نَومِي سَاهِرا</p><p style=\"text-align: center;\"><br><br><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">قَضَيتُ لَيلِي قَارِئاً ***  وَ جَفَوتُ نَومِي سَاهِرا</p><p style=\"text-align: center;\"><span></span>أَغُوصُ فِي لُججِ العُلُو ..(م).. مِ بَاحِثاً متنوِّرَا</p><p style=\"text-align: center;\">قَلَمِي رَفِيقُ أَنَامِلِي *** طارداً عَنْهُ الكَرَى</p><p style=\"text-align: center;\">فَالحَمْدُ لِلهِ الّذِي *** وَهَبَ العُقُولَ منائِرَا</p><p style=\"text-align: center;\">ثُمَّ الصَلَاةُ عَلَى النَّبِيِّ *** مُحَمَّدٍ خيرِ الوَرَى</p><p style=\"text-align: center;\">وَ الشُكْرُ للجَمْعِ الّذِي*** كَانَ الدَّلِيلَ النَّيِّرَا</p><p style=\"text-align: center;\">أَعْطَى عُصَارَةَ فِكْرِهِ *** وَ ظَلَّ دَوماً ذَاكِرَا</p><p style=\"text-align: center;\">يضيء في غسق الدجى *** و يبيت مصباح السُرى</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "729dda88-c993-4da9-916c-c9ad227a7457",
+    "shortname": "آمال_هاشم_البرير",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "شِعر",
+    "مَدح"
+  ],
+  "created_at": "2015-02-13T17:06:20Z",
+  "attributes": {
+    "old_id": 1014
+  },
+  "language": "ar",
+  "history": []
+}

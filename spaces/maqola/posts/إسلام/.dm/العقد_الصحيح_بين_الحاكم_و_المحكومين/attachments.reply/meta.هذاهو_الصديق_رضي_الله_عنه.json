@@ -1,0 +1,29 @@
+{
+  "uuid": "d0bde76f-337b-44ee-b59d-3f6f0aea5862",
+  "shortname": "هذاهو_الصديق_رضي_الله_عنه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هذاهو الصديق رضي الله عنه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9f4be86b2e2ce58b215603853ca0feecd9a89e6e",
+    "bytesize": 99,
+    "body": "رضي الله عنه ، مبشر بالجنة و يتقي في الله كل شي شكرا لكم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-04-19T21:18:34Z",
+  "attributes": {
+    "old_id": 429,
+    "old_entry_id": 468
+  },
+  "language": "ar"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "a357fc17-cc06-4085-88be-2a2bbf02b111",
+  "shortname": "فلو_كان_فيهم_أنبياء_لافتتنوا_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فَلَوْ كَانَ فِيهِمْ أَنْبِيَاءٌ لافْتَتَنُوا!"},
+  "updated_at": "2015-02-16T01:44:52Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:03026c8af004347a5568ac6212668a3db514dd69",
+    "bytesize": 985,
+    "body": "<p style=\"margin-left: ٢٠px;\">\r\n\t<strong></strong>قال أبو الزاهية:\r\n</p><p style=\"margin-left: ٢٠px;\">\r\n\tإذَا قُذِفَ قَوْمٌ بِفِتْنَةٍ فَلَوْ كَانَ فِيهِمْ أَنْبِيَاءٌ لافْتَتَنُوا!\r\n</p><p style=\"margin-left: ٢٠px;\">\r\n\t يُنْزَعُ مِنْ كُلِّ ذِي عَقْلٍ عَقْلُهُ، وَمِنْ كُلِّ ذِي رَأْي رَأْيُهُ،وَمِنْ كُلِّ ذِي فَهْمٍ فَهْمُهُ، فَيَمْكُثُونَ مَا شَاءَ اللَّهُ،\r\n</p><p style=\"margin-left: ٢٠px;\">\r\n\tفَإِذَا بَدَا لِلَّهِ رَدَّ عَلَيْهِمْ عُقُولَهُمْ وَرَأْيَهُمْ وَفَهْمَهُمْ، فَيَتَلَهَّفُوا عَلَى مَا فَاتَهُمْ أو عَلَى مَا كَانَ مِنْهُمْ.\r\n</p><p style=\"margin-left: ٢٠px;\">\r\n\t[الفتن - نعيم بن حماد ١/٦٤].\r\n<strong></strong></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "edc28c01-56fe-4ae8-90d4-c8fdfe3bb104",
+    "shortname": "فتى_الكهالة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2015-02-16T01:33:11Z",
+  "attributes": {
+    "old_id": 1018
+  },
+  "language": "ar",
+  "history": []
+}

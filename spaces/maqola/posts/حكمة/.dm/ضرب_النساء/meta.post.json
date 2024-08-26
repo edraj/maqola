@@ -1,0 +1,43 @@
+{
+  "uuid": "f851d294-89f7-4cdd-9b2f-40fab219df5d",
+  "shortname": "ضرب_النساء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ضَربُ النِّساءِ"},
+  "updated_at": "2011-05-22T16:47:18Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a8368b347623bd5b6380bc76839b24a018b87f3f",
+    "bytesize": 477,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قال الشُّعيبي : كان لي جارٌ مِن كِندَةَ يُفزِعُ امرأتَهُ و يَضرِبُها، فَقُلتُ في ذلك :<br />\r\n\tرأيتُ رجالاً يَضرِبونَ نِساءَهُم -- فَشُلَّت يميني يوم تُضرَبُ زينبُ<br />\r\n\tفَزينبُ شَمسٌ والنساءُ كَواكِبٌ -- إذا طَلعت لم يَبدُ مِنهُنَّ كَوكَبُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "غَزَل"
+  ],
+  "created_at": "2011-05-22T16:47:18Z",
+  "attributes": {
+    "old_id": 475
+  },
+  "language": "ar",
+  "history": []
+}

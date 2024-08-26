@@ -1,0 +1,43 @@
+{
+  "uuid": "7d26ce44-8589-4ec5-a64a-2f7b4c18fc94",
+  "shortname": "ما_بين_تقدير_الأمور_و_المضي_فيها",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما بين تقدير الأمور و المضي فيها"},
+  "updated_at": "2011-07-29T13:53:25Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ca571f55f94be00322526b47db0efe4bf6ec3ee8",
+    "bytesize": 489,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">و لَعلَّ ما تَخشاهُ لَيسَ بِكائنٍ، ولعلَّ ما تَرجوهُ سَوفَ يَكونُ<br />\r\n\tولعلَّ ما هَوَّنتَ لَيس بِهَيّنٍ، ولعلَّ ما شدّدتَ سَوفَ يَهونُ</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">أبو العتاهية.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\">- من مساهمات زوار الموقع.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2011-07-29T13:53:25Z",
+  "attributes": {
+    "old_id": 501
+  },
+  "language": "ar",
+  "history": []
+}

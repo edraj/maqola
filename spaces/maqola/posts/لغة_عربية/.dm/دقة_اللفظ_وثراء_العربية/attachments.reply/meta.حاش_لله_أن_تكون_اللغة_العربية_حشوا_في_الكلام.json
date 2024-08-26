@@ -1,0 +1,29 @@
+{
+  "uuid": "73af1b1e-c5c9-4875-bf3f-bd769956517d",
+  "shortname": "حاش_لله_أن_تكون_اللغة_العربية_حشوا_في_الكلام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حاش لله أن تكون اللغة العربية حشوا في الكلام"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f4215e5ecbdfdfcc21418fcc62c34918dc79225e",
+    "bytesize": 222,
+    "body": "حاش لله أن يكون في اللغة العربية حشوا في الكلام وهي لغة القرآن. وحتى إن وجد الحشوفيها فمن سوء فهمها و استعمالها. دمتم طيبين."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-08T18:37:53Z",
+  "attributes": {
+    "old_id": 294,
+    "old_entry_id": 346
+  },
+  "language": "ar"
+}

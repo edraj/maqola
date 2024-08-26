@@ -1,0 +1,29 @@
+{
+  "uuid": "b68880f2-5d59-4476-bf31-8a2da3df3a85",
+  "shortname": "ياكل_كوني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ياكل كوني"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:810e29a7f7ba001c7e60484b83575e69d17aae98",
+    "bytesize": 187,
+    "body": "انت كل كوني يابعد كل شي  انت اخوي وانت الغالي  ياغالي الروح ياالغالي  ‏          بدي رايكم ضرووووووووووووري"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-09-07T07:01:13Z",
+  "attributes": {
+    "old_id": 664,
+    "old_entry_id": 26
+  },
+  "language": "ar"
+}

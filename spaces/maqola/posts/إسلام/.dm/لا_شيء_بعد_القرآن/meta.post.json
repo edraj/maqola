@@ -1,0 +1,42 @@
+{
+  "uuid": "3837c462-4857-43bd-a770-d2215aa4f58e",
+  "shortname": "لا_شيء_بعد_القرآن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا شيء بعد القرآن"},
+  "updated_at": "2013-08-04T16:35:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7e24ce39649f25e1e012e980f5fb4e9d979e069f",
+    "bytesize": 692,
+    "body": "<span class=\"maqola_body\"> <br> رأى النبي صلى الله عليه وسلم نسخة من التوراة مع عمر بن الخطاب رضي الله عنه فقال له ما هذا يا عمر؟<br>فقال عمر رضي الله عنه نسخة من التوراة يارسول الله.<br>فغضب الرسول صلى الله عليه وسلم وقال يا عمر أمتهوكون أنتم ؟ كما تهوكت اليهود والنصارى ( أي بمعنى متحيرون ومترددون كما تحيرت اليهود والنصارى ) لقد جئتكم بها بيضاء نقية ولو كان اخي موسى حياً ما وسعه إلا اتّباعي.<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2013-08-04T16:34:16Z",
+  "attributes": {
+    "old_id": 657
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,46 @@
+{
+  "uuid": "7d418d0d-9707-45aa-9e65-0ea37202eaaf",
+  "shortname": "رفقا_بالأبناء_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رفقاً بالأبناء!!"},
+  "updated_at": "2014-02-03T10:29:39Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:177a52f95d054a331cf09788bd5456dd828dbd69",
+    "bytesize": 381,
+    "body": "د.عبدالعزيز السدحان:<br> <br>\r\n قسوةُ الوالدينِ معَ أولادهم بغير حكمةٍ تولّدُ في نفسِ الابنِ جرحا لا يبرأ. وقد\r\n يتنامى ذلكَ معَ الابنِ كلما ازدادَ عمرهُ، فينقلبُ برهُ لوالديهِ عقوقا وقطيعة.<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "طُفولَة",
+    "قاعدة أصولية",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-03T10:29:32Z",
+  "attributes": {
+    "old_id": 773
+  },
+  "language": "ar",
+  "history": []
+}

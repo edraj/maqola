@@ -1,0 +1,44 @@
+{
+  "uuid": "e58d9a58-f8c3-4399-9ca4-e4cd6b8f4f3c",
+  "shortname": "سلسلة_مناهج_وضعت_لنا__3_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سلسلة مناهج وضعت لنا [ 3 ]"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:34064824a8dd0ef97e0dcbe9c6627d48daeb3804",
+    "bytesize": 696,
+    "body": "<p>حديث \" الخوارج كلاب النّار \" من الأحاديث المشهورة ، وهو مشهور بأبي غالبٍ عن أبي أمامة رضي الله عنه ، هو حديث منكر ولا يصح رفعه إلى رسول الله صلى الله عليه وسلم ، وجُلّ طرقه ترجع لحديث أبي غالب وهو منكر الحديث ، ولا يتقوى بالطرق الأخرى المجهولة والمرسلة والمنكرة .</p><p><br></p><p>‫#‏مناهج_وضعت_لنا‬</p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p><p>تابعوني على فيسبوك : ياقوت هداه الله</p><p><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف",
+    "مَثَل"
+  ],
+  "created_at": "2015-07-15T07:58:05Z",
+  "attributes": {
+    "old_id": 1399
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,47 @@
+{
+  "uuid": "7ed57b94-0f7d-4347-b0a1-4b3a99fb81f4",
+  "shortname": "الحمق_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحمق!!!!"},
+  "updated_at": "2014-02-09T14:32:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b76fce299a2fe7e0f914625dc68a846ac980512d",
+    "bytesize": 553,
+    "body": "أتى رجلٌ إلى الأحنفِ (سيد تميم) فلطمهُ ، فقالَ الأحنف: <br> ما حملكَ على هذا؟ <br> فقالَ: جُعلَ لي جعلاً على أنْ ألطمَ سيد تميم .<br>\r\n  فقالَ : لستُ بسيدهم إنما سيدهم حارثةُ بن قدامة، - وكانَ حارثة جباراً سريعَ\r\n الغضب - فمضى إليهِ فلطمهُ ، فقطع يده، فقال الرجل : قطعت يدي بحلمِ الأحنفِ \r\nوحمقي.<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-09T14:32:31Z",
+  "attributes": {
+    "old_id": 826
+  },
+  "language": "ar",
+  "history": []
+}

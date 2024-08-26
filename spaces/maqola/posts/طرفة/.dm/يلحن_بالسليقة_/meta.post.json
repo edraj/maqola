@@ -1,0 +1,43 @@
+{
+  "uuid": "58241ef9-0662-4b56-8a2e-6dff21d2a5c2",
+  "shortname": "يلحن_بالسليقة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يلحن بالسليقة،"},
+  "updated_at": "2010-12-07T21:36:51Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:259c8913bf2a44894c947c6f50a9d489c46796f9",
+    "bytesize": 716,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">طرَقَ أعرابيٌّ بابَ الحَسنَ البَصري قائِلاً :<br />\r\n\tيا أبو سعيد... فَلَم يُجِبهُ الحَسنُ،<br />\r\n\tثُمَّ طرَقَ ثانيةً، يا أبي سعيد ....<br />\r\n\tفَرَدَّ الحسنُ البصري عَليه مِن الداخِل : قُلْ الثالثةَ وادخل.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">(لَحَنَ الأعرابي في الأولى والثانية، لذلك اغتاظ منه الحسن، فلم يتبق إلا احتمال ثالث واحد، وهو &quot;يا أبا سعيد&quot;)</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2010-12-07T21:36:51Z",
+  "attributes": {
+    "old_id": 333
+  },
+  "language": "ar",
+  "history": []
+}

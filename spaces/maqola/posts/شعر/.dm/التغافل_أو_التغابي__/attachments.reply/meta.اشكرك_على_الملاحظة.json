@@ -1,0 +1,29 @@
+{
+  "uuid": "7cdabb16-085b-4806-82a5-c1a23d20b1f3",
+  "shortname": "اشكرك_على_الملاحظة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ِاشكرك على الملاحظة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:033410b546c75e2bac2d6670a1f15a3dcc020f02",
+    "bytesize": 135,
+    "body": "ولكن هل لك ياسيدي أن تلفت انتباهنا الى ما سقط منا وسنقوم باصلاحه على الفور."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T08:27:03Z",
+  "attributes": {
+    "old_id": 63,
+    "old_entry_id": 138
+  },
+  "language": "ar"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "8dbff6aa-d609-43a0-8e34-7778e4a755b9",
+  "shortname": "النساء_شقائق_الرجال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"النِّسَاءُ شَقَائِقُ الرِّجالِ"},
+  "updated_at": "2010-12-04T12:22:48Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f051d6119629c35735208827b7b31cf54bfc0544",
+    "bytesize": 694,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">الشقائِقُ‏:‏ جَمْعُ شَقيقَة، وهي كُلُّ ما يُشَقُّ باثنين، ومعنى المثل أنَّ النِساءَ مِثلُ الرِّجالِ وشُقَّتْ مِنهُم، فَلَهُنَّ مِثلُ ما عَليهِنَّ مِن الحُقوق‏.‏<br />\r\n\tوقَد جاءَ هذا المثلُ في كتابِ مَجمعِ الأمثالِ للمَيداني &quot; النِّسَاءُ شَقَائِقُ الأقوامِ&quot; وأرادَ بالأقوامِ الرجالَ، على قَولِ مَن يقول‏:‏ القومُ يَقعُ على الرجالِ دونَ النِساء.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-12-04T12:22:48Z",
+  "attributes": {
+    "old_id": 305
+  },
+  "language": "ar",
+  "history": []
+}

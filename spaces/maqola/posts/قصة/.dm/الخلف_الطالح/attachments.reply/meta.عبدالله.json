@@ -1,0 +1,29 @@
+{
+  "uuid": "9b2d6077-34e1-471a-a37f-9c069360871a",
+  "shortname": "عبدالله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عبدالله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2e9ac5ed6e0d9bd4ec672225b8056b7961761a45",
+    "bytesize": 89,
+    "body": "رحم الله الطبري , فكيف لو أدرك من نحن بين ظهرانيهم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-15T19:01:26Z",
+  "attributes": {
+    "old_id": 311,
+    "old_entry_id": 110
+  },
+  "language": "ar"
+}

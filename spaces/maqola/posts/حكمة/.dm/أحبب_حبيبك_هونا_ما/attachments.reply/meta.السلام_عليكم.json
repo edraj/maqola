@@ -1,0 +1,29 @@
+{
+  "uuid": "89f62b20-458a-404d-8724-3cf034dfacf2",
+  "shortname": "السلام_عليكم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السلام عليكم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d7261b8cce8e666b3d7a263493f40d4e158ed706",
+    "bytesize": 223,
+    "body": "ههذ الحكمة يقولها صديق لي كالتالي احبب حبيبك هونا ما عسى أن يكون بغيضك يوما ما وابغض بغيضك هونا ما عسى أن يكون حبيبك يوما ما"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-01-16T15:30:22Z",
+  "attributes": {
+    "old_id": 387,
+    "old_entry_id": 350
+  },
+  "language": "ar"
+}

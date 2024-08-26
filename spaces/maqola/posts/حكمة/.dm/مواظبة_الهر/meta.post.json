@@ -1,0 +1,43 @@
+{
+  "uuid": "df5dd9a1-d643-4581-85a1-fc5d0f5c7934",
+  "shortname": "مواظبة_الهر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مُواظَبَةُ الهِرّ"},
+  "updated_at": "2011-06-05T21:37:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:401f98bfbbfafaa0afd9befec89d3fd67c258798",
+    "bytesize": 820,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قالَ عَجلانُ مولى زيادٍ وحاجِبُه : دَخلَ زيادٌ ذاتَ يَومٍ إلى مَجلِسِه - وكُنتُ أمشي أمامَهُ - فإذا هو بِهرٍّ في زاويَةِ البيت، فذهَبتُ أزجُرُه، فقال : دَعهُ يُقارِبُ ما لَهُ. ثُمَّ صَلّى الظُهرَ وعاد إلى مَجلسِه، ثُمَّ صلى العَصرَ وعاد إلى مَجلسه، وكُلُّ ذلكَ وهوَ يُراقِبُ الهِرّ. فَلمّا كان قُبَيلَ الغروبِ خرجَ جُرذٌ فوَثبَ عليهِ فأخَذَه. قال زياد : من كانت لَهُ حاجَةٌ فَليواظِب عليها مواظبةَ الهرّ يَظفَرُ بها.</span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2011-06-05T21:37:19Z",
+  "attributes": {
+    "old_id": 482
+  },
+  "language": "ar",
+  "history": []
+}

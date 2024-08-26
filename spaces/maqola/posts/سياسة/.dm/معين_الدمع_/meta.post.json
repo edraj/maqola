@@ -1,0 +1,43 @@
+{
+  "uuid": "5aee1b43-d4e9-4249-b727-ead7d4508b99",
+  "shortname": "معين_الدمع_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مَعينُ الدَّمعِ ،،،"},
+  "updated_at": "2010-11-26T12:51:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:adad6406da57c9d61351352b32ea682627b1d8ee",
+    "bytesize": 1888,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">مَعينُ الدَّمعِ لَنْ يَبقى مَعينا&#160; -- &#160; فَمِنٍ أيِّ المَصائِبِ تَدْمَعينا<br />\r\n\tزَمانٌ هَوَّنَ الأحرارَ مِنّا&#160; -- &#160; فُديتِ وَحَكَّمَ الأنْذالَ فينا<br />\r\n\tمَلأنا البَرَّ مِنْ قتلى كِرامٍ&#160; -- &#160; على غَيرِ الإهانةِ صابِرينا<br />\r\n\tكأنَّهُمُ أتوا سُوقَ المنايا&#160; -- &#160; فَصاروا يَنظُرونَ ويَنتَقونا<br />\r\n\tلَو انَّ الدَّهرَ يَعرِفُ حَقَّ قَومٍ&#160; -- &#160; لَقَبَّلَ مِنهُمُ اليَدَ والجَبينا<br />\r\n\tعَرفنا الدَّهرَ في حاليهِ حَتَّى&#160; -- &#160; تَعَوَّدناهُما شَدَّا ولينا<br />\r\n\tفَما رَدَّ الرِثاءُ لنا قَتيلاً&#160; -- &#160; ولا فَكَّ الرَّجاءُ لنا سَجينا<br />\r\n\tسَنَبحَثُ عَنْ شَهيدٍ في قِماطٍ&#160; -- &#160; نُبايعُهُ أميرَ المؤمِنينا<br />\r\n\tونَحمِلُهُ على هَامِ الرَّزايا&#160; -- &#160; لِدَهرٍ نَشتَهيهِ ويَشتَهينا<br />\r\n\tفإنَّ الحقَّ مُشتاقٌ إلى أنْ&#160; -- &#160; يَرى بَعضَ الجَبابرَ ساجِدينا</span></p>\r\n<div>\r\n\t<object height=\"385\" width=\"480\"><param name=\"movie\" value=\"http://www.youtube.com/v/WVU5N4n0lF4?fs=1&amp;hl=en_US&amp;rel=0\" /><param name=\"allowFullScreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><embed allowfullscreen=\"true\" allowscriptaccess=\"always\" height=\"385\" src=\"http://www.youtube.com/v/WVU5N4n0lF4?fs=1&amp;hl=en_US&amp;rel=0\" type=\"application/x-shockwave-flash\" width=\"480\"></embed></object></div>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "0dc9e3ca-03ed-45ca-8c03-a0f85491ed2e",
+    "shortname": "تميم_البرغوثي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-25T19:11:02Z",
+  "attributes": {
+    "old_id": 230
+  },
+  "language": "ar",
+  "history": []
+}

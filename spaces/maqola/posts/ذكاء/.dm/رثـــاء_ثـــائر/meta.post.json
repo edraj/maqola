@@ -1,0 +1,46 @@
+{
+  "uuid": "818f53fd-4785-4b19-9d49-87b3c8d9853b",
+  "shortname": "رثـــاء_ثـــائر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رثـــاء ثـــائر"},
+  "updated_at": "2015-07-20T11:18:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c63167db052c9a74b80c19e7f9f5c942e0976025",
+    "bytesize": 1813,
+    "body": "<p>شئت أن أودعك، فانكمش قلبي وارتجف<br>ضجت عيناي دموعا في وطن جله جيف<br>قـدر رحيـلك<br>يا عزيز النفس وما شاء من فؤادي نتف<br>أيا مـوت، ما بال طـريقك انحرف!؟<br>أما اشتهيت، إلا مــن على وتر الحق عزف!؟  <br>أما وجدت، إلا من كانت ثروته، خزينة شرف!؟<br>أما طمعت إلا في<br>من أشاد العالم بعلمه واحتراما له وقــف!؟<br>أما حنيت، إلا لمن عافه وطنه ولعقله قذف!؟<br>•••••••••••••••••••••••• <br>فيا طفلا ببراءته <br>و يا ليثا بشجاعته<br>ويا بـحرا بثقافته<br>••••••••••••••••••••••••<br>آن لهذه الضباع أن تستكين<br>آن لعويلها المبحوح أن يستعمر إعلام الدكاكين<br>آن لأنيابـها أن تسحق عظام المساكــين<br>•••••••••••••••••••••••••<br>أبشروا بنفاقكم يا عكـاكيز السلاطــــين<br>هللوا برجسكم  يا أغـلام الشـياطــــــين<br>ابتهجوا يا زمرة<br>(المراهقين،المنافقين،الفاسقين المارقين النزقين)<br>الســــــــــــــاقـــــــطـــــــــــــ­ـــــــــــــــــين<br>فقد اخترق وَحْلَ حصاركم، لحرمة الـطين<br><br><br></p><p>صدام درويش</p><p><br></p><p><iframe src=\"//www.youtube.com/embed/mc43R_XPg9I\" allowfullscreen=\"\" frameborder=\"0\" height=\"281\" width=\"500\"></iframe></p><p><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "ذَكاء",
+    "رِثاء",
+    "شَجاعَة",
+    "شِعر",
+    "عربية"
+  ],
+  "created_at": "2015-07-20T10:58:02Z",
+  "attributes": {
+    "old_id": 1414
+  },
+  "language": "ar",
+  "history": []
+}

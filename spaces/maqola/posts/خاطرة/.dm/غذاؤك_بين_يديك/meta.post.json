@@ -1,0 +1,42 @@
+{
+  "uuid": "41e6859d-911b-441f-b957-987cd4282bed",
+  "shortname": "غذاؤك_بين_يديك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"غذاؤك بين يديك"},
+  "updated_at": "2014-12-03T08:57:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:40a3eb34689cd0df660da92dfc6382989907c7d8",
+    "bytesize": 358,
+    "body": "<span class=\"maqola_body\"> <br> غذاؤك بين يديك , نعم إنه فى متناول إمكانياتك مهما كنت فقيرا , فكثرة النظر فى كتاب الله وإدمان الذكر هما غذاء لروحك وكذا غذاء لجسدك .  </span><div><span class=\"maqola_body\">الكاتب : نبيل جلهوم ,,,</span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-12-03T08:57:15Z",
+  "attributes": {
+    "old_id": 936
+  },
+  "language": "ar",
+  "history": []
+}

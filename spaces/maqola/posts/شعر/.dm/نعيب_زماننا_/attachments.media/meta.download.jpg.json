@@ -1,0 +1,18 @@
+{
+  "uuid": "9b6da297-5f4a-44fb-bfbe-31a9ef1fe600",
+  "shortname": "download.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:84cbd02c8598755caa1934cc0c4d50f3d2329fdb",
+    "bytesize": 9166,
+    "body": "download.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:10+03:00",
+  "attributes": {
+    "old_id": 96
+  },
+  "language": "en"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "e93aaa6e-676a-456f-a60c-d9855a3d9eda",
+  "shortname": "الشجاع_والجريء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الشجاع والجريء"},
+  "updated_at": "2014-03-01T15:32:25Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:456e7be05b94e27e8d600c48e71ec58c21328e0c",
+    "bytesize": 258,
+    "body": "<span class=\"maqola_body\"> <br> إِنَّ الشُّجَـاعَ هُـوَ الجَبَـانُ عَنِ الأَذَى <br> وأَرَى الجَـرِيءَ عَلَى الشُّـرُورِ جَبَـانَا <br> <br> ( أحمد شوقي )<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2014-03-01T15:32:19Z",
+  "attributes": {
+    "old_id": 849
+  },
+  "language": "ar",
+  "history": []
+}

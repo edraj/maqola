@@ -1,0 +1,42 @@
+{
+  "uuid": "645e8874-bf39-40f6-ac28-0b6b42c845ce",
+  "shortname": "لا_تشاور_هؤلاء_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تُشاوِرْ هَؤلاء!"},
+  "updated_at": "2011-01-05T18:34:57Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ef70324d3c3cdf6ed01ebb29d8c99c2229457c33",
+    "bytesize": 1322,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قال قيسٌ لابنِه: لا تُشاوِرَنَّ مَشغولاً وإنْ كان حازماً، ولا جائعاً وإنْ كان فهيماً، ولا مَذعوراً وإنْ كان ناصحاً، ولا مَهموماً وإن كان فَطِناً، فالهَمُّ يَعقِلُ العَقلَ (أي يربِطُه ويُقَيِّدُه)، ولا يَتَوَلَّدُ مِنه رأيٌ، ولا تَصدُقُ مِنهُ رَوية. وقيل: لا تُدخِلْ في مَشورَتِكَ بَخيلاً فَيُقصِّرُ بِفِعلِك، ولا جباناً فَيُخَوِّفُكَ، ولا حريصاً فَيَعِدُكَ ما لا يُرتَجى؛ فالجبنُ والبُخلُ والحِرصُ طَبيعَةٌ واحدة، يَجمعُها سوءُ الظن. وقيل: لا تُشاوِرْ مَن لَيسَ في بَيتِهِ دقيق. وكانَ كِسرى إذا أرادَ أنْ يَستَشيرَ إنساناً بَعثَ إليهِ بِنَفَقَةٍ سَنةً ثُمَّ يَستَشيرُه.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من كتاب &quot;مُحاضراتُ الأُدباءِ&quot;&#160; للراغِبِ الأَصْفَهاني. </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2011-01-05T18:32:07Z",
+  "attributes": {
+    "old_id": 442
+  },
+  "language": "ar",
+  "history": []
+}

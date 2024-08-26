@@ -1,0 +1,42 @@
+{
+  "uuid": "34a5d507-5f56-4f22-8261-6386380b2eed",
+  "shortname": "مالكم_تكأكأتم_علي_كتكأكئكم_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مالكم تكأكأتم علي كتكأكئكم.....!!!!"},
+  "updated_at": "2013-11-19T15:44:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e854c6b26baec75eb4cc9c901d3173c67428a92d",
+    "bytesize": 1570,
+    "body": "<span class=\"maqola_body\"> <b>عيسى\r\n بن عمر النحوي الثقفي البصري مولى خالد ابن الوليد نزل في ثقيف فنسب إليهم\r\n وكان صاحب غريب في لفظه ونحوه وحكى أنه سقط عن حمار فاجتمع عليه الناس \r\nفقال : ((مالكم <a href=\"http://www.safa-tv.net/vb/showthread.php?t=17887\"> تكأكأتم </a> على كتكأكئكم على ذي جنة افرنقعوا عني)) معناه <a href=\"http://www.safa-tv.net/vb/showthread.php?t=17887\"> مالكم </a>\r\n تجمعتم على كتجمعكم على مجنون افترقوا عني فقالوا أن شيطانه هندي وهو شيخ \r\nسيبويه وله كتاب الجامع في النحو وهو المنسوب إلى سيبويه وله أيضا الإكمال \r\nوصنف نيفا وسبعين كتابا في النحو ولم يبق منها سوى الجامع والإكمال لأنها \r\nكانت احترقت إلا هذين وكان سيبويه رحل إليه وعاد ومعه الجامع فسأله الخليل \r\nعن عيسى فأخبره بأخبار وأراه الجامع فقال الخليل<br>\r\n<br>\r\nذهب النحو جميعا كله ،،، غير ماأحدث عيسى بنعمر<br>\r\nذاك إكمال وهذا جامع ،،، وهما للناس شمس وقمر<br>\r\n<br>\r\nوهو شيخ سيبويه والخليل وأبى عمرو بن العلاء وعيسى هذا هو الذي هذب النحو ورتبه.<br>\r\n<br>\r\n(شذرات الذهب)سنة (149)</b><br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "53835417-1f9b-4016-8d47-08e23102536c",
+    "shortname": "sherwan_abubakr",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2013-11-19T15:44:17Z",
+  "attributes": {
+    "old_id": 715
+  },
+  "language": "ar",
+  "history": []
+}

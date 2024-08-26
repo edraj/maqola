@@ -1,0 +1,44 @@
+{
+  "uuid": "2c381274-2d22-4478-8d27-9d03ac83daf8",
+  "shortname": "يا_أيها_النمل_ادخلوا_مساكنكم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يا أيها النملُ ادخلوا مساكنكم"},
+  "updated_at": "2010-12-15T17:52:29Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:531c0b5b29ba9a0b04ae716646b792e37aa8d9b6",
+    "bytesize": 1959,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">{ </span><span style=\"font-size: 1.5em;\">حَتَّى إِذَا أَتَوْا عَلَى وَادِي النَّمْلِ قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ</span><span style=\"font-size: 1.5em;\"> } النمل 18<br />\r\n\t<br />\r\n\tيقولون أن هذه النملة جمعت ثلاثة عشر أمرا،<br />\r\n\tأَحَسَّتْ : أحست بِوجودِ الخطر<br />\r\n\tوبادرت : بادرت بإبلاغ النمل بما سيأتي<br />\r\n\tونادت : يا<br />\r\n\tونبهت : أيها<br />\r\n\tوأمرت : ادخلوا<br />\r\n\tونهت : لا يحطمنكم (وإلا فسيحطمكم سليمان وجنوده)<br />\r\n\tوأكدت : نون التوكيد في يحطمنكم.<br />\r\n\tونصحت : نصحت بنوع الفعل الواجب عمله<br />\r\n\tوبالغت : يحطمنكم كلكم<br />\r\n\tوبينت : من الذي أتى بالخطر<br />\r\n\tوأنذرت : أنذرت النمل<br />\r\n\tوأعذرت : وهم لا يشعرون<br />\r\n\tونفت : لا يشعرون<br />\r\n\t<br />\r\n\tفسبحان مَن ألفَّ العِبارة، عِلما أنَّ في هذه الآيةِ مِن الإعجاز ما لا يَنفَكُّ الإنسانُ مِن إدراكِ معنى جديد كُلما تَفَكَّر فيها.</span></p>\r\n<div>\r\n\t<object height=\"385\" width=\"480\"><param name=\"movie\" value=\"http://www.youtube.com/v/06iiUQdyuDo?fs=1&amp;hl=en_US&amp;rel=0\" /><param name=\"allowFullScreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><embed allowfullscreen=\"true\" allowscriptaccess=\"always\" height=\"385\" src=\"http://www.youtube.com/v/06iiUQdyuDo?fs=1&amp;hl=en_US&amp;rel=0\" type=\"application/x-shockwave-flash\" width=\"480\"></embed></object></div>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a29a922d-1dde-479f-9695-99f32c7b58a4",
+    "shortname": "تنزيل_العزيز_الحكيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2010-12-15T17:47:34Z",
+  "attributes": {
+    "old_id": 373
+  },
+  "language": "ar",
+  "history": []
+}

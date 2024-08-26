@@ -1,0 +1,41 @@
+{
+  "uuid": "3c1daa52-5c9f-47b6-8293-fe16332a2081",
+  "shortname": "حق_النعمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حقُّ النعمةَ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f72f74c228d58d3f6fb7a60ebf7ef1ca4ef7b6fd",
+    "bytesize": 208,
+    "body": "<h2><span style=\"color: rgb(149, 55, 52);\">((حقُّ النعمةِ أن تُحْسِنَ لباسَها ، وتنسبها إلى ولـيّها ، وتذكر ماتناسـى عندك منها))</span></h2>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "732a8ec6-56c8-4047-a59d-cde43aaecce8",
+    "shortname": "abdulmlik_mk",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-05-26T11:59:02Z",
+  "attributes": {
+    "old_id": 1301
+  },
+  "language": "ar",
+  "history": []
+}

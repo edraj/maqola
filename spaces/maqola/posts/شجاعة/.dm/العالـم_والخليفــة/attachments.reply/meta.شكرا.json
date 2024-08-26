@@ -1,0 +1,29 @@
+{
+  "uuid": "ca5fbfe2-1c64-4fa2-bfce-d2b3dcec01ee",
+  "shortname": "شكرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكرا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:08ac78e1e113dfc997f73e1e6b86e0707ada083a",
+    "bytesize": 57,
+    "body": "قصة رائعة وجزيتم خيرا على نشرها"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-10T21:16:58Z",
+  "attributes": {
+    "old_id": 93,
+    "old_entry_id": 35
+  },
+  "language": "ar"
+}

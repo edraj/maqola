@@ -1,0 +1,44 @@
+{
+  "uuid": "27985e86-3bbe-4f06-8329-63aafde0843c",
+  "shortname": "لعينيك_سأرسم_اسمك_بعنوان_قصيدة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لِعَينيك سأرسم اسمك بعنوان قصيدة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0fb4695e891faa8050197737a96fcbed359a7256",
+    "bytesize": 387,
+    "body": "<p>كلما اشتَقُتك عمّدت القمر بعنّات الخيزران ..<br> في حضرة روحك سأفتح عيني لتضُم نظراتي ظِلُك ..<br> لِعَينيك سأرسم اسمك بعنوان قصيدة ، وأختمه بسكون القبل ..<br> وأجمع ما تبقى من عقارب الشوق ، وأنسج ثوب لقيآك ..<br><br>بيسار</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "رِثاء",
+    "عربية",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-19T14:20:08Z",
+  "attributes": {
+    "old_id": 1040
+  },
+  "language": "ar",
+  "history": []
+}

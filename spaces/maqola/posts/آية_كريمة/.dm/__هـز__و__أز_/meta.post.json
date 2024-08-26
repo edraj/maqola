@@ -1,0 +1,43 @@
+{
+  "uuid": "a2b31af2-63ec-48f6-a302-dc4a4af00740",
+  "shortname": "__هـز__و__أز_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"( هَـزَّ ) وَ ( أَزَّ )"},
+  "updated_at": "2015-03-22T11:38:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a11d998f62bb364985d1d71b3d9619807a9261d5",
+    "bytesize": 1382,
+    "body": "<p>\r\n\tمِنْ أسْرَارِ اللُّغَةِ العَرَبِيَّةِ\r\n</p><p>\r\n\tالعَلَاقَةُ بَيْنَ قُوَّةِ الحَرْفِ وَقُوَّةِ المَعْنَى، مِثَالُ ذَلِكَ:-\r\n</p><p>\r\n\t« هَـزَّ » وَ « أَزَّ » يُفِيْدَانِ الدَّفْعَ ...\r\n</p><p>\r\n\tوَلَكِنَّ « الهاءَ » حَرْفٌ ضَعِيْفٌ، فَأَفَادَ الدَّفْعَ بِرِفْقٍ ...\r\n</p><p>\r\n\tو « الهَمْزَةُ » حَرْفُ شِدَّةٍ وَقُوَّةٍ، فَأَفَادَ الدَّفْعَ بِقُوَّةٍ وَشِدَّةٍ ...\r\n</p><p>\r\n\tولذَلكَ قَالَ تَعَالى في حَقِّ مَرْيَمَ عَليْهَا السَّلامُ:\r\n</p><p>\r\n\t﴿ وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ ﴾ ، أيْ ادْفَعي بِرِفْقٍ ...\r\n</p><p>\r\n\tبينَمَا في حَقِّ تَسَلُّطِ الشَّيَاطِيْن عَلى الكافِريْنَ، قَال:\r\n</p><p>\r\n\t﴿ أَلَمْ تَرَ أَنَّا أَرْسَلْنَا الشَّيَاطِينَ عَلَى الْكَافِرِينَ تَؤُزُّهُمْ أَزًّا ﴾ ، أَيْ تَدْفَعُهُمْ بِشِدَّةٍ وَقُوَّةٍ ...\r\n</p><p><br></p><p>\r\n\tاللهم اصْرِف عَنَّا أَزَّ الشَيْطَان.\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-03-22T11:37:11Z",
+  "attributes": {
+    "old_id": 1121
+  },
+  "language": "ar",
+  "history": []
+}

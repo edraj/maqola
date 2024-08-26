@@ -1,0 +1,42 @@
+{
+  "uuid": "a675e75c-f2ac-4bee-a9a1-0e50f1ef5864",
+  "shortname": "سقوط_الأندلس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سقوط الأندلس"},
+  "updated_at": "2010-11-11T18:38:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b9b4f7505efae9a73189ef32e558ec076e1f97bc",
+    "bytesize": 954,
+    "body": "<p style=\"font-family: sans-serif; font-size: 1em;\">\r\n\tمن مَسرَحِيَّة شِعريَّة عن سقوط الأندَلُس، أبياتٌ في غاية البلاغة والتعبير،</p>\r\n<p style=\"font-size: 1.5em; font-family: UthmanTN1;\">\r\n\tيا قَومُ إنَّ المَوتَ حَقٌ فَلنَمُت، - شُهَدَاءَ يَحصِدُنَا الرَدى فَيُفاخِرُ<br />\r\n\tو لِيَمضِ مِنَّا للسَّماءِ مُرابِطٌ - ومُجاهِدٌ مُستَشهِدٌ و مُصابِرُ<br />\r\n\tكُنّا طَلائِعَ للوَرى فَعُلُومُنا - وفُنونُنا شِرَعٌ لَهم وَ مَصادِرُ<br />\r\n\tرأوا بأَعيُنِنا الحَياةَ فَلَيتَهُم - يَرَونَ كَيفَ يَموتُ شَعبٌ كابِرُ<br />\r\n\tشُدّو فإن تَنكِصوا أو تثّاقَلوا - حَمَلَ اللِواءَ كَرائِمٌ وحَرائرُ</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-10-18T12:42:02Z",
+  "attributes": {
+    "old_id": 78
+  },
+  "language": "ar",
+  "history": []
+}

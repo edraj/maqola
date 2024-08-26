@@ -1,0 +1,51 @@
+{
+  "uuid": "411c11c8-feb5-4ea8-92e6-4cc8b8455fea",
+  "shortname": "الأمير_الشهابي_وخادمه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الأمير الشهابي وخادمه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7bcb71411944d3aba76397fc652a8011c840b7ca",
+    "bytesize": 899,
+    "body": "<p>قال الأمير الشهابي لخادمه يوماً : \" تَميلُ نفسي إلى أكلة باذنجان . فقال الخادم : الباذنجان! بارك الله في الباذنجان! هو سيدُ المأكولات ، شحمٌ بلا لحم ، سمكٌ بلا حسك ، يُؤكل مقلياً ويؤكل مشويّاً ، يؤكل كذا ويؤكل كذا. فقال الأمير : ولكن أكلت منه قبل أيام فنالني كَرْب ( أي توجعت منه ). فقال الخادم : الباذنجان! لعنة الله على الباذنجان! فإنه ثقيل غليظ نفّاح. فقال الأمير : ويحك! تَمدَحُ الشيءَ وتذمُّه في وقت واحد ؟!! \".</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "ذَكاء",
+    "طُرفَة",
+    "غَزَل",
+    "فَصاحَة",
+    "قَدح",
+    "قِصّة",
+    "كَرَم",
+    "لُغة عربيّة",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-08-04T02:06:45Z",
+  "attributes": {
+    "old_id": 1461
+  },
+  "language": "ar",
+  "history": []
+}

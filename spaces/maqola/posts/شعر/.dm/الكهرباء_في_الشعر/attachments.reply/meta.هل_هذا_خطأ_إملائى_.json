@@ -1,0 +1,29 @@
+{
+  "uuid": "48371e7d-348c-42a0-b868-60497edfad31",
+  "shortname": "هل_هذا_خطأ_إملائى_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هل هذا خطأ إملائى ؟"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7fe26bea4f2656497cdd2c4b38626ead600e9cdd",
+    "bytesize": 109,
+    "body": "قولٌ ولا بجري عَليهِ مِثالُ أم قولٌ ولا يجري عَليهِ مِثالُ ؟"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-11T21:21:28Z",
+  "attributes": {
+    "old_id": 541,
+    "old_entry_id": 522
+  },
+  "language": "ar"
+}

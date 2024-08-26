@@ -1,0 +1,43 @@
+{
+  "uuid": "7ded52ff-d3ca-4d87-bddd-85daf72a202c",
+  "shortname": "الرئيس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الرئيس"},
+  "updated_at": "2011-08-06T20:03:46Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fc3e482dd878d85b552b2d061645ff5588424f5a",
+    "bytesize": 683,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أنا لَو كُنتُ رَئيساً عَربيّاً<br />\r\n\tلَحلَلتُ المُشكِلَة …<br />\r\n\tو أَرحتُ الشَّعبَ مِمّا أثقَلَه …<br />\r\n\tأنا لو كُنتُ رَئيساً<br />\r\n\tلَدَعَوتُ الرُّؤساءَ …<br />\r\n\tو لألقَيتُ خِطاباً مُوجزاً<br />\r\n\tعَمّا يُعاني شَعبُنا مِنهُ<br />\r\n\tو عَن سِرِّ العَناءِ …<br />\r\n\tو لقاطَعتُ جَميعَ الأسئِلة…<br />\r\n\tو قرأتُ البَسمَلة …<br />\r\n\tو عليهِم و عَلى نَفسي قَذَفتُ القُنبُلَة !</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2011-08-06T20:03:46Z",
+  "attributes": {
+    "old_id": 506
+  },
+  "language": "ar",
+  "history": []
+}

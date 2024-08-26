@@ -1,0 +1,42 @@
+{
+  "uuid": "12ba144e-b7aa-4e67-89df-aa37e5152125",
+  "shortname": "زهد_الفاروق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"زهد الفاروق"},
+  "updated_at": "2013-08-05T19:14:50Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ea9b4eab5c1ec02f683eddebd74c73661bc309e8",
+    "bytesize": 512,
+    "body": "<span class=\"maqola_body\"> <br> قال عبدالله ابن عمر رضي الله عنهما :<br>خرج عمر بن الخطاب رضي الله عنه ذات يوم الى بستان نخيل له، فرجع وقد صلّى الناس العصر، فقال عمر رضي الله عنه: انا لله وانا اليه راجعون فاتتني صلاة العصر في الجماعة اشهدكم ان بستاني على المساكين صدقة ليكون كفارة لما صنع عمر ..<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2013-08-05T19:14:32Z",
+  "attributes": {
+    "old_id": 658
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "ed962142-0615-467c-9a2c-111fe5130388",
+  "shortname": "علاج_لسعة_الدبور",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"علاج لسعة الدبور"},
+  "updated_at": "2010-10-17T18:39:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4e72b231e2328e7da2c262f27e6d875b9980e01f",
+    "bytesize": 1107,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">خَبَّرني ثُمامةُ عَن أمير المؤمنين المأمون أنَّه قال:‏ ‏ قالَ لي بختيشوع بن جبريل الطبيب: إنَّ الذُبابَ إذا دُلِك بِهِ مَوضِعُ لَسْعَةِ الدَّبورِ سَكَن. فَلَسَعَني دَبّورٌ، فَحَكَكتُ على مَوضِعِه أكثَرُ مِن عِشرينَ ذُبابةً فما سَكَن إلا في قَدْرِ الزمانِ الذي كان يسكُنُ فيه مِن غَيرِ عِلاج. فَلَمْ يَبقَ إلا أنْ يَقول بختيشوع: كان هذا الدّبور حتفاً قاضياً، ولولا هذا العلاجُ لَقَتَلك!‏ ‏ وكذلك الأطباءُ: إذا سَقَوا دواءً فَضرَّ، أو قطعوا عِرْقاً فضرّ، قالوا: أنت مع هذا العلاج الصَّوابِ تجِدُ ما تجد، فلولا ذلك العلاجُ كُنتَ الساعةَ في نَارِ جهنم! ‏ ‏ ‏ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عُلوم",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-17T18:39:15Z",
+  "attributes": {
+    "old_id": 63
+  },
+  "language": "ar",
+  "history": []
+}

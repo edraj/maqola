@@ -1,0 +1,43 @@
+{
+  "uuid": "c28b866b-ce84-42d7-8a71-6003e123f095",
+  "shortname": "من_أقوال_وهب_بن_منبه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أقوال وهب بن منبه"},
+  "updated_at": "2014-02-04T12:59:25Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:15f6380b3a11fb1d8774dd9ceab6bebe1fd38758",
+    "bytesize": 195,
+    "body": "حقٌ على العاقلِ أن يكونَ عارفا بزمانهِ حافظا للسانهِ مقبلا على شأنه<br> \"وهب بن منبه\"<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة"
+  ],
+  "created_at": "2014-02-04T12:59:07Z",
+  "attributes": {
+    "old_id": 788
+  },
+  "language": "ar",
+  "history": []
+}

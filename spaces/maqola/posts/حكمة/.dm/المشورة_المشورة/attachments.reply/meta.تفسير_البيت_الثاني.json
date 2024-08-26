@@ -1,0 +1,29 @@
+{
+  "uuid": "9fdda77d-d455-4782-b5af-136b9d79f732",
+  "shortname": "تفسير_البيت_الثاني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تفسير البيت الثاني"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f3961b1e3281568f06e789a5fa8bbf5235dc5768",
+    "bytesize": 233,
+    "body": "غضاضة هي الحرج والخوافي هي الريش الخفيف او الصغير، ويختفي عندم يضم الطائ جناحيه والقوادم هو الريش المخصص للطيران وهي كبار الريش"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-12-20T08:29:17Z",
+  "attributes": {
+    "old_id": 587,
+    "old_entry_id": 549
+  },
+  "language": "ar"
+}

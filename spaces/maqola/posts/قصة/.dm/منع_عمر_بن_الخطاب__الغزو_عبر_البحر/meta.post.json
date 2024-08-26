@@ -1,0 +1,42 @@
+{
+  "uuid": "bd7221d7-825d-4985-8963-b5581488ffea",
+  "shortname": "منع_عمر_بن_الخطاب__الغزو_عبر_البحر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"‫منع عمر بن الخطاب  الغزو عبر البحر"},
+  "updated_at": "2010-11-04T08:30:23Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:066fc2b6fb2f6a08435b84f306184f7ddb884932",
+    "bytesize": 1382,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">&#160;كان مُعاويةُ يُلِحُّ على عمرَ بنِ الخطابِ في غَزوِ قُبرصَ، ورُكوبِ البَحرِ لها،<br />\r\n\tفكتبَ عُمَرُ إلى عمرو بن العاص أنْ صِفْ ليَ البحرَ وراكبَهُ، فكتبَ إليه:<br />\r\n\tإني رأيتُ خَلقاً كَبيراً يَركَبُهُ خَلقٌ صغير، إنْ رَكدَ حَرقَ القلوبَ، وإنْ تَحرّكَ أراعَ العقولَ، تَزدادُ فيه العقولُ قِلَّةً والسيئاتُ كَثرةً، وهُم فيهِ كَدُودٍ على عودٍ، إنْ مَالَ أغرق، وإنْ نجا فَرَّق.<br />\r\n\t&#160;فلمّا قرأ عُمر الكتابَ، كَتَبَ إلى معاوية: والله لا أحمِلُ فيهِ مُسلما أبدا.</span></span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1em;\"><span style=\"font-family: sans-serif;\">يُذكرُ أنَّ الإشفاق على المسلمين، دفع عمر بن الخطاب إلى مَنعِهِم مِن الغزو فيه، ولكنَّه لَمْ يمنع السفر والتجارة عَبر البحر. <del> ولم تركب جيوشُ المسلمين البحر حتى تولى معاويةُ الخِلافة </del> </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2010-11-04T03:47:56Z",
+  "attributes": {
+    "old_id": 140
+  },
+  "language": "ar",
+  "history": []
+}

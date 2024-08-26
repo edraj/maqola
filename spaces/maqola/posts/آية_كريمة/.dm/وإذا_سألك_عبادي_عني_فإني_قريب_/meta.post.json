@@ -1,0 +1,41 @@
+{
+  "uuid": "1db8a5a0-aadb-4dca-96da-9c7e5c963d31",
+  "shortname": "وإذا_سألك_عبادي_عني_فإني_قريب_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:99337497fb051f49b55cdd0faab2af4c758dda6e",
+    "bytesize": 318,
+    "body": "<p>{وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ <br>الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي <br>لَعَلَّهُمْ يَرْشُدُونَ}  .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة"
+  ],
+  "created_at": "2015-07-25T00:50:09Z",
+  "attributes": {
+    "old_id": 1448
+  },
+  "language": "ar",
+  "history": []
+}

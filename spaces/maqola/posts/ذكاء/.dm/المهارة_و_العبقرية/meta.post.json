@@ -1,0 +1,41 @@
+{
+  "uuid": "9089ba4a-5721-4574-a901-a7c6ced5f07d",
+  "shortname": "المهارة_و_العبقرية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المهارة و العبقرية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cd43a7278345c8cb1eb0734e8cf2b3243749d5b4",
+    "bytesize": 200,
+    "body": "<p>المهارة تصيب هدفاً لا يمكن لأحد أن يصيبه، أما العبقرية فتصيب هدفاً لا يمكن لأحد أن يراه.</p><p>\"آرثر شوبنهاور\"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "ذَكاء"
+  ],
+  "created_at": "2015-02-23T15:36:45Z",
+  "attributes": {
+    "old_id": 1065
+  },
+  "language": "ar",
+  "history": []
+}

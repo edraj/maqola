@@ -1,0 +1,29 @@
+{
+  "uuid": "c0c19072-81a6-4c89-b91d-10da2001828f",
+  "shortname": "تصويب_خطأ",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصويب خطأ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6ecb3c6266aefdddf3fee5c5385a2cc407baae6c",
+    "bytesize": 319,
+    "body": "يصح البيت عروضيا كالتالى : العِلمُ صَيدٌ والكِتابةُ قَيدُهُ     --   قَيِّدْ صيودكَ بالحِبالِ الواثِقَة فَمِن الحَماقَةِ أَنْ تَصيدَ غَزالَةً -- وتَفكها بَينَ الخَلائقِ طالِقةَ "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "28c5322b-4e17-4a52-815b-37d8bd69536b",
+    "shortname": "walid_chalabi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-08-17T21:42:52Z",
+  "attributes": {
+    "old_id": 782,
+    "old_entry_id": 267
+  },
+  "language": "ar"
+}

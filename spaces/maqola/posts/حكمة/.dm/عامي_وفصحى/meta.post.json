@@ -1,0 +1,44 @@
+{
+  "uuid": "36d71307-3a38-4873-aef9-e2492ee9a8b7",
+  "shortname": "عامي_وفصحى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عامي وفصحى"},
+  "updated_at": "2014-02-03T10:56:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2858c5ce36ce44f377ea57cc1465425d42f0157d",
+    "bytesize": 323,
+    "body": "من فصيحِ العامي: \"ورع\" <br> يقصدونَ: الفتى، <br> وجاءَ في لسانِ العرب: <br> «الوَرَع: الصغيرُ الضعيفُ الذي لا غَناءَ عندهُ...، والجمعُ أَوْراع، والأنثى... وَرَعة».<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-03T10:56:02Z",
+  "attributes": {
+    "old_id": 780
+  },
+  "language": "ar",
+  "history": []
+}

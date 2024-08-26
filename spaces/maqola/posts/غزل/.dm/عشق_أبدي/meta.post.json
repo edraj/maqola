@@ -1,0 +1,42 @@
+{
+  "uuid": "14d8776d-37a3-4507-bf36-6aae47dbf834",
+  "shortname": "عشق_أبدي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عشق أبدي"},
+  "updated_at": "2014-01-12T11:15:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f91bdce2c9035fc0875b051b1513399ac743e21e",
+    "bytesize": 368,
+    "body": "<span class=\"maqola_body\"> <br> ان كان يخفاكي حالي &#160; ----- أو تجهلي ما جرالي</span><div><span class=\"maqola_body\">قد أضناني الهوى &#160; &#160; &#160;------ &#160;وخدعتني الأماني</span></div><div><span class=\"maqola_body\">حاولت كتمان حبي ------ فافضح الدمع حالي&#160;</span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "bd7f8d5a-ce64-4011-8cde-70320fd74145",
+    "shortname": "ابو_رفيدة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "غَزَل"
+  ],
+  "created_at": "2014-01-12T11:15:20Z",
+  "attributes": {
+    "old_id": 734
+  },
+  "language": "ar",
+  "history": []
+}

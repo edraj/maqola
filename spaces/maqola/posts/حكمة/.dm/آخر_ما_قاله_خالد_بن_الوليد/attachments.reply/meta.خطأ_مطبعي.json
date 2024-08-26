@@ -1,0 +1,29 @@
+{
+  "uuid": "78ee63c5-c93b-4e0b-b31d-d292329a8b1c",
+  "shortname": "خطأ_مطبعي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خطأ مطبعي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2261de9d3ebc0480f2ae6092a2c03ebc9432f575",
+    "bytesize": 297,
+    "body": "قولة بليغة لقائد من أعظم القادة.. فقط حبذا لو تم تصحيح كلمة \\\"إلى\\\" إلى \\\"إلا\\\" وهو الصواب في العبارة التالية: \\\" وما في بَدَني مَوضُعُ شِبرٍ إلى وفيهِ ضَربَةٌ\\\" شكرا لكم.."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-01T13:56:18Z",
+  "attributes": {
+    "old_id": 25,
+    "old_entry_id": 87
+  },
+  "language": "ar"
+}

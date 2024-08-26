@@ -1,0 +1,29 @@
+{
+  "uuid": "6b33fe1d-2b09-40f0-9cf4-16f74ce4c5fa",
+  "shortname": "تسلم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تسلم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9fdb8b04f9583aec8a75fe7c732c124b05157c8a",
+    "bytesize": 92,
+    "body": "نعم هذا هو الوضع سواء في المصالح الحكومية أو غيرها "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-08T11:21:30Z",
+  "attributes": {
+    "old_id": 536,
+    "old_entry_id": 521
+  },
+  "language": "ar"
+}

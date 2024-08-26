@@ -1,0 +1,29 @@
+{
+  "uuid": "5e9abfeb-3a7f-4bc2-aecf-faef4e9077e4",
+  "shortname": "جميل_هذا_الكلام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جميل هذا الكلام"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:790b579fa7c308cfb1eab0edb26ccabbbed017b7",
+    "bytesize": 58,
+    "body": "أرجو أن لا يضطر أحدنا لاستعماله."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-06T16:57:12Z",
+  "attributes": {
+    "old_id": 281,
+    "old_entry_id": 320
+  },
+  "language": "ar"
+}

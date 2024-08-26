@@ -1,0 +1,45 @@
+{
+  "uuid": "f8764d93-a1c2-40c8-8230-56e0236ffc62",
+  "shortname": "ليــــل_يـرتهــب_اعتســاف_الفجـــر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ليْــــلِ يَـرتهــبُ اِعْتِســافْ الفَجْـــر"},
+  "updated_at": "2015-06-26T23:19:06Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ad20c10025a9a7bd92ae06c2f37442c31eb534ac",
+    "bytesize": 605,
+    "body": "<p>كـَـ لَيْــــلِ يَـرتهــبُ اِعْتِســافْ الفَجْـــر ، <br> يُؤرقُهُ نَجم يَرتْشفُ الضوء مِنْ عَينيْهَا ..<br> كُلّما جن النُسْك بـِ بَقايا الوَجْع ،<br> اِمْتَهن فنُ الرسم حِياكَة وجههَا بـِ لَمْسة الروح ..<br> ذَاتْ وَجْد ..<br> سَـ أَتسْلل وسكُون الليل عِلى كَمنْجَات الكََلِمْ ..<br> لِيرتَدِى كَأس الشّوْقَ عَتْم المَرَاْيَا ..<br><br>بيسار</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "عربية",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-19T14:05:51Z",
+  "attributes": {
+    "old_id": 1031
+  },
+  "language": "ar",
+  "history": []
+}

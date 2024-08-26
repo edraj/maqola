@@ -1,0 +1,42 @@
+{
+  "uuid": "14039b72-d9bc-4b66-8170-5ed0c7db5d51",
+  "shortname": "ألا_إذا_كان_لنا_وطن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ألاَ إذا كانَ لنَا وَطنْ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ccbbaeb0de12aae3bfd8d5dea63cf46e4fe2432c",
+    "bytesize": 445,
+    "body": "<p><span class=\"kufi\"></span>كل الذي عشناه يوما لاأنكره<br></p><p>والناس في كل المدن يذكره<br>أن نستريح إلى رغيف أو رفيق.أو سكن<br>ألا نموت على الطريق<br>ولا يعرفنا أحد<br>ألا إذا كان لنا وطن</p><p>ــــــــــــ <span class=\"uthmanb\">ضياء ابراهيم</span><span class=\"uthmanb\"></span><span class=\"kufi\"></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "خاطِرة"
+  ],
+  "created_at": "2015-02-28T16:12:34Z",
+  "attributes": {
+    "old_id": 1079
+  },
+  "language": "ar",
+  "history": []
+}

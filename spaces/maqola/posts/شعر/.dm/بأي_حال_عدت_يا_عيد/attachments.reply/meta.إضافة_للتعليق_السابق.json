@@ -1,0 +1,29 @@
+{
+  "uuid": "8645d86d-9b36-481c-91c2-62c3438041da",
+  "shortname": "إضافة_للتعليق_السابق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إضافة للتعليق السابق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:49154835e3cf7b6b87b4613ca4e566a63d35c27f",
+    "bytesize": 64,
+    "body": "البيت الثالث يحتاج الى مراجعة وزنه "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-14T18:41:51Z",
+  "attributes": {
+    "old_id": 99,
+    "old_entry_id": 183
+  },
+  "language": "ar"
+}

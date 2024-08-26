@@ -1,0 +1,29 @@
+{
+  "uuid": "f676baf6-ae99-4079-82f2-1ebfc1cb2b92",
+  "shortname": "جزاكم_الله_خيرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جزاكم الله خيرا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:dabde7976ce8c77992d450bc58842e9cceb04e02",
+    "bytesize": 21,
+    "body": "محمود ممدوح"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "ce37b5a1-8245-4160-962a-38d8d2fc93b4",
+    "shortname": "mushari_al_saed",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-08-29T18:07:51Z",
+  "attributes": {
+    "old_id": 908,
+    "old_entry_id": 709
+  },
+  "language": "ar"
+}

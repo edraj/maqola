@@ -1,0 +1,42 @@
+{
+  "uuid": "aea6cbdd-d577-4075-b6dc-5022e6beef1d",
+  "shortname": "سجدة_طويلة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سجدة طويلة"},
+  "updated_at": "2013-07-31T19:24:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9d9edb122ae7db528703443b892e2e6789d9212e",
+    "bytesize": 755,
+    "body": "<span class=\"maqola_body\"> <span class=\"fontxlarge\"></span>في يوم من الايام مرَّ الصحابي الجليل عبد الرحمن بن عوف رضي الله عنه فرأى الرسول عليه الصلاة والسلام ساجداً بين النخيل سجدة طويلة فوقف الى ان رفع الرسول صلى الله عليه وسلم رأسه من السجود فقال يا رسول الله أطلت السجود حتى ظننت انك قُبضت فلم أطلت السجود؟ فقال صلى الله عليه وسلم يا عبد الرحمن ان جبريل أتاني فقال لي السلام يقرئك السلام ويقول لك من صلى عليك صليت عليه فسجدت شكرا لله.<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2013-07-31T19:24:22Z",
+  "attributes": {
+    "old_id": 654
+  },
+  "language": "ar",
+  "history": []
+}

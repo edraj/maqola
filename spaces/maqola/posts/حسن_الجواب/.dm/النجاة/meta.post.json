@@ -1,0 +1,42 @@
+{
+  "uuid": "ee309422-ef7b-4d1b-afaf-55d400ebdb61",
+  "shortname": "النجاة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"النَّجَاةَ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:aa6805fbce1d9944dff1bbcbbecda2aa87aaf680",
+    "bytesize": 360,
+    "body": "<p>سَأَلَ أَحَدُهُمْ رَجُلٌ مُؤْمِنٌ:</p><p>إِذَا كَانَ رَبُّكَ يَرْمِيْنَا بِسِهَامِ القَدَرْ، فَتُصِيْبُنَا،فَكَيْفَ لَنَا بِالنَّجَاة ؟</p><p>فَأَجَابَهُ:</p><p>كُنْ بِجِوَارِ الرَّامِيْ تَنّجُوْ.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4a396cec-f540-4f4b-98f1-08ff3f27828d",
+    "shortname": "حسين_ال_لال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "قَناعَة"
+  ],
+  "created_at": "2015-11-20T20:06:11Z",
+  "attributes": {
+    "old_id": 1544
+  },
+  "language": "ar",
+  "history": []
+}

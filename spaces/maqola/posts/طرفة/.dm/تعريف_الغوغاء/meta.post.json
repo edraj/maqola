@@ -1,0 +1,43 @@
+{
+  "uuid": "247ba9b9-feca-4ecc-bafe-c70cef0e1004",
+  "shortname": "تعريف_الغوغاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تَعريفُ الغوغاء"},
+  "updated_at": "2010-11-01T16:52:06Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0030dfb0e17aa964ce96a78ec1d472f92c2dd886",
+    "bytesize": 1226,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">يُطلقُ &quot;الغوغاء&quot; على هؤلاءِ الذين لا عِبرةَ بِهِم. قال الأصمَعيّ:‏ ‏ والغوغاءُ الجرادُ إذا ماجَ بَعضُهم في بَعض. وبِه سُمِّي الغوغاءُ مِن الناسِ.‏ ‏ وقال آخر: هُم الذينَ إذا اجتَمَعوا غَلَبوا، وإذا تَفَرَّقوا لم يُعرَفوا.‏ ‏ ومِن عَلاماتِهم ما تَضمَّنَتْهُ حِكاية الخَطابي عن أبي عاصم النَبيل. وذلك أنَّ رجلاً أتاهُ فقال:‏ ‏ إنَّ امرأتي قالت لي: يا غوغاء! فقُلتُ لها: إن كُنتُ غوغاء فأنتِ طالقٌ ثلاثاً. فما عَسايَ أصنَع؟‏ ‏ فقال له أبو عاصم:‏ ‏ هل أنتٌ رجلٌ إذا خَرَجَ الأميرُ يومَ الجُمُعَة جَلَستَ على ظَهرِ الطريقِ حَتّى يَمُرَّ فتراه؟‏ ‏ فقال: لا.‏ ‏ قال أبو عاصم: لَستَ بغوغاء، إنّما الغوغاء مَن يَفعَلُ هذا. ‏ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2010-10-17T17:33:07Z",
+  "attributes": {
+    "old_id": 46
+  },
+  "language": "ar",
+  "history": []
+}

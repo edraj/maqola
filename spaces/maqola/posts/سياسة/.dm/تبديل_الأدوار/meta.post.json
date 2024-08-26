@@ -1,0 +1,43 @@
+{
+  "uuid": "4d8057b7-1eb3-4866-bea9-1b454e9cd658",
+  "shortname": "تبديل_الأدوار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تبديل الأدوار"},
+  "updated_at": "2011-01-02T08:56:03Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7eb681702a010380a32a07fe81fe2c29d2e78ca3",
+    "bytesize": 686,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\">رأت الدولُ الكبرى<br />\r\n\tتَبديلَ الأدوار<br />\r\n\tفأقرَّت إعفاءَ الوالي<br />\r\n\tواقترحت تَعيينَ حِمار!<br />\r\n\tولدى تَوقيعِ الإقرار<br />\r\n\tنَهَقَت كُلُّ حَميرِ الدُّنيا، لا نَرفُضُ<br />\r\n\tأنْ نَتعَبَ<br />\r\n\tأو أنْ نُركَبَ<br />\r\n\tأو أن نُضرَبَ<br />\r\n\tأو حتى نُصلَب<br />\r\n\tلكن نَرفُضُ في إصرار<br />\r\n\tأنْ نَغدو خَدماً للإستعمار<br />\r\n\tإنَّ حُموريَتِنا تأبى<br />\r\n\tأنْ يلحَقَنا هذا العار!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-13T20:22:38Z",
+  "attributes": {
+    "old_id": 367
+  },
+  "language": "ar",
+  "history": []
+}

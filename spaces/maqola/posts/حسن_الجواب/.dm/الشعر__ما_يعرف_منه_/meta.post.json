@@ -1,0 +1,43 @@
+{
+  "uuid": "08b5adfc-2962-4633-84b1-9e078f5669d3",
+  "shortname": "الشعر__ما_يعرف_منه_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الشعر، ما يُعرف منه؟"},
+  "updated_at": "2011-10-11T22:17:50Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a6b0be35389833a78fc2f13a6f2645643010a9dc",
+    "bytesize": 411,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كان أبو تمَّام حاضرَ البديهة، سريعَ الخاطر، فكان إذا سأله إنسان أجابه قبلَ انقضاء كلامه. فقال له رجل: يا أبا تمام: لِمَ لا تقول من الشِّعر ما يُعرف؟ فقال: وأنت لِمَ لا تَعرِف من الشعر ما يُقال؟ فأفحمه.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "طُرفَة"
+  ],
+  "created_at": "2011-10-11T22:17:50Z",
+  "attributes": {
+    "old_id": 524
+  },
+  "language": "ar",
+  "history": []
+}

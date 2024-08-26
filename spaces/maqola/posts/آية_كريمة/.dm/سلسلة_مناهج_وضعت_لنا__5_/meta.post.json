@@ -1,0 +1,43 @@
+{
+  "uuid": "448b9406-100b-4a82-a384-c17fb5876ffa",
+  "shortname": "سلسلة_مناهج_وضعت_لنا__5_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سلسلة مناهج وضعت لنا [ 5 ]"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:93f0d2128052a51a06a507e2949a7ce4b97f90fb",
+    "bytesize": 634,
+    "body": "<p>قصة اليهودي الذي كان يرمي القمامة على بيت النبي صلى الله عليه وسلم ، ثم مرض فعاده النبي صلى الله عليه وسلم . هذه القصة لا سند لها ، وطُرقها كلها ضعيفة ، لا يصح منها شيء ، وعلى بطلانها الصريح ، تجد الكثير من الدعاة والوعاظ يستشهدون بها!! .</p><p><br></p><p>‫#‏مناهج_وضعت_لنا‬</p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف"
+  ],
+  "created_at": "2015-07-22T01:07:38Z",
+  "attributes": {
+    "old_id": 1419
+  },
+  "language": "ar",
+  "history": []
+}

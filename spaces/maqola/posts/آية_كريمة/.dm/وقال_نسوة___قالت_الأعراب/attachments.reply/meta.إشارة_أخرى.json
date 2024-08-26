@@ -1,0 +1,29 @@
+{
+  "uuid": "4b6121d4-49fc-4fbd-8a02-fb6a10c9e3c6",
+  "shortname": "إشارة_أخرى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إشارة أخرى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bc623e9595339ef5f0e34ea069625d9dcf8f13da",
+    "bytesize": 215,
+    "body": "نسوة جمع قلّة كما تفضلتم مثل فتيةٌ غلمةٌ فالتذكير جاء موافقا لجمع التكسير إذ التاء في نسوة تاء الوزن والله أعلم بكتابه"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "21327be8-3be7-4ee1-96a6-d33a91a12be9",
+    "shortname": "abdenacer_bencherif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-27T10:26:26Z",
+  "attributes": {
+    "old_id": 837,
+    "old_entry_id": 1120
+  },
+  "language": "ar"
+}

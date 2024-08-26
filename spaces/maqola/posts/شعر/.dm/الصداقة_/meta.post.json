@@ -1,0 +1,43 @@
+{
+  "uuid": "29e54329-f8c8-4bba-991f-9a9b5a1a1159",
+  "shortname": "الصداقة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصداقة ..."},
+  "updated_at": "2010-11-27T07:26:34Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a2f199fdfb4a70adb59f1c33a5019888fe30127e",
+    "bytesize": 1131,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">إذا المَرءُ لا يَرعاكَ إلا تَكَلُّفاً -- فَدَعهُ ولا تُكِثر عَليهِ التَّأسُفا<br />\r\n\tفَفي الناسِ أبدالٌ وفي التَّركِ راحَةٌ -- وفي القَلبَ صَبرٌ للحَبيبِ ولَو جَفا<br />\r\n\tفَما كُلُّ مَن تَهواهُ يَهواكَ قَلبُهُ -- ولا كُلُّ مَن صافَيتَهَ لَكَ قَد صَفا<br />\r\n\tإذا لَمْ يَكُن صَفو الوِدادِ طَبيعَةً -- فَلا خَيرَ في وِدٍ يَجيءُ تَكَلُّفا<br />\r\n\tولا خَيرَ في خِلٍ يَخونُ خَليلَهُ -- ويَلقاهُ مِن بَعدِ المَودَّةِ بالجَفا<br />\r\n\tويُنكِرُ عَي</span><span style=\"font-size: 1.5em;\">شاً قَد تَقادَمَ عَهدُهُ -- ويُظهِرُ سِرَّاً كانَ بالأمْسِ قَد خَفا<br />\r\n\tسَلامٌ على الدُّنيا إذا لَم يَكُن بِها -- صَديقٌ صَدوقٌ صَادِقُ الوعدِ مُنصِفا </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "صَداقَة"
+  ],
+  "created_at": "2010-11-27T05:28:57Z",
+  "attributes": {
+    "old_id": 234
+  },
+  "language": "ar",
+  "history": []
+}

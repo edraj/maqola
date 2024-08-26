@@ -1,0 +1,45 @@
+{
+  "uuid": "8f5bfdd5-112b-4c52-af52-b050a05e2d1b",
+  "shortname": "الكريم_اذا_كذب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الكريم اذا كذب"},
+  "updated_at": "2014-03-01T16:04:26Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:579100244057ded02f6984734cf936eb2f2f36ba",
+    "bytesize": 414,
+    "body": "<span class=\"uthmanb\"></span><span class=\"maqola_body\"><br> </span><span class=\"uthmanb\"><br><span class=\"maqola_body\">إن الكريمَ إذا ما كانَ ذا كذب *** شان التكرم منه ذلك الكذبُ<br> الصدقُ أفضلُ شيء أنتَ فاعله *** لا شيء كالصدقِ لا فخر ولا</span></span><span class=\"maqola_body\"> حسب</span><span class=\"maqola_body\"></span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-03-01T16:04:20Z",
+  "attributes": {
+    "old_id": 859
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "2ef833d4-e4e5-4309-a937-fa63d16890e1",
+  "shortname": "2ef833d4",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-19T22:35:50Z",
+  "author_locator": { "type": "content",
+    "uuid": "3defc0b7-8c89-4965-b0ac-944be80d283d",
+    "shortname": "usama_elhosary",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-19T22:35:50Z",
+  "attributes": {
+    "old_id": 526,
+    "old_entry_id": 1409
+  },
+  "language": "en",
+  "location": {
+    "uuid": "2ef833d4-e4e5-4309-a937-fa63d16890e1",
+    "shortname": "2ef833d4",
+    "subpath": "posts/حديث_شريف",
+    "space_name": "maqola",
+    "parent_shortname": "من_دعاء_النبى",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

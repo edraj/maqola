@@ -1,0 +1,42 @@
+{
+  "uuid": "6e9a1773-3d79-4de9-8d07-816e54feb8ef",
+  "shortname": "هل_له_أن_يرد_زوجته_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هل له أن يرُدَّ زوجته؟"},
+  "updated_at": "2010-11-13T17:02:07Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:837c8dfd8f11b95a95c87d96152c1727bf2cbbd1",
+    "bytesize": 380,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">جاءَ رَجُلٌ إلى الشَّعبي يَوماً وقال: إنّي تَزَوَّجتُ امرأةً&#160; و وَجدتُها عَرجاء فَهَل لي أنْ أرُدَّها؟ فقال له: إنْ كُنتَ تُريدُ أنْ تُسابِقَ بِها فَرُدَّها.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a0a32d5f-f738-40bc-93b3-b418f56f90d4",
+    "shortname": "الشعبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-12T21:50:21Z",
+  "attributes": {
+    "old_id": 174
+  },
+  "language": "ar",
+  "history": []
+}

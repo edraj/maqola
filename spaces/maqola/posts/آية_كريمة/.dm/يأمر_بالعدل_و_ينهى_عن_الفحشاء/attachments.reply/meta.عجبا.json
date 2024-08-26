@@ -1,0 +1,29 @@
+{
+  "uuid": "5abaa995-bbc1-4747-9cbb-a0c564a348bf",
+  "shortname": "عجبا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عجبا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:96ca1ce57322e58ef4ff7215d1e6873ece7cb7c7",
+    "bytesize": 127,
+    "body": "ألم يمت الوليد بن المغيرة على كفر؟ و هو أبو خالد بن الوليد رضي الله عنه"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-16T00:11:22Z",
+  "attributes": {
+    "old_id": 620,
+    "old_entry_id": 539
+  },
+  "language": "ar"
+}

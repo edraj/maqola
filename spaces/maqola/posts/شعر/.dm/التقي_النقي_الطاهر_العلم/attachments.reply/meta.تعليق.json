@@ -1,0 +1,29 @@
+{
+  "uuid": "e20ae1ee-1990-4b70-8acf-9f049b6e8521",
+  "shortname": "تعليق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تعليق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:12603fc89eec5871f774b7ab3154a1140ffc4005",
+    "bytesize": 175,
+    "body": "ليتك ذكرت كامل القصيدة فهي من أروع ما قال العرب والرجل الممدوح هو زين العابدين بن علي بن ابي طالب"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-18T12:19:04Z",
+  "attributes": {
+    "old_id": 320,
+    "old_entry_id": 383
+  },
+  "language": "ar"
+}

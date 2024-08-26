@@ -1,0 +1,18 @@
+{
+  "uuid": "882a7a4c-74e0-47c7-80a3-b43870662886",
+  "shortname": "سور_الصين.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:8fd93e3a97d0626079e11f5c8681f2ee1921096b",
+    "bytesize": 29935,
+    "body": "سور_الصين.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:08+03:00",
+  "attributes": {
+    "old_id": 62
+  },
+  "language": "en"
+}

@@ -1,0 +1,42 @@
+{
+  "resource_type": "post",
+  "uuid": "17154395-41ea-429a-9b3d-8eef91ea2bcf",
+  "shortname": "أزهار_العربية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أزهارُ العربية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a20c5834499f0e31630d74a8e4389c1f8eb2f28f",
+    "bytesize": 724,
+    "body": "<p>قال ابنُ السكيت: خُذْ من الأدبِ ما يَعلَقُ بالقُلوبِ وتشتَهيهِ الآذانُ، وخُذ مِن النحوِ ما تُقيمُ به الكلامَ، ودَع الغَوامِضَ، وخُذْ من الشِّعر ما يَشتَمِلُ على لَطيفِ المَعاني، واستكثرْ من أخبارِ الناسِ وأقاويلِهِم وأحاديثِهم ولا تولَعنَّ بالغثِّ مِنها.</p><p>تجربة<br></p><p>وقيل: عَليكُم بالأدب،فإنّه صاحِبٌ في السفر ومؤنِسٌ في الحَضر وجَليسٌ في الوِحدة وجمالٌ في المحافِل وسببٌ إلى طلب الحاجة.</p>"
+  },
+  "author_locator": {
+    "resource_type": "locator",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "typename": "biography",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "tags": []
+  },
+  "editor_locator": {
+    "resource_type": "locator",
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "typename": "user",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "tags": []
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "tags": [
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-03-07T07:32:02Z",
+  "attributes": {
+    "old_id": 1086
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "33c281f6-fe66-49cf-bb8c-dfb0488aa9dd",
+  "shortname": "33c281f6",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-05-03T00:04:25Z",
+  "author_locator": { "type": "content",
+    "uuid": "63829d59-b4b3-4b3f-9cfa-cf813943f55e",
+    "shortname": "kemo_kemo",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-05-03T00:04:25Z",
+  "attributes": {
+    "old_id": 434,
+    "old_entry_id": 1226
+  },
+  "language": "en",
+  "location": {
+    "uuid": "33c281f6-fe66-49cf-bb8c-dfb0488aa9dd",
+    "shortname": "33c281f6",
+    "subpath": "posts/سياسة",
+    "space_name": "maqola",
+    "parent_shortname": "احمد_كامبو",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

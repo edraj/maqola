@@ -1,0 +1,23 @@
+{
+  "uuid": "2138f6e1-70ad-49b5-8598-0bda6c26c73f",
+  "shortname": "2138f6e1",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "71ee2f4b-a626-4b6c-8e42-88af90126ea5",
+    "shortname": "maissa_rouse",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-09-08T20:16:09Z",
+  "attributes": {
+    "old_id": 1158,
+    "old_entry_id": 236
+  },
+  "language": "en",
+  "type": "like"
+}

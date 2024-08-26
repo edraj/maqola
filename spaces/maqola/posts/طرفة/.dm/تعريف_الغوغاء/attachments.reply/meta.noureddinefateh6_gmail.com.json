@@ -1,0 +1,29 @@
+{
+  "uuid": "85647246-753c-4042-ae40-dd992287ed49",
+  "shortname": "noureddinefateh6_gmail.com",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"noureddinefateh6@gmail.com"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2256e1dea6811e9f4f55b6bba5c0ec8a05ab2b9d",
+    "bytesize": 31,
+    "body": "سعير بن كلاب........."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "4d94ef9e-e900-4a45-abdd-0fa1916541ac",
+    "shortname": "noureddine_fethallah",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-09-06T12:30:38Z",
+  "attributes": {
+    "old_id": 786,
+    "old_entry_id": 46
+  },
+  "language": "ar"
+}

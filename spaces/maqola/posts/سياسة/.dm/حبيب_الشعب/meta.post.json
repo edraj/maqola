@@ -1,0 +1,43 @@
+{
+  "uuid": "51afb0a1-8963-4379-84cf-d0da9048ceeb",
+  "shortname": "حبيب_الشعب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حبيبُ الشعب"},
+  "updated_at": "2010-12-25T11:50:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:57e5227503ae10afa337a16462a3edc01432c2b9",
+    "bytesize": 1566,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">صورةُ الحاكمِ في كلِّ اتِّجاهْ<br />\r\n\tأينما سِرنا نراهْ !<br />\r\n\tفي المقاهي<br />\r\n\tفي الملاهي<br />\r\n\tفي الوزاراتِ<br />\r\n\tوفي الحارات<br />\r\n\tوالباراتِ<br />\r\n\tوالأسواقِ<br />\r\n\tوالتلفازِ<br />\r\n\tوالمسرحِ<br />\r\n\tوالمبغى<br />\r\n\tوفي ظاهرِ جدرانِ المصحّاتِ<br />\r\n\tوفي داخلِ دوراتِ المياهْ<br />\r\n\tأينما سرنا نراه !<br />\r\n\t<br />\r\n\t&#160;&#160;&#160; * * *<br />\r\n\t<br />\r\n\tصورةُ الحاكمِ في كلِّ اتّجاهْ<br />\r\n\tباسِمٌ<br />\r\n\tفي بلدٍ يبكي من القهرِ بُكاهْ !<br />\r\n\tمُشرقٌ<br />\r\n\tفي بلدٍ تلهو الليالي في ضُحاهْ !<br />\r\n\tناعِمٌ<br />\r\n\tفي بلدٍ حتى بلاياهُ<br />\r\n\tبأنواعِ البلايا مبتلاةْ !<br />\r\n\tصادحٌ<br />\r\n\tفي بلدٍ مُعتقلِ الصوتِ<br />\r\n\tومنزوعِ الشِّفَاهْ !<br />\r\n\tسالمٌ<br />\r\n\tفي بلدٍ يُعدمُ فيهِ النّاسُ<br />\r\n\tبالآلافِ ، يومياً<br />\r\n\tبدعوى الاشتباهْ !<br />\r\n\t<br />\r\n\t&#160;&#160;&#160; * * * *<br />\r\n\t<br />\r\n\tصورةُ الحاكم في كُلِّ اتّجاهْ<br />\r\n\tنِعمةٌ منهُ علينا<br />\r\n\tإذْ نرى ، حين نراهْ<br />\r\n\tأنَّه لمَّا يَزَلْ حَيَّاً<br />\r\n\tوما زِلنا على قيدِ الحياةْ !!! ...</span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-30T11:45:04Z",
+  "attributes": {
+    "old_id": 276
+  },
+  "language": "ar",
+  "history": []
+}

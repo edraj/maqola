@@ -1,0 +1,43 @@
+{
+  "uuid": "b0f4c3ec-4feb-4b45-8d56-621fcf9e7f5b",
+  "shortname": "تنبيه_الحاكم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تنبيهُ الحاكِم"},
+  "updated_at": "2011-05-22T17:09:14Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bac44d467f6af43c95317da423129b2003d36bb0",
+    "bytesize": 780,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أصابَ المأمونَ أرقٌ ذاتَ ليلة فاستدعى سَميراً يُحدِّثُهُ، فقال : يا أميرَ المؤمنين، كان بالموصلِ بومةٌ، وبالبصرة بومةٌ، فخَطَبت بومةُ الموصل بنتَ بومة البصرة لابنها، فقالت بومة البصرة : لا أُجيبُ خطبةَ ابنِك حتى تجعلي في صِداقِ ابنتي مائة ضيعة خَرِبة، فقالت بومة الموصل : لا أقدر عليها، لكن إن دام والينا سَلّمهُ الله علينا سنة واحدة فعلتُ ذلك. فانتبه المأمون، وفهم المضمون وجلس للمظالم وإنصاف الناس.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "قِصّة"
+  ],
+  "created_at": "2011-05-22T17:09:14Z",
+  "attributes": {
+    "old_id": 477
+  },
+  "language": "ar",
+  "history": []
+}

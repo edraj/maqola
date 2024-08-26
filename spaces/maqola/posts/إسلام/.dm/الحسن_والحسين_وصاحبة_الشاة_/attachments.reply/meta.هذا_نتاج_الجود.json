@@ -1,0 +1,29 @@
+{
+  "uuid": "82535c2c-c1d9-4fa7-99c5-4275abae71d1",
+  "shortname": "هذا_نتاج_الجود",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هذا نَتَاجُ الجُود  "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d9db56f54565dcd3d5e30510c45d499df0e9e2a2",
+    "bytesize": 124,
+    "body": "والعرب أكثر من ضرب الأمثلة فى الجود والكرم ، ومن أحسن أحسن الله إليه "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "3defc0b7-8c89-4965-b0ac-944be80d283d",
+    "shortname": "usama_elhosary",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-07-19T21:15:55Z",
+  "attributes": {
+    "old_id": 896,
+    "old_entry_id": 1294
+  },
+  "language": "ar"
+}

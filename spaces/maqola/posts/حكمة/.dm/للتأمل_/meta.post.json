@@ -1,0 +1,42 @@
+{
+  "uuid": "4f7d1f0e-20f0-4d62-8105-4c2f80ca0418",
+  "shortname": "للتأمل_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"للتأمل ..."},
+  "updated_at": "2011-05-22T16:06:33Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cb35ad140e500f6555d7e30d47884a41fdfa2bfd",
+    "bytesize": 663,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">- للهِ دَرُّ اللسانِ، ما أصغرَهُ و ما أكثرَ نفعه و ضرره.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">&#160;- العاقِلُ من كانت نَفسُهُ رَقيباً على شهوَتِه.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">- الصمتُ زين العلماء وسترُ الجهلاء.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">- إنَّ بعد الكدر صفواً ، وإن بعد المطرِ صحواً.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">- إذا استقبحتَ شيئاً مِن غَيرِكَ فاجتنبه.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2011-05-22T16:06:33Z",
+  "attributes": {
+    "old_id": 472
+  },
+  "language": "ar",
+  "history": []
+}

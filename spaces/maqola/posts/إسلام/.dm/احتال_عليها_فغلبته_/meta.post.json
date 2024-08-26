@@ -1,0 +1,48 @@
+{
+  "uuid": "358b767c-55df-4e84-9fba-6f205d325c2a",
+  "shortname": "احتال_عليها_فغلبته_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"احتال عليها فغلبته!!"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c94eeb3b127a8c268bff41028222229c1b764329",
+    "bytesize": 635,
+    "body": "<p>حكي أن رجلاً نظر إلى امرأته وهي تصعد سُلّمَ البيت . فقال لها : أنتِ طالق إذا صعدتِ ، وطالق إن نزلتِ ، وطالق إن وقفتِ ، فما كان من المرأة إلا أن قفزت من فوق السلم إلى الأرض في الحال!! فقال لها : فِداك أبي وأمي ، إذا مات الإمام مالك أحتاج إليك أهل المدينة في أحكامهم .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت الفرزدقي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "ذَكاء",
+    "طُرفَة",
+    "فَخر",
+    "فَصاحَة",
+    "قِصّة",
+    "مَدح"
+  ],
+  "created_at": "2015-06-12T16:55:22Z",
+  "attributes": {
+    "old_id": 1345
+  },
+  "language": "ar",
+  "history": []
+}

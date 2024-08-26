@@ -1,0 +1,29 @@
+{
+  "uuid": "7011e6a9-acf9-434f-b8a2-5c864a88443c",
+  "shortname": "استفسار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"استفسار"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b66b021af81ef33d7a6d34bd9ca88f197e896b1b",
+    "bytesize": 200,
+    "body": "ولكن هل هنا كلمة  \\\" لعمرى \\\" هنا حلف بغير الله ؟؟؟ ام ماذا ؟  ان كانت كذلك فيجدر حذفها من البيت اولى   والله الموفق"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-22T15:11:47Z",
+  "attributes": {
+    "old_id": 338,
+    "old_entry_id": 404
+  },
+  "language": "ar"
+}

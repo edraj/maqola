@@ -1,0 +1,42 @@
+{
+  "uuid": "e4feeda2-c3df-41c1-b34b-b918b30301f8",
+  "shortname": "امتزاج_الشعر_الشعبي_العراقي_بالشعر_الفصيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"امتزاج الشعر الشعبي العراقي بالشعر الفصيح"},
+  "updated_at": "2013-08-09T18:47:55Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:82e795db2f44d89cdee5a9f4d2fe57dd6d399377",
+    "bytesize": 1203,
+    "body": "<span class=\"maqola_body\"> <span class=\"fontxlarge\"></span><b>من الفصيح قول الشاعر ابو العتاهية:</b><br><br>ايا ليت الشباب يعود يوماً ........ فأُخبرهُ بما فعل المشيب<br><br><b>ويقابله من الشعر الشعبي العراقي قول الشاعر:</b><br><br>كَفّة صباي يوم البيض يومن<br>ولا دهرك تظن يا صاح يومن<br>ايا ليت الشباب يعود يوماً<br>واخبرة بالمشيب شفعل بية<br><br><b>معاني كلمات&nbsp; البيت الشعري الشعبي.</b><br><br>ملاحظة: هذا البيت هو من الشعر الشعبي العراقي الذي يسمى بـ( ابو ذِيَّة) وتكثر كتابته في جنوب العراق.. <br><br><b>الشطر الاول:</b><br>1- ( كَفة).... يعني أدبر<br>2- (صباي ) .... من الصبى وهي من مراحل عمر الانسان<br>3- (البيض) .... الشيب<br>4-( يومن)..... من الايماء.<br><br>الشطر الثاني:<br>1- ( يومن)..... من الامان (يؤمّن)<br><br>اما باقي الكلمات فمعروفة المعاني.<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2013-08-09T18:46:12Z",
+  "attributes": {
+    "old_id": 659
+  },
+  "language": "ar",
+  "history": []
+}

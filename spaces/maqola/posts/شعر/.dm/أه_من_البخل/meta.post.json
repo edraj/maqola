@@ -1,0 +1,42 @@
+{
+  "uuid": "015cd295-99ac-4795-b5ff-f1c3a809f2bb",
+  "shortname": "أه_من_البخل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أه من البخل"},
+  "updated_at": "2013-11-08T20:56:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0732713ff8aec068d4737ba6cf1e712938395f17",
+    "bytesize": 384,
+    "body": "<span class=\"maqola_body\"> <br> <br><p>قال أبو نواس هذه القصيدة في بخيل اسمه </p><br><p>الفضل :-</p><br><p>رأيت الفضـل مكتئبـا \"\" يناغي الخبزوالسمكا <br>فقطب حين أبصرني \"\" ونكس رأسـه وبكـى <br>فلـمـا أن حلـفـت لــه \"\" بأنـي صائـم ضحـكـا </p><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba2d5487-1f31-4067-b462-3f5ff05ca394",
+    "shortname": "أبو_أحمد",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2013-10-23T21:46:17Z",
+  "attributes": {
+    "old_id": 702
+  },
+  "language": "ar",
+  "history": []
+}

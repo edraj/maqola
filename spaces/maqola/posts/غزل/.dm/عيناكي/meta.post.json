@@ -1,0 +1,42 @@
+{
+  "uuid": "5d95eeec-5f56-4538-9ec1-c90d1d55705b",
+  "shortname": "عيناكي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عيناكي"},
+  "updated_at": "2014-11-21T03:51:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6a1edd795bbdbc3ce7819a7b23da559793406149",
+    "bytesize": 234,
+    "body": "<span class=\"maqola_body\"> <span class=\"uthman\"><br> <p>وأبصَرَت أعيُن مَن نَاظَرَت عَينَاهُ عَيناكِي</p><div></div><span class=\"uthman\"></span>ضياء ابراهيم منصور</span>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "bf171088-885a-42b4-a071-1ffaa25b83f4",
+    "shortname": "mr_diaa_ib",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "غَزَل"
+  ],
+  "created_at": "2014-11-21T03:51:17Z",
+  "attributes": {
+    "old_id": 934
+  },
+  "language": "ar",
+  "history": []
+}

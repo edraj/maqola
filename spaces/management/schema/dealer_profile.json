@@ -1,0 +1,1 @@
+{"type": "object", "title": "title", "description": "", "properties": {"governorate_shortname": {"type": "string", "title": "Governorate", "description": ""}, "type": {"type": "string", "title": "Type", "enum": ["regional_dealer", "sub_dealer"]}, "categories": {"type": "array", "items": {"type": "string"}}}}

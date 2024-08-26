@@ -1,0 +1,29 @@
+{
+  "uuid": "3148be1d-69c6-456c-ba15-092aecd63442",
+  "shortname": "جمبل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جمبل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:de70b15d46fca703c59b106f761af0eccb30d6e6",
+    "bytesize": 268,
+    "body": "قصيدة جميلة لأحمد مطر واستعارات أجمل    اِرْفَع حاكِمَنا يا ولدي و ضَع الهمزةَ فوقَ ( الكُرسي ) .  هذا أستاذ لا يفقه في السياسة العربية هههههههههههههه"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-30T18:48:09Z",
+  "attributes": {
+    "old_id": 250,
+    "old_entry_id": 277
+  },
+  "language": "ar"
+}

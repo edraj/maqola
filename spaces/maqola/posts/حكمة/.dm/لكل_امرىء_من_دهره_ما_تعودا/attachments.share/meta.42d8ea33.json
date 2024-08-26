@@ -1,0 +1,33 @@
+{
+  "uuid": "42d8ea33-f553-4fe7-9386-f63151321101",
+  "shortname": "42d8ea33",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-25T01:25:55Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-25T01:25:55Z",
+  "attributes": {
+    "old_id": 577,
+    "old_entry_id": 1451
+  },
+  "language": "en",
+  "location": {
+    "uuid": "42d8ea33-f553-4fe7-9386-f63151321101",
+    "shortname": "42d8ea33",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "لكل_امرىء_من_دهره_ما_تعودا",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

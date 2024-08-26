@@ -1,0 +1,33 @@
+{
+  "uuid": "c467db9e-212c-49a5-8031-372808b0d410",
+  "shortname": "c467db9e",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-04-17T06:32:59Z",
+  "author_locator": { "type": "content",
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-04-17T06:32:59Z",
+  "attributes": {
+    "old_id": 415,
+    "old_entry_id": 1187
+  },
+  "language": "en",
+  "location": {
+    "uuid": "c467db9e-212c-49a5-8031-372808b0d410",
+    "shortname": "c467db9e",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "فضل_الكتاب",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

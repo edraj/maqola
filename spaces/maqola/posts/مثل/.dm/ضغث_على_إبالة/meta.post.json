@@ -1,0 +1,42 @@
+{
+  "uuid": "3e906763-530f-431d-98e6-8aae60f6f92a",
+  "shortname": "ضغث_على_إبالة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ضِغْثٌ عَلى إِبّالَةٍ"},
+  "updated_at": "2011-01-07T15:07:04Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:74140498cb363e1de670251a59658fe3f48084bf",
+    "bytesize": 601,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">الإبَّالة‏:‏ الحُزْمَة من الحَطَب، والضِّغْث‏:‏ قَبْضَةٌ من حشيش مختلطة الرطب باليابس،<br />\r\n\tوأنشد‏:‏<br />\r\n\tلي كُلَّ يَومٍ مِن ذُؤالَة -- ضِغْثٌ يَزيدُ عَلى إبالة<br />\r\n\tومعنى المثل بَليَّةٌ على أخرى‏.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من كتاب &quot;مَجمَعُ الأَمثال&quot; للميداني.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2011-01-07T15:07:04Z",
+  "attributes": {
+    "old_id": 447
+  },
+  "language": "ar",
+  "history": []
+}

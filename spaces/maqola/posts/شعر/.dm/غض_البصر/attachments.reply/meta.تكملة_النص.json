@@ -1,0 +1,29 @@
+{
+  "uuid": "5c60f4ca-0a6a-43d7-b579-2c3aa2b39044",
+  "shortname": "تكملة_النص",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تكملة النص"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:914de7262d284ffaa09edb27ea9f6b745e47286f",
+    "bytesize": 229,
+    "body": "أغضُّ طرفي إنْ بدتْ لي جارَتي ... حتَّى يواري جارتي مأواها إنَّي امرؤٌ سمحُ الخليفةِ ماجدٌ ... لا أتبعُ النَّفسَ اللَّجوجَ هواها"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-28T15:17:10Z",
+  "attributes": {
+    "old_id": 630,
+    "old_entry_id": 256
+  },
+  "language": "ar"
+}

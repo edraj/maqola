@@ -1,0 +1,29 @@
+{
+  "uuid": "786e96c0-3d27-4c94-a47f-70e4e90631b5",
+  "shortname": "تنوير",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تنوير"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a467dcd0f66fdce86b91aa8c24c9073d24aaeeb1",
+    "bytesize": 234,
+    "body": "ا مرأة تريد ان تعود فتية***وقد غارت العينان واحدودب الظهر                            تدس سلعة بيتها الى العطار***وهل يصلح العطار ما أفسده الدهر"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-01-11T22:52:56Z",
+  "attributes": {
+    "old_id": 741,
+    "old_entry_id": 428
+  },
+  "language": "ar"
+}

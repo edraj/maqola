@@ -1,0 +1,33 @@
+{
+  "uuid": "1f45f99f-d36e-4e83-a179-574d1ec7e0fc",
+  "shortname": "1f45f99f",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-04-11T20:50:41Z",
+  "author_locator": { "type": "content",
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-04-11T20:50:41Z",
+  "attributes": {
+    "old_id": 409,
+    "old_entry_id": 1156
+  },
+  "language": "en",
+  "location": {
+    "uuid": "1f45f99f-d36e-4e83-a179-574d1ec7e0fc",
+    "shortname": "1f45f99f",
+    "subpath": "posts/طرفة",
+    "space_name": "maqola",
+    "parent_shortname": "ما_جاء_في_ذكر_مدينة_سرت",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

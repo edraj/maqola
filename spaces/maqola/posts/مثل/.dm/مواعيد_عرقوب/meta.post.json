@@ -1,0 +1,42 @@
+{
+  "uuid": "b4fa864a-dade-4745-bc58-d89493b26032",
+  "shortname": "مواعيد_عرقوب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مَوَاعِيدُ عُرْقُوبٍ"},
+  "updated_at": "2010-10-26T02:41:29Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:81316f4f3b88fb65da4ea800c562f262635d4807",
+    "bytesize": 983,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_bold\">مَوَاعِيدُ عُرْقُوبٍ</span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">قَالَ أبو عبيد‏:‏ هو رجل من العَمَاليق، أتاه أخ له يسأله، فَقَالَ له عرقوب‏:‏ إذا أطْلَعَتْ هذه النخلة فلك طَلْعُها، فلما أطلعت أتاه للعِدَةِ، فَقَالَ‏:‏ دَعْها حتى تصير بَلَحا، فلما أبْلَحَتْ قَالَ‏:‏ دَعْها حتى تصيرَ زَهْوًا، فلما زَهَت قَالَ‏:‏ دَعْها حتى تصير رُطَبا، فلما أرْطَبَتْ قَالَ‏:‏ دَعْها حتى تصير تمراً، فلما أتْمَرَتْ عمد إليها عرقوبٌ من الليل فجدَّها ولم يُعْطِ أخاه شيئاً، فصار مثلاً في الخُلْفِ.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-10-25T19:42:42Z",
+  "attributes": {
+    "old_id": 112
+  },
+  "language": "ar",
+  "history": []
+}

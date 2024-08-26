@@ -1,0 +1,43 @@
+{
+  "uuid": "2d705bc6-ba23-4ab4-b6e0-c5dcc4903668",
+  "shortname": "القادرون_على_التمام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القادِرونَ على التمامِ"},
+  "updated_at": "2010-12-04T17:07:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:40d7d821468fb64b70ef2ffbae71fbbed7019676",
+    "bytesize": 173,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\">ولَم أرَ في عُيوبِ الناسِ شَيئًا -- كنَقصِ القادِرِينَ على التَّمامِ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-04T17:07:08Z",
+  "attributes": {
+    "old_id": 312
+  },
+  "language": "ar",
+  "history": []
+}

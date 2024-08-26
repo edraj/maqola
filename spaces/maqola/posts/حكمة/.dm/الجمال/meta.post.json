@@ -1,0 +1,42 @@
+{
+  "uuid": "95f7e5cb-f9e1-4004-8759-eee125d8361c",
+  "shortname": "الجمال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الجمال"},
+  "updated_at": "2014-08-15T00:17:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:889f848ec3ba82b2b5bc35a47e41b3f9b3434eae",
+    "bytesize": 184,
+    "body": "<span class=\"maqola_body\"> <br> <strong> قد يفتقر الجمال إلى الفضيلة، أما الفضيلة فلا تفتقر إلى الجمال أبدا</strong><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9ac5503b-7bfd-451f-8d16-de8523eef134",
+    "shortname": "soufian_wa_lilah_lhamd",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-08-15T00:17:02Z",
+  "attributes": {
+    "old_id": 917
+  },
+  "language": "ar",
+  "history": []
+}

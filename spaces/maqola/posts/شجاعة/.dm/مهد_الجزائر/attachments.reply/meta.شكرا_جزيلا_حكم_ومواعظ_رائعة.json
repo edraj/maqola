@@ -1,0 +1,29 @@
+{
+  "uuid": "d0098021-77d2-48b9-8e40-cd5f19199b55",
+  "shortname": "شكرا_جزيلا_حكم_ومواعظ_رائعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكراً جزيلاً حكم ومواعظ رائعة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:018c205f44272362e5d43660c770344739125a0e",
+    "bytesize": 54,
+    "body": "شكراً جزيلاً حكم ومواعظ رائعة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "e6dcc35c-2ce6-4037-9332-6b385985dbfc",
+    "shortname": "ياسين_السعدي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-08-08T00:27:28Z",
+  "attributes": {
+    "old_id": 901,
+    "old_entry_id": 1455
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "166dae69-67ae-4252-bfe8-f94bdc667cab",
+  "shortname": "المثل_المصرى__بيع_الجمال_و_اشترى_خفه__الجمال_كتير_بس_الخفيف_صدفة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المثل المصرى : بيع الجمال و اشترى خفه ، الجمال كتير بس الخفيف صدفة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f46a105c6a51bc485f1e8f377abd0647aed728dc",
+    "bytesize": 375,
+    "body": "المثل المصرى يقول :\r\nبيع الجمال و اشترى خفه ، الجمال كتير بس الخفيف صدفة\r\n\r\nالمقصود بالخفة ...  هنا خفة الظل ( او الدم )  .. بمعنى ان افعالة و كلامه تنشر الاحساس بالمرح و البهجة   بدون تجريح او بذاءة لنفسه او لمن حوله"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "98c05580-9d4c-4379-b9ee-265dce111570",
+    "shortname": "نصر_الدين_أبوطالب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-04-10T18:17:09Z",
+  "attributes": {
+    "old_id": 847,
+    "old_entry_id": 1143
+  },
+  "language": "ar"
+}

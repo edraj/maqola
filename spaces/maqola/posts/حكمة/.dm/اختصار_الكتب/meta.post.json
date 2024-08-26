@@ -1,0 +1,44 @@
+{
+  "uuid": "665b5196-40c5-4fdc-8a1c-f8b79a42747d",
+  "shortname": "اختصار_الكتب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اختصار الكتب"},
+  "updated_at": "2014-01-12T12:48:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e520d03054af9e496ccfd303ed65c82a312963d0",
+    "bytesize": 176,
+    "body": "<span class=\"maqola_body\"><span class=\"fontxlarge\">\"يُخْتَصَرُ الكِتَابُ لِيُحْفَظَ ، ويُبْسَطُ لِيُفْهَمَ\"</span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b4e50561-b8b7-4ebb-804d-5fa66e819ac3",
+    "shortname": "الفراهيدي_الخليل_بن_أحمد_",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a3b522e4-2a27-4598-aa55-eba5e171481e",
+    "shortname": "niazi_elhadi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "عُلوم",
+    "فَصاحَة"
+  ],
+  "created_at": "2013-10-20T09:05:58Z",
+  "attributes": {
+    "old_id": 694
+  },
+  "language": "ar",
+  "history": []
+}

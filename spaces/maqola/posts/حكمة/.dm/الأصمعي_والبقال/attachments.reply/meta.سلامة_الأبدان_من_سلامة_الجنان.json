@@ -1,0 +1,29 @@
+{
+  "uuid": "5d5b59b1-d899-48d9-81e2-a7894f28b939",
+  "shortname": "سلامة_الأبدان_من_سلامة_الجنان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سلامة الأبدان من سلامة الجنان"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7728a744cfa8f155e42a65491921781fbd007bbd",
+    "bytesize": 269,
+    "body": "العلم خير شيء يقتنيه المرء فهو الصاحب في الغربة والمؤنس في الوحشة ..به توضع الموازين بين الناس ..وبه يساسون ..وهو نور لصاحبه في الأرض وذكر له في السماء"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "21327be8-3be7-4ee1-96a6-d33a91a12be9",
+    "shortname": "abdenacer_bencherif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-24T13:40:47Z",
+  "attributes": {
+    "old_id": 834,
+    "old_entry_id": 30
+  },
+  "language": "ar"
+}

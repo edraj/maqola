@@ -1,0 +1,47 @@
+{
+  "uuid": "45245fec-3d8e-49c8-bca1-7fbf3775e450",
+  "shortname": "الفرق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الفرق......"},
+  "updated_at": "2014-02-04T13:40:55Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d5a69052df8653dd079cacf39abd993ed302bf67",
+    "bytesize": 225,
+    "body": "<span>\" الأحمقُ يتباهى بما سيفعلُهُ، و المغرورُ يتباهى بما عَمِلَهُ، و العاقِلُ يعملُ ولا ينطِقُ \"</span><span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "رِثاء",
+    "مَثَل",
+    "مَدح"
+  ],
+  "created_at": "2014-02-04T13:40:50Z",
+  "attributes": {
+    "old_id": 790
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "7b627852-3e39-4c35-acdd-49609793b6e3",
+  "shortname": "جامدة_جدا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جامدة جدا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:082bc55b6a1d0998fd29fbc49fd94dab644f0661",
+    "bytesize": 46,
+    "body": "جامدة جدا انا مت من الضحك "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T19:18:52Z",
+  "attributes": {
+    "old_id": 71,
+    "old_entry_id": 52
+  },
+  "language": "ar"
+}

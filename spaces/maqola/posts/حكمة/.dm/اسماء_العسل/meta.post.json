@@ -1,0 +1,45 @@
+{
+  "uuid": "1ef2b4ec-4817-48b2-a93b-d9cd247d9b55",
+  "shortname": "اسماء_العسل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اسماء العسل"},
+  "updated_at": "2014-02-04T14:29:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5b3a50c8d32d4edc86a6bb4bb4e0d970f9546583",
+    "bytesize": 311,
+    "body": "من أسماءِ العسل:<br> الأَرْي، والآس، والجَلْس، والخَوّ، والذَّوْب، والشَّوْب، والسلوى، والسَّنّوت، والشَّهْد، والضَّحْك، والطِّرْم، والظَّيّان.<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-04T14:29:00Z",
+  "attributes": {
+    "old_id": 797
+  },
+  "language": "ar",
+  "history": []
+}

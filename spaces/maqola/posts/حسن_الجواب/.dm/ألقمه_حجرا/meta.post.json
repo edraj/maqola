@@ -1,0 +1,43 @@
+{
+  "uuid": "ad60213c-e025-4446-b239-07c9ce7a5232",
+  "shortname": "ألقمه_حجرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ألقَمَهُ حَجَراً"},
+  "updated_at": "2010-12-14T09:21:51Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:579ab6296279d6d27d00d03fd6a1e6a1959c5f5d",
+    "bytesize": 720,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">ذَكَرَ الغزالي في الإحياء، أَنَّ رَجُلاً سيقَ إلى الخليفةِ هِشامُ بن عبدالملك لأمرٍ بَلَغَهُ عنه ، فَلَمّا أُقيم بين يديه جَعَلَ الرجل يتكلمُ بِحُجته.<br />\r\n\tفقال له هشام : وتتكلمُ أيضاً؟<br />\r\n\tفقال الرجل : يا أمير المؤمنين الله عز وجل يقول : { يَومَ تأتي كُلُّ نَفسٍ تُجادِلُ عَن نَفسِها } .<br />\r\n\tأفيجادلون الله تعالى ولا نتكلم بين يديك كلاماً ؟!<br />\r\n\tقال هشام : بلى، ويحك تكلم.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-14T09:21:03Z",
+  "attributes": {
+    "old_id": 372
+  },
+  "language": "ar",
+  "history": []
+}

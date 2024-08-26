@@ -1,0 +1,42 @@
+{
+  "uuid": "ecd5934f-92a3-4140-b948-5af3cb8524b7",
+  "shortname": "لا_ندعه_يبرد_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا ندعه يبرد :)"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cc0ede748a36187c0cbab431c4e4020d319cd033",
+    "bytesize": 290,
+    "body": "<p>قيل لأعرابيّ: ما اسمُ المرق عندكم؟ <br> قال: السَّخين.<br> قال: فإذا بَرَدَ؟ <br> قال: لا ندعُه  يبرُد<br><br>------------<br><a href=\"https://www.facebook.com/essaid.ouazzouz\">صفحتي على الفيسبوك</a></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "fba49081-5dcb-4d0a-bec7-fd7754babb70",
+    "shortname": "essaid_ouazzouz",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَوارِد",
+    "طُرفَة"
+  ],
+  "created_at": "2015-08-20T10:11:11Z",
+  "attributes": {
+    "old_id": 1483
+  },
+  "language": "ar",
+  "history": []
+}

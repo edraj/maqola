@@ -1,0 +1,42 @@
+{
+  "uuid": "4db73e4b-f62c-458c-a3a0-823c95135f06",
+  "shortname": "اللبن_الاحمر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اللبن الاحمر"},
+  "updated_at": "2013-11-08T20:53:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:232e4327c0285417b993f47e3a06d9d8f2993384",
+    "bytesize": 451,
+    "body": "<span class=\"maqola_body\"> <br> <br><p>اللبن الأحمر ..</p><br><p>رأى هارون الرشيد أبا نواس ومعه زجاجة </p><br><p>خمر , فقال له :</p><br><p>-- ماهذا يا أبا نواس ؟؟<br>-- فقال أبو نواس : لبن يا سيد<br>-- اللبن أبيض , وهذا أحمر !؟<br>-- نعم ياسيدي , لقد احمرت خجلا ً منك .<br>فضحك الرشيد وتركه </p><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba2d5487-1f31-4067-b462-3f5ff05ca394",
+    "shortname": "أبو_أحمد",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب"
+  ],
+  "created_at": "2013-10-23T21:47:51Z",
+  "attributes": {
+    "old_id": 703
+  },
+  "language": "ar",
+  "history": []
+}

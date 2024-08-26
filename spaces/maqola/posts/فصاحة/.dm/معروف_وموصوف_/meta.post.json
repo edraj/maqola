@@ -1,0 +1,41 @@
+{
+  "uuid": "07402a68-dc9b-4872-93a3-445af4b4fe25",
+  "shortname": "معروف_وموصوف_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"معروف وموصوف ."},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9080517df9767910f698ea3e9647b4b697d72fcf",
+    "bytesize": 369,
+    "body": "<p> <span style=\"color: rgb(31, 73, 125);\">يارب إن كان حالى معك  بالتقصير معروف وموصوف .</span></p><p><span style=\"color: rgb(31, 73, 125);\"> فإن ثقتى فيك ياسيدى أنك بالجود معروف و موصوف .</span></p><p><br></p><p><span style=\"color: rgb(63, 49, 81);\">الكاتب : نبيل جلهوم .</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "فَصاحَة"
+  ],
+  "created_at": "2015-02-10T09:08:36Z",
+  "attributes": {
+    "old_id": 1005
+  },
+  "language": "ar",
+  "history": []
+}

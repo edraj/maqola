@@ -1,0 +1,43 @@
+{
+  "uuid": "20b5575e-9a6d-4eb9-b6b3-deaff9d5e274",
+  "shortname": "حق_أهل_الذمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حقُّ أهلِ الذّمة"},
+  "updated_at": "2010-11-04T04:26:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:84056d180b592300215afa3c5c026a85d5f4d721",
+    "bytesize": 1226,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">&#160;روى القاضي أبو يوسف في كتابه (الخراج):<br />\r\n\tأن عمر - رضي الله عنه - مَرَّ ببابِ قوم وعليه سائلٌ يسأل، وكان شيخًا ضريرًا، يبدو عليه أنه ذمِّيُّ ،فَضَربَ عمر بِعَضُدِه، وقال:<br />\r\n\tمن أي أهل الكتاب أنت؟<br />\r\n\tفقال: يَهودي.<br />\r\n\tفقال: ما ألجأك إلى ما أرى؟<br />\r\n\tقال: أسألُ الجِزيةَ والحاجةَ والسنَّ.<br />\r\n\tفأخذ عمر بيدهِ، وذهب به إلى منزله، وأعطاه شيئًا مما عنده، ثم أرسل إلى خازنِ بيت المال، وقال له، انظر هذا وضُرباءَهُ، فوالله ما أنصفنا الرجلَ أنْ أكلنا شبيبته، ثُمَّ نَخذِلُه عِند الهَرَم:<br />\r\n\t(إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ) [التوبة: 60].<br />\r\n\tوهذا من المساكين من أهل الكتاب.<br />\r\n\tثم رَدَّ عنه الجزية وعن أمثالِه.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "قِصّة"
+  ],
+  "created_at": "2010-11-04T04:26:20Z",
+  "attributes": {
+    "old_id": 149
+  },
+  "language": "ar",
+  "history": []
+}

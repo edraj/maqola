@@ -1,0 +1,33 @@
+{
+  "uuid": "f99181bc-3a2a-4288-bf71-683e8e77f948",
+  "shortname": "f99181bc",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2014-02-04T14:44:49Z",
+  "author_locator": { "type": "content",
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2014-02-04T14:44:49Z",
+  "attributes": {
+    "old_id": 156,
+    "old_entry_id": 802
+  },
+  "language": "en",
+  "location": {
+    "uuid": "f99181bc-3a2a-4288-bf71-683e8e77f948",
+    "shortname": "f99181bc",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "من_أقوال_أبو_العتاهية",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "uuid": "db06c94f-23af-4e8b-8c01-3f109e9d5221",
+  "shortname": "websection",
+  "is_active": true,
+  "displayname":{"ar":"الموقع"},
+  "owner_shortname":"dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:650498b43fa56cbcbafca41d4901f988e49d109b",
+    "bytesize": 181267,
+    "body": "screenshot_maqola.png"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "media",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-09-07T11:39:40+03:00",
+  "attributes": {
+    "ordinal": 6
+  },
+  "language": "en",
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "798a70c6-089e-4486-a18a-e2f7609ba53c",
+  "shortname": "إذا_ضربت_فأوجع_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إذا ضربت فأوجع ..."},
+  "updated_at": "2011-01-02T09:13:18Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:538cf78c9815aeb77024dbdadab31af7c3b01fc4",
+    "bytesize": 227,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">إذا ضَرَبتَ فأوجِعْ وَإذَا زَجَرتَ فَأسمِعْ<br />\r\n\tيُضرَبُ في المبالغة وتَركُ التَّواني والعَجْز.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2011-01-02T09:13:18Z",
+  "attributes": {
+    "old_id": 436
+  },
+  "language": "ar",
+  "history": []
+}

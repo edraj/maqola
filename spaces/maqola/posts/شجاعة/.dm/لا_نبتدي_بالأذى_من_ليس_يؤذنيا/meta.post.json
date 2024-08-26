@@ -1,0 +1,44 @@
+{
+  "uuid": "2124926d-195b-43d5-8d0f-9f3c8aa2fe77",
+  "shortname": "لا_نبتدي_بالأذى_من_ليس_يؤذنيا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا نَبتَدي بالأَذى مَن لَيسَ يؤذِنيا"},
+  "updated_at": "2010-12-23T08:34:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b0658cc4f8d87cb193304adb28c6d659cb8b3b2b",
+    "bytesize": 1225,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">سَلي الرِّماحَ العَوالي عَن مَعالينا-- و استَشهِدي البيضَ، هل خابَ الرّجا فينا؟<br />\r\n\tلما سعينا، فما رقّت عزائِمُنا -- عَمّا نَرومُ ولا خابتَ مساعينا<br />\r\n\t<span style=\"font-family: UthmanTN1B,&quot;Traditional Arabic&quot;;\">إِنّا لَقومٌ أَبَتْ أخلاقُنا شرفاً -- أنْ نَبتَدي بالأذى مَن لَيسَ يؤذينا<br />\r\n\tبيضٌ صنائِعنا، سودٌ وقائِعنا -- خُضرٌ مَرابِعُنا، حُمرٌ مَواضينا<br />\r\n\tلا يَظهَرُ العَجزُ مِنا دون نَيلِ مُنىً -- و لو رأينا المنايا في أمانينا</span><br />\r\n\tإذا جرينا إلى سَبقِ العُلى طَلَقاً -- إنْ لَم نَكُن سُبقا كُنّا مُصَلِّينا</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">(البيض : السيوف، المُصلّي : تقول العرب للأول في السباق، السابق، وللثاني في السباق المُصَلِّي.)</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "62a07818-eff7-456b-8ec6-0f583120ef30",
+    "shortname": "صفي_الدين_الحلي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَجاعَة",
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2010-12-23T08:34:10Z",
+  "attributes": {
+    "old_id": 410
+  },
+  "language": "ar",
+  "history": []
+}

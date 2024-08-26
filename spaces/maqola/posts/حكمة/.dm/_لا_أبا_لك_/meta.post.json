@@ -1,0 +1,43 @@
+{
+  "uuid": "f38b8726-09b4-4896-a3db-38e04785de26",
+  "shortname": "_لا_أبا_لك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"\"لا أبا لَك\""},
+  "updated_at": "2011-05-22T16:21:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:716b2bfe8a3b4905f4f9b4cf435ede56b6aa0091",
+    "bytesize": 1092,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">تقولُ العربُ في معرض المدح : لا أبا لك. أي لا كافٍ لك غير نفسِك. وقد تُذكَرُ بمعنى جِد في أمرِك وشَمِّر. لأن من كان له أب اتّكلَ&#160; عليه في بَعضِ شأنِه.<br />\r\n\tوذات يوم، سمع ( سليمانُ بن عبدالملك ) رجلاً من الأعراب يقولُ في سَنَةٍ مُجدِبَةٍ يقول :<br />\r\n\t&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; ربَّ العبادِ ما لَنا وما لَك؟<br />\r\n\t&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; قَد كُنتَ تسقينا فما بدا لَك؟<br />\r\n\t&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; أنزل علينا الغيثَ لا أبا لك!<br />\r\n\tفحمَلَهُ سُليمانُ على أحسن مَحمَل فقال: أشهدُ أنَّ لا أبا لهُ ولا صاحبة ولا ولد.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2011-05-22T16:21:15Z",
+  "attributes": {
+    "old_id": 474
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "93d1d2f2-35db-41d5-8706-74fea35312be",
+  "shortname": "كياس_عبد_النبي__المغرب__بالفعل_هذا_خطأ_شائع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كياس عبد النبي: المغرب : بالفعل هذا خطأ شائع"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8342105449417e7eb5367be64c45916c791a3eae",
+    "bytesize": 597,
+    "body": "هذه المقولة هي بالفعل للقاضي الفاضل ابن البيساني، في جواب له على رسالة للعماد الأصفهاني، ; وللأسف ينسبها العديد من الناس للعماد الأصفهاني، وهذا راجع أساسا لعدم البحث في المصادر، فهم يأخذونها فقط من مقدمات بعض الكتب بعض  وللاطلاع أكثر يمكن الرجوع الى كتاب: اتحاف السادة المتقين في علوم الدين، للعلامة مرتضى الزبيدي، elmahdiabdo75@yahoo.com"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "9873596a-d5c3-4ec5-8d2c-8b6ccef53ef3",
+    "shortname": "عبد_النبي_كياس",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-06-23T20:41:50Z",
+  "attributes": {
+    "old_id": 775,
+    "old_entry_id": 94
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "89841597-1b79-40e7-b91e-fad4813dcb64",
+  "shortname": "رائع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رائع "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6616c96ed629ff4f5a95914340c83590d4ad8efa",
+    "bytesize": 37,
+    "body": "نص رائع تسلم الايادي"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-16T21:32:50Z",
+  "attributes": {
+    "old_id": 621,
+    "old_entry_id": 548
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "5fc2290f-df32-4da5-8d34-1e8b1af3d5b1",
+  "shortname": "النفاق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"النفاق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:07bb38997339ddf74cc84052c93aeb942d188459",
+    "bytesize": 159,
+    "body": "و لا زال النفاق جارياً على ألسنة البعض ما بقي المشرق و المغرب اللهم طهر قلوبنا من النفاق"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-12T18:50:56Z",
+  "attributes": {
+    "old_id": 299,
+    "old_entry_id": 353
+  },
+  "language": "ar"
+}

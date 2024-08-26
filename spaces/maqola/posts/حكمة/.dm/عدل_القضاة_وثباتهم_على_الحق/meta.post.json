@@ -1,0 +1,44 @@
+{
+  "uuid": "36b846c7-5001-406d-8d30-8e036068daea",
+  "shortname": "عدل_القضاة_وثباتهم_على_الحق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عَدلُ القضاةِ وثباتُهم على الحق..."},
+  "updated_at": "2010-11-04T04:23:28Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2da20d29b41bfb96b4c7f837e67341d5fd532e05",
+    "bytesize": 1080,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">أخرج ابن عساكر عن عبد الله بن صالح، قال:<br />\r\n\tكَتبَ المنصورُ إلى سِوار بن عبد الله قاضي البصرة:<br />\r\n\tانظُر الأرضَ التي تَخاصَمَ فيها فلانُ القائد وفلان التاجرُ، فادفعها&#160; إلى القائد.<br />\r\n\tفكتب إليه سِوارُ:<br />\r\n\tإنَّ البيّنةَ قَد قامت عندي أَنَّها لِلتاجرِ، فَلَستُ أُخرِجُها مِن يَدهِ إلابِبينةٍ.<br />\r\n\tفكتب إليه المنصور:<br />\r\n\tوالله الذي لا إله إلا هو لَتدفَعنَّها إلى القائد.<br />\r\n\tفكتب له سِوار:<br />\r\n\tوالله الذي لا إله إلا هو لا أخرجتُها مِن يَدِ التاجرِ إلا بِحَق.<br />\r\n\tفلمّا جاءه الكتاب، قال:<br />\r\n\tملأتُها والله عدلًا، وصارَ قضاتي تَرُدّني إلى الحق.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "طُرفَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-11-04T04:23:28Z",
+  "attributes": {
+    "old_id": 148
+  },
+  "language": "ar",
+  "history": []
+}

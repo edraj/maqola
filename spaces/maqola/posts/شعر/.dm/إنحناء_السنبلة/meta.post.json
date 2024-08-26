@@ -1,0 +1,42 @@
+{
+  "uuid": "6f1cd97a-713c-43bc-8da2-ed9d9669645e",
+  "shortname": "إنحناء_السنبلة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إنحناءُ السُنبُلَة"},
+  "updated_at": "2010-11-05T15:31:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:307c49b05ca3b3bdc3230c2da896a64512413bd3",
+    "bytesize": 2038,
+    "body": "<p style=\"text-align: center;\">\r\n\t<span style=\"font-size: 2em; font-family: UthmanTN1B;\">إنحناءُ السُنبُلَة</span></p>\r\n<p style=\"text-align: center;\">\r\n\t<br />\r\n\t<br />\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">أنا مِنْ تُرابٍ وَمَاءْ<br />\r\n\tخُذوا حِذْرَكُمْ أيُّها السَّابِلَةْ<br />\r\n\tخُطاكُمْ عَلى جُثَّتي نازِلَةْ<br />\r\n\tوَصَمْتي سَخاءْ<br />\r\n\tلأنَّ التُّرابَ صَميمُ البَقَاءْ<br />\r\n\tوأنَّ الخُطى زائِلَةْ<br />\r\n\tولَكنْ إذا ما حَبَسْتُمْ بِصَدْري الهَواءْ<br />\r\n\tسَلوا الأَرْضَ عَنْ مَبْدَأِ الزَّلْزَلَةْ !<br />\r\n\t* * *<br />\r\n\tسَلوا عَنْ جُنوني ضَميرَ الشِّتاءْ<br />\r\n\tأنَا الغَيْمَةُ المُثْقَلةْ<br />\r\n\tإذا أجْهَشَتْ بِالبُكاءْ<br />\r\n\tفإنَّ الصَّواعِقَ في دَمِعِها مُرْسَلَةْ<br />\r\n\t* * *<br />\r\n\tأَجَلْ إنَّني أَنْحَني<br />\r\n\tفاشْهَدُوا ذُلَّتي الباسِلَةْ<br />\r\n\tفلا تَنْحَني الشَّمْسُ<br />\r\n\tإلاّ لتبلُغَ قَلْبَ السَّماءْ<br />\r\n\tولا تَنْحَني السُّنْبلَةْ<br />\r\n\tإذا لمْ تَكُن مُثْقَلَةْ<br />\r\n\tولكنَّها سَاعَةَ الانْحِنَاءْ<br />\r\n\tتُواري بُذورَ البَقاءْ<br />\r\n\tفَتُخْفي بِرَحْمِ الثَّرى<br />\r\n\tثَوْرَةً .. مُقْبِلَةْ !<br />\r\n\t* * *<br />\r\n\tأجَلْ.. إنَّني أنْحَني<br />\r\n\tتَحْتَ سَيفِ العَناءْ<br />\r\n\tولكِنَّ صَمْتي هوَ الجَلْجَلَةْ<br />\r\n\tوَذُلُّ انْحِنائي هُوَ الكِبْرياءْ<br />\r\n\tلأني أُبالِغُ في الانْحِناءْ<br />\r\n\tلِكَي أزرَعَ القُنبُلَـةْ !</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-10-23T08:54:46Z",
+  "attributes": {
+    "old_id": 105
+  },
+  "language": "ar",
+  "history": []
+}

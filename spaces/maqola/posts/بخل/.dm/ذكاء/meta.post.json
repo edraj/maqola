@@ -1,0 +1,42 @@
+{
+  "uuid": "fd30a7cf-5fc5-4e27-b4f1-ce27dfcc2509",
+  "shortname": "ذكاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ذكاء"},
+  "updated_at": "2013-11-08T20:55:07Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:856dc3eb1e60bf676b6f4cdfbf3cb6ecbbc838e2",
+    "bytesize": 451,
+    "body": "<span class=\"maqola_body\"> <br> <p><br></p><div>كان لبعض الاًعراب ناقة فضجر منها ، وحلف يبيعها ب(درهم )<br>ثم ندم فاًخبر زوجته .<br>فقالت: خذ السنور وناد عليه بثلاثمائة درهم وعلى الناقة بدرهم<br>وقل : لا اًبيعهما اٍلاّسوية ففعل وتخلص من (( يمينه )) بفضل زوجته <p></p><br>******</div><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba2d5487-1f31-4067-b462-3f5ff05ca394",
+    "shortname": "أبو_أحمد",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بُخل"
+  ],
+  "created_at": "2013-10-23T21:37:08Z",
+  "attributes": {
+    "old_id": 699
+  },
+  "language": "ar",
+  "history": []
+}

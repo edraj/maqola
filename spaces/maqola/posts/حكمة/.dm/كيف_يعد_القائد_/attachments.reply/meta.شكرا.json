@@ -1,0 +1,29 @@
+{
+  "uuid": "d03a06b6-56f9-4edd-99f4-1578c58d3ce8",
+  "shortname": "شكرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكرا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:026f120b344bc9e9505fd68d92e6abb15acacb2d",
+    "bytesize": 89,
+    "body": "سبحان الله  غلمان فاقوا كثيرا من رجال وشيوخ عصرنا"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-06-23T05:22:06Z",
+  "attributes": {
+    "old_id": 478,
+    "old_entry_id": 496
+  },
+  "language": "ar"
+}

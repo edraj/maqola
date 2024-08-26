@@ -1,0 +1,44 @@
+{
+  "uuid": "12257c98-f545-4305-8494-c34a73ddf7ce",
+  "shortname": "اللئيم_لا_يحفظ_عهدا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اللئيمُ لا يَحفَظُ عَهداً"},
+  "updated_at": "2013-09-15T21:19:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6968e4575d82ec89261c947aa479324bf7726882",
+    "bytesize": 965,
+    "body": "<span class=\"maqola_body\"> رَوى الأصمَعِيُّ أن أعرابيَّة وَجَدَت جروَ ذئبٍ وليدًا؛ فَحَنَّت عليه وأخذته ورَعَته.. وكانت تُطعمُهُ مِن حليب شاةٍ عندَها، حتَّى كبرَ الذِّئبُ الصَّغير. وفي يومٍ عادَت الأعرابيَّة إلى بيتِها فوجدت الذِّئبَ قد أكلَ الشَّاة. فأنشَدَت تقُول:<br><br>بقرتَ شُوَيهتي وفجَعْتَ قلبي ... وأنتَ لشاتِنا ولدٌ ربيبُ<br>غُذِيتَ بدرِّها، ورُبيتَ فينا ... فمَن أنباكَ أنَّ أباكَ ذيبُ<br>إذا كانَ الطِّباعُ طباعَ سوءٍ ... فلا أدبٌ يُفيدُ ولا أديبُ<br><br>=====================<br>هكذا اللَّئيمُ في كُلِّ عصر. لا يحفظُ عهدًا أو جميلاً أو مَعرُوفا.<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة",
+    "قِصّة"
+  ],
+  "created_at": "2013-09-15T21:19:07Z",
+  "attributes": {
+    "old_id": 669
+  },
+  "language": "ar",
+  "history": []
+}

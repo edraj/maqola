@@ -1,0 +1,41 @@
+{
+  "uuid": "c6341c86-fe1c-41ce-a12c-651404fcdbc8",
+  "shortname": "ضياء_ابراهيم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ضياء ابراهيم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fb8f7b6d2f93821a434a1475867d87f86fee471d",
+    "bytesize": 246,
+    "body": "<p>الضمير وحده هو الذي يدفع المسؤول لخدمة الناس, فمتى ما أحيل ضميره مبكرا على التقاعد, اصبح مجرد بنك متنقل, يجمع ما يمكن ان يقع تحت يديه.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة"
+  ],
+  "created_at": "2015-02-17T16:46:38Z",
+  "attributes": {
+    "old_id": 1020
+  },
+  "language": "ar",
+  "history": []
+}

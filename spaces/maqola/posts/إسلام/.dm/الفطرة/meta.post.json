@@ -1,0 +1,43 @@
+{
+  "uuid": "34fa77aa-bee8-4e68-b493-f5922c07ad6b",
+  "shortname": "الفطرة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الفطرة"},
+  "updated_at": "2014-07-02T12:35:42Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:db04138b22750a6b2cf00512f6d762153d367d37",
+    "bytesize": 403,
+    "body": "<span class=\"maqola_body\"> <br> أسلمت وجهي لمن أسلمت له ***الأرض تحمل صخرا ثقالا<br>وأسلمت وجهي لمن أسلمت له ***المزن تحمل عذبا زلالا<br>إذا هي سبقت إلى بلدة أطاعت ***فصبت عليها سجالا&#160;<br>وأسلمت وجهي لمن أسلمت له*** الريح تصرف حالا فحالا<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "945a78fc-63f7-42c1-a380-1730a1a586cc",
+    "shortname": "فياض_دوابشة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "شِعر"
+  ],
+  "created_at": "2014-07-02T12:35:42Z",
+  "attributes": {
+    "old_id": 895
+  },
+  "language": "ar",
+  "history": []
+}

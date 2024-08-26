@@ -1,0 +1,43 @@
+{
+  "uuid": "d249c49d-a060-42b9-82a1-3661a323e304",
+  "shortname": "نهاية_من_يقتل_شعبا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نِهايةُ مَن يَقتُلُ شَعباً"},
+  "updated_at": "2011-10-20T20:16:01Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:94ae279c7cd6ffce784eba975765386ae7aabd0f",
+    "bytesize": 813,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">بعد مقتل الخائن القذافي على يد ثوار ليبيا، قال الشاعر العمري من حمص:<br />\r\n\t<br />\r\n\tقد أُسدِلَ ليلُ القذافي -- وسَيَرجِعُ عَهدُ الإنصافِ<br />\r\n\tوسَيَشفي الله جِراحَكُمُ -- يا نَسلَ المُختار الصافي<br />\r\n\tنَسلُ الإيمانِ أبى إلّا -- أنْ يُسقِطَ رأسَ الإجحافِ<br />\r\n\tثُرتُم فحَماكُم مَولاكُم -- والله الناصِرُ و الشافي<br />\r\n\tفي الجُحرِ أبادَكَ أبطالٌ -- والجُحرُ لأَمثالِكَ كافي<br />\r\n\tمَن يَقتُلُ شَعباً بَشِّرهُ -- أنْ يُقتَلَ مِثلَ القذافي</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2011-10-20T20:16:01Z",
+  "attributes": {
+    "old_id": 535
+  },
+  "language": "ar",
+  "history": []
+}

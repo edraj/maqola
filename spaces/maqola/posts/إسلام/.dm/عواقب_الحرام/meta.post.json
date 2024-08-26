@@ -1,0 +1,44 @@
+{
+  "uuid": "e9b37938-7a92-42d1-8d92-901014446b23",
+  "shortname": "عواقب_الحرام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عواقِبُ الحَرامِ"},
+  "updated_at": "2011-01-09T19:23:03Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8df166a516f88ff39fdf2c298ca540f37f55b716",
+    "bytesize": 336,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">تَفنى اللذاذَةُ مِمَّن نالَ صَفوَتَها -- مِن الحرامِ ويَبقى الإِثمُ والعارُ<br />\r\n\tتَبقى عَواقِبُ سُوءٍ في مَغَبَّتِها -- لا خيرَ في لَذَّةٍ مِن بَعدِها النارُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-23T09:33:57Z",
+  "attributes": {
+    "old_id": 417
+  },
+  "language": "ar",
+  "history": []
+}

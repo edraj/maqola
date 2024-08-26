@@ -1,0 +1,43 @@
+{
+  "uuid": "2de58ccb-5b49-4971-aae2-cc24b0afd454",
+  "shortname": "خدعوها_بقولهم_حسناء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خَدَعوها بقولهم حَسناءُ"},
+  "updated_at": "2013-04-07T15:05:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8206b955ac80add2deced67824add9148993218e",
+    "bytesize": 861,
+    "body": "<span class=\"maqola_body\"> خَدَعوها بقولهم حَسناءُ والغَواني يَغُرُّهُنَّ الثَّناءُ<br>أَتراها تناست اسمي لما كَثُرَت في غرامها الاسْماءُ؟<br>إن رَأتْنِي تميلُ عني، كأن لم تك بيني وبينها اشْياءُ<br>نَظرَةٌ ، فابتسامَةٌ، فسلامٌ فكلامٌ، فموعدٌ، فَلِقاءَ<br>يوم كنا ولا تسل كيف كنا نتهادى من الهوى ما نشاءُ<br>وعلينا من العفاف رقيبٌ تعبت في مراسه الاهواءُ<br>جَاذَبَتْني ثَوبي العَصيِّ وقالَتْ: أنتم الناس أيها الشعراء<br>فَاتّقوا الله في قُلوبِ اَلْعَذَارَى فالعذارى قُلوبُهُن هَواءُ<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2013-04-07T15:05:05Z",
+  "attributes": {
+    "old_id": 567
+  },
+  "language": "ar",
+  "history": []
+}

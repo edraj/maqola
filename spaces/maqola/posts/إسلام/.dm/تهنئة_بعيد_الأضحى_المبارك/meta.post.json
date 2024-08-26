@@ -1,0 +1,42 @@
+{
+  "uuid": "4248a929-1db4-46b7-89f4-4ec8876105a2",
+  "shortname": "تهنئة_بعيد_الأضحى_المبارك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تهنئة بعيد الأضحى المُبارك"},
+  "updated_at": "2010-11-17T05:32:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7cc8fd89f558bbb89816f7bf362f7c126ca4f303",
+    "bytesize": 998,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_bold\">زوارَنا الأعزاء،</span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_bold\">نُهَنِئُكم والأُمَّةَ الإسلامية بِعيدِ الأضحى المُبارك، تَقبَّلَ الله مِنّا ومِنكُم الطاعات،</span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_bold\">وأعادَهُ عَلينا وقَد أعَزَّ المُسلِمين وغَيَّرَ حالَهم إلى خير.</span></span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_bold\">مع أطيَبِ تَحياتِنا،</span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_bold\">- إدارَةُ مَوقِعِ مَقولَة.</span></span></p>\r\n<div style=\"text-align: center;\">\r\n\t<img alt=\"eid greetings\" src=\"http://maqola.org/data/84/184/adha.jpg\" style=\"width: 500px;\" /></div>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "08030d9c-9a7e-46fc-b570-dc8541666d45",
+    "shortname": "إدارة_الموقع",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2010-11-16T20:00:29Z",
+  "attributes": {
+    "old_id": 184
+  },
+  "language": "ar",
+  "history": []
+}

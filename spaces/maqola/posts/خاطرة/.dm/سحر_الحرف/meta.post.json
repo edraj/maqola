@@ -1,0 +1,46 @@
+{
+  "uuid": "ce2f1b4c-4335-4dbe-9ea3-c4917ac3c190",
+  "shortname": "سحر_الحرف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سِحْر الحرف"},
+  "updated_at": "2015-02-19T14:14:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c59dc5e4b3ce3458873839556ce6f1e8f5132645",
+    "bytesize": 617,
+    "body": "<p>أيّتها الرائِعة ..<br> يا سِحْر الحرف المعبد بهالات الشوق ، الموشح بسوار القصيد ...<br> ما ضرُّك إن مر بك العابرون وشموخُكِ طاردهم ...<br> يا زَهْوَ الأرض ..<br> سَنبحث عن تفاصيلك في ملامح شمس كل غد ...<br> سَنبتلع غبار الصبر وننتظرك في قمر كل ليل ...<br> على شموع الأمل ..<br> تأخذنا شهوة الانتماء إلى صلاة يعتليها ذكرك <br> ويرتلها هدب العين بخشوع ...<br><br>بيسار</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "سِياسَة",
+    "عربية",
+    "غَزَل",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-19T14:14:10Z",
+  "attributes": {
+    "old_id": 1036
+  },
+  "language": "ar",
+  "history": []
+}

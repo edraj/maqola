@@ -1,0 +1,29 @@
+{
+  "uuid": "f0c4c841-9f8e-425a-92d7-ebec8e5151fc",
+  "shortname": "إعجاب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إعجاب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:92f6f1e4170e08a6cdc86295e93363e152e3aab4",
+    "bytesize": 181,
+    "body": "خطوة رائعة من الأخ المؤسس لهذا الموقع الرائع. قراءة صوتية جماعية رائعة لهذا النص الخالد. وفقكم الله."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-24T12:20:48Z",
+  "attributes": {
+    "old_id": 10,
+    "old_entry_id": 77
+  },
+  "language": "ar"
+}

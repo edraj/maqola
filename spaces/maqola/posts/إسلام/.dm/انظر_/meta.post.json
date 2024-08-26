@@ -1,0 +1,45 @@
+{
+  "uuid": "c6e05a51-2c5c-4298-bc14-ac21d07fede5",
+  "shortname": "انظر_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"انظر!!!!"},
+  "updated_at": "2014-02-08T12:03:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:545c820b63a90d79d20bb7f8acb9a64666840396",
+    "bytesize": 318,
+    "body": "قالَ الشافعي رحمهُ الله :<br>  ما حلفتُ باللهِ تعالى لا صادقا ولا كاذبا قط. <br> فانظر إلى حرمته وتوقيره للهِ تعالى ودلالة ذلكَ على علمه بجلالِ الله سبحانه.<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "خاطِرة",
+    "فَصاحَة"
+  ],
+  "created_at": "2014-02-08T12:03:49Z",
+  "attributes": {
+    "old_id": 820
+  },
+  "language": "ar",
+  "history": []
+}

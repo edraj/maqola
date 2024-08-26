@@ -1,0 +1,33 @@
+{
+  "uuid": "3c9ae7db-cff6-41e0-a494-8381224a6171",
+  "shortname": "3c9ae7db",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-19T22:20:49Z",
+  "author_locator": { "type": "content",
+    "uuid": "3defc0b7-8c89-4965-b0ac-944be80d283d",
+    "shortname": "usama_elhosary",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-19T22:20:49Z",
+  "attributes": {
+    "old_id": 524,
+    "old_entry_id": 1407
+  },
+  "language": "en",
+  "location": {
+    "uuid": "3c9ae7db-cff6-41e0-a494-8381224a6171",
+    "shortname": "3c9ae7db",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "الحث_على_لزوم_الصمت_وحفظ_اللسان",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

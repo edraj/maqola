@@ -1,0 +1,42 @@
+{
+  "uuid": "dcf3c8ff-43bc-4baa-9966-fc943b36cf9a",
+  "shortname": "ابن_ابي_الدنيا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ابن ابي الدنيا"},
+  "updated_at": "2014-03-01T15:47:43Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6cfea1dc1faf2deb699f0b27ab5068637e868a5b",
+    "bytesize": 302,
+    "body": "في \r\nرسائلِ ابن أبي الدنيا كثيرٌ من الأدب، والشِّعر المسنَد قد يغفُل عنه \r\nالباحثون، والمحققون. وهو مهم لأنه توفي عام 281هـ، فهو في طبقة المبرّد.<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-03-01T15:47:38Z",
+  "attributes": {
+    "old_id": 852
+  },
+  "language": "ar",
+  "history": []
+}

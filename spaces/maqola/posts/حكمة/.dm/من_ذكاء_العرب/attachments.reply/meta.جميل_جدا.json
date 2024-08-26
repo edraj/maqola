@@ -1,0 +1,29 @@
+{
+  "uuid": "54649729-a264-48f6-9ba8-35a5dbf42080",
+  "shortname": "جميل_جدا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جميل جدا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3a199ff543a06c73d521d8ef4ecda040ec28b308",
+    "bytesize": 410,
+    "body": "اعجبتني القصة واصلوا بارك الله فيكم هناك كتاب اسمه قصص العرب موجود في المكتبات الكبرى مثل العبيكان وجرير فيه الكثييير من القصص الرائعة التي سوف تثري الموقع كذالك هناك كتاب اسمه جمهرة اشعار العرب فيه الكثير من الابيات الرائعة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T08:54:48Z",
+  "attributes": {
+    "old_id": 64,
+    "old_entry_id": 150
+  },
+  "language": "ar"
+}

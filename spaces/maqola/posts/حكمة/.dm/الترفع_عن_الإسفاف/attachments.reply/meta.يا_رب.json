@@ -1,0 +1,29 @@
+{
+  "uuid": "2e18900b-10b2-447d-a20b-786f83ff8c6c",
+  "shortname": "يا_رب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يا رب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:789daf48f72b3b4014d628690206097bc820e701",
+    "bytesize": 63,
+    "body": "الله اجعلنا ممن يترفعون عن الإسفاف"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-12-15T23:35:56Z",
+  "attributes": {
+    "old_id": 582,
+    "old_entry_id": 546
+  },
+  "language": "ar"
+}

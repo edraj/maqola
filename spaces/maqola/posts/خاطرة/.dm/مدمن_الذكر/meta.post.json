@@ -1,0 +1,42 @@
+{
+  "uuid": "fa3bc908-e291-45c6-b771-e1379b089f21",
+  "shortname": "مدمن_الذكر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مدمن الذكر"},
+  "updated_at": "2015-03-08T16:54:25Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fb148bdeb32cf2ebad3066fe3731d0fb4e79b75d",
+    "bytesize": 1105,
+    "body": "<p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(227, 108, 9);\" data-redactor-style=\"color: #e36c09;\" data-redactor-tag=\"span\">هل تعلم :.</span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(227, 108, 9);\" data-redactor-style=\"color: #e36c09;\" data-redactor-tag=\"span\">أن مدمن الذكر يدخل الجنة وهو يضحك , كما قال ابن القيم فى الوابل الصيب ؟</span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(227, 108, 9);\" data-redactor-style=\"color: #e36c09;\" data-redactor-tag=\"span\">ياتُرى وبعد علمك بذلك الفضل الكبير , ماذا سيكون حالك مع الذكر ؟</span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><br><span style=\"color: rgb(227, 108, 9);\"></span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(227, 108, 9);\" data-redactor-style=\"color: #e36c09;\" data-redactor-tag=\"span\">الكاتب : نبيل جلهوم</span></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-03-04T15:06:27Z",
+  "attributes": {
+    "old_id": 1083
+  },
+  "language": "ar",
+  "history": []
+}

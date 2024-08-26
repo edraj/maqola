@@ -1,0 +1,23 @@
+{
+  "uuid": "764376ae-3910-4a2b-82fc-da06a46cddf9",
+  "shortname": "764376ae",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "7c765747-7351-4198-ac76-2ccca55355f3",
+    "shortname": "doctora_moslema",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-07-12T03:55:12Z",
+  "attributes": {
+    "old_id": 1001,
+    "old_entry_id": 190
+  },
+  "language": "en",
+  "type": "like"
+}

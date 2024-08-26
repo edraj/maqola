@@ -1,0 +1,23 @@
+{
+  "uuid": "134f76b8-0fe3-40b8-95dd-4915438a508b",
+  "shortname": "134f76b8",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "6faadbc4-996b-4a22-8661-0616acbde734",
+    "shortname": "nasreddine_cheniki",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-03-12T18:24:08Z",
+  "attributes": {
+    "old_id": 552,
+    "old_entry_id": 30
+  },
+  "language": "en",
+  "type": "like"
+}

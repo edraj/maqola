@@ -1,0 +1,42 @@
+{
+  "uuid": "915d1f2d-859a-45b1-a515-a97dbff288b2",
+  "shortname": "من_هو_قائل_هذا_الكلام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من هو قائل هذا الكلام"},
+  "updated_at": "2014-01-21T03:58:57Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0b0f0c89d192292cc9854b28fe954ef36209648a",
+    "bytesize": 308,
+    "body": "<span class=\"maqola_body\"> <br> على أبوابكم عبد ذليل ... كثير الشوق ناصره قليل<br>\r\n<span>له أسف على ماكان منه ... وحزن من معاصيه طويل</span><br>من هو قائل هذا الكلام وفي اي كتاب ارجو الاجابة<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "7925e270-76c4-4a15-9d8d-796cfda7fcd7",
+    "shortname": "abdul_aziz_mohamad",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2014-01-21T03:58:16Z",
+  "attributes": {
+    "old_id": 739
+  },
+  "language": "ar",
+  "history": []
+}

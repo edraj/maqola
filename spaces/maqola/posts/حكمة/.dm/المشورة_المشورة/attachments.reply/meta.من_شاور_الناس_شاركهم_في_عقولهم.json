@@ -1,0 +1,29 @@
+{
+  "uuid": "bc053819-58cd-4bfd-8cfb-6f169bca2fbb",
+  "shortname": "من_شاور_الناس_شاركهم_في_عقولهم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من شاور الناس شاركهم في عقولهم "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:42200c8ff5eb9e4a823ade8f637e9b1bdb3ed762",
+    "bytesize": 668,
+    "body": "الخوافي والقوادم هي الريش الكبير في جناح الطائر وعددها عشرون : الخوافي عشر ريشات تخفى وﻻ تظهر إذا كان الطائر واقفا وتكون مقوسة قليلا ... والقوادم عشر ريشات تظهر عند الوقوف وعند الطيران وهي الريش الطويل المنتصب في مقدمة الجناح ... \r\nوالخوافي والقوادم يقوي بعضهما بعضا ... فﻻ يستطيع الطائر الطيران بأحدهما ... \r\nكذلك مشورة العقلاء تقوي الرأي وتدعمه ... بالاستفادة من تجاربهم ..."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a840114a-1fde-4b6c-a7f1-f685c42c51a4",
+    "shortname": "الخوافي_قوة_القوادم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-06-07T07:29:10Z",
+  "attributes": {
+    "old_id": 882,
+    "old_entry_id": 549
+  },
+  "language": "ar"
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "26719389-cddd-4df3-bb00-f858078f4e8f",
+  "shortname": "قصة_مع_إبراهيم_بن_أدهم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قصة مع إبراهيم بن أدهم"},
+  "updated_at": "2015-07-25T01:33:36Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:297839b313c399233571ebb17d9566018d49bba0",
+    "bytesize": 1000,
+    "body": "<p>كان إبراهيم بن أدهم يمشي في البصرة، فاجتمع إليه الناس، فقالوا : ما بالنا<br> ندعو فلا يستجاب لنا، والله تعالى يقول : {وقال ربكم ادعون أستجب لكم}<br> فقال : يا أهل البصرة، قد ماتت قلوبكم بعشرة أشياء: عرفتم الله ولم تؤدوا <br>حقه، قرأتم القرآن ولم تعملوا به، ادعيتم حب الرسول صلى الله عليه وسلم <br>وتركتم سنته، ادعيتم عداوة الشيطان وأطعتموه، ادعيتم دخول الجنة ولم تعملوا<br> لها، ادعيتم النجاة من النار ورميتم فيها أنفسكم، قلتم الموت حق ولم <br>تستعدوا له، اشتغلتم بعيوب الناس ولم تنشغلوا بعيوبكم، دفنتم الأموات ولم <br>تعتبروا، أكلتم نعمة الله ولم تشكروه عليها.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "ذَكاء"
+  ],
+  "created_at": "2015-07-25T00:54:22Z",
+  "attributes": {
+    "old_id": 1449
+  },
+  "language": "ar",
+  "history": []
+}

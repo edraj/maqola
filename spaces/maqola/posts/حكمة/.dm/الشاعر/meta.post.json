@@ -1,0 +1,47 @@
+{
+  "uuid": "8d6a4fa4-0745-4d3c-a60e-e9cf3cf4f6c0",
+  "shortname": "الشاعر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الشاعر"},
+  "updated_at": "2014-02-13T14:46:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3899569b4cff4ddde53fe781261710feb5e2c8a7",
+    "bytesize": 108,
+    "body": "<span class=\"maqola_body\">مَن لم يحركِ المَشاعر فَليسَ بشاعر.<br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-13T14:46:12Z",
+  "attributes": {
+    "old_id": 841
+  },
+  "language": "ar",
+  "history": []
+}

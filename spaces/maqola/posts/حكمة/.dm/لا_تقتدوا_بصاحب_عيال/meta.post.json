@@ -1,0 +1,42 @@
+{
+  "uuid": "a1ab6668-c66c-4023-bf5f-d2b077bcd817",
+  "shortname": "لا_تقتدوا_بصاحب_عيال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تقتدوا بصاحب عيال"},
+  "updated_at": "2010-10-17T19:06:16Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bcf7f9f9239ac3200bd57fe5881c4d3fe013c769",
+    "bytesize": 808,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">مرّ سفيان الثوري بشيخ من الكوفيين كان كاتباً، فقال له سفيان:‏ ‏ يا شيخ، وَلِيَ فلانٌ فكتبتَ له ثم عُزِلَ، وولي فلان فكتبت له ثم عزل، وولي فلان فكتبت له. وأنت يوم القيامة أسوأهم حالاً.‏ ‏ فقال الشيخ:‏ ‏ فكيف أصنع يا أبا عبد الله بعيالي!‏ ‏ فقال سفيان لمن معه:‏ ‏ اسمعوا هذا! يقول إنه إذا عصى الله رزق عياله، وإذا أطاع الله ضيّع عياله! لا تقتدوا بصاحب عيال، فما كان عُذْرُ من عوقب إلا أنه قال عيالي!</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-10-17T19:06:16Z",
+  "attributes": {
+    "old_id": 72
+  },
+  "language": "ar",
+  "history": []
+}

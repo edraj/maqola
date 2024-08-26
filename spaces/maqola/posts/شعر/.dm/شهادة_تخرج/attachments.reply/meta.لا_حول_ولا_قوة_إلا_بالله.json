@@ -1,0 +1,29 @@
+{
+  "uuid": "c0c6c573-ed43-405e-bf12-1661594d33a8",
+  "shortname": "لا_حول_ولا_قوة_إلا_بالله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا حول ولا قوة إلا بالله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3d2628988fe73690b053fdac36b8837d29fb5c4e",
+    "bytesize": 42,
+    "body": "صدق القائل تسلم يا غالي"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-05T20:35:40Z",
+  "attributes": {
+    "old_id": 534,
+    "old_entry_id": 520
+  },
+  "language": "ar"
+}

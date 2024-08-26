@@ -1,0 +1,41 @@
+{
+  "uuid": "fbc24344-2791-408c-9cc7-69606ab74e46",
+  "shortname": "usecases",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أوجه الاستخدام"},
+  "description":{"ar":""},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2aad41f7996c673b6da288601aeec6964f5bcd90",
+    "bytesize": 1471,
+    "body": "<div>من الصعب حصر أوجه استخدام نظام إدارة محتوى عام مثل الذي نوفره، لكننا هنا نقدم بعض \"الأمثلة\":\n\n<br><br><ul><li>بناء موقع إلكتروني أو مدونة شخصية يُعرض من خلال محتوى ثري من النصوص والوسائط المتعددة. <br></li><li>عرض المنتجات والخدمات التي تقدمها شركتك بصور متنوعة عبر موقعك، بحيث يستطيع الزبائن التفاعل معها. <br></li><li>فهرس لجهات الاتصال وقوائم الزبائن <br></li><li>منتديات للنقاش (عامة وخاصة) <br></li><li>نظام تذاكر ومتابعة المهام <br></li><li>قاعدة معرفية لتوثيق المعرفة والخبرة المتراكمة <br></li><li>نظام تواصل (رسائل بريد إلكتروني وتراسل فوري) <br></li><li>شبكة اجتماعية <br></li><li>مستودع للبيانات يُستفاد منها من خلال الواجهة البرمجية <br></li><li>نظام لحفظ معلومات الموظفين ومتابعتهم</li><li>توليد التقارير وبالزمن الحقيقي للبيانات أو تقدم العمل.&nbsp;&nbsp;</li><li>الاندماج مع الأنظمة الحالية وإمكانية وضع خطط قصيرة ومتوسطة وطويلة المدى لاستبدالها.<br></li></ul><br></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "post",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-09-06T19:53:20+03:00",
+  "attributes": {
+    "ordinal": 6
+  },
+  "language": "en",
+  "history": [],
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

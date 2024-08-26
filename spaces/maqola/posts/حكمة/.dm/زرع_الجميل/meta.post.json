@@ -1,0 +1,43 @@
+{
+  "uuid": "617bcf27-3cf3-4da8-801a-9aee548ae7c3",
+  "shortname": "زرع_الجميل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"زَرعُ الجميل"},
+  "updated_at": "2010-12-25T11:49:36Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:87cb6571e388d2dcbbe4f69ca49a1f1fea60f77a",
+    "bytesize": 324,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">إزرَعْ جَميلاً ولو في غَيرِ مَوضِعِهِ -- فَلا يَضيعُ جَميلٌ أينَما زُرِعا<br>\r\n\tإنَّ الجَميلَ وإن طالَ الزَّمانُ بِهِ -- فَلَيس يَحصُدُه إلّا الذي زَرَعا</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-23T09:31:49Z",
+  "attributes": {
+    "old_id": 416
+  },
+  "language": "ar",
+  "history": []
+}

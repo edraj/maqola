@@ -1,0 +1,42 @@
+{
+  "uuid": "7739067f-77f6-439e-930c-dca51e405708",
+  "shortname": "طلب_الأدب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طَلَبُ الأدَب"},
+  "updated_at": "2010-11-20T13:02:32Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f015f139a8615d2dc15ebdd2d744f4765ae9396a",
+    "bytesize": 670,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قال شيبُ بنُ شَيبة : اطلبوا الأدَبَ: فإنَّهُ مَادَّةُ العَقلِ، ودَليلٌ على المروءةِ، وصاحِبٌ في الغُربَةِ، ومؤنِسٌ في الوَحشة، وحِليةٌ في المَجالسِ، ويَجمَعُ لَكُم القُلوبَ المُختَلِفةَ .<br />\r\n\tوقال عبدالله بن مروان لِبَنيهِ : عَليكُم بِطلَبِ الأدبِ : فإنَّكُم إنْ احتَجتُم إليهِ كانَ لَكُم مالاً، وإن استَغنَيتُم عَنهُ كانَ لَكُم جَمالاً.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-11-20T13:02:32Z",
+  "attributes": {
+    "old_id": 197
+  },
+  "language": "ar",
+  "history": []
+}

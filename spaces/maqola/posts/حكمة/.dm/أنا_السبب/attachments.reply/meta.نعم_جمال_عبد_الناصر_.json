@@ -1,0 +1,29 @@
+{
+  "uuid": "2a1e82c1-f77e-415a-8d28-2fa5b57278a2",
+  "shortname": "نعم_جمال_عبد_الناصر_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نعم جمال عبد الناصر !!"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0e2b11b82d52ab9c59a9057cea086c3edb5798ff",
+    "bytesize": 49,
+    "body": "التعذيب  السجون  الاستبداد "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-09-30T08:43:54Z",
+  "attributes": {
+    "old_id": 532,
+    "old_entry_id": 514
+  },
+  "language": "ar"
+}

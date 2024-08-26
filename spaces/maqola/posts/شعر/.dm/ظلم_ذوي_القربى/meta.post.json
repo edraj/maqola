@@ -1,0 +1,43 @@
+{
+  "uuid": "97b95b43-9d5c-4a61-8115-d00d26f33ac7",
+  "shortname": "ظلم_ذوي_القربى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ظُلمُ ذَوي القُربى"},
+  "updated_at": "2010-12-27T14:24:27Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9b3a87d9ff1f6f36bfde0f77b1d6a4636dfb384a",
+    "bytesize": 834,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">وظُلمُ ذَوي القُربى أشدُّ مَضاضَةً -- <font class=\"poem\"> على المَرءِ مِن وَقعِ الحُسامِ المُهنّدِ</font></span></p>\r\n<p>\r\n\t<font class=\"poem\">&#160;</font></p>\r\n<p>\r\n\t<font class=\"poem\"><span style=\"font-size: 1.5em;\">من مُعلقة الشاعر طُرفة بن العبد، والتي بدأها بقوله :&#160;<br />\r\n\tلِخَولةَ أَطلالٌ بِبُرقَةِ ثَهمَدِ،&#160; --&#160; تَلوحُ كباقي الوَشمِ في ظاه</span></font><font class=\"poem\"><span style=\"font-size: 1.5em;\">ِرِ اليَدِ<br />\r\n\tوُقوفاً بِها صَحبي عَلَيَّ مَطيَّهُم -- يَقولونَ لا تَهلِك أَسىً وَتَجَلَّدِ<br />\r\n\t&#160; </span> </font></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8363e7f7-23d3-4f39-8b45-c6d8c3422dff",
+    "shortname": "طرفة_بن_العبد",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "مَثَل"
+  ],
+  "created_at": "2010-12-27T14:24:27Z",
+  "attributes": {
+    "old_id": 424
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "239385ff-54b4-4b78-b82b-f64a56ecfd24",
+  "shortname": "المرء_بأصغريه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المَرءُ بِأصغَريه"},
+  "updated_at": "2013-11-25T19:18:59Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2ea67ada3923354bfe32366923bb1892f4c4fc40",
+    "bytesize": 615,
+    "body": "<span class=\"maqola_body\"> دخلَ ضَمرةُ بن ضمرة النَهشلي على النعمان بنُ المُنذر، فازدراهُ لِدَمامَتِهِ و قِصَرِه فقال النعمان :تَسمعُ بالمُعيدي خَيرٌ مِن أنْ تراه.<br>فقال ضمرة :أبيت اللعن، إنّ الرجالَ لا تُكالُ بالقفزان ولا توزَنُ بميزان وإنّما المرءُ بأصغَريه قَلبه ولسانه إنْ صالَ صالَ بجنان وإنْ قال قال ببيان.<br><br>البيان والتبيين للجاحظ.<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "فَخر"
+  ],
+  "created_at": "2013-11-25T19:18:20Z",
+  "attributes": {
+    "old_id": 722
+  },
+  "language": "ar",
+  "history": []
+}

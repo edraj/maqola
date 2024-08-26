@@ -1,0 +1,29 @@
+{
+  "uuid": "f1d6c8d8-f88f-4657-ac31-23a9a4f8e615",
+  "shortname": "قصة_جميلة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قصة جميلة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:811f3772a8646830794d119bdf1227cadff51612",
+    "bytesize": 300,
+    "body": "فعلا ً قصة جميلة و ممتعة رغم ما فيها من خيال. حبذا لو التفت العرب إلى تراثهم المليء بالجمال و الخيال و الإبداع بدل تهافتهم على سوبرمان و بوكيمون و أمثالها من الخرابيط."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-05T07:07:24Z",
+  "attributes": {
+    "old_id": 271,
+    "old_entry_id": 313
+  },
+  "language": "ar"
+}

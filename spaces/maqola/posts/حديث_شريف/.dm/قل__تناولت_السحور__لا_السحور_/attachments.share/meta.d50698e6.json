@@ -1,0 +1,33 @@
+{
+  "uuid": "d50698e6-d454-45db-b1e2-ff9f008513a4",
+  "shortname": "d50698e6",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-06-23T21:22:42Z",
+  "author_locator": { "type": "content",
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-06-23T21:22:42Z",
+  "attributes": {
+    "old_id": 482,
+    "old_entry_id": 1352
+  },
+  "language": "en",
+  "location": {
+    "uuid": "d50698e6-d454-45db-b1e2-ff9f008513a4",
+    "shortname": "d50698e6",
+    "subpath": "posts/حديث_شريف",
+    "space_name": "maqola",
+    "parent_shortname": "قل__تناولت_السحور__لا_السحور_",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

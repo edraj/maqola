@@ -1,0 +1,42 @@
+{
+  "uuid": "582c0f1d-061f-4db2-8844-647eddf8068b",
+  "shortname": "المصدر_الصناعي_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المصدر الصناعي!!"},
+  "updated_at": "2014-02-06T12:20:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:51dde33f816582bc79492320a97d0d332f808906",
+    "bytesize": 372,
+    "body": "المَصْدَرُ الصِّنَاعِي:<br> <br>\r\n اِسْمٌ لَحِقَتْهُ يَاء مُشَدَّدة تَلِيها تاءُ التَّأنِيث المَرْبُوطَة ،\r\n مثل : قَوْمِيَّةٌ ، إنْسَانِيّةٌ ، وَطَنيّة ، حُريّة ، \r\nدِيمُقْرَاطِيّة...<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-06T12:19:56Z",
+  "attributes": {
+    "old_id": 808
+  },
+  "language": "ar",
+  "history": []
+}

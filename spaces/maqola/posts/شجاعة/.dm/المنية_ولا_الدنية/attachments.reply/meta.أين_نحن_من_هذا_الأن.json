@@ -1,0 +1,29 @@
+{
+  "uuid": "11749d38-056d-40f8-9b07-eca1fe66b187",
+  "shortname": "أين_نحن_من_هذا_الأن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أين نحن من هذا الأن"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d2a562ff66b152714703b6f8844357cd5f59db0b",
+    "bytesize": 161,
+    "body": "أين  نحن من هذا الكلام خيانة للأمانة والعهود وتسليم الأصحاب ومايملكون لأول شخص يذفع أكثر"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-29T12:02:04Z",
+  "attributes": {
+    "old_id": 237,
+    "old_entry_id": 255
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "64f5fc18-b2b4-416f-99a3-213ede3e171a",
+  "shortname": "ماذا_أقول",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ماذا أقول"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5d3a31c6092cde2e3af65763f5e05c6147497d9b",
+    "bytesize": 438,
+    "body": "ماذا أقول و قد مثلتني شعراً يا نائح الشغل أشباهٌ عوادينا ادْعُ الإله بغوث العمل مجتهداً فليس في البشر مسئولٌ يواسينا تباً لكهلٍ يريح الكرش فرحاناً و شبابنا جوعي و في البيوت مقيمينا اللهم عملاً يقيني فاقةً شرسة و زوجةً منها مواساة المحبينا ^_^"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-12-16T08:31:51Z",
+  "attributes": {
+    "old_id": 585,
+    "old_entry_id": 520
+  },
+  "language": "ar"
+}

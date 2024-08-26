@@ -1,0 +1,29 @@
+{
+  "uuid": "953d274f-10d9-4c9a-bb0a-77545a4fe450",
+  "shortname": "شكرا_لك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكرا لك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9f91c03845c5f6e23aed87ce912c0d46c7c8ff52",
+    "bytesize": 161,
+    "body": "السلام عليكم  نعم انتبهت له حيث ان هناك مقولات اخرى عديدة تنسى كتابة اسم القائل   وشكرا لك"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-28T17:02:59Z",
+  "attributes": {
+    "old_id": 230,
+    "old_entry_id": 234
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "aa1c1dd2-bc52-41b7-903c-16fd35f5ef06",
+  "shortname": "تصويب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصويب "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ce61f7424037b420b07d7793f9877817cc2c0ab3",
+    "bytesize": 68,
+    "body": "الصواب: \\\"ما كل ما يتمنى المرء يدركه...\\\""
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-03-21T16:32:03Z",
+  "attributes": {
+    "old_id": 419,
+    "old_entry_id": 235
+  },
+  "language": "ar"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "4701fdd2-13bc-4d5a-a18b-0a06f9b8d83b",
+  "shortname": "بين_المؤمن_وهلكته",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بين المؤمن وهلكته"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:177a567a3790f8f3ea1e26c25a083517601a4990",
+    "bytesize": 367,
+    "body": "<p>قال الأحنف : المؤمن بين أربع : مؤمن يحسده ، ومنافق يبغضه ، وكافر يجاهده ، وشيطان يفتنه . وأربع ليس أقل منهن : اليقين ، والعدل ، ودرهم حلال ، وأخ في الله.</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة"
+  ],
+  "created_at": "2015-05-15T01:51:40Z",
+  "attributes": {
+    "old_id": 1270
+  },
+  "language": "ar",
+  "history": []
+}

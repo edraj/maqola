@@ -1,0 +1,43 @@
+{
+  "uuid": "57cea265-80d6-4bb0-807b-e96cf7175101",
+  "shortname": "دع_عنك_مولى_السوء_والدهر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"دَعْ عنك مَولى السُوءِ والدهرَ"},
+  "updated_at": "2015-03-30T17:39:11Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b8191b66f4f241c448acbe8a94cb25689e0e54f0",
+    "bytesize": 317,
+    "body": "<p>وَدَعْ عَنك مَولى السُوءِ والدهرَ إنَّه ... سَتكفيكَهُ أيامُهُ ونَوائبُهْ </p><p>ويَلقى عَدُّوا من سِواكَ يَرُدُّهُ ... إليكَ فَتلقَاهُ وقدْ لاَنَ جانبُهْ</p><p>أبو هلال الأسدي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قَناعَة"
+  ],
+  "created_at": "2015-03-30T16:54:19Z",
+  "attributes": {
+    "old_id": 1133
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "6f09c310-0ee9-4158-b64d-6d64df3f0911",
+  "shortname": "عش_ما_بدا_لك_آمنا__ما_كنت_إلا_في_غرور",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عِش ما بدا لك آمنا، ما كُنتَ إلا في غُرور"},
+  "updated_at": "2014-12-16T07:08:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ee2d04dd4fd476f5fd7796a5fb7a0fe729fb2f12",
+    "bytesize": 1196,
+    "body": "<span class=\"maqola_body\"> دَخلَ أبو العَتاهية على الخليفةِ هارونَ الرشيد حينَ بَنى قَصرَهُ، وزَخرَفَ مَجلِسَهُ، واجتمعَ إليه خَواصُّه. <br>فقال له: صِفْ لنا ما نَحنُ فيه مِن الدنيا <br>فقال: عِشْ ما بدا لك آمناً -- في ظلّ شاهِقَةِ القُصورِ<br> فقال الرشيد: أحسنت، ثم ماذا؟ <br>فقال: يُسعى إليكَ بما اشتهيتَ -- لدى الرواحِ وفي البُكور<br> فقال: حسن، ثم ماذا؟ <br>فقال: فإذا النفوسُ تقعقعت -- في ضيقِ حَشرَجَةِ الصدور<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; فهُناك تَعلمُ مُوقِنًاً -- ما كُنتَ إلاّ في غُرور<br><br>\r\n فبكى الرشيدُ بكاء شديداً حتى رُحِم، فقال له الفضل بن يحيى: بَعثَ إليكَ أميرُ\r\n المؤمنين لِتَسُرَّه فأحزَنتَه<br>فقال له الرشيد: دَعهُ فإنه رآنا في عَمىً فَكَرِهَ أنْ \r\nيزيدَنا عمىً. <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-12-16T07:08:04Z",
+  "attributes": {
+    "old_id": 941
+  },
+  "language": "ar",
+  "history": []
+}

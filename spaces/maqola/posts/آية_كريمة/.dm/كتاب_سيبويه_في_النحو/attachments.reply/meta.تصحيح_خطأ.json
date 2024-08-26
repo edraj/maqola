@@ -1,0 +1,29 @@
+{
+  "uuid": "934e5c00-4e60-4a82-a21c-8ec5414bc034",
+  "shortname": "تصحيح_خطأ",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح خطأ "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:043cf9610b19ae865bb31d3631132461ffce392c",
+    "bytesize": 266,
+    "body": "وقع خطأ في كلمة \"ثلاثون\" حيث جاءت مرفوعة بالواو والصواب أن تكون مجرورة لأنها مضاف إليه (واقعة بعد ظرف زمان منذ) وعلامة جرها الياء فتكون : منذ ثلاثين ."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "7eed1afd-4627-4daf-ba1e-8622cf389306",
+    "shortname": "ضحى_زهو",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-07-29T21:38:26Z",
+  "attributes": {
+    "old_id": 900,
+    "old_entry_id": 1166
+  },
+  "language": "ar"
+}

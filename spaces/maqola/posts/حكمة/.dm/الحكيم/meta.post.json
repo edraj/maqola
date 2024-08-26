@@ -1,0 +1,41 @@
+{
+  "uuid": "bae0e424-703f-4ea4-a832-509f7964705d",
+  "shortname": "الحكيم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحكيم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e1edb200ff7901c6e7f97975826fe83e1b5882aa",
+    "bytesize": 123,
+    "body": "<span class=\"kufi\">لن يصل الحكيم الى زروة حكمته حتى يقطف من كل بستان زهرة</span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "99358994-6426-4bce-9250-f5bf48d5d98d",
+    "shortname": "بكار_المصري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-12-21T00:34:00Z",
+  "attributes": {
+    "old_id": 1566
+  },
+  "language": "ar",
+  "history": []
+}

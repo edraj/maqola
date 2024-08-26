@@ -1,0 +1,29 @@
+{
+  "uuid": "cca58694-df60-4bd2-b305-3ad80d971726",
+  "shortname": "رد_على_تصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رد على تصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c8365046216dd6e7f0f277872835b9899372bf6a",
+    "bytesize": 79,
+    "body": "إخواني... واضح أن الكتاب في عهد عمر بن الخطاب"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-01T07:18:29Z",
+  "attributes": {
+    "old_id": 255,
+    "old_entry_id": 140
+  },
+  "language": "ar"
+}

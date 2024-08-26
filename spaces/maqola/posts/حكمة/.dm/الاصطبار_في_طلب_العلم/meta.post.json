@@ -1,0 +1,43 @@
+{
+  "uuid": "ebd00e19-98dc-4c5c-8fec-819f37abff32",
+  "shortname": "الاصطبار_في_طلب_العلم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الاصطِبارُ في طَلبِ العِلم"},
+  "updated_at": "2010-11-21T10:57:07Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7384f0c573e36ad3b58e5c419cea1e31a55ffa76",
+    "bytesize": 1036,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">على طَلَبَةِ العِلمِ أنْ يَصبروا على ما قد يَرونَهُ مِن أساتِذَتِهم مِن جَفاءٍ في بعض الأحيان، فإنَّ ذلك الصبر - على مرارتِه - خيرٌ مِن البَقاءِ في عِمايةِ الجَهلِ طول العُمر،&#160; قال الشاعر، </span></p>\r\n<p>\r\n\t<br />\r\n\t<span style=\"font-size: 1.5em;\">اصبِرْ على مُرِّ الجَفا مِن مُعَلِّمٍ -- فإنَّ رُسوبَ العِلِمِ في نَفَرَاتِه<br />\r\n\tومَن لَمْ يَذُقْ ذُلَّ التَعَلُّمِ سَاعةً -- تَجَرَّعَ ذُلَّ الجَهلِ طولَ حياتِه<br />\r\n\tومَن فاتَهُ التعليمُ وقتَ شَبابِهِ -- فَكَبِّرْ عَليهِ أربعاً لِوفاته<br />\r\n\tحياةُ الفتى - واللهِ - بالعِلمِ والتُّقى -- إذا لَم يَكونا لا اعتِبارَ لذاتِه </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-21T10:57:07Z",
+  "attributes": {
+    "old_id": 214
+  },
+  "language": "ar",
+  "history": []
+}

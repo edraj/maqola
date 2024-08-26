@@ -1,0 +1,41 @@
+{
+  "uuid": "c6e4840d-1595-4bd1-bd5e-d557771d1a98",
+  "shortname": "ترويح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ترويح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:44d8c7c18ff49cb3281d928081e591ff5a6460e9",
+    "bytesize": 408,
+    "body": "<p> ربِى:</p><p>كعادتي إليك أكتب عن ما يجوب في خاطري، أعلم علم اليقين أنك تعلم ما بنفسي ولا تحتاج لكتاباتي لأخبرك عنّي، ولكن أنا بحاجتك كالظمآن للماء أو أكثر من ذلك، فعندما أبوح عن طيّات نفسي لخلقك أرتاح، فكيف بك؟! وأنت خالقُهم!.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f3cc4af4-709b-4050-ba51-81b2b4e401ac",
+    "shortname": "ebaa_mohammed",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-03-31T22:05:03Z",
+  "attributes": {
+    "old_id": 1138
+  },
+  "language": "ar",
+  "history": []
+}

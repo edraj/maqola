@@ -1,0 +1,43 @@
+{
+  "uuid": "81d57c9c-3ea6-415f-b18f-c5eafd2755c1",
+  "shortname": "معاني_الباء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"معاني الباء"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a3dc4dced2bda4260d7fd82a2f726c6bafb6ff5d",
+    "bytesize": 224,
+    "body": "<p>تعدلو سوقا وإستعن بتسبب *** وبدل صحابا قابلوك بالإستعلاء <br> وزد بعضهم إن جاوز الظرف غايتا *** يمينا تحز للباء معانيها كلها</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عربية",
+    "قاعدة أصولية",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-07-25T00:00:49Z",
+  "attributes": {
+    "old_id": 1436
+  },
+  "language": "ar",
+  "history": []
+}

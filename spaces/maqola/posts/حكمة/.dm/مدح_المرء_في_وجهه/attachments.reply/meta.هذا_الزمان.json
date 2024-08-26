@@ -1,0 +1,29 @@
+{
+  "uuid": "43c913ae-a40f-429f-bfa5-94266a544836",
+  "shortname": "هذا_الزمان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هذا الزمان"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e134ce75877613ff7db2d087ffa8d506b3939bf2",
+    "bytesize": 236,
+    "body": "انتشر في هذا الزمان المدح و المبالغة فيه  والمشكله انت الكثير من  المدح في ايامنا هذه انما هو من الكذب و النصب لكسب السمعه و المنصب "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-01-08T16:57:56Z",
+  "attributes": {
+    "old_id": 374,
+    "old_entry_id": 437
+  },
+  "language": "ar"
+}

@@ -1,0 +1,18 @@
+{
+  "uuid": "a76b1df9-1886-4fd9-a012-adfbfaa9fe44",
+  "shortname": "salo_qalbi.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:2baa127bd22280341fe6284615eee53b7c0306c4",
+    "bytesize": 566751,
+    "body": "salo_qalbi.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:05+03:00",
+  "attributes": {
+    "old_id": 32
+  },
+  "language": "en"
+}

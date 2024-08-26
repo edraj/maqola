@@ -1,0 +1,29 @@
+{
+  "uuid": "86cc213b-2113-4513-b0d7-d6a5bcdc8ee9",
+  "shortname": "تصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a7a56a4e90c422fd5846641937bc7c56986cfe30",
+    "bytesize": 474,
+    "body": "أخي أبا عمر، التلفظ بالنية عند الشافعية مستحبة، وهو لا ينكرون أن النية محلها القلب، ولكنهم قالوا إن التلفظ بها يساعد القلب على استحضارها، ورأيهم وجيه، فاللسان معين للقلب على الاستحضار، فليس من تلفظ النية مبتدعا، كما ذهب إليه الشيخ ابن عثيمين، والله تعالى أعلم"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-03-22T10:46:57Z",
+  "attributes": {
+    "old_id": 421,
+    "old_entry_id": 249
+  },
+  "language": "ar"
+}

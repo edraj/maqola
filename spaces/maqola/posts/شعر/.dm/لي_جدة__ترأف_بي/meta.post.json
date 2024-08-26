@@ -1,0 +1,44 @@
+{
+  "uuid": "6154a28c-cc69-4331-8fe7-09cfd271a4d2",
+  "shortname": "لي_جدة__ترأف_بي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لي جدَّة ٌ ترأفُ بي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:148d35de5f6aa00b8a51a50bdf3aaa05f8d77bdc",
+    "bytesize": 1899,
+    "body": "<table width=\"90%\" bgcolor=\"#efeeee\" border=\"0\" cellspacing=\"1\" cellpadding=\"1\"><tbody><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">لي جدَّة ٌ ترأفُ بي</td><td align=\"center\" bgcolor=\"#ffffff\"> أحنى عليَّ من أبي </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">وكلُّ شيءٍ سرَّني</td><td align=\"center\" bgcolor=\"#ffffff\"> تذهب فيه مَذهبي </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">إن غضبَ الأهلُ عليَّ</td><td align=\"center\" bgcolor=\"#ffffff\"> كلُّهم لم تغضبِ </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">بمشى أَبي يوماً إليَّ</td><td align=\"center\" bgcolor=\"#ffffff\"> مشية َ المؤدِّبِ </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">غضبانَ قد هدَّدَ بالضرْ</td><td align=\"center\" bgcolor=\"#ffffff\"> ب وإن لم يَضرِبِ </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">فلم أَجِد لي منهُ</td><td align=\"center\" bgcolor=\"#ffffff\"> غيرَ جَدَّتي من مَهرَبِ </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">فجعَلتني خلفَها</td><td align=\"center\" bgcolor=\"#ffffff\"> أنجو بها، وأختبي </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">وهْيَ تقولُ لأَبي</td><td align=\"center\" bgcolor=\"#ffffff\"> بِلهجة المؤنِّبِ: </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">ويحٌ لهُ! ويحٌ لِهـ</td><td align=\"center\" bgcolor=\"#ffffff\"> ـذا الولدِ المعذَّبِ! </td></tr><tr bgcolor=\"#ffffff\"><td align=\"center\" bgcolor=\"#ffffff\">أَلم تكن تصنعُ ما</td><td align=\"center\" bgcolor=\"#ffffff\"> يَصنعُ إذ أَنت صبي؟</td></tr></tbody></table>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "عربية",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-03T13:09:10Z",
+  "attributes": {
+    "old_id": 974
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "1500d42d-b81b-450e-ba25-77836288eeaa",
+  "shortname": "1500d42d",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-25T00:13:29Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-25T00:13:29Z",
+  "attributes": {
+    "old_id": 556,
+    "old_entry_id": 1441
+  },
+  "language": "en",
+  "location": {
+    "uuid": "1500d42d-b81b-450e-ba25-77836288eeaa",
+    "shortname": "1500d42d",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "قضاة__الدهر",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

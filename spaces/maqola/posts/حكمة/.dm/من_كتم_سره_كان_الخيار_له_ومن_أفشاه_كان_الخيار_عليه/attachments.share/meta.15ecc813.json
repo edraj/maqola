@@ -1,0 +1,33 @@
+{
+  "uuid": "15ecc813-e0fe-42ac-bc0d-2c5d143aa1b8",
+  "shortname": "15ecc813",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-04-23T14:43:58Z",
+  "author_locator": { "type": "content",
+    "uuid": "dcba9bf4-fefd-4ddb-ab37-ef862cebabab",
+    "shortname": "امين_صرصور",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-04-23T14:43:58Z",
+  "attributes": {
+    "old_id": 12,
+    "old_entry_id": 582
+  },
+  "language": "en",
+  "location": {
+    "uuid": "15ecc813-e0fe-42ac-bc0d-2c5d143aa1b8",
+    "shortname": "15ecc813",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "من_كتم_سره_كان_الخيار_له_ومن_أفشاه_كان_الخيار_عليه",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

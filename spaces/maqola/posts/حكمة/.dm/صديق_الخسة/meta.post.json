@@ -1,0 +1,41 @@
+{
+  "uuid": "69b47790-510f-4e38-9a67-23166905a4d3",
+  "shortname": "صديق_الخسة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"صديق الخسة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5a26ae11a80362a56a2386f5057beea34ae61e61",
+    "bytesize": 152,
+    "body": "<p>حسبته صديقي الصدوق </p><p>بات الليل يطهوني بالكلام </p><p>ليأكلني في الصباح دون نيران</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "99358994-6426-4bce-9250-f5bf48d5d98d",
+    "shortname": "بكار_المصري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-12-18T13:12:30Z",
+  "attributes": {
+    "old_id": 1562
+  },
+  "language": "ar",
+  "history": []
+}

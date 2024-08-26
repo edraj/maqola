@@ -1,0 +1,45 @@
+{
+  "uuid": "5434c761-6b68-482b-b280-ed941999f192",
+  "shortname": "أشد_السجون_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أشد السجون!!"},
+  "updated_at": "2014-02-03T10:02:21Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:25ebf52cf0c53098e77e625f4e7993c79a22c65f",
+    "bytesize": 257,
+    "body": "[أشـَدّ سُجونِ الحَياةِ قسوَةً... فِكرَة بائِسَة يسْجـِن المَرْء مِنـَّا نـَفسُه بداخِلِها<br> <br> \"مصطفى صادق الرافعى\"<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "رِثاء",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-03T10:02:15Z",
+  "attributes": {
+    "old_id": 768
+  },
+  "language": "ar",
+  "history": []
+}

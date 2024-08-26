@@ -1,0 +1,52 @@
+{
+  "uuid": "9502473f-233f-42b9-a212-e85bbafdc433",
+  "shortname": "الناصر_لدين_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الناصر لدين الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c8e93965945e42703a8774e84009d6c5726d8609",
+    "bytesize": 805,
+    "body": "<p>الخليفة الأموي الأندلسي \" عبدالرحمن الثالث \" الملقب بـ ( الناصر لدين الله ) حَكَم الأندلس أكثر من 50 سنة ، وكان من أقواهم وأشدهم و بلغت فيها الأندلس أوجَ قوتها ونهضتها وازدهارها .. فلمّا توفّي ، وجدوه قد ترك رسالةً كتب فيها : \" أيام السرور التي صَفت لي دون تكدير في مُدةِ سلطاني ، هي : يوم كذا من شهر كذا من سنة كذا .. \" فعُدَّت تلك الأيام فكانت أربعة عشر يوما!! ..</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "شَجاعَة",
+    "عربية",
+    "فَخر",
+    "كَرَم",
+    "لُغة عربيّة",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-08-04T02:13:16Z",
+  "attributes": {
+    "old_id": 1466
+  },
+  "language": "ar",
+  "history": []
+}

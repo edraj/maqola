@@ -1,0 +1,23 @@
+{
+  "uuid": "c13e55f6-a47b-49f4-9a59-35ebc803fb36",
+  "shortname": "c13e55f6",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "893b4bef-a2a7-4011-aaa0-59275f956041",
+    "shortname": "ام_هود_السلفية",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-07-15T14:00:15Z",
+  "attributes": {
+    "old_id": 1005,
+    "old_entry_id": 193
+  },
+  "language": "en",
+  "type": "like"
+}

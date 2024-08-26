@@ -1,0 +1,45 @@
+{
+  "uuid": "98fc98e0-287a-43a9-b8bd-1ac0098e1b70",
+  "shortname": "العلماء_ثلاثة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الَّعُلَماءُ ثَلاثَة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:855071f84844eeda8c8b78ff9dc257c6549f2294",
+    "bytesize": 1223,
+    "body": "<p><span style=\"color: rgb(75, 172, 198);\"></span><span style=\"color: rgb(75, 172, 198);\">قال أبو حيان التيمي: </span></p><p><span style=\"color: rgb(73, 68, 41);\">\"العلماء ثلاثة عالم بالله وبأمر الله، وعالم بالله وليس بعالم بأمر اله. وعالم بأمر الله وليس بعالم بالله. </span></p><p style=\"text-align: center;\"><br></p><span style=\"color: rgb(118, 146, 60);\"></span><hr><ul><li><span style=\"color: rgb(118, 146, 60);\">فأما العالم بالله وبأمره فذلك الخائف لله العالم بسنته وحدوده وفرائضه. </span></li><li><span style=\"color: rgb(118, 146, 60);\">وأما العالم بالله وليس بعالم بأمر الله فذلك الخائف لله وليس بعالم بسنته ولا حدوده ولا فرائضه. </span></li><li><span style=\"color: rgb(118, 146, 60);\">وأما العالم بأمر الله وليس بعالم بالله فذالك العالم بسنته وحدوده وفرائضه وليس بخائف له\".</span></li></ul><div><br></div><div><p><span style=\"color: rgb(79, 129, 189);\">يزيد '×'.'  عقيد القوم ,,</span></p></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "012ddd49-5d97-4be9-834a-6a31df986208",
+    "shortname": "عقيد_آلقوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "عربية",
+    "قَناعَة",
+    "مَعروف"
+  ],
+  "created_at": "2015-04-10T18:07:56Z",
+  "attributes": {
+    "old_id": 1148
+  },
+  "language": "ar",
+  "history": []
+}

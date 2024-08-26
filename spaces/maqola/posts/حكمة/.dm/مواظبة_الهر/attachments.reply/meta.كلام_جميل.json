@@ -1,0 +1,29 @@
+{
+  "uuid": "9d9e4f08-3d4b-4de7-b5fd-dfa4c8a2d994",
+  "shortname": "كلام_جميل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كلام جميل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ef4a5369ec1c21b599dee67c5889a323e2aaae9a",
+    "bytesize": 61,
+    "body": "لو عملنا ما علمنا لصنعنا المستحيل"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-30T14:08:18Z",
+  "attributes": {
+    "old_id": 499,
+    "old_entry_id": 482
+  },
+  "language": "ar"
+}

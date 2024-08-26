@@ -1,0 +1,43 @@
+{
+  "uuid": "74284208-a34c-4d05-8b7c-bb3a3d0836f1",
+  "shortname": "يطيل_في_القراءة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يُطيلُ في القراءة"},
+  "updated_at": "2010-12-02T20:27:53Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:827bc1716f5263421ad995527d0d8be3841b5c19",
+    "bytesize": 1093,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كان أحدُ الأمراءِ يُصلي خَلفَ إمامٍ يُطيلُ في القراءة، فَنَهَرَهُ الأميرُ أمامَ الناس، وقال له :<br />\r\n\tلا تقرأ في الركعة الواحدة إلا بآية واحدة . فصلى بهم الإمام المغرب، وبعد أن قرأ الفاتحة قرأ قوله تعالى : {وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءنَا فَأَضَلُّونَا السَّبِيلَا } الأحزاب67، وبعد أن قرأ الفاتحة في الركعة الثانية قرأ قوله تعالى : { رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْناً كَبِيراً } الأحزاب68، فقال له الأمير</span><span style=\"font-size: 1.5em;\"> :</span><span style=\"font-size: 1.5em;\"> يا هذا، طَوِّل ما شئت واقرأ ما شئت غَيرَ هاتين الآيتين</span>.<br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-02T20:27:53Z",
+  "attributes": {
+    "old_id": 298
+  },
+  "language": "ar",
+  "history": []
+}

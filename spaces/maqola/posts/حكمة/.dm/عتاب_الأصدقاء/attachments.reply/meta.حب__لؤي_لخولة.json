@@ -1,0 +1,29 @@
+{
+  "uuid": "952f1710-7d5c-454e-b25f-51776eb6d4cf",
+  "shortname": "حب__لؤي_لخولة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حب  لؤي لخولة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8c3441c952ee75512cf7f7ffdde9c7cbd149eb4b",
+    "bytesize": 206,
+    "body": "لك الحق ياظبي الغلا..... تفخر بذاتك والجدود........ خولة واسمك اعتلا..... فوق الجبال وفوق السدود.. مو طويل بس أتمنى يعجبك  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-26T14:37:55Z",
+  "attributes": {
+    "old_id": 218,
+    "old_entry_id": 205
+  },
+  "language": "ar"
+}

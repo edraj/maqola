@@ -1,0 +1,42 @@
+{
+  "uuid": "237fb562-82f4-4b59-bd1a-cd89ef4ad9e1",
+  "shortname": "إن_الحديد_بالحديد_يفلح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إنَّ الحَديدَ بالحَديدِ يُفلَحُ"},
+  "updated_at": "2011-01-02T09:00:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2308174ce7ef423780bbc96a2c08fed2db0ddb07",
+    "bytesize": 577,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">الفَلح: الشَّقُّ، ومنه الفلاَّح للحَرَّاث لأنه يشق الأرض: أي يُستعان في الأمر الشديد بما يشاكله ويُقابله.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">وهذا مثلُ قولهم &quot;لاَ يَفُلُّ الحَدِيدَ إلاَّ الحَدِيدُ&quot;<br />\r\n\tقَال الشاعر‏:‏<br />\r\n\tقَومُنا بَعضُهُم يَقتلُ بعضاً -- لا يَفُلُّ الحَديدَ إلاَّ الحَدِيدُ </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2011-01-02T08:59:46Z",
+  "attributes": {
+    "old_id": 434
+  },
+  "language": "ar",
+  "history": []
+}

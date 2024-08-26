@@ -1,0 +1,42 @@
+{
+  "uuid": "6b460160-0808-4105-b023-5be4adf1e5c8",
+  "shortname": "ليس_يعنيك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ليسَ يعنيك"},
+  "updated_at": "2010-11-29T08:10:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d3de5e11b5428da2338c3133655d075322d024d4",
+    "bytesize": 883,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كان لِرَجلٍ مِن الأعرابِ وَلدٌ اسمُهُ حمزة، فبينما هو يمشي معَ أبيه في السوق إذ بِرَجلٍ يصيحُ بِشابٍ: يا عبدالله، فَلَم يُجبه ذلك الشاب، فقال: ألا تَسمع ؟ فقال : يا عَم كُلُّنا عَبيدُالله فأيُّ عَبدِالله تَعني؟ فالتَفَتَ أبوحمزة إلى ابنهِ وقال: يا حمزة ألا تَرى بَلاغَةَ هذا الشاب؟ فَلمّا كان مِن الغد إذا بِرَجُلٍ يُنادي شاباً يا حمزة، فقال حمزة ابن الأعرابي كُلُّنا حماميزُ الله فأيُّ حَمزَةٍ تَعني، فقال له أبوه: لَيس يعنيك يا مَن أخمد الله بِه ذِكرَ أبيه.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-29T08:10:08Z",
+  "attributes": {
+    "old_id": 266
+  },
+  "language": "ar",
+  "history": []
+}

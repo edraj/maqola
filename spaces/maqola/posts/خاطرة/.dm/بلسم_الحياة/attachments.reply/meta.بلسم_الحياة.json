@@ -1,0 +1,29 @@
+{
+  "uuid": "81d5f111-b2dd-4da7-b8b9-fbe0db44ac38",
+  "shortname": "بلسم_الحياة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بلسم الحياة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ad9fd24ff589f4104667b215eba0912af1ead15e",
+    "bytesize": 145,
+    "body": "وكأنك تتحدث عن والدي هو كذلك بالنسبة لي عندما كان حياً يرزق وبعد وفاته رحمه الله"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "58e36eac-8549-4a9f-a5ea-aaab37108851",
+    "shortname": "om_hussam_smadi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-11-01T20:51:20Z",
+  "attributes": {
+    "old_id": 931,
+    "old_entry_id": 1533
+  },
+  "language": "ar"
+}

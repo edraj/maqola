@@ -1,0 +1,41 @@
+{
+  "uuid": "cab92ae8-654c-45b4-9911-37faba557a1c",
+  "shortname": "features",
+  "is_active": false,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الخصائص"},
+  "description":{"ar":""},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5b13650a9d20eaa5fea7d224ceb2392de44d9a6a",
+    "bytesize": 248,
+    "body": "<ul><li>Isolated unified golden records layer </li><li>Easy to harness, query and discover </li><li>Easy to create and extend applications </li><li>Easy to sync, backup and archive </li><li>Traceable change history and logs</li></ul><div><br></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "post",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-08-27T13:36:16+03:00",
+  "attributes": {
+    "ordinal": 5
+  },
+  "language": "en",
+  "history": [],
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

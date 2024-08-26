@@ -1,0 +1,29 @@
+{
+  "uuid": "3a285858-ec22-4aab-ae9c-12d526a1edf0",
+  "shortname": "اختلاف_النص_عن_مقطع_الصوت",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اختلاف النص عن مقطع الصوت"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5cb1e35c8ef941fad5c314a80d9a34d37682e1b5",
+    "bytesize": 255,
+    "body": "السلام عليكم ورحمة الله وبركاته   فيه اختلاف بسيط في النص مكتوب  وَهَذِهِ الدَّارُ لا تبقِي على أحدٍ  وفي مقطع الصوت  وهذه الدنياء  مع السلامة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-03T23:10:08Z",
+  "attributes": {
+    "old_id": 47,
+    "old_entry_id": 95
+  },
+  "language": "ar"
+}

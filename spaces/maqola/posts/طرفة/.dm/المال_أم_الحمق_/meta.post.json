@@ -1,0 +1,42 @@
+{
+  "uuid": "c71174a8-9b91-473e-a552-559c99f00b9d",
+  "shortname": "المال_أم_الحمق_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المالُ أم الحمق؟"},
+  "updated_at": "2010-11-04T04:32:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d50e22d57d8230006f9d961def8801cc507c9b7d",
+    "bytesize": 559,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">روى الأصمعي أنه لقيَ غُلامًا حَدَثًا - صغيرًا، ناشئًا - مِن أولادِ العرب، قال له: أيَسُرُّكَ أن يكون لك مائة ألف درهم، وأنت أحمق؟<br />\r\n\tفقال الغلام: لا.<br />\r\n\tقال الأصمعي: ولِمَ؟<br />\r\n\tقال: أخافُ أنْ يَجنيَ عليَّ حُمقي جِنايةً تُذهِبُ بمالي، ويبقى لي حُمقي.</span></span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-04T04:32:19Z",
+  "attributes": {
+    "old_id": 151
+  },
+  "language": "ar",
+  "history": []
+}

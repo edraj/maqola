@@ -1,0 +1,29 @@
+{
+  "uuid": "eb206dd9-01c9-45db-bd5d-a9d262238da7",
+  "shortname": "تكلف_لا_داعي_له",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تكلف لا داعي له"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:32e17f2a4c2d2713a20c5f5ff3a97f2d71c50965",
+    "bytesize": 111,
+    "body": "أعتقد أن في هذا تكلفا ً لا داعي له و تحميلا ً للآية فوق ما تحمل"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-16T04:03:44Z",
+  "attributes": {
+    "old_id": 313,
+    "old_entry_id": 373
+  },
+  "language": "ar"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "799440d1-bb63-4220-895a-2c18eabcd393",
+  "shortname": "تعليمات",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تعليمات"},
+  "updated_at": "2014-08-22T23:29:12Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e75e650c4e008a570fe23c737fecf1dc3bdaef6c",
+    "bytesize": 104,
+    "body": "<span class=\"maqola_body\"> <br> اذاكان العمل مجهد فاءن الفراغ مفسد  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "051b0ac9-6817-49e9-855e-71e8cc034129",
+    "shortname": "ana_ahmed_taha",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-08-22T23:29:12Z",
+  "attributes": {
+    "old_id": 923
+  },
+  "language": "ar",
+  "history": []
+}

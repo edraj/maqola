@@ -1,0 +1,18 @@
+{
+  "uuid": "fdb0667f-4710-4566-99de-ab10f32e7ec9",
+  "shortname": "sabr.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:8a8adddc6fe8510ea9648a20c0e1a40d95151d4f",
+    "bytesize": 46580,
+    "body": "sabr.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:05+03:00",
+  "attributes": {
+    "old_id": 36
+  },
+  "language": "en"
+}

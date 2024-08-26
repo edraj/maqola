@@ -1,0 +1,50 @@
+{
+  "uuid": "ba13417d-25ce-4fcd-971f-a58fdef93259",
+  "shortname": "الأصدقاء_الحقيقيون",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الأصدقاء الحقيقيون"},
+  "updated_at": "2014-02-13T14:23:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:78d63276d367351feb56ec1e5d96220937feb1e4",
+    "bytesize": 213,
+    "body": "<span class=\"maqola_body\"> <br> كأني بامرئِ القيس يتمثلُ قائلا: <br> وما أكثرَ الأصحابِ حين تعدهم <br> ولكنهم في النائباتِ قليلٌ<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "سِياسَة",
+    "صَداقَة",
+    "فَصاحَة",
+    "قَناعَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-13T14:23:37Z",
+  "attributes": {
+    "old_id": 839
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "aefc6055-3418-4afa-a6c7-4038cccef56c",
+  "shortname": "رائع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رائع "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f0ad7ac205c87c40b192e5abf58583169997d013",
+    "bytesize": 8,
+    "body": "شكرا"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "31520441-be44-4f25-8bf0-d6e5526e0446",
+    "shortname": "islame_laddada",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-05-22T13:11:44Z",
+  "attributes": {
+    "old_id": 874,
+    "old_entry_id": 5
+  },
+  "language": "ar"
+}

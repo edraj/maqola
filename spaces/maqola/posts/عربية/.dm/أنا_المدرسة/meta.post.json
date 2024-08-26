@@ -1,0 +1,43 @@
+{
+  "uuid": "746cf77c-081e-4806-ae88-0165a8a97275",
+  "shortname": "أنا_المدرسة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أنا المدرسة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:25c7ae9654319fcda6c9fea3558a7595a375063b",
+    "bytesize": 718,
+    "body": "<p>أنا المدرسة اجعلنى كأم . لا تمل عنى<br> ولا تفزع كمأخوذ من البيت إلى السجن<br> كأنى وجه صياد وأنت الطير فى الغصن<br> ولا بد لك اليوم - وإلا فغدا – منى<br> أو استغن عن العقل إذن عني تستغنى<br> أنا المصباح للفكر أنا المفتاح للذهن<br> أنا الباب إلى المجد تعال ادخل على اليمن<br> غدا ترتع فى حوشى ولا تشبع من صحنى<br> وألقاك بإخوان يدانونك فى السن<br> تناديهم بيا فكرى وياشوقى ويا حسنى<br> وآباء احبوك وما أنت لهم بابن</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عربية",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-03T13:13:43Z",
+  "attributes": {
+    "old_id": 976
+  },
+  "language": "ar",
+  "history": []
+}

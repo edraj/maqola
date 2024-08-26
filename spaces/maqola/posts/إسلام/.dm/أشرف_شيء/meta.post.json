@@ -1,0 +1,42 @@
+{
+  "uuid": "e49af77a-1094-4e80-b3e9-2d222462a219",
+  "shortname": "أشرف_شيء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أشرف شيء"},
+  "updated_at": "2013-07-29T19:52:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8890b1168d2953fb61bbc7073fd4b34e3073b733",
+    "bytesize": 611,
+    "body": "<span class=\"maqola_body\"> <br> <span class=\"fontxlarge\"></span><b>روي عن ابن عباس رضي الله عنهما عن النبي صلى الله عليه وسلم انه قال : </b>أشرف الايمان أن يأمنك الناس، وأشرف الاسلام أن يسلم الناس من لسانك ويدك، وأشرف الهجرة ان تهجر السيئات، وأشرف الجهاد ان تقتل وتعقر فرسك، وأشرف الزهد ان يسكن قلبك على ما رزقت، وان أشرف ما تسأل الله العافية في الدين والدنيا.<b><br></b>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2013-07-29T19:51:20Z",
+  "attributes": {
+    "old_id": 651
+  },
+  "language": "ar",
+  "history": []
+}

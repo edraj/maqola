@@ -1,0 +1,29 @@
+{
+  "uuid": "488675dc-06b2-4692-b3d6-d42e1feb8e89",
+  "shortname": "تفاهات",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تفاهات"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:568a20fe78df533c14a26163ae578b80da5d05db",
+    "bytesize": 101,
+    "body": "خزعبلات وقصص أطفال. لا أدري متى نترك عنا خرافات التاريخ."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-01T08:55:58Z",
+  "attributes": {
+    "old_id": 751,
+    "old_entry_id": 33
+  },
+  "language": "ar"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "46cf8f23-e7e7-42a5-9b25-c3c8bf758c52",
+  "shortname": "أمرك_بيدك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أمرُكِ بِيَدِك"},
+  "updated_at": "2014-12-24T14:55:33Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ed2cc8c6a44875adeaa45beac53743ee33205031",
+    "bytesize": 553,
+    "body": "<span class=\"uthman\">&#160;تشاجرَ رجلٌ مع امرأتِهِ، فقال لها: أمْرُكِ بيدِكِ!<br>فقالتْ: كانَ في يَدِكَ عشرينَ سنةً، فَحَفِظْتَهُ، فلا أضيِّعُهُ أنا في ساعةٍ! وقد رددْتُهُ إليكَ!<br>فاستحْسَنَ منها هذه الإجابةَ اللَّبِقَةَ، وأمسكَها، وواصلا مسيرةَ الحياةِ في سعادةٍ وهناءٍ!<span class=\"maqola_body\"> </span></span><span class=\"maqola_body\"><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة"
+  ],
+  "created_at": "2014-12-24T14:55:16Z",
+  "attributes": {
+    "old_id": 944
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "769381f9-b29c-4a02-82a9-d4cbcbf0d3ab",
+  "shortname": "مصائب_قوم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مَصائِبُ قَومٍ"},
+  "updated_at": "2010-12-07T22:17:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1462b8cdae5efa229dcdd054a0d93975254205ba",
+    "bytesize": 185,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">بِذا قَضَتْ الأيّامُ بَينَ أهَلِها -- مَصائِبُ قَومٍ عِندَ قَومٍ فَوائِدُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "مَثَل"
+  ],
+  "created_at": "2010-12-07T22:17:05Z",
+  "attributes": {
+    "old_id": 338
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "d9998450-86b9-4be2-ab00-2df103c23d74",
+  "shortname": "كتمان_الاسرار_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كتمان الاسرار!!"},
+  "updated_at": "2014-03-01T15:55:14Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:329bd393d36b688351734a81d2842a2bdd16ea21",
+    "bytesize": 261,
+    "body": "كتمانُ الأسرارِ يدلُ على جواهرِ الرجال ، وكما أنهُ لا خيرَ في آنية<br>  لا تمسكُ ما فيها ، فلا خير في إنسانٍ لا يكتمُ سراً.<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة"
+  ],
+  "created_at": "2014-03-01T15:55:09Z",
+  "attributes": {
+    "old_id": 856
+  },
+  "language": "ar",
+  "history": []
+}

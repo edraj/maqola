@@ -1,0 +1,33 @@
+{
+  "uuid": "ed7666c0-6082-45f3-a033-e063209b798f",
+  "shortname": "ed7666c0",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-09-16T15:40:45Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-09-16T15:40:45Z",
+  "attributes": {
+    "old_id": 617,
+    "old_entry_id": 1510
+  },
+  "language": "en",
+  "location": {
+    "uuid": "ed7666c0-6082-45f3-a033-e063209b798f",
+    "shortname": "ed7666c0",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "مبادئ_كل_فن",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

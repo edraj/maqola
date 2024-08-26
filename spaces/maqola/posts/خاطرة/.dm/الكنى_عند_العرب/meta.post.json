@@ -1,0 +1,43 @@
+{
+  "uuid": "7c625a61-c07a-47d9-92e3-6c9fdfb4992b",
+  "shortname": "الكنى_عند_العرب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الكُنى عند العرب"},
+  "updated_at": "2010-12-08T00:25:52Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3f7d739db06ee8be5bb6931e8ff8cf5708cc27b8",
+    "bytesize": 1208,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قالوا لَم تَكُنَّ الكُنى لأَحَدٍ مِن الأُمَمِ إلا العرب، وهي مِن مَفاخرهم وقال بعضهم،<br />\r\n\tأُكنِّيهِ حِين أُناديهِ لأُكرِمهُ -- ولا أُلَقِّبُهُ والسَودَةُ اللقَبُ.</span></p>\r\n<p>\r\n\t<br />\r\n\t<span style=\"font-size: 1.5em;\">والرجلُ يُكَنّى باسم ولدِه والمرأةُ كذلك وإذا كَنَّوا مَن لَم يَكُن له ولد فعلى جهة التفاؤل. وقد يُكَنّون بِما يُلائِمُ المُكنّى مِن غَيرِ الأولاد، كقولهم أبي لهب لحُمرَة خديه ولونه.<br />\r\n\tوقال الزمخشري رحمه الله تعالى وسمعتهم يكنون الكبيرَ الرأسِ والعمامة بأبي الرأس وأبي العمامة وسَمعتُ العرب ينادون الطويلَ اللحية يا أبا الطويلة.</span></p>\r\n<p>\r\n\t<br />\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من كتاب المستطرف في كل فن مستظرف (بتصرف)</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2010-12-08T00:25:52Z",
+  "attributes": {
+    "old_id": 343
+  },
+  "language": "ar",
+  "history": []
+}

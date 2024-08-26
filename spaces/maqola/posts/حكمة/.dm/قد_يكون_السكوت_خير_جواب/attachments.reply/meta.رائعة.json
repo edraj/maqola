@@ -1,0 +1,29 @@
+{
+  "uuid": "bc0402d5-6691-43f1-bddc-fe8d43bf1d21",
+  "shortname": "رائعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رائعة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2c1c139e056d4eecdd89872e9610bd6fc4e400f6",
+    "bytesize": 32,
+    "body": "بجد اكثر من رآئعة "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-11-10T20:51:30Z",
+  "attributes": {
+    "old_id": 704,
+    "old_entry_id": 404
+  },
+  "language": "ar"
+}

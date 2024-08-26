@@ -1,0 +1,33 @@
+{
+  "uuid": "d09f27b3-9219-405a-8aea-8ee08b7e890a",
+  "shortname": "d09f27b3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-19T14:05:54Z",
+  "author_locator": { "type": "content",
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-19T14:05:54Z",
+  "attributes": {
+    "old_id": 296,
+    "old_entry_id": 1031
+  },
+  "language": "en",
+  "location": {
+    "uuid": "d09f27b3-9219-405a-8aea-8ee08b7e890a",
+    "shortname": "d09f27b3",
+    "subpath": "posts/خاطرة",
+    "space_name": "maqola",
+    "parent_shortname": "ليــــل_يـرتهــب_اعتســاف_الفجـــر",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

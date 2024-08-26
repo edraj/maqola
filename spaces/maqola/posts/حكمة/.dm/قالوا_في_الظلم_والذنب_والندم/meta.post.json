@@ -1,0 +1,43 @@
+{
+  "uuid": "7da25bf9-8a04-4fcd-a335-597994fec1cf",
+  "shortname": "قالوا_في_الظلم_والذنب_والندم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قالوا في الظُلم والذنب والندم"},
+  "updated_at": "2010-11-10T05:50:33Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f4d99d5b8067b436fd830d48c10d99a2479f1f1f",
+    "bytesize": 1744,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قال الشاعر،<br />\r\n\tلا تَظلِمَن إذا ما كُنتَ مُقتَدِرا --- فالظُّلمُ تَرجِعُ عُقباهُ إلى النَدَمِ<br />\r\n\tتَنامُ عَينُكَ والمَظلومُ مُنتَبِهٌ --- يَدعو عَليكَ وعَينُ اللهِ لَم تَنَمِ<br />\r\n\t----<br />\r\n\tويقول آخر :<br />\r\n\tرأيتُ الذُّنوبَ تُميتُ القُلوبَ --- وقَد يُورِثُ الذُّلَّ إدمانَها<br />\r\n\tوتَركُ الذنوبِ حياةُ القلوبِ --- وخيرٌ لِنَفسِكَ عِصيانُها<br />\r\n\t-----<br />\r\n\tوهذه بعض مقتطفات من قصيدة ابن المقري<br />\r\n\tلا يظلمُ الحرَّ إلا منْ يطاولُهُ --- ويظلِمُ النَّذلُ أدنى منهُ في الصُّوَل<br />\r\n\tيا ظالماً جارَ فيمنْ لا نصيرَ لهُ --- إلا المهيمنُ لا تغترَّ بالمَهَلِ<br />\r\n\tغداً تموتُ ويقضي الله بينكما --- بحكمةِ الحقِّ لا بالزيغ والمَيلِ<br />\r\n\t....<br />\r\n\tزيادةُ القولِ تَحكي النقصَ في العملِ --- ومنطقُ المرءِ قد يَهديهِ للزَّللِ<br />\r\n\tإنَّ اللسانَ صغيرٌ جِرمُهُ ولَهُ --- جرمٌ كبيرٌ كما قد قيل في المَثَلِ<br />\r\n\tفكم ندمتُ على ما كنتُ قلتُ بهِ --- وما ندمتُ على ما لم أكنْ أقُلِ<br />\r\n\t</span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">- من مساهمات زوار الموقع.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-07T08:13:27Z",
+  "attributes": {
+    "old_id": 166
+  },
+  "language": "ar",
+  "history": []
+}

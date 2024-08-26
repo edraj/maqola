@@ -1,0 +1,50 @@
+{
+  "uuid": "ed7e3212-0b95-4605-9f5c-e41fdc0ce4af",
+  "shortname": "المهدي_وشيخ_الإسلام_ابن_أبي_ذئب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المهدي وشيخ الإسلام ابن أبي ذئب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c0a53acde9aedfa09e838e3e8d7001c81e03ab1e",
+    "bytesize": 698,
+    "body": "<p>لما حجّ الخليفة العباسي \" المهدي \" ، دخل مسجد رسول الله - صلى الله عليه وسلم - فلم يبق أحدٌ إلا قام ، إلا شيخ الإسلام \" ابن أبي ذئب \" . فقال له المسيب بن زهير ( أمير الشرطة ) : \" قم ، هذا أمير المومنين \" . فقال ابن أبي ذئب : \" إنما يقوم الناس لرب العالمين \" فقال المهدي : \" دعه ، فلقد قامت كُلُّ شعرةٍ في رأسي \" .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "شَجاعَة",
+    "فَخر",
+    "لُغة عربيّة",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-08-04T02:15:45Z",
+  "attributes": {
+    "old_id": 1468
+  },
+  "language": "ar",
+  "history": []
+}

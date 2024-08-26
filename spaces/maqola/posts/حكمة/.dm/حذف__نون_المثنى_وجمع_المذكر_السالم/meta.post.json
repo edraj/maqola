@@ -1,0 +1,45 @@
+{
+  "uuid": "4c75f425-9465-40e5-9f9b-a85cf45e4702",
+  "shortname": "حذف__نون_المثنى_وجمع_المذكر_السالم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حذف  نون المثنى وجمع المذكر السالم"},
+  "updated_at": "2014-02-03T10:20:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:68b34872419bb22d133f3e30dfe777cb29c4da50",
+    "bytesize": 281,
+    "body": "يجب حذفُ نونِ المثنى و جمعِ المذكرِ السالمِ عندَ الإضافةِ<br> مثال :<br> طالبان + الفصل = طالبا الفصلِ<br> فلاحون + القرية = فلاحو القرية<span class=\"maqola_body\"> ِ<br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-03T10:20:40Z",
+  "attributes": {
+    "old_id": 772
+  },
+  "language": "ar",
+  "history": []
+}

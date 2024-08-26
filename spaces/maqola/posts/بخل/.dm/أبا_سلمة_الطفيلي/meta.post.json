@@ -1,0 +1,43 @@
+{
+  "uuid": "56da9d79-ebc2-4989-aa9c-7c00f176ec77",
+  "shortname": "أبا_سلمة_الطفيلي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أبا سلمة الطفيلي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:219429334ccf8dc79f435bf9fc9c69f55f77c884",
+    "bytesize": 1141,
+    "body": "<p>كان بالبصرة طُفيلي يُكنَّى أبا سلمة. وكان إذا بلغه خبر وليمة لبس لبس القُضاة وأخذ ابنيه معه وعليهما القلانس الطِوال والطيالسة. فتقدم أحدهما فيدقُّ الباب ويقول : افتح يا غلام لأبي سلمة. ثم لا يلبث حتى يلحقه الآخر فيقول : افتح ويلك قد جاء أبو سلمة. ويتلوهما فإن لم يعرفهم البوَّاب فتح لهم وإن عرفهم لم يلتفت إليهم. ومع كل واحد منهم فهر \" حجر \" مدور يسمونه كيسان فينتظرون من دعي فإذا جاء وفتح له طرحوا الفهر في العتبة حيث يدور الباب فلا يقدرون على إغلاقه فيهجمون ويدخلون. فأكل أبو سلمة يوماً على بعض الموائد لُقمةً حارة من فالوذج وبلغها بشدة حرارتها. فتجمعت أحشاؤه فمات على المائدة!! .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بُخل",
+    "طُرفَة",
+    "قِصّة"
+  ],
+  "created_at": "2015-06-01T00:23:29Z",
+  "attributes": {
+    "old_id": 1316
+  },
+  "language": "ar",
+  "history": []
+}

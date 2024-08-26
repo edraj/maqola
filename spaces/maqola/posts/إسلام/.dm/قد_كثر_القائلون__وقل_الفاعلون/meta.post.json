@@ -1,0 +1,44 @@
+{
+  "uuid": "ce2a5b35-4a70-48f2-97cd-03a3f7fe319e",
+  "shortname": "قد_كثر_القائلون__وقل_الفاعلون",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قَدْ كَثُرُ القَائِلُوْنَ، وَقَلَّ الفَاعِلُوْنَ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2513e1e6b120acecc9c42777736474cb7e1bdc21",
+    "bytesize": 823,
+    "body": "<p>\r\n\tوَعَظَ رَجُلٌ المَأمُونَ، فَأَصْغَى إِلَيْهِ مُنْصِتاً، فَلَمَّا فَرَغَ قَالَ:\r\n</p><p>\r\n\tقَدْ سَمِعْنَا مَوْعِظَتَكَ، فَأَسْأَلُ اللهَ أَنْ يَنْفَعَنَا بِهَا وَبِمَا عَلِمْنَا، غَيْرَ أَنَّا أَحْوَجُ إِلى المُعَاوَنَةِ بِالفِعَالِ مِنَّا إِلى المُعَاوَنَةِ بِالمَقَالِ، فَقَدْ كَثُرُ القَائِلُوْنَ، وَقَلَّ الفَاعِلُوْنَ.\r\n</p><p>\t<br></p><p>\r\n\t<small>- مِنْ كِتَابِ العِقْدِ الفَرِيْدِ لابْنِ عَبْدِرَبِّهِ الأَنْدَلُسِيِّ (الجُزْءُ الثَّالِثُ)</small>\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2015-07-01T09:24:21Z",
+  "attributes": {
+    "old_id": 1363
+  },
+  "language": "ar",
+  "history": []
+}

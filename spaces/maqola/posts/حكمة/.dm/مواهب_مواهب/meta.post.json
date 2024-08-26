@@ -1,0 +1,42 @@
+{
+  "uuid": "1b4a00e8-844f-4666-8090-1472f0817de0",
+  "shortname": "مواهب_مواهب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مواهب مواهب"},
+  "updated_at": "2015-02-27T23:03:58Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4974ab7b958b883f94cb2a6aab5ba7afec0b43df",
+    "bytesize": 268,
+    "body": "<p>قيل لنا أننا نحارب الإرهابيين لكني كنت أنا ذاك الإرهابي والإرهاب الفعلي هو احتلالنا. - مايك برسنر ( جندي أمريكي عائد من العراق )</p><hr><p>كمال جنبلاط</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "c75bfafb-ad00-4934-a0b8-1f87a4a49ac7",
+    "shortname": "مواهب_مواهب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-02-27T22:55:53Z",
+  "attributes": {
+    "old_id": 1075
+  },
+  "language": "ar",
+  "history": []
+}

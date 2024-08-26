@@ -1,0 +1,29 @@
+{
+  "uuid": "37a344e3-d37a-458f-b6cd-c436f445cfb1",
+  "shortname": "خطأ_في_البيت",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خطأ في البيت"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eebff178597e35f9fe18964dbffa41fa81995df2",
+    "bytesize": 354,
+    "body": "السلام عليكم , الإخوة الكرام  , هناك خطأ في البيت , بزيادة واو في البيت الثاني , وهذا يكسر البيت , والصحيح : ليس الغبي بسيد في قومه // لكنّ سيد قومه المتغابي  مع خالص الشكر على هذه القصة النبوية الرائعة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T04:54:03Z",
+  "attributes": {
+    "old_id": 48,
+    "old_entry_id": 138
+  },
+  "language": "ar"
+}

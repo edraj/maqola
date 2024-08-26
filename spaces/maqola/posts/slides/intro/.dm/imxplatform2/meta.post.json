@@ -1,0 +1,41 @@
+{
+  "uuid": "b99393db-9106-4e46-b6f3-28f7e55593f0",
+  "shortname": "imxplatform2",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"منصة المحتوى : ت. ا. م. (تتمة)"},
+  "description":{"ar":""},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8828ac1b8f84960d3a8f22e75bdde195ef3a34b4",
+    "bytesize": 1154,
+    "body": "<ul><li>نشر المحتوى المُختار على الشبكة وبصورة تمكن محركات البحث العالمية من فهرسته وعرضه في نتائج البحث المرتبطة.</li><li>يستطيع المستخدمون الاطلاع على المحتوى والتفاعل معه من وضع تعليق أو تقييم. <br></li><li>يستطيع المستخدمون تبادل الرسائل فيما بينهم (الخاص) أو ضمن مجموعة خاصة أو ضمن مجموعة عامة (أو ما يُعرف بالمنتديات). <br></li><li>يستطيع المستخدمون تعريف وضبط استجابة النظام للمدخلات والنشاطات المختلفة (سير وتدفق الأعمال).<br></li></ul><div><br></div><div>يستفيد نظام تبادل وإدارة المعلومات من مفاهيم البيانات الضخمة وأنظمة إدارة بيانات المؤسسات ويطبق بعض أساسياتها. فهو منصة عامة لاستعياب وتوفير المحتوى مع إمكانية النشر وتبادل الرسائل وضبط سير الأعمال.</div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "post",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-09-06T19:33:08+03:00",
+  "attributes": {
+    "ordinal": 5
+  },
+  "language": "en",
+  "history": [],
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

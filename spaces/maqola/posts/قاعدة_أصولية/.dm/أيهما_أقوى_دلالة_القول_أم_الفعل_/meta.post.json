@@ -1,0 +1,42 @@
+{
+  "uuid": "b01f32f6-ce9c-4cc5-965b-6bc1ba4a3a20",
+  "shortname": "أيهما_أقوى_دلالة_القول_أم_الفعل_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أيُّهما أقوى دَلالةً القولُ أم الفعلُ؟"},
+  "updated_at": "2014-07-02T15:04:31Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9fc2138fc087735bd5b6d67c12328ef56f5aed1b",
+    "bytesize": 655,
+    "body": "<span class=\"maqola_body\"> <br> <p>أيُّهما أقوى دَلالةً القولُ أم الفعلُ؟</p><p>نقولُ: القولُ أقوى دلالةً من الفعلِ؛ وذلك لأن الفعلَ يحتملُ أموراً لا يَحْتَمِلُها القولُ، يَحْتَمِلُ أنه فعَلَه لعلةٍ، أو فعَله نِسياناً، أو فعَله على وجهِ الخصوصيةِ، احتمالاتٌ كثيرةٌ، بخلافِ القولِ، ولهذا ذهَب مَن ذهَب مِن العلماءِ الأفاضلِ إلى أنه لا يُخَصَّصُ عمومُ القولِ بالفعلِ.</p><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "945a78fc-63f7-42c1-a380-1730a1a586cc",
+    "shortname": "فياض_دوابشة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قاعدة أصولية"
+  ],
+  "created_at": "2014-07-02T15:04:31Z",
+  "attributes": {
+    "old_id": 897
+  },
+  "language": "ar",
+  "history": []
+}

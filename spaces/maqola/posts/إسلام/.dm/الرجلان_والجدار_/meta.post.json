@@ -1,0 +1,44 @@
+{
+  "uuid": "85c7f9be-1a49-4f68-b438-527932795aa5",
+  "shortname": "الرجلان_والجدار_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الرجلان والجدار!!"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:55fd1920b054167ab11dd3c877b7414f25f49547",
+    "bytesize": 842,
+    "body": "<p>حكي أن رجلين تنازعا في أرض فأنطق الله تعالى لبِنةً من جدار تلك الأرض فقالت : إني كنت ملكًا من الملوك ملكت الدنيا ألف سنة ، ثم صرت رميًا ألف سنة ، ثم أخذني خزّاف وعملني إناء ، فاستعملت ألف سنة حتى تكسرت وصِرتُ ترابا ، فأخذني طوّاب وعملني لبنًا وأنا في هذا الجدار كذا وكذا سنة ، فلِما تتنازعان في هذه الأرض وأنتم عنها زائلون ، وإلى غيرها منقلبون والله سبحانه وتعالى أعلم وأعظم .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت الفرزدقي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "قِصّة",
+    "مَثَل"
+  ],
+  "created_at": "2015-06-14T20:23:15Z",
+  "attributes": {
+    "old_id": 1347
+  },
+  "language": "ar",
+  "history": []
+}

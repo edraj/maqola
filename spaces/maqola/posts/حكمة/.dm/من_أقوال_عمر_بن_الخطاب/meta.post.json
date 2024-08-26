@@ -1,0 +1,44 @@
+{
+  "uuid": "5962384f-8081-410e-bba3-038fd8ce18ab",
+  "shortname": "من_أقوال_عمر_بن_الخطاب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أقوال عمر بن الخطاب"},
+  "updated_at": "2014-02-07T15:32:39Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:09b9ccb7b7dcb684cdd1f21bffab34347a938e5a",
+    "bytesize": 375,
+    "body": "<br> <span class=\"maqola_body\"><br> قالَ عمرُ بن الخطّاب رضي الله عنه :<br>  \"الشعرُ جَزل من كلامِ العرب، يُسكَّنُ بهِ الغَيظ، وتُطفأُ بهِ الثائرة، ويتبلَّغ بهِ القومُ في ناديهم، وُيعطى بهِ السائل\".<br> <br> العقدِ الفريد .<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-07T15:32:33Z",
+  "attributes": {
+    "old_id": 815
+  },
+  "language": "ar",
+  "history": []
+}

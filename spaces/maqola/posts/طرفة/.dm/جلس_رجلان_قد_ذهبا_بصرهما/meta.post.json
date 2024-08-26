@@ -1,0 +1,42 @@
+{
+  "uuid": "6a35099a-a7f2-40d3-8e79-cab02cf4fec5",
+  "shortname": "جلس_رجلان_قد_ذهبا_بصرهما",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جلس رجلان قد ذهبا بصرهما"},
+  "updated_at": "2013-11-19T15:53:22Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:813df2a2485496fbd4f920094e8e4992b21bbbd0",
+    "bytesize": 1488,
+    "body": "<span class=\"maqola_body\">قـصـة وعـظــة<br>\r\n<br>\r\nجلس رجلان قد ذهب بصرهما على طريق أم جعفر زبيدة العباسية لمعرفتهما بكرمها.<br>\r\n<br>\r\nفكان أحدهما يقول : اللهم ارزقني من فضلك<br>\r\n.........<br>\r\nوكان الآخر يقول : اللهم ارزقني من فضل أم جعفر.<br>\r\n<br>\r\n<br>\r\nوكانت أم جعفر تعلم ذلك منهما وتسمع،<br>\r\n<br>\r\nفكانت ترسل لمن طلب فضل الله درهمين،<br>\r\n<br>\r\nولمن طلب فضلها دجاجة مشوية في جوفها عشرة دنانير.<br>\r\n<br>\r\nوكان صاحب الدجاجة يبيع دجاجته لصاحب الدرهمين، بدرهمين كل يوم،<br>\r\n<br>\r\nوهو لا يعلم ما في جوفها من دنانير.<br>\r\n<br>\r\nوأقام على ذلك عشرة أيام متوالية،<br>\r\n<br>\r\n<br>\r\nثم أقبلت أم جعفر عليهما،<br>\r\n<br>\r\nوقالت لطالب فضلها: أما أغناك فضلنا ؟<br>\r\n<br>\r\nقال: وما هو؟<br>\r\n<br>\r\nقالت مائة دينار في عشرة أيام،<br>\r\n<br>\r\nقال: لا،<br>\r\n<br>\r\nبل الدجاجة كنت أبيعها لصاحبي بدرهمين.<br>\r\n<br>\r\n=========================<br>\r\nفقالت: هذا طلب من فضلنا فحرمه الله،<br>\r\n<br>\r\nوذاك طلب من فضل الله فأعطاه الله وأغناه.<br>\r\n========================= <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "53835417-1f9b-4016-8d47-08e23102536c",
+    "shortname": "sherwan_abubakr",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2013-11-19T15:34:03Z",
+  "attributes": {
+    "old_id": 714
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "f73fcaa4-1a5d-4997-83f2-6a0f123f2d27",
+  "shortname": "أصمى_رميته",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أصمَى رَمِيَّتَهُ‏"},
+  "updated_at": "2010-12-06T08:10:33Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0c59d4bc2fa434e7827e284176d6edb1be1c6aff",
+    "bytesize": 578,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يُقالُ‏:‏ أصْمَى الرّامي، إذا أصاب، (وأنْمَى، إذا أشْوَى - أي أصابَ الشَّوَى ولم يصب المَقْتَلَ، ويقال‏:‏ بل هو الذي يَغيبُ عنك ثم يموت ولا يموتُ في ساعته.) وقيل ‏&quot;‏كُلْ ما أصْمَيْتَ ودَعْ ما أنْمَيْتَ‏&quot;‏.<br />\r\n\tيُضرَبُ هذا المَثلُ للرَّجلِ يَقْصِدُ الأمرَ فُيصيبُ مِنهُ ما يُريد‏.‏</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-12-06T08:10:33Z",
+  "attributes": {
+    "old_id": 325
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "f9b16c75-33d7-4bdb-bc73-c3e8dc41cfb3",
+  "shortname": "سؤال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سؤال"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0f64398e68e93047065b8021e21182ce09635f37",
+    "bytesize": 83,
+    "body": "من هو كاتب هذه الأبيات؟ وبأي مناسبة\\\\وقت كتبت؟"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-15T16:30:14Z",
+  "attributes": {
+    "old_id": 102,
+    "old_entry_id": 183
+  },
+  "language": "ar"
+}

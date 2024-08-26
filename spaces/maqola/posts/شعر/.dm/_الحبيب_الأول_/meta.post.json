@@ -1,0 +1,43 @@
+{
+  "uuid": "08a74a45-57e6-4070-90bf-2cd2140f5202",
+  "shortname": "_الحبيب_الأول_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"\"الحَبيبُ الأولِ\""},
+  "updated_at": "2010-11-28T05:51:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bed728cca24a7e1fb6eec0ab6aff75f8b93c4065",
+    "bytesize": 2036,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">نَقِّلْ فُؤادَكَ حَيثُ شِئتَ مِن الهَوى -- مالحُبُّ إلاّ للحَبيبِ الأوَّلِ<br />\r\n\tكَمْ مَنزِلٍ في الأرضِ يألفُهُ الفَتى -- وحَنينُهُ أبداً لأوَّلِ مَنزِلِ<br />\r\n\t<br />\r\n\tهذانِ البَيتانِ مِن أشهَرِ ما قالَه أبو تمام في الحُبِّ. لَكن هُناكَ مَن يُخالفُ أبي تمام الرأيَ، فَيَرى أنَّ الآخِرَ خَيرٌ مِن الأوّلِ، فيقول :<br />\r\n\tنَقِّلْ فُؤادَكَ حَيثُ شِئتَ فَلَنْ تَرى -- كَهوىً جَديدٍ أو كَوَجهٍ مُقبِلِ<br />\r\n\tعِشقي لمنزلي الذي استحدَثتُهُ -- أما الذي ولّى فَليسِ بِمَنزلي<br />\r\n\t<br />\r\n\tو مِن جِنسِ ذلك يقولُ شاعرٌ آخَر :<br />\r\n\tدَع حُبَّ أوَّلِ مَن كُلِّفتَ بِحُبِهِ -- ما الحبُّ إلا للحَبيبِ االآخِرِ<br />\r\n\tما قَد تَولّى لا إرجاعَ لِطِيبِهِ -- هَل غائِبُ اللذاتِ مِثلُ الحاضرِ؟<br />\r\n\t<br />\r\n\tو شاعرٌ ثالث يَرى أنَّ الحُبَّ لا يعيشُ سوى لساعته فيقول :<br />\r\n\tالحُبُّ للمَحبوبِ ساعةَ حُبِّهِ -- ما الحبّ فيه لآخِرٍ ولأوَّلِ<br />\r\n\t<br />\r\n\tو شاعرٌ رابع لَم يَكتَفِ لا بالأوَّل ولا بالآخِر فيقول :<br />\r\n\tقَلبي رَهينٌ بالهوى المُقتَبِل -- فالوَيلُ لي في الحبِّ إنْ لَم أعدل<br />\r\n\tأنا مُبتَلىً بِبَليتينِ مِن الهوى -- شَوقٌ إلى الثاني وذِكرُ الأوَّل</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">فماذا عسانا أن نقول نحن؟</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "غَزَل"
+  ],
+  "created_at": "2010-11-27T16:48:10Z",
+  "attributes": {
+    "old_id": 237
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "ae264f71-cfab-446d-bf08-e07ee489748d",
+  "shortname": "_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"؟؟؟"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6850c7c1efd742501aefca33d99876738302028a",
+    "bytesize": 26,
+    "body": "اذا ماذا نقول؟"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-30T14:29:23Z",
+  "attributes": {
+    "old_id": 504,
+    "old_entry_id": 492
+  },
+  "language": "ar"
+}

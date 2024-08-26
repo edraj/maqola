@@ -1,0 +1,44 @@
+{
+  "uuid": "5616b31a-422a-4c1b-8e0c-8f49df0f5b73",
+  "shortname": "لا_تعصر_العصير_إلا_إذا_كان_يستاهل_العصر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تعصر العصير إلا إذا كان يستاهل العصر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d9a609c39c422d533aef063bb5c26e94407c65dd",
+    "bytesize": 364,
+    "body": "<p>مقولة </p><p>لا تعصر العصير إلا إذا كان يستاهل العصر <br><br>تعنى أن عليك عدم الدخول فى اى موضوع قبل ان اتأكد من أن هذا الموضوع يستاهل كل ما تفعله <br><br>بعدها لديك كافة الطرق والوسائل للمضى قدما فى تحقيقه<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97e24f5d-4742-4e15-96dc-384186d9a4d9",
+    "shortname": "ليمو_هلال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَخر",
+    "لُغز",
+    "مَثَل"
+  ],
+  "created_at": "2015-02-09T23:07:59Z",
+  "attributes": {
+    "old_id": 1000
+  },
+  "language": "ar",
+  "history": []
+}

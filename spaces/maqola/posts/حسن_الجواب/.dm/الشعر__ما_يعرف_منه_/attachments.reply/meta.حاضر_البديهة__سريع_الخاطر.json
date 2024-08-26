@@ -1,0 +1,29 @@
+{
+  "uuid": "48f7a339-b1a3-49cd-bc26-af7d9001ef7e",
+  "shortname": "حاضر_البديهة__سريع_الخاطر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حاضرَ البديهة، سريعَ الخاطر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:884bb9c7da0025741b5665ef96d9144c99f8a436",
+    "bytesize": 185,
+    "body": "كنت أتمنى أن أكون هكذا ولكن بالتركيز وبالمحاولة وبالمجهود لم أحصل من حضور البديهة ورسعة الخاطر أي شيء"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-11T22:23:28Z",
+  "attributes": {
+    "old_id": 542,
+    "old_entry_id": 524
+  },
+  "language": "ar"
+}

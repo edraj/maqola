@@ -1,0 +1,50 @@
+{
+  "uuid": "956cf84b-dd14-4d90-9692-fe34c7c2a8b5",
+  "shortname": "الياسق_والقوانين_الوضعية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الياسق والقوانين الوضعية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:40581280319239cfa66e92dabf2a96b3c494cb63",
+    "bytesize": 726,
+    "body": "<p>الياسق أو الياسا هو أول نموذج ظهر في العالم الإسلامي ويخرج عن حدود التشريع الإسلامي ، تكلم ابن تيمية في فتواه المشهورة عن التتار ، وهو أكثر من فصّل في الياسق ، وما هو حاله وشأنه وتاريخه . والحافظ ابن كثير ذكر ذلك باقتضاب في تفسير قول الله : ﴿أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ وَمَنْ أَحْسَنُ مِنَ اللّهِ حُكْمًا لِّقَوْمٍ يُوقِنُونَ﴾ قال : مثل ما يتحاكم به التتار إلى كتابهم الذي يسمى الياسق .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "شَجاعَة",
+    "عربية",
+    "فَصاحَة",
+    "قاعدة أصولية",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-04-11T21:29:35Z",
+  "attributes": {
+    "old_id": 1171
+  },
+  "language": "ar",
+  "history": []
+}

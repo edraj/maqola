@@ -1,0 +1,44 @@
+{
+  "uuid": "b15bd90e-5dc4-4a40-a3af-482d03387807",
+  "shortname": "حجاب_نور_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حجاب نور الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c379407c38441389901ff39c4f7a69ae27b13ed7",
+    "bytesize": 658,
+    "body": "<p>عن رسول الله - صَلَّى اللَّه عليه واله وسَلَّم - أنه قال :</p><p> :\" إن اللَّهَ لا يَنَامُ وَلا يَنْبَغِي لَهُ أَنْ يَنَامَ , يَخْفِضُ الْقِسْطَ وَ يَرْفَعُهُ , يُرْفَعُ إِلَيْهِ عَمَلُ اللَّيْلِ قَبْلَ النَّهَارِ ، وَعَمَلُ النَّهَارِ قَبْلَ اللَّيْلِ , حِجَابُهُ النُّورُ ، وَ لَوْ كَشَفَهَا لأَحْرَقَتْ سَبَحَاتُ وَجْهِهِ كُلَّ شَيْءٍ أَدْرَكَهُ بَصَرُهُ \" ..</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "fb9d54cf-2eca-48ad-870b-47ace16e059f",
+    "shortname": "رسول_الله_",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف",
+    "قاعدة أصولية",
+    "قَناعَة"
+  ],
+  "created_at": "2015-02-19T15:11:35Z",
+  "attributes": {
+    "old_id": 1044
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "7d4a9af9-84df-4221-be7c-cafad910ed21",
+  "shortname": "mustapha_hamza",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"Mustapha Hamza"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:701383c66dac99982344f3ce9762e19049e8d942",
+    "bytesize": 149,
+    "body": "<p>النّساءُ هُنّ الدّواهي والدّوا هُنَّ لا طيبَ للعَيْشِ بلاهُنَّ والبَلا هُنَّ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "6c0094cc-01b4-4a70-b813-41143ec6505b",
+    "shortname": "mustapha_hamza",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-09-04T11:34:56Z",
+  "attributes": {
+    "old_id": 1497
+  },
+  "language": "ar",
+  "history": []
+}

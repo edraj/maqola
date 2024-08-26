@@ -1,0 +1,33 @@
+{
+  "uuid": "ac286af2-4e17-4551-92c1-7ed8c78e2544",
+  "shortname": "ac286af2",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-16T01:33:14Z",
+  "author_locator": { "type": "content",
+    "uuid": "edc28c01-56fe-4ae8-90d4-c8fdfe3bb104",
+    "shortname": "فتى_الكهالة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-16T01:33:14Z",
+  "attributes": {
+    "old_id": 283,
+    "old_entry_id": 1018
+  },
+  "language": "en",
+  "location": {
+    "uuid": "ac286af2-4e17-4551-92c1-7ed8c78e2544",
+    "shortname": "ac286af2",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "فلو_كان_فيهم_أنبياء_لافتتنوا_",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

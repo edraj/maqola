@@ -1,0 +1,41 @@
+{
+  "uuid": "040b8b93-2a62-425c-89a1-468999c57623",
+  "shortname": "لو__فتشوا__قلبي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لوْ  فتّشُوا  قَلبي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9689b232ed5115caad703123ef59a22044518cb7",
+    "bytesize": 278,
+    "body": "<p><br></p><p>لو فتّشوا قلبي رأوا في صميمه</p><p>خلاصةَ هذا العالمِ المتألِّمِ</p><p>وتنتابُهُ الأهواء من كلِّ جانبٍ</p><p>وترمي به شتى المهاوي فيرتمي</p><p>\"الجواهري\"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-03-12T12:36:39Z",
+  "attributes": {
+    "old_id": 1099
+  },
+  "language": "ar",
+  "history": []
+}

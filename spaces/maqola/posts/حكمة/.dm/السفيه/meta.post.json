@@ -1,0 +1,43 @@
+{
+  "uuid": "4ae9f407-a3eb-410f-aab1-857a5228396a",
+  "shortname": "السفيه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السفيه"},
+  "updated_at": "2014-03-01T15:51:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9461eeee316804027549f38cca07e3880e2e9733",
+    "bytesize": 237,
+    "body": "ما من سفيهٍ يتعرَّضُ لكَ إلا لظنِّه أنكَ مِثلُه في السَّفَه، فلا تصدِّق ظنَّه فيك بمجاراته، والردِّ عليه.<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء"
+  ],
+  "created_at": "2014-03-01T15:51:14Z",
+  "attributes": {
+    "old_id": 854
+  },
+  "language": "ar",
+  "history": []
+}

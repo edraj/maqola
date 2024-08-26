@@ -1,0 +1,45 @@
+{
+  "uuid": "2ce295ed-389e-4d24-a8be-a6a439d145a0",
+  "shortname": "ذئب_يوسف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ذئب يوسف"},
+  "updated_at": "2014-02-01T15:31:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d07981fe8a04da9ebfc2c11f3d31ece0c9b26662",
+    "bytesize": 193,
+    "body": "قالت العرب: ذئبُ يوسف. <br> <br> يُضربُ لمن يُتّهمُ بذنبِ غيره، وهو بريءُ السّاحةِ منه<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-01T15:31:33Z",
+  "attributes": {
+    "old_id": 759
+  },
+  "language": "ar",
+  "history": []
+}

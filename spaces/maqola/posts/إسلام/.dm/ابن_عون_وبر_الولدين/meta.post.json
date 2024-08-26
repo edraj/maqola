@@ -1,0 +1,46 @@
+{
+  "uuid": "ff6c3eaa-07e3-4b82-a119-4455b8b1a5b9",
+  "shortname": "ابن_عون_وبر_الولدين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ابن عون وبر الولدين"},
+  "updated_at": "2014-02-08T11:25:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:40369b2c61e880866e3da506570b594b0bc846d5",
+    "bytesize": 225,
+    "body": "عن ابنِ عون: أنَ أمه نادتهُ فأجابها، فعلا صوتهُ صوتها فأعتقَ رقبتين. <br> <br> [سيرُ أعلامِ النبلاء: 1/366].<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "فَصاحَة"
+  ],
+  "created_at": "2014-02-08T11:25:39Z",
+  "attributes": {
+    "old_id": 817
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "bab980bf-16d2-47d0-8251-0ec0ba0d6c6d",
+  "shortname": "nice",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"nice"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:db9e5070e3faad3cd1078eed59ac18e514b45ed1",
+    "bytesize": 15,
+    "body": "hhhhhhhhhhhhhhh"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2ec1a473-78ba-45be-a828-55690047f7a9",
+    "shortname": "المعتصم_العامري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-15T11:08:44Z",
+  "attributes": {
+    "old_id": 832,
+    "old_entry_id": 40
+  },
+  "language": "ar"
+}

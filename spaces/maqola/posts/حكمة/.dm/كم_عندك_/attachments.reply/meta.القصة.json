@@ -1,0 +1,29 @@
+{
+  "uuid": "915d0ce7-d7eb-4779-9216-7a6eb716c97e",
+  "shortname": "القصة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القصة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2ca4f457c94085611587c3ff4905691d675bd1cd",
+    "bytesize": 53,
+    "body": "عنى ابراهيم بن أدهم غنى النفس"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-22T00:55:57Z",
+  "attributes": {
+    "old_id": 5,
+    "old_entry_id": 70
+  },
+  "language": "ar"
+}

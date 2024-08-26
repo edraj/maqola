@@ -1,0 +1,42 @@
+{
+  "uuid": "47bf73d0-e621-44d9-86ed-55598b3e0746",
+  "shortname": "لا_تنخدع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تنخدع"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e0c2d35a09f2ae4f51918d3019e7802ca43f3c90",
+    "bytesize": 391,
+    "body": "<p><em></em><span style=\"color: rgb(128, 100, 162);\"></span><span style=\"background-color: rgb(253, 234, 218);\"></span><span class=\"kufi\"></span>لا تخدعك في المحاكم عبارة \"العدل أساس الملك\".</p><p>أعرفُ كثيراً من اللصوص يضعونَ على مكاتبهم: \"هذا من فضل ربّي\".</p><p>\"نجيب محفوظ\"</p><p><br><br><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "ذَكاء"
+  ],
+  "created_at": "2015-02-19T17:46:14Z",
+  "attributes": {
+    "old_id": 1046
+  },
+  "language": "ar",
+  "history": []
+}

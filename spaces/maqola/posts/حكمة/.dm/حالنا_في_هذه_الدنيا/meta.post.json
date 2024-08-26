@@ -1,0 +1,44 @@
+{
+  "uuid": "d85a2cfb-b56e-473f-a3ef-307acc116003",
+  "shortname": "حالنا_في_هذه_الدنيا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حالنا في هذه الدُنيا"},
+  "updated_at": "2011-10-11T22:30:41Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:78bfc09889093c57bcce3aa914a8faaa46e40729",
+    "bytesize": 199,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\">وَالمَرءُ سَاعٍ لِأَمرٍ لَيسَ يُدرِكُهُ -- وَالعَيشُ شُحٌّ وَإِشفَاقٌ وَتَأمِيلُ </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر",
+    "قَناعَة"
+  ],
+  "created_at": "2011-10-11T22:30:41Z",
+  "attributes": {
+    "old_id": 526
+  },
+  "language": "ar",
+  "history": []
+}

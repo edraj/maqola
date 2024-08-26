@@ -1,0 +1,43 @@
+{
+  "uuid": "78f0742b-c428-4c66-ab04-9a712cf9e783",
+  "shortname": "الثقافة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الثقافة!"},
+  "updated_at": "2013-04-13T19:23:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f9aecd58380795ecddb6f56c14e6b7d3275cac41",
+    "bytesize": 950,
+    "body": "<span class=\"maqola_body\"> <br> الثقافةُ لَيست فى قراءةِ الكُتبِ وفَقط<br>إنّما الثقافةُ أيضاً  في أُذُنِ الاستماعِ <br> وفي عَينِ الرؤية <br> وفي لِسانِ التذوق <br> وفي أنفِ الشَّم <br> وفى عَقل المخ <br> وفى روح اللامادية !<br> <br> والمثقفُ لَيس له وقتٌ يُخصصه للثقافة !<br> إنما يتثقفُ في كل لحظةٍ وفى كل حين، وهو يقرأ وهو يأكل وهو يلعب، وهو مسافر وهو متعبد وهو نائم  !<br> <br>\r\n نعم على المثقف ان يفكر ويتثقف حتى وهو نائم،  ألم ترَ كيف أن أحد \r\nالعلماء كان يقوم من نومه لكي يُدون فائدة خطرت له ثُمَّ يُعاودُ نومه مرة أخرى !<br><br>الأستاذ حُسام أبو البخاري<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة"
+  ],
+  "created_at": "2013-04-13T19:22:52Z",
+  "attributes": {
+    "old_id": 571
+  },
+  "language": "ar",
+  "history": []
+}

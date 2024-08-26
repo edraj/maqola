@@ -1,0 +1,29 @@
+{
+  "uuid": "ae04aef9-a3c2-4537-b71d-2856467b63f3",
+  "shortname": "امير_الشعراء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"امير الشعراء"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:817553da37d75e21b47ab6e2f73b0c31692adde7",
+    "bytesize": 70,
+    "body": "شوقى حي دائما رغم موته بأبياته الخالدة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-05-29T11:54:17Z",
+  "attributes": {
+    "old_id": 645,
+    "old_entry_id": 211
+  },
+  "language": "ar"
+}

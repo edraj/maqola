@@ -1,0 +1,42 @@
+{
+  "uuid": "709eb901-997e-42d8-8e87-e15a1766ef3a",
+  "shortname": "الدم_و_ورد_الحب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الدم و ورد الحب"},
+  "updated_at": "2014-04-29T14:18:56Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bd8b71b063252a630bc1921dedbfcc740fc9a452",
+    "bytesize": 1180,
+    "body": "<span class=\"maqola_body\"><b></b><span class=\"uthmanb\"><b> </b><span class=\"fontxxlarge\" color=\"\" style=\"background-color: transparent;\"><b></b><span class=\"uthman\"><b><br></b><div style=\"text-align: center; background-color: transparent;\"><span style=\"font-size: x-large; font-family: UthmanTN1, 'Traditional Arabic', serif; line-height: 1.45em;\"><span style=\"color: #c0504d;\"><span class=\"uthman\"><b>الدم و ورد الحب لونهما أحمر</b></span></span></span></div></span></span></span><span class=\"fontxxlarge\" color=\"\" style=\"background-color: transparent;\"><span class=\"uthman\"><div style=\"text-align: center; background-color: transparent;\"><span style=\"font-size: x-large; font-family: UthmanTN1, 'Traditional Arabic', serif; line-height: 1.45em;\"><span style=\"color: #c0504d;\"><span class=\"uthman\"><b></b></span></span></span></div></span><div style=\"text-align: center; background-color: transparent;\"><span style=\"font-size: x-large; font-family: UthmanTN1, 'Traditional Arabic', serif; line-height: 1.45em;\"><span style=\"color: #c0504d;\"><span class=\"uthman\"><b></b></span><strike style=\"font-weight: bold;\"></strike></span></span></div> </span>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "19a77474-33ed-4561-b4aa-91e5e487859e",
+    "shortname": "عبدالله_العنزي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-04-29T14:18:56Z",
+  "attributes": {
+    "old_id": 879
+  },
+  "language": "ar",
+  "history": []
+}

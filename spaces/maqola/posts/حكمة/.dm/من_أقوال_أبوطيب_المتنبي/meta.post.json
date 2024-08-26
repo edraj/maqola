@@ -1,0 +1,46 @@
+{
+  "uuid": "7dee597d-4c8f-4177-a98d-6000ce50b064",
+  "shortname": "من_أقوال_أبوطيب_المتنبي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أقوال أبوطيب المتنبي"},
+  "updated_at": "2014-02-13T14:17:59Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c649ec319e704962aae404153e5a18af349d2a25",
+    "bytesize": 216,
+    "body": "<span class=\"maqola_body\"> <br> جَــمَح الزّمــانُ فـلا لَذيـذٌ خـالِصٌ *** مِمــا يَشــوبُ ولا ســرُورٌ كـاملُ<br> <br> المتنبي..<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-13T14:17:52Z",
+  "attributes": {
+    "old_id": 837
+  },
+  "language": "ar",
+  "history": []
+}

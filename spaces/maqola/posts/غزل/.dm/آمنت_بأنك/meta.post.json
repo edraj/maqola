@@ -1,0 +1,42 @@
+{
+  "uuid": "144fca40-285d-4f6c-a63e-73d92f69f4e0",
+  "shortname": "آمنت_بأنك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"آمنت بأنك"},
+  "updated_at": "2013-06-17T14:44:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:100fddd5c2723bab449f269c96c72f4e86d405f9",
+    "bytesize": 3292,
+    "body": "<span class=\"maqola_body\"> <br> </span><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><span class=\"maqola_body\"><b>النــجم وعيـنـاك &#160;التـقيـا&#160;<br></b></span><span class=\"maqola_body\"><b>بـطريـق الحـب أمـاتـــانى&#160;<br></b></span><span class=\"maqola_body\"><b>فــعيــونـك لا تــهـدأ أبـدا&#160;<br></b></span><span class=\"maqola_body\"><b>جـامـحــة مثـل الـفرســان&#160;<br></b></span><span class=\"maqola_body\"><b>قـاسيـة بمـلامـح طـفـــلٍ<br></b></span><span class=\"maqola_body\"><b>يبكى فيداعب أشجــــانى&#160;<br></b></span><span class=\"maqola_body\"><b>لا أقدر أن أحبس دمــعى&#160;<br></b></span><span class=\"maqola_body\"><b>فـيـفـر ليـرسـم أحـزانـى&#160;<br></b></span><span class=\"maqola_body\"><b>و أنا من داخل صومعتى&#160;<br></b></span><span class=\"maqola_body\"><b>مشـتـعل مثـل البـركـان&#160;<br></b></span><span class=\"maqola_body\"><b>آمـنـت بـأنـك فى قلبـى&#160;<br></b></span><span class=\"maqola_body\"><b>آمـنـت بـأنـك عنــوانــى&#160;<br></b></span><span class=\"maqola_body\"><b>و كـأنـى قبـلك لـم أدرك&#160;<br></b></span><span class=\"maqola_body\"><b>حقـا مـا طـعـم الإيـمـان&#160;<br></b></span><span class=\"maqola_body\"><b>مـا زلـت صغيرا لم أكبــر&#160;<br></b></span><span class=\"maqola_body\"><b>مـا زلـت أعزف بكمانـى&#160;<br></b></span><span class=\"maqola_body\"><b>و أنـا بـجـوارك لا أبــصــر&#160;<br></b></span><span class=\"maqola_body\"><b>فبـريـق عيـونك أعمانـى&#160;<br></b></span><span class=\"maqola_body\"><b>فالتــمسى عـذرى سيــدتى&#160;<br></b></span><span class=\"maqola_body\"><b>و لتـدعـى حبـك يـرعـانـى&#160;<br></b></span><span class=\"maqola_body\"><b>فـأنـا مـن دونـك قـد ضـعـت&#160;<br></b></span><span class=\"maqola_body\"><b>فزمـانـى أنـتـى و مـكـانى&#160;<br></b></span><span class=\"maqola_body\"><b>سـأقــول بـصـوت مبـحــوحٍ&#160;<br></b></span><span class=\"maqola_body\"><b>لـم تـعـد البـسمة تهوانـى&#160;<br></b></span><span class=\"maqola_body\"><b>فـالدمـع قــد صـار خـلـيــلا&#160;<br></b></span><span class=\"maqola_body\"><b>يـطــرق أبــواب الـأجفان&#160;<br></b></span><span class=\"maqola_body\"><b>هذى أنـغـامـى مـن دونك<br></b></span><span class=\"maqola_body\"><b>فأنـا مـن دونك سوف أعانى&#160;<br></b></span><span class=\"maqola_body\"><b>فهواكى مـقيـم فـى قـلبــى&#160;<br></b></span><span class=\"maqola_body\"><b>إنــســـان داخـــل إنـســـان.</b></span></blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><font face=\"UthmanTN1, Traditional Arabic, serif\"><span style=\"font-size: 21px;\"><b><br></b></span></font><span class=\"maqola_body\"><div><b>(( لؤى محمد ))</b></div></span></blockquote><span class=\"maqola_body\"><p></p><div><p></p></div><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "78b7c4dc-32c2-4c80-972f-99d838e89b79",
+    "shortname": "loay_mohammed",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "غَزَل"
+  ],
+  "created_at": "2013-06-17T14:13:14Z",
+  "attributes": {
+    "old_id": 636
+  },
+  "language": "ar",
+  "history": []
+}

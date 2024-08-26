@@ -1,0 +1,42 @@
+{
+  "uuid": "da82b534-eac3-434a-84a4-bc0f8f1c935d",
+  "shortname": "حتى_لا_يعدم_الأجر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حتى لا يُعدم الأجر"},
+  "updated_at": "2011-01-08T19:31:49Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:240be31b363f44df878c6a7bee01a77d7e5b3669",
+    "bytesize": 760,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قَعَدَ رَجُلٌ على بَابِ دارِهِ فأتاهُ سائِلٌ فقال له :اجلِسْ ثُمَّ صاح بِجاريَةٍ عِندَهُ، فقال إدفَعي إلى هذا السائِلِ صاعاً مِن حِنطَة، فقالت ما بقي عِندَنا، قال فأعطِهِ دِرهَماً، قالت مابَقي عِندنا دَراهِم، قال فأطعميه رغيفاً، قالت ما عِندنا رَغيف، فالتَفَتَ إليه وقال له : إنصرف يا فاسِق يا فاجِر! فقال السائلُ : سُبحانَ الله تَحرِمُني و تَشتُمِني ؟ قال : أحببتُ أن تَنصَرِفَ وأنت مأجور.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-29T07:51:46Z",
+  "attributes": {
+    "old_id": 260
+  },
+  "language": "ar",
+  "history": []
+}

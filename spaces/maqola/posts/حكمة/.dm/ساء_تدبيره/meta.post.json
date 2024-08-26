@@ -1,0 +1,42 @@
+{
+  "uuid": "ac7aecc6-7614-4764-9f58-a27b60cb0088",
+  "shortname": "ساء_تدبيره",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ساء تَدبيرُه"},
+  "updated_at": "2010-12-13T20:14:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0e3faba00e82bc7d52eb200b1c94d9b623b90758",
+    "bytesize": 486,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">إذا المرءُ لَم يرضَ ما أَمكَنَه -- ولَم يأتِ مِن أمرِه أحسَنَه<br />\r\n\tفدَعهُ فَقَد ساءَ تَدبيرُهُ -- سَيَضحَكُ يوماً ويب</span><span style=\"font-size: 1.5em;\">كي سَنة</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من مساهمات زوار الموقع.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-12-13T20:14:20Z",
+  "attributes": {
+    "old_id": 366
+  },
+  "language": "ar",
+  "history": []
+}

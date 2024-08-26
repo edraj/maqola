@@ -1,0 +1,43 @@
+{
+  "uuid": "b8e8ac65-32b1-466e-b925-b00d6498f2e2",
+  "shortname": "المصاب_لا_يصيب_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المُصاب لا يُصيب،"},
+  "updated_at": "2010-12-15T20:15:12Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0c7dd11ba59cf050ce1d74fbd043e965f484b8e8",
+    "bytesize": 221,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يُضرَب لِمن ألمت به مُصيبة، كيف يفقد قدرته في الحكم الصحيح، فلا يقدر لشدتها على تقدير الأمور. </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "مَثَل"
+  ],
+  "created_at": "2010-11-30T11:16:19Z",
+  "attributes": {
+    "old_id": 272
+  },
+  "language": "ar",
+  "history": []
+}

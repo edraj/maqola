@@ -1,0 +1,43 @@
+{
+  "uuid": "7d9ec538-6cb0-404b-be8d-70aab89015fa",
+  "shortname": "أغزل_ما_قالته_العرب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أغزلُ ما قالتُه العرب"},
+  "updated_at": "2010-11-10T16:47:09Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:88adc9de13b3218fd43457c85a6da0cbc20d03c5",
+    "bytesize": 736,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">وَلَقَد ذَكَرتُكِ والرِّماحُ نَواهِلٌ&#160; - مِنّي وبِيضُ الهِندِ تَقطُرُ مِن دَمي<br />\r\n\tفَوَدَدتُ تَقبيلَ السُيوفِ لأَنَّها - لَمَعَت كَبارِقِ ثَغرِكِ المُتَبَسِّمِ</span></span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1em;\"><span style=\"font-family: sans-serif;\">نواهل : أي تنغرزُ في جسدي فتَنهل منه اللحم.<br />\r\n\tبيض الهند : السيوف المصنوعة في الهند.<br />\r\n\tبارق ثغرك : اللمعة التي تكون على الشفتين.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "45e0a3bf-cb11-4071-a868-15348d5a3b65",
+    "shortname": "عنترة_بن_شداد",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "غَزَل"
+  ],
+  "created_at": "2010-10-12T13:48:54Z",
+  "attributes": {
+    "old_id": 7
+  },
+  "language": "ar",
+  "history": []
+}

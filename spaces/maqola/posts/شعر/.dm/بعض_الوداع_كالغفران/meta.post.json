@@ -1,0 +1,42 @@
+{
+  "uuid": "9fd3d337-a091-46a8-90d4-571d5d210ea3",
+  "shortname": "بعض_الوداع_كالغفران",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بعض الوداع كالغفران"},
+  "updated_at": "2015-04-27T18:13:33Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e5d73b4ca2131e33c202da5a66ae8cfaf311162a",
+    "bytesize": 595,
+    "body": "<p>قدْ تكونينَ غيرَها .. أو أنا غيري أنا  </p><p><br></p><p>والزمانُ غيرُ الزمان ِ..</p><p><br> لا أحبُّ المكانَ لكنْ </p><p><br></p><p>أواني عطرِكِ الراقي ، في زوايا المكان ِ</p><p><br>وأنا  لا أهتمُّ كيفَ يراني الناسُ </p><p><br></p><p>ما دُمْتُ للخلود ِ أراني</p><p><br>سوف أسْتغْفرُ الليالي لعينيك ِ  </p><p><br></p><p>وبعضُ الوداع ِ كالغفران ِ</p><p><br></p><p>محمد رفعت الدومي<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "7188dc3b-3f07-43d6-843d-92493de5099a",
+    "shortname": "space",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-04-26T14:58:36Z",
+  "attributes": {
+    "old_id": 1197
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "5549a3f2-3cde-4e1a-baf6-723aed943229",
+  "shortname": "شكرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكرا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0e8890d44faf17414146e0ed511d57c4c156b128",
+    "bytesize": 78,
+    "body": "الشكر لك كفاح على الموقع و هذا الشعر الجميل"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-06-13T08:48:44Z",
+  "attributes": {
+    "old_id": 470,
+    "old_entry_id": 367
+  },
+  "language": "ar"
+}

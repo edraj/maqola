@@ -1,0 +1,43 @@
+{
+  "uuid": "f28ab4bc-3e4d-4fb6-9e17-2ece3b70416e",
+  "shortname": "غاية_الحياة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"غايةُ الحياة؟"},
+  "updated_at": "2011-10-12T16:43:50Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c1aae3123a6e8b5a03759e865de08fbd2155bfe2",
+    "bytesize": 748,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">الناسُ جارٍ في الحَياةِ لِغايَةٍ -- وَمُضَلَّلٌ يَجري بِغَيرِ عِنانِ<br />\r\n\tدَقّاتُ قَلبِ المَرءِ قائِلَةٌ لَهُ -- إِنَّ الحَياةَ دَقائِقٌ وَثَواني<br />\r\n\tفَاِرفَع لِنَفسِكَ بَعدَ مَوتِكَ ذِكرَها -- فَالذِكرُ لِلإِنسانِ عُمرٌ ثاني<br />\r\n\tلِلمَرءِ في الدُنيا وَجَمِّ شُؤونِها -- ما شاءَ مِن رِبحٍ وَمِن خُسرانِ<br />\r\n\tفَاِصبِر عَلى نُعمى الحَياةِ وَبُؤسِها -- نُعمى الحَياةِ وَبُؤسِها سِيّانِ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2011-10-12T16:43:50Z",
+  "attributes": {
+    "old_id": 532
+  },
+  "language": "ar",
+  "history": []
+}

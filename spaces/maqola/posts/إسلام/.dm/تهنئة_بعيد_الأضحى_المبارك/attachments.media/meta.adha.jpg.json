@@ -1,0 +1,18 @@
+{
+  "uuid": "07189acb-b9fe-4ad4-bcfb-25d10e41c32e",
+  "shortname": "adha.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:b892f94683a1879cfcf9b341659490042e57a06c",
+    "bytesize": 180220,
+    "body": "adha.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:05+03:00",
+  "attributes": {
+    "old_id": 29
+  },
+  "language": "en"
+}

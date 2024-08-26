@@ -1,0 +1,43 @@
+{
+  "uuid": "50d7ec2d-2958-449b-8dd9-30e80e1141d8",
+  "shortname": "في_وصف_تبلج_الصبح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في وَصفِ تَبلُّج الصُبح"},
+  "updated_at": "2011-09-05T03:05:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bffbde0d2361b82ba6adee18d330ebb3477f9891",
+    "bytesize": 744,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يَكادُ الفَجرُ تَشرَبُهُ المَطايا -- وتَملأَ مِنهُ أوعيةٌ شِنانِ</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">لأبي العلاء المَعَرّي.</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1em;\"><span style=\"font-family: Tahoma,Geneval,sans-serif;\">امدُد بِبَصرِكَ إلى بَعيد، إلى الأُفق، في اللحَظاتِ الأولى مِن وِلادَةِ النَّهارِ، حَيثُ سِحرُ ولادةِ الحياةِ والأمل، والإعلانُ عَن بَدءِ يومٍ جديد يَنفُض ُما قَبلَهُ ويَملَؤ قُلوبَنا هِمّةً. </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "شِعر"
+  ],
+  "created_at": "2011-09-05T03:05:10Z",
+  "attributes": {
+    "old_id": 517
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "1afb022a-7a92-4941-8a44-25372f4f6645",
+  "shortname": "منع_العلم_عمن_لا_يستحق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"منع العلم عمّن لا يستحقّ"},
+  "updated_at": "2014-01-12T12:50:49Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8eae420227ea43ca5c45b286333b6b2167411f98",
+    "bytesize": 594,
+    "body": "<span class=\"maqola_body\"></span><span class=\"fontxlarge\"><span class=\"maqola_body\"><span class=\"fontxlarge\">قال الأعمش :</span></span><div><span class=\"maqola_body\"></span></div></span><span class=\"fontxlarge\"><span class=\"fontxlarge\"><div><span class=\"maqola_body\"><span class=\"fontxlarge\">\"لا تَنْثُرُوا اللُّؤْلُؤَ تَحْتَ أَظْلافِ الْخَنَازِيرِ\" يُريد : لا تعلّموا العلم من لا يعرف له قدره .</span></span></div></span><div></div></span><div><span class=\"maqola_body\"><b></b><br> <br>  </span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a3b522e4-2a27-4598-aa55-eba5e171481e",
+    "shortname": "niazi_elhadi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "عُلوم",
+    "فَصاحَة"
+  ],
+  "created_at": "2013-10-20T08:55:14Z",
+  "attributes": {
+    "old_id": 688
+  },
+  "language": "ar",
+  "history": []
+}

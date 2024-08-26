@@ -1,0 +1,18 @@
+{
+  "uuid": "a047bc24-afa6-4088-b80a-39dfeedd5891",
+  "shortname": "the_man_and_his_son.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:a7a45e37a624d4d05c64b3cc30bb976b497514f7",
+    "bytesize": 292456,
+    "body": "the_man_and_his_son.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:05+03:00",
+  "attributes": {
+    "old_id": 23
+  },
+  "language": "en"
+}

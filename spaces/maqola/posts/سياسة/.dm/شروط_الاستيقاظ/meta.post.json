@@ -1,0 +1,43 @@
+{
+  "uuid": "f3dc195a-3d72-4bfb-aaa8-91f24dd0e6e5",
+  "shortname": "شروط_الاستيقاظ",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شروط الاستيقاظ"},
+  "updated_at": "2010-12-27T14:37:07Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2bbcb4d29a2f490c98f1d3ccd2e91e6ba468eb16",
+    "bytesize": 723,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أيقظُوني عِندما يَمتَلِكُ الشعبُ زِمامَهْ .<br />\r\n\tعندما يَنبَسِطُ العَدلُ بلا حَدٍّ أمامهْ .<br />\r\n\tعندما يَنطِقُ بالحقِ ولا يَخشى المَلامَةْ .<br />\r\n\tعندما لا يَستَحي مِنْ لُبْسِ ثوبِ الإستقامةْ<br />\r\n\tويرى كلَ كُنوزِ الأرضِ<br />\r\n\tلا تَعْدِلُ في الميزانِ مثقالَ كَرامهْ .</span><br />\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">سوفَ تستيقظُ .. لكنْ<br />\r\n\tما الذي يَدعوكَ للنَّومِ إلى يومِ القِيامَةْ ؟</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-30T11:54:54Z",
+  "attributes": {
+    "old_id": 278
+  },
+  "language": "ar",
+  "history": []
+}

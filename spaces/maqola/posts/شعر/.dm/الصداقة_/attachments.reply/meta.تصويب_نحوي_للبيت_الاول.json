@@ -1,0 +1,29 @@
+{
+  "uuid": "1553cb2b-9221-4cd5-8b35-97de5487cdc1",
+  "shortname": "تصويب_نحوي_للبيت_الاول",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصويب نحوي للبيت الاول"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1768549a3da1b71bd8ec478fe78ba19e8d369e73",
+    "bytesize": 388,
+    "body": "الصواب في الديوان للشافعي قوله (لا يرعاك )حيث يكون الوزن سليما وليس كما وردت (لم يرعاك) وكان الصواب جزم الفعل بعد لم ليصير (يرعك )وهنا ينكسر الوزن وكذلك كلمة( أبدال )هكزتها على الالف ومعناها عوض كثير اواغيار عمن تتركه"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-03T16:07:34Z",
+  "attributes": {
+    "old_id": 258,
+    "old_entry_id": 234
+  },
+  "language": "ar"
+}

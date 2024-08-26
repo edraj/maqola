@@ -1,0 +1,29 @@
+{
+  "uuid": "8afb91ae-7b45-43d3-a83c-aaf68ce7afec",
+  "shortname": "تنبيه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تنبيه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1295a5fbf6d893159eabc33623da7975d68bad16",
+    "bytesize": 42,
+    "body": "هذه القصة لا تصح  يا أخي"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-27T19:06:53Z",
+  "attributes": {
+    "old_id": 222,
+    "old_entry_id": 51
+  },
+  "language": "ar"
+}

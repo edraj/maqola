@@ -1,0 +1,43 @@
+{
+  "uuid": "28abe817-2d0c-4c1a-840d-4c4a3b0745cb",
+  "shortname": "هذا_شعر_قلعت_عيناه_فأبصر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هذا شِعرٌ قُلعت عَيناهُ فأبصرََ"},
+  "updated_at": "2013-04-18T08:40:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c33c736bab64d3fd425d8fcc4a8edfd843c87b07",
+    "bytesize": 1391,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كان للرشيد جاريهٌ سوداء، اسمها خالصة. ومرةً ، دخل ابو نُوَاس على الرشيدِ ، ومَدَحَهُ بِأَبْيَاتٍ بَليغةٍ ، وكانتْ الجاريةُ جالسةً عندهُ ، وعليها مِنَ الجواهرِ والدُرَرِ ما يُذْهِلُ الأبْصارَ ، فلمْ يلتفِتْ الرشيدُ اليهِ . فغضِب ابو النُواسِ ، وكتبَ ، لدى خُرُوجهِ ، على بابِ الرشيدِ :<br />\r\n\tلقدْ ضاعَ شعري على بابكمْ ......... كما ضاعَ درٌ على خالصة<br />\r\n\t<br />\r\n\tولما وصلَ الخبرُ الى الرشيدِ ، حَنِقَ وارسلَ في طلَبِهِ. وعنْد دُخولهِ مِنْ البابِ محا تجويفَ العينِ مِنْ لَفْظَتِيْ ( ضاعَ ) فأصبحت ( ضاءَ ). ثم مَثُلَ امامَ الرشيدِ . فقالَ لهُ : ماذا كتبتَ على البابِ ؟ فقالَ :<br />\r\n\tلقد ضاءَ شِعْرِي على بابِكُم ........... كَما ضاءَ دُرٌ على خالِصَة<br />\r\n\t<br />\r\n\tفأُعْجِبَ الرَّشيدُ بِذلِك واجازَه . فَقَالَ أحدُ الحاضرينَ : هذا شعرٌ قُلِعَتْ عَيْنَاهُ فَأبْصَرَ.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "6ca5b69d-a357-4e34-828a-525cff461ba2",
+    "shortname": "مهند_الحريري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة",
+    "قِصّة"
+  ],
+  "created_at": "2011-07-12T21:23:25Z",
+  "attributes": {
+    "old_id": 499
+  },
+  "language": "ar",
+  "history": []
+}

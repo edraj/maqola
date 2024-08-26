@@ -1,0 +1,29 @@
+{
+  "uuid": "4a96f742-1043-413e-be46-b5e56ed7f5c3",
+  "shortname": "جزاك_الله_خيرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جزاك الله خيرا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:55b3076306a0f1671623fe8e4409045860a8434d",
+    "bytesize": 394,
+    "body": "جزاك الله خيرا على هذه الكلمات الموجزة الرائعة   أما عن الأثر (لاتحقرن من المعروف شيئا ) هو جزء من حديث نبوي شريف كما رواه مسلم قال رسول الله صلى الله عليه وسلم (لا تحقرن من المعروف شيئا ، ولو أن تلقى أخاك بوجه طلق )  وشكرا"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-24T07:24:48Z",
+  "attributes": {
+    "old_id": 9,
+    "old_entry_id": 224
+  },
+  "language": "ar"
+}

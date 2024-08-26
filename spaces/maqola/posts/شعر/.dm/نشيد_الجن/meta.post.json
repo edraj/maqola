@@ -1,0 +1,42 @@
+{
+  "uuid": "39cb7d43-c441-4533-aa98-9f5000ada081",
+  "shortname": "نشيد_الجن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نَشيدُ الجِن"},
+  "updated_at": "2013-05-23T11:08:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:534401d761a49c6dbc7a9b49c9b05b934728307e",
+    "bytesize": 1686,
+    "body": "<span class=\"maqola_body\"> <span class=\"fonttohama\"></span><span class=\"fontsmall\"><span class=\"fonttohama\">(مقطع من مسرحية مجنون ليلى لأحمد شوقي) <br>&nbsp;... حول ديار بني ثقيف، في قرية من قرى الجن، حيث اجتمعت طائفة منهم للحفاوة بقيس وهو يهيم على وجهه ضالا في الفلوات ...</span></span><br> <span><br>\r\nهذا الأصيل كالذهبْ<br>\r\nيَسيل بالمرأى العَجبْ<br>\r\n<span>على الوِهادِ والكُثُبْ<br>\r\n<br>\r\nالرقصُ يَبعَثُ الطربْ<br>\r\nهَلُمَّ يا جِنَ العَربْ<br>\r\nهَلُمَّ رَقصَةَ اللهبْ<br>\r\nإذا مشي على الحطبْ<br>\r\n<br>\r\nنَحنُ بَنو جَهَنَّما<br>\r\nنَغلي كَما تَغلي دَما<br>\r\nنَثورُ في الأرضِ، كما..<br>\r\nثارَ أبونا في السما<br>\r\n<br>\r\nنَحنُ بَنو الجَبارِ<br>\r\nالعلم المنارِ<br>\r\nإبليسُ، بِكرُ النارِ<br>\r\nيا عِزَّ مَن لَه انتمى<br><br>نَحنُ الرّعودُ القاصِفهْ<br>نَحنُ الرّياحُ العاصِفه<br>والظُلُماتُ الزاحِفَه<br>عرمْرَمًا عرمرمَا<br>\r\n<br>\r\nلَنا وما لَنا.. صورْ<br>\r\nنَرى ونَسمَعُ البَشرْ<br>\r\nولا يَرَونَ مَن حَضرْ..<br>\r\nمِنا، ومَن تَكلّما<br>\r\n<br>\r\nنَقولُ حينَ نَصطَدِمْ<br>\r\nبِسادةٍ أو بِخَدمْ<br>\r\nصَمَمْ صَمَمْ صَمَمْ صَمَمْ<br>\r\nعَمًى عَمًى عَمًى عَمَى</span></span><br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bd2123ca-2aaa-4bd7-a717-a09ea18dc442",
+    "shortname": "أمير_الشعراء",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2013-05-23T11:07:43Z",
+  "attributes": {
+    "old_id": 611
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "eecd1c1f-9c99-4fb3-b7a5-daf7d17f95fa",
+  "shortname": "الصراط_المستقيم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصراط المستقيم"},
+  "updated_at": "2014-04-04T12:52:51Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7652626c5fa2f8eb8758813de4c93c89bc50445c",
+    "bytesize": 163,
+    "body": "<span class=\"maqola_body\"> <br> ترجو النجاة ولا تسلك مسالكها...................إن السفينة لا تجرى على اليبس  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "76ca55ec-ada2-4ae4-9a14-df289666493d",
+    "shortname": "ابوالبراء_محمدضياء_جادالله",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2014-04-04T12:52:51Z",
+  "attributes": {
+    "old_id": 873
+  },
+  "language": "ar",
+  "history": []
+}

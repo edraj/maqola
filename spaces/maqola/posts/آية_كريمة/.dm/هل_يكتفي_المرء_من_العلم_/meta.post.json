@@ -1,0 +1,45 @@
+{
+  "uuid": "32e1662d-d248-47b8-8695-133faa2c9bf1",
+  "shortname": "هل_يكتفي_المرء_من_العلم_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هَلْ يَكْتَفِي المَرْءُ مِنْ العِلْمِ؟"},
+  "updated_at": "2015-07-01T09:37:13Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:65e0af25fb28ad76189719f8c370a0eede77beba",
+    "bytesize": 576,
+    "body": "<p>\r\n\tقَالَ قُتَادَةٌ: لَوْ كَانَ أَحَدٌ يَكْتَفِي مِنْ هَذَا العِلْمِ بِشَيْءٍ لَاكْتَفَى مُوْسَى عَلَيْهِ السَّلَامُ، وَلَكِنَّهُ قَالَ: ﴿ هَلْ أَتَّبِعُكَ عَلَىٰ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا ﴾ ؟\r\n</p><p>\r\n\t<br>\r\n\t<small style=\"color: rgb(٣٨, ٣٨, ٣٨);\">- جَامِعُ بَيَانِ العِلْمِ وَفَضْلِهِ لِابْنِ عَبْدِ البَرِّ</small>\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "عُلوم",
+    "قاعدة أصولية"
+  ],
+  "created_at": "2015-07-01T09:33:46Z",
+  "attributes": {
+    "old_id": 1364
+  },
+  "language": "ar",
+  "history": []
+}

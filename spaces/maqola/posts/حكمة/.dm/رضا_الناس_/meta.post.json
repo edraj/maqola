@@ -1,0 +1,43 @@
+{
+  "uuid": "4ef4adfe-c3b1-45fc-828f-26f7fbbeddbd",
+  "shortname": "رضا_الناس_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رِضا الناس ..."},
+  "updated_at": "2011-01-11T17:33:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:77a0872b233a537f08da239adc7692b6f5061478",
+    "bytesize": 863,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">ضَحِكْتُ فقالوا ألا تحتشم -- بَكَيْتُ فقالوا ألا تبتسم!<br />\r\n\tبسمتُ فقالوا يُرائي بها -- عبستُ فقالوا بدا ما كتم!<br />\r\n\tصَمَتُّ فقالوا كليل اللسان -- نطقتُ فقالوا كثير الكَلِم!<br />\r\n\tحَلِمتُ فقالوا صنيع الجبان -- ولو كان مقتدراً لانتقم!<br />\r\n\tبسلتُ فقالوا لطيشٍ به -- وما كان مجترئاً لو حكم!<br />\r\n\tيقولون شَذَّ إذا قلتُ لا -- وإمَّعةً حين وافقتهم!<br />\r\n\tفأيقنت أني مهما أردت -- رضا الناس لابد من أن أُذم!</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">- من مُساهمات زوار الموقع.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2011-01-11T17:33:17Z",
+  "attributes": {
+    "old_id": 460
+  },
+  "language": "ar",
+  "history": []
+}

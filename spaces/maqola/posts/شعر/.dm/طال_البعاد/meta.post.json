@@ -1,0 +1,42 @@
+{
+  "uuid": "28ebfe65-1ce4-4565-b0ca-3078e482c88f",
+  "shortname": "طال_البعاد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طَالَ البعَاد"},
+  "updated_at": "2014-11-04T22:31:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c5628723cfbc1cdf300b5c2d8c5dd969a8269440",
+    "bytesize": 478,
+    "body": "<span class=\"maqola_body\"> <br> <table><tbody><tr><td><p>لَنْ تَستطيعَ سِنينُ البُعْدِ تَمنَعُنا</p></td></tr><tr><td><p>إنَّ القُلوبَ بِرَغْمِ البُعدِ تَتَّصِلُ</p></td></tr><tr><td><p>لا القَلبُ يَنسَى حَبيبًا كَانَ يَعْشَقُهُ</p></td></tr><tr><td><p>ولا النُّجومُ عَنِ الأفْلاكِ تَنْفَصِلُ</p></td></tr></tbody></table><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "9fa526b2-aa9d-417a-a704-72126a816168",
+    "shortname": "بشار_بن_برد",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "c74df491-8921-45bd-a151-b6debdaf8905",
+    "shortname": "sayed_hegazy",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2014-11-04T22:31:19Z",
+  "attributes": {
+    "old_id": 928
+  },
+  "language": "ar",
+  "history": []
+}

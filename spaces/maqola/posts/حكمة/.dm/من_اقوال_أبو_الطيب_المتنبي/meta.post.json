@@ -1,0 +1,46 @@
+{
+  "uuid": "94d6eeca-838f-45e9-b99f-a13c3232cbed",
+  "shortname": "من_اقوال_أبو_الطيب_المتنبي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من اقوال أبو الطيب المتنبي"},
+  "updated_at": "2014-02-01T11:41:48Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3b3cffbbeeb30fcc3c7776d1b3d09a74c3639c91",
+    "bytesize": 250,
+    "body": "أُصَادِقُ نَفْسَ المَرْءِ قَبْلَ جِسْمِهِ ... وأَعْرِفُهَا فِي فِعْلِهِ وَالتَّكَلُّمِ <br> <br> \"أبو الطيب المتنبي\"<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-01T11:41:41Z",
+  "attributes": {
+    "old_id": 751
+  },
+  "language": "ar",
+  "history": []
+}

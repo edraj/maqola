@@ -1,0 +1,43 @@
+{
+  "uuid": "e54ac07d-17a7-4f8e-b147-3a324845bba6",
+  "shortname": "السيدة_والكلب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السّيدةُ والكلب"},
+  "updated_at": "2011-06-22T04:19:56Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:faff646460e33bd37b8d92394b7bd53daa306109",
+    "bytesize": 1157,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">- يا سيدتي . . هذا ظُلم !<br />\r\n\t&#160; كَلبٌ يَتمَتّعُ باللحم<br />\r\n\t&#160; و شُعوبٌ لا تَجدُ العظم !<br />\r\n\t&#160; كلبٌ يَتحَممُ بالشامبو<br />\r\n\t&#160; و شعوبٌ تَسبحُ في الدم !<br />\r\n\t&#160; كلبٌ في حِضنكِ يرتاح<br />\r\n\t&#160; يَمتَصُ عصيرَ التفاح<br />\r\n\t&#160; و يَنالُ القُبلةَ بالفم !<br />\r\n\t&#160; و شُعوبٌ مثل الأشباح<br />\r\n\t&#160; تقتاتُ بقايا الأرواح<br />\r\n\t&#160; و تنام بأثناءِ النوم !<br />\r\n\t- Who are they ?<br />\r\n\t&#160;- قَومي!<br />\r\n\t&#160;- Do not mention them<br />\r\n\t&#160; قَومُكَ هُم أولى بالذم<br />\r\n\t&#160; و بِحمَلِ الذّلةِ و الضيم<br />\r\n\t&#160;- هذا ظلمٌ يا سيدتي!<br />\r\n\t&#160;- أين الظُلم ؟؟<br />\r\n\t&#160; ومن المُتلبِّسُ بالجُرم ؟!<br />\r\n\t&#160; أنا دَللتُ الكلب ولكن . . . هُم<br />\r\n\t&#160; أعطوه مَقاليدَ الحُكم! </span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2011-06-22T04:19:56Z",
+  "attributes": {
+    "old_id": 498
+  },
+  "language": "ar",
+  "history": []
+}

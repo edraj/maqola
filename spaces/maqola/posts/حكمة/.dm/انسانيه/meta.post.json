@@ -1,0 +1,42 @@
+{
+  "uuid": "8566c27c-e3ad-44bd-8d52-4de300b795ba",
+  "shortname": "انسانيه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"انسانيه"},
+  "updated_at": "2014-02-14T19:38:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ab0a01482b613a98783a4a7136481f95bad3a5ca",
+    "bytesize": 88,
+    "body": "<span class=\"maqola_body\"> كلنا كالقمر--له وجه مظلم<br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "d7715027-65bd-427b-a02b-eceac61c72b0",
+    "shortname": "nazmi_abu_samrah",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-02-14T19:38:35Z",
+  "attributes": {
+    "old_id": 844
+  },
+  "language": "ar",
+  "history": []
+}

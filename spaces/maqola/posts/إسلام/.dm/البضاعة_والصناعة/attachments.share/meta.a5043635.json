@@ -1,0 +1,33 @@
+{
+  "uuid": "a5043635-188d-42e2-aeb7-201b911a1684",
+  "shortname": "a5043635",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-04-24T07:36:47Z",
+  "author_locator": { "type": "content",
+    "uuid": "f38768e4-d585-4772-9d76-4d773046a3a8",
+    "shortname": "محمدنجم_ابوعرقوب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-04-24T07:36:47Z",
+  "attributes": {
+    "old_id": 13,
+    "old_entry_id": 583
+  },
+  "language": "en",
+  "location": {
+    "uuid": "a5043635-188d-42e2-aeb7-201b911a1684",
+    "shortname": "a5043635",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "البضاعة_والصناعة",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

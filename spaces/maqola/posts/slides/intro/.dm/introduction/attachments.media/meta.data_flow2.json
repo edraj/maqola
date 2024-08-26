@@ -1,0 +1,38 @@
+{
+  "uuid": "cc756922-5883-4ffc-972a-acf778e4ce34",
+  "shortname": "data_flow2",
+  "is_active": true,
+  "displayname": {"ar": "Data-flow2"},
+  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:1b6f69f0fca77c9fa787bc967be1167ae42351fa",
+    "bytesize": 86722,
+    "body": "data-flow2.png"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "media",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-08-27T15:02:44+03:00",
+  "attributes": {},
+  "language": "en",
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

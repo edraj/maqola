@@ -1,0 +1,42 @@
+{
+  "uuid": "db49a594-deb7-4d2b-ae89-2cc513827d2c",
+  "shortname": "نعيب_زماننا_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نعيب زماننا !"},
+  "updated_at": "2015-07-29T10:27:55Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e7d88a918f75dc5cce393798445e895882acf19c",
+    "bytesize": 226,
+    "body": "<p><br></p><p><span class=\"kufi\">نَعـِيـبُ زَمـَانَـنَا والعَيْبُ فـِ</span><span class=\"kufi\">يـنَا  *** ومَا لِزَمَـانِنـاَ عَيْبٌ سِوَانــَا</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "13dec5b5-9f61-42eb-b98a-d026134f3022",
+    "shortname": "أبو_عكاشة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-07-29T10:26:50Z",
+  "attributes": {
+    "old_id": 1453
+  },
+  "language": "ar",
+  "history": []
+}

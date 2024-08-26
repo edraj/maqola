@@ -1,0 +1,41 @@
+{
+  "uuid": "fffb0a1a-8780-4e47-9747-0e5c2816e386",
+  "shortname": "علي_عزت_بيجوفيتش",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"علي عزت بيجوفيتش"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:91eb8ada6b436982d248e01ae50af4e8c4bce6cb",
+    "bytesize": 159,
+    "body": "<p>يعتَقِدُ بعضُ النَّاسِ أنّ انتِماءَهم الدِّينيّ يُحرَِرُهم مِن مسؤوليةِ التفكيرِ!</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "363bcd99-61c3-449c-ba2b-fd7d0d21b015",
+    "shortname": "hamzah_m._rababa_h",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَوارِد"
+  ],
+  "created_at": "2015-12-18T12:34:43Z",
+  "attributes": {
+    "old_id": 1555
+  },
+  "language": "ar",
+  "history": []
+}

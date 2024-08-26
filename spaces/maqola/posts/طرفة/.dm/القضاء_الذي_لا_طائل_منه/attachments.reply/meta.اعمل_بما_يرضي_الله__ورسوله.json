@@ -1,0 +1,29 @@
+{
+  "uuid": "a8828975-aaeb-4ad9-b90d-97a81b338e58",
+  "shortname": "اعمل_بما_يرضي_الله__ورسوله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اعمل بما يرضي الله  ورسوله "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:49b14dce3b94b7ac9104eb04d21ade85a74c5eff",
+    "bytesize": 44,
+    "body": "ارضاء الناس غاية لا تدرك"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b4ade94e-4c3b-475d-9f6e-53d8b0ea79d3",
+    "shortname": "mohamed_arfane",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-08-30T20:16:54Z",
+  "attributes": {
+    "old_id": 909,
+    "old_entry_id": 104
+  },
+  "language": "ar"
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "fabe1b81-24ab-4db2-9570-231defe8509f",
+  "shortname": "بلاد_العرب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بِلادُ العَرَب"},
+  "updated_at": "2012-03-27T10:50:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:99e701568906922b07bf3c9fca18e9831a54db74",
+    "bytesize": 1116,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">بَعدَ ألفي سَنة، تَنهَضُ فَوقَ الكُتُب،<br />\r\n\tنَبذَةٌ عَن وَطنٍ مُغتَرِب،<br />\r\n\tتاه في ارضِ الحضاراتِ مِن المَشرقِ حتّى المَغرب،<br />\r\n\tباحِثاً عَن دَوحةِ الصدق ولكن<br />\r\n\tعِندما كادَ يَراها حَيّةً مَدفونَةً وَسطَ بِحارِ اللهب،<br />\r\n\tقُربَ جُثمانِ النبي،<br />\r\n\tماتَ مَشنوقا عليها بِحبالِ الكَذِب،<br />\r\n\tوَطنٌ لَم يَبقَ مِن آثارِه غَيرُ جِدارٍ خَرِب،<br />\r\n\tلَم تَزل لاصِقَةٌ فيه بَقايا<br />\r\n\tمِن نِفايات الشِعاراتِ وروثِ الخُطَب،<br />\r\n\tعاشَ حِزبُ ال…، يَسقُطُ الخا…،<br />\r\n\tعائِدو...، والموتُ للمُغتَصِب،<br />\r\n\tوعلى الهامِشِ سَطرٌ،<br />\r\n\tأثرٌ لَيسَ لَهُ اسمٌ،<br />\r\n\tإنّما كانَ اسمُهُ يَوماً بلادَ العرب.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2012-03-27T10:50:24Z",
+  "attributes": {
+    "old_id": 551
+  },
+  "language": "ar",
+  "history": []
+}

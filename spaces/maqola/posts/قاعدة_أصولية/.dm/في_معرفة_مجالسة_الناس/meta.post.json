@@ -1,0 +1,41 @@
+{
+  "uuid": "a0032345-2489-4017-8e6c-339f428e39c4",
+  "shortname": "في_معرفة_مجالسة_الناس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في معرفة مجالسة الناس"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e54a8ec48bfc7b043d8c035648d0f80ed7434b7e",
+    "bytesize": 542,
+    "body": "<p>لا تُجالسِ امرأ بغيرِ طريقتهِ، فإنكَ إن أردتَ لقاءَ الجاهلِ بالعلمِ، والجافي بالفقهِ، والعيي بالبيانِ، لم تزد على أن تضيعَ علمكَ وتؤذي جليسكَ بحملكَ عليهِ ثقل مالا يعرفُ وغمكَ إياهُ بمثلِ ما يغتم بهِ الرجلُ الفصيحُ من مخاطبةِ الأعجمي الذي لا يفقهُ عنهُ.</p><p>ابن المقفَّع <br>مؤلف وكاتب من البصرة</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c6e64ae9-0d4f-4102-81c3-777959981270",
+    "shortname": "ابن_المقفع",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قاعدة أصولية"
+  ],
+  "created_at": "2015-04-17T06:39:20Z",
+  "attributes": {
+    "old_id": 1188
+  },
+  "language": "ar",
+  "history": []
+}

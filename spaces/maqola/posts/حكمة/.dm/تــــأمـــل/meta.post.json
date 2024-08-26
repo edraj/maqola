@@ -1,0 +1,41 @@
+{
+  "uuid": "f247fa6d-8993-4f74-b170-6116e04ceeb9",
+  "shortname": "تــــأمـــل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تــــأمـــل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c7a3fc1d219bda811c9ab1053550e6ade8ac47d2",
+    "bytesize": 252,
+    "body": "<p>تأمل أنت في وهم </p><p>اقتل كل الاشباه التي أمامك </p><p>وآمن بقلبك </p><p>هو من سيرشدك الى الحقيقة</p><p>وتمسك بالحقيقة <br>لانها سترشدك للجمال<br><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "03f68ae0-17bf-4061-81d4-69c4f4ea908c",
+    "shortname": "القديس",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-09-10T05:04:08Z",
+  "attributes": {
+    "old_id": 1501
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "9c60e632-48d0-446f-9156-c9e7cb42a056",
+  "shortname": "هل_بعد_هذا_القول_فخر_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هَل بَعدَ هذا القولِ فَخر؟"},
+  "updated_at": "2010-11-24T07:12:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6f13b25b4ba56f15c3cad12dfdf336211c1fc66f",
+    "bytesize": 1151,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أنا الذي نَظَرَ الأعمى إلى أَدَبي ... وأسمَعَتْ كَلِماتي مَنْ بِهِ صَمَمُ<br />\r\n\tأَنامُ مَلءَ جُفوني عَن شوارِدِها ... ويسهرُ الخلقُ جَرّاها وَيَختصِمُ<br />\r\n\tالخَيلُ واللّيلُُ والبَيداءُ تَعرِفُني ... والسّيفُ والرّمحُ والقِرطَاسُ والقَلَمُ </span></p>\r\n<p>\r\n\t<br />\r\n\t<span style=\"font-size: 1.2em;\">لا أظنُّ أن شاعراً أو أديباً أتقن الافتخارَ  بإنجازاتهِ بمثلِ ما افتخرَ المُتَنبي بنفسهِ في هذه الأبيات، سواءٌ في التاريخ العربي أو حتى العالمي. ماذا نسمي ذلك، ثقةً بالنفس؟ أم غروراً؟ في حالة المتنبي تحديدا، من الصعب جدا البَتُّ في هذا السؤال ...<br />\r\n\tولا يفوتُنا أنْ نّذكرَ أنَّ البيتَ الثالثَ في تلك الأبيات كان سبباً رئيسياً في موته. </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2010-11-24T05:59:21Z",
+  "attributes": {
+    "old_id": 225
+  },
+  "language": "ar",
+  "history": []
+}

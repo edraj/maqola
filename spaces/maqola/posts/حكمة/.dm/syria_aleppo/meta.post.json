@@ -1,0 +1,42 @@
+{
+  "uuid": "e1b45975-6147-4c70-a473-3acf29b15745",
+  "shortname": "syria_aleppo",
+  "is_active": false,  "owner_shortname": "dmart",
+  "displayname":{"ar":"syria aleppo"},
+  "updated_at": "2015-01-24T18:54:09Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c54ea9f2a424cc5fe91249adcd28df79f5e672d0",
+    "bytesize": 217,
+    "body": "<p><span class=\"maqola_body\"> <br> هني من عاشر من الناس شرواك في ذمتي يعيش والراس مرفوع تبقى عزيز وتعجبني مزاياك...... hassan gamal taooz<br>  </span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "d04e5365-c1f4-4a93-bef6-db49f7bc0ae5",
+    "shortname": "hassan_taooz",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-01-04T10:44:52Z",
+  "attributes": {
+    "old_id": 733
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "78321b4c-af72-4f34-9250-78d7275ba82c",
+  "shortname": "بنفسي_فخرت_لا_بجدودي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بِنَفسي فَخرتُ لا بِجدودي"},
+  "updated_at": "2010-11-28T06:07:23Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:46aba3617bc1f68e516fbcd8f59e260e9d4f7110",
+    "bytesize": 182,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">لا بِقَومي شَرِفتُ بَلْ شَرِفوا بي --&#160; وَ بِنَفسي فَخِرتُ لا بِجُدودِي</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2010-11-28T06:07:23Z",
+  "attributes": {
+    "old_id": 239
+  },
+  "language": "ar",
+  "history": []
+}

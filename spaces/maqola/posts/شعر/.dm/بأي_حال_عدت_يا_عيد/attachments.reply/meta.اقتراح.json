@@ -1,0 +1,29 @@
+{
+  "uuid": "7a8336ba-8e49-4c37-bd2e-7f180f89c5c8",
+  "shortname": "اقتراح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اقتراح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7897fc899deb4b0f2b7cd22a25e81360331cc9b6",
+    "bytesize": 576,
+    "body": "إضافة رائعة ...، ولو ذكر سبب إنشاء القصيدة لازدادت روعة وجمالا وتأثيرا في القارئ..، ومعلوم أن النصوص التراثية وخاصة الأدبية ماهي إلا قوالب حافظة لحوادث تاريخية غابرة لايمكن حفظها إلا بمثل هذه النصوص الجميلة .. كحال انكسار حال المسلمين والعرب وغياب شمسهم في الاندلس..،.  هي الأمور كما شاهدتها دول.. من سره زمن ساءته أزمان. "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-14T18:39:26Z",
+  "attributes": {
+    "old_id": 98,
+    "old_entry_id": 183
+  },
+  "language": "ar"
+}

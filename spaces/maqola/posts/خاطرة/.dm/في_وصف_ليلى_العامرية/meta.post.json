@@ -1,0 +1,42 @@
+{
+  "uuid": "debc38bb-2313-44f8-8461-e275f22c7b4c",
+  "shortname": "في_وصف_ليلى_العامرية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في وصف ليلى العامرية"},
+  "updated_at": "2014-03-22T06:26:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:189235f95fc7be1013f04c34cf726f0a982da9b5",
+    "bytesize": 1106,
+    "body": "<span class=\"maqola_body\"> ليلى الفضاء ، مسرى النجوم ومسكن المجرات ومد بصر المجنون &#160;أو نتهى مدارك خياله ، ليلى الظلام الذي يفترش أركان الفضاء ، والذي يضيع فيه قيساً تائهاً بين كواكب بلا عناوين مستنيراً بالنيازك المتسرعة والحارقة والمهلكة للأشياء اذا مالمستها كأصابع ليلى ، ليلى الأقمار التي تدور حولنا وتأبى الوقوف وتأبى الاكتمال الدائم ، ليستمر القمر في دورته المعهودة وتستمر ليلى في التشويق والتعذيب وحتى يسرم قيساً وجها افتراضياً لها بدلا من الذي قد فشل في الامساك به ، فيسمي النجمات السيارات باسم ليلى ، ويكتب عناوين الكواكب باسمها ، ويفتدي بنفسه أمام النيازك لعله يتلمس آثار أصابع ليلى وان كانت مهلكة.<br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "1e89cf3c-0724-42d0-93b4-a2428c3adf48",
+    "shortname": "mazen_abd_elrazek",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-03-22T06:26:12Z",
+  "attributes": {
+    "old_id": 869
+  },
+  "language": "ar",
+  "history": []
+}

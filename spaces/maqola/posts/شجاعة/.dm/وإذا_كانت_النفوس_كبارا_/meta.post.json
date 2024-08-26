@@ -1,0 +1,43 @@
+{
+  "uuid": "8a444b7c-e4f3-4c43-a849-94a73bd15feb",
+  "shortname": "وإذا_كانت_النفوس_كبارا_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وإذا كانت النُفوسُ كِباراً ..."},
+  "updated_at": "2010-12-06T08:02:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1e2d3f9a5c0d0cb8359011f1cd45818865760982",
+    "bytesize": 608,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">و إذا كانت النُّفوسُ كِباراً -- تَعِبَت في مُرادِها الأجسامُ</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\">تختلفُ النَّفسُ البشريةٌ مِن إنسانٍ إلى آخر، وتتفاوتُ في تَفكيرها بينَ عَظيمَةٍ لا تَرضى بالقليلِ وبين أخرى رضيت بالدون...</span><br />\r\n\t<br />\r\n\t<img alt=\"\" src=\"http://maqola.org/data/23/323/nofoso_kebaran.jpg\" style=\"width: 550px;\" title=\"\" /></p>\r\n<p style=\"clear: both;\">\r\n\t-</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَجاعَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-06T08:02:08Z",
+  "attributes": {
+    "old_id": 323
+  },
+  "language": "ar",
+  "history": []
+}

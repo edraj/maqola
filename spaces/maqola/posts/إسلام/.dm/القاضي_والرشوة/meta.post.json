@@ -1,0 +1,45 @@
+{
+  "uuid": "9638bff0-c4f7-4b50-ac50-9ca5b8cb5ab5",
+  "shortname": "القاضي_والرشوة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القاضي والرشوة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1cb5653f6629baba6cd51f6805e8f6244cb798d6",
+    "bytesize": 972,
+    "body": "<p>القاضي تعمَلُ فيهِ الرشوة ، ما لم تعمل في الشاربِ النشوة. إن أتته فسكران ميلاً وطرباً ، وإن فاتته فثكلان ويلاً وحرباً. كأن لم يسمع أن الرشوة من السُحت ، ووان السُحت مأخوذ من السحت. وأن آكله مِمن يسحتهُ الله بمثلاته ، ومِن جُملة من ينحت الله أثلاته ، أية نار يُؤرث ، حين يقسِمُ ويُورث. يقدم نصيبهُ ونصيبَ من نصبه ، على حقوق ذوي الفرض والعُصبة. يُسمّى القاضي ، وهو السُمّ القاضي.</p><p>من كتاب \" أطواق الذهب في المواعظ والخطب \" لـ أبو القاسم محمود بن عمرو بن أحمد ، الزمخشري جار الله ( المتوفى : 538هـ )</p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "خاطِرة",
+    "لُغة عربيّة",
+    "مَثَل"
+  ],
+  "created_at": "2015-05-19T23:51:29Z",
+  "attributes": {
+    "old_id": 1280
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "f71f0e3b-bf13-4755-a16f-77ad4cbf3f2b",
+  "shortname": "عمق_فلسفي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عمق فلسفي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:aa2d6d060594eedd3cb1ce30617a4da6185e48b9",
+    "bytesize": 99,
+    "body": "<p>وأفجع من فقدنا من وجدنا *** قبيل الفقد مفقود المثالِ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "21327be8-3be7-4ee1-96a6-d33a91a12be9",
+    "shortname": "abdenacer_bencherif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-02-06T01:33:01Z",
+  "attributes": {
+    "old_id": 994
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "caa46c79-ddb2-4398-9bd2-9a9feafdea3a",
+  "shortname": "قراءة_وتدبر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قراءة وتدبر"},
+  "updated_at": "2013-07-31T19:14:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5dd56a0e6634d4e321c33c2921fa2a3843071924",
+    "bytesize": 803,
+    "body": "<span class=\"fontxlarge\"><span class=\"fontxlarge\"></span>ذهب الصحابي الجليل بلال بن رباح رضي الله عنه ليؤذن الفجر في مسجد رسول الله صلى الله عليه وسلم فوجد الرسول صلى الله عليه وسلم يبكي في المسجد.<br>فقال له بلال ما يبكيك يا رسول الله؟<br>فقال صلى الله عليه وسلم يابلال لقد أُنزلت عليَّ الليلة آية ويل لمن قرأها بلسانه ولم يتدبرها قلبه وهي قوله تعالى<b> ( إنَّ في خلقِ السمواتِ والارضِ وإختلافِ الليلِ والنهارِ لآياتٍ لأُلي الالباب ). (آل عمران-190)</b><br><span class=\"maqola_body\">  </span></span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة"
+  ],
+  "created_at": "2013-07-31T19:14:25Z",
+  "attributes": {
+    "old_id": 653
+  },
+  "language": "ar",
+  "history": []
+}

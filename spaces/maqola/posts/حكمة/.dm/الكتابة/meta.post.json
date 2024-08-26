@@ -1,0 +1,42 @@
+{
+  "uuid": "fd7045e4-690a-45c4-972d-a93e072591de",
+  "shortname": "الكتابة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الكتابة"},
+  "updated_at": "2014-05-13T10:14:18Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1941798b450c619a7bdc2c7002041e13d9bf055f",
+    "bytesize": 161,
+    "body": "<span class=\"maqola_body\"> <br> الكتابةُ هي أنْ تشربَ النهرَ بأكمَلهِ لِتَصِفَ كأسًا مِن المَاءِ.  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "744cab76-46e0-40d8-930c-62b557f4b21f",
+    "shortname": "yaḥyā_fatḥȳ",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-05-13T10:14:18Z",
+  "attributes": {
+    "old_id": 884
+  },
+  "language": "ar",
+  "history": []
+}

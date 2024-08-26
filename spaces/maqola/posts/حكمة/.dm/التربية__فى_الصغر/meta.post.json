@@ -1,0 +1,45 @@
+{
+  "uuid": "23b3d911-f075-49d4-9abf-0144c619ba89",
+  "shortname": "التربية__فى_الصغر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"التربية  فى الصغر"},
+  "updated_at": "2015-04-11T09:11:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c12b2f7940c267061afec4886327b74ae8667a27",
+    "bytesize": 268,
+    "body": "<p>قد يبلغُ الأدبُ الأطفالَ في صغرٍ  --- وليس ينفعهُم من بعدِه أدبُ</p><p>إن الغُصُونَ إِذا قَوَّمْتَها اعتدلْت  -- ولا يلينُ إِذا قَوَّمْتَهُ الخَشَبُ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "98c05580-9d4c-4379-b9ee-265dce111570",
+    "shortname": "نصر_الدين_أبوطالب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شَوارِد",
+    "شِعر",
+    "طُفولَة"
+  ],
+  "created_at": "2015-03-13T04:04:52Z",
+  "attributes": {
+    "old_id": 1105
+  },
+  "language": "ar",
+  "history": []
+}

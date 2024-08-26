@@ -1,0 +1,29 @@
+{
+  "uuid": "d41633e5-c57c-42cc-b07c-531efc641dd9",
+  "shortname": "الحاء_ساكنة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحاء ساكنة "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c61b1a146b2c810a2f5d250210fd5d9748fc29ea",
+    "bytesize": 100,
+    "body": "الحاء في كلمة ( احتاج النهار ) ساكنة وليست متحركة بالفتح"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-06T10:31:11Z",
+  "attributes": {
+    "old_id": 279,
+    "old_entry_id": 321
+  },
+  "language": "ar"
+}

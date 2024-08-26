@@ -1,0 +1,46 @@
+{
+  "uuid": "6c4b480d-d948-4d8a-8248-38182d926b1a",
+  "shortname": "الجنة_هى_المنزل_الأول",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الجنة هى المنزل الأول"},
+  "updated_at": "2014-04-04T12:59:13Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:08c119cc7c411b71d74ac94083dfe2d79183433d",
+    "bytesize": 505,
+    "body": "<span class=\"maqola_body\"> <br> فحى على جنات عدن فإنها ..................منازلنا الأولى وفيها المخيم  </span><div><span class=\"maqola_body\">فإننا سبى العدو فهل ترى.................... نعود إلى أوطاننا ونسلم</span></div><div><span class=\"maqola_body\"><br></span></div><div><span class=\"maqola_body\">المخيم يقصد الإقامة</span></div><div><span class=\"maqola_body\">السبى &#160;هو الأسير</span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "76ca55ec-ada2-4ae4-9a14-df289666493d",
+    "shortname": "ابوالبراء_محمدضياء_جادالله",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "رِثاء",
+    "شِعر",
+    "فَخر",
+    "فَصاحَة"
+  ],
+  "created_at": "2014-04-04T12:59:13Z",
+  "attributes": {
+    "old_id": 875
+  },
+  "language": "ar",
+  "history": []
+}

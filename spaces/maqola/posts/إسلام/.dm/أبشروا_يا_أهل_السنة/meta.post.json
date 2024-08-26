@@ -1,0 +1,45 @@
+{
+  "uuid": "d88dea5d-8051-4465-bbd1-601fca1aac5c",
+  "shortname": "أبشروا_يا_أهل_السنة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أبشروا يا أهل السنة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:205a81c694ed57169e18921c4f596ab875f65632",
+    "bytesize": 604,
+    "body": "<p>قال رسول الله صلى الله عليه و سلم : \" إذا هلك كسرى فلا كسرى بعده وإذا هلك قيصر فلا قيصر بعده والذي نفسي بيده لتنفقن كنوزهما في سبيل الله \". قال الشافعي - رحمه الله - : \" فلم يكن بأرض العراق كسرى بعده ثبت له أمرٌ بعده \".</p><p><br></p><p>‫#‏معركة_الفلوجة_الثالثة‬</p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "لُغة عربيّة",
+    "مَدح"
+  ],
+  "created_at": "2015-07-22T01:06:01Z",
+  "attributes": {
+    "old_id": 1418
+  },
+  "language": "ar",
+  "history": []
+}

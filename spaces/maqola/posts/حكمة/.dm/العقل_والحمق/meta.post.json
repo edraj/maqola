@@ -1,0 +1,43 @@
+{
+  "uuid": "87411cfa-7141-42cb-8206-94c44328f122",
+  "shortname": "العقل_والحمق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العقل والحمق"},
+  "updated_at": "2014-01-12T12:48:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d207fcc03b91e79ace4dbd04e450bc7db3991c56",
+    "bytesize": 189,
+    "body": "<span class=\"maqola_body\"><span class=\"fontxlarge\">«العَاقِلُ لِسانُه وراءَ قَلبِه ، والأحمقُ قلبُه وراءَ لِسانِه»</span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a3b522e4-2a27-4598-aa55-eba5e171481e",
+    "shortname": "niazi_elhadi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة"
+  ],
+  "created_at": "2013-10-20T09:07:50Z",
+  "attributes": {
+    "old_id": 695
+  },
+  "language": "ar",
+  "history": []
+}

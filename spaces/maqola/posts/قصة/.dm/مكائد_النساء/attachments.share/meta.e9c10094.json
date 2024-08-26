@@ -1,0 +1,33 @@
+{
+  "uuid": "e9c10094-7562-45b1-a553-a188bf0cb65c",
+  "shortname": "e9c10094",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-23T17:44:20Z",
+  "author_locator": { "type": "content",
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-23T17:44:20Z",
+  "attributes": {
+    "old_id": 333,
+    "old_entry_id": 1068
+  },
+  "language": "en",
+  "location": {
+    "uuid": "e9c10094-7562-45b1-a553-a188bf0cb65c",
+    "shortname": "e9c10094",
+    "subpath": "posts/قصة",
+    "space_name": "maqola",
+    "parent_shortname": "مكائد_النساء",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

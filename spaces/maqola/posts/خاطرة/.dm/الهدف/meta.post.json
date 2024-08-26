@@ -1,0 +1,42 @@
+{
+  "uuid": "9f20462a-ff8f-4277-b084-9a63844f23b3",
+  "shortname": "الهدف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الهدف"},
+  "updated_at": "2014-03-29T05:13:57Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d4c2a5a431a46c63d0a7dae538a523c5ab79f922",
+    "bytesize": 155,
+    "body": "<span class=\"uthman\"><span class=\"fontxlarge\"><b>تحديد الهدف أصعب من الوصول إليه !<br>سعد السقا&nbsp;</b></span></span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "19dda363-55a3-4d51-92ec-033b865dc2fe",
+    "shortname": "saad_elsaka",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-03-29T05:12:54Z",
+  "attributes": {
+    "old_id": 871
+  },
+  "language": "ar",
+  "history": []
+}

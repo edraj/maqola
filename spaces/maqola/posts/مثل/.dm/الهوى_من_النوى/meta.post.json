@@ -1,0 +1,42 @@
+{
+  "uuid": "a82ca314-7c3f-45de-aacf-e1078b7d222d",
+  "shortname": "الهوى_من_النوى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الهَوَى مِنَ النَّوَى"},
+  "updated_at": "2010-12-05T14:13:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:49bca9c1350218928b90f33257a0f0d91e35e127",
+    "bytesize": 602,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يعني أنَّ البُعدَ يُورِثُ الحُبَّ، ومِنهُ يَتوَلّد؛ فإنَّ الإنسانَ إذا كان يَرى مَن يُحِبُّ كُلَّ يوم استحقر ومَلّ، ولذلك قيل‏:‏ اغْتَرِبْ تَتَجَدَّد.<br />\r\n\tومنه ...<br />\r\n\t*رُبَّ ثاوٍ يُمَلُّ مِنهُ الثَّوَاء *<br />\r\n\t‏(‏و هذا عَجُزُ مَطلَعِ مُعَلّقة الحارث بين حلزة، وصَدرُه‏:‏ آذَنَتنا بِبَينها أسماءُ*‏)</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-12-05T14:13:37Z",
+  "attributes": {
+    "old_id": 317
+  },
+  "language": "ar",
+  "history": []
+}

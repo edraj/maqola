@@ -1,0 +1,44 @@
+{
+  "uuid": "7fb3b071-041a-4b4c-862e-68240c8d934b",
+  "shortname": "حكم_صائب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حُكمٌ صائب"},
+  "updated_at": "2010-12-06T08:32:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:60e36535fad4cca4c68f2062cc624e148e51c9ed",
+    "bytesize": 1062,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">عَن أَبي هُرَيرَةَ رَضي الله عَنهُ أَنَّ رَسُولَ اللهِ ﷺ قال: &quot; بَينَما امرأَتانِ مَعَهُما ابنَاهُما جاءَ الذِّئبُ فَذَهَبَ بِابنِ إِحداهُما فَقالَتْ هذِهِ لِصاحِبَتِها إِنَّما ذَهَبَ بِابْنِكِ أنتِ وقالَت الأُخرَى إِنَّما ذَهَبَ بِابنِكِ؛ فَتَحاكَمَتا إلى دَاوُدَ (عَلَيهِ السَّلام) فَقَضى بِهِ لِلكُبرى، فَخَرَجَتا عَلى سُلَيمانَ بنِ دَاوُدَ عَلَيهِما السَّلام فأَخبَرَتاهُ، فَقالَ ائتُونِي بِالسِّكِّينِ أَشُقُّهُ بَينَكُما، فَقالتْ الصُّغرى، لا! - يَرحَمُكَ الله - هُوَ ابنُها؛ فَقَضَى بِهِ لِلصُّغْرَى&quot;.<br />\r\n\t(رواه البُخارِيُّ ومُسلِم).</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "fb9d54cf-2eca-48ad-870b-47ace16e059f",
+    "shortname": "رسول_الله_",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف",
+    "ذَكاء"
+  ],
+  "created_at": "2010-12-06T08:32:10Z",
+  "attributes": {
+    "old_id": 326
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "c1341815-64c9-4320-bc72-bddfc48efd6c",
+  "shortname": "عفونا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عفونا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fabacdf690731e49ca814f8366099de16adfdb98",
+    "bytesize": 581,
+    "body": "<p>صفحنا عن بني ذهل وقلنا القوم اخوانا</p><p>عسي الايام ان يرجعن قوما كالذي كانوا<br>فلما صرح الشر فأمسي وهو عريان<br>ولم يبق سوي العدوان دناهما كما كانوا<br>مشينا مشية الليث غدا والليث غضبان<br>بضرب فيه توهين وتخاضيع وإقران<br>وطعن كفم الزق غدا والزق ملأن<br>وبعض الحلم عند الجهل للذلة إذعان<br>وفي الشر نجاة حين حين لا ينجيك إحسان</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "06b4ecc3-d5d6-4407-a0d9-809d44a759cf",
+    "shortname": "ابومصعب_المصرى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-06-17T16:35:10Z",
+  "attributes": {
+    "old_id": 1350
+  },
+  "language": "ar",
+  "history": []
+}

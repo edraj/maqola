@@ -1,0 +1,41 @@
+{
+  "uuid": "eb38d783-f4ed-4267-b549-8cd2ded77968",
+  "shortname": "تغاريد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تغاريد"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:60acb74421470746679981009020ab0b18f3e59b",
+    "bytesize": 1359,
+    "body": "<p>كتبت فيها قصائد وخواطر وقصصا وتغاريد</p><p>وسطرت فيها اجمل الكلمات بالتجويد</p><p>فهيا اغلى واجمل من لها قلبي يريد</p><p>ومازال الشوق في فؤادي لها ينبض ويزيد</p><p>والعين تعشقها لجميل طلتها وتقول هل من مزيد </p><p>والحديث معها مريح ومعه يلين أقسى انواع الحديد<br>ويبعث الامل في النفس وينعشها ويحيها من جديد<br>وحبها يسري في روحي كما يجري الدم في الوريد <br>وتسري النضارة في وجهي ومعه تختفي التجاعيد<br>والمشاعر تخرج نابعة لها بأحلى ابيات القصيد<br>لتعزف لها احلى الالحان وتنسجها بهدوء شديد<br>تنساب رقيقة رقراقة لتخبرني بأن اليوم عيد <br>ومازال الحب يهزمني بحضرتها فأنشد لها احلى القصيد<br>والكلمات بحضرتها تخرج دافئة لتذيب كل الجليد<br>وتصهرني بحضرتها وتخرج مافي صدري من التنهيد<br>وتشهق انفاسي بروعتها وتقول اهلا بالعيش الرغيد <br>.<br>.<br>خربشات حالمة بقلم احسان الصالحي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "675ade74-78d4-48da-926c-c8feb4a638c5",
+    "shortname": "احسان_الصالحي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "غَزَل"
+  ],
+  "created_at": "2015-10-31T11:26:15Z",
+  "attributes": {
+    "old_id": 1535
+  },
+  "language": "ar",
+  "history": []
+}

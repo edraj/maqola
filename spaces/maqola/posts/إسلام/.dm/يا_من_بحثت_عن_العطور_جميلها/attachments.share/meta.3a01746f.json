@@ -1,0 +1,33 @@
+{
+  "uuid": "3a01746f-ef5f-437b-baa5-65ed05a2ba5b",
+  "shortname": "3a01746f",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-24T21:19:48Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-24T21:19:48Z",
+  "attributes": {
+    "old_id": 540,
+    "old_entry_id": 1432
+  },
+  "language": "en",
+  "location": {
+    "uuid": "3a01746f-ef5f-437b-baa5-65ed05a2ba5b",
+    "shortname": "3a01746f",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "يا_من_بحثت_عن_العطور_جميلها",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

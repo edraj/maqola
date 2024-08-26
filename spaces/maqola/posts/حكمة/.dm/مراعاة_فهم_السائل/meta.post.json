@@ -1,0 +1,42 @@
+{
+  "uuid": "2ee586ca-da48-42d9-98ad-71228048d7aa",
+  "shortname": "مراعاة_فهم_السائل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"​مُراعاةُ فَهمِ السائل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:dbf8d0d4047de2acfbf7c443a167f2be937ad288",
+    "bytesize": 446,
+    "body": "<p>عن النضر بن شميل قال: سُئِلَ الخليلُ-بن أحمد- عن مسألة فأبطأ بالجوابِ فيها، قال : فقلتُ :ما في هذه المسألة كل هذا النظر، قال : فرغتُ من المسألة وجوابِها ولكني أُريدُ أنْ أُجيبَك جوابًا يَكونُ أسرعُ إلى فهمك .<br><br>من كتاب الآداب الشرعية لابن مفلح.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَصاحَة"
+  ],
+  "created_at": "2015-09-13T17:41:26Z",
+  "attributes": {
+    "old_id": 1504
+  },
+  "language": "ar",
+  "history": []
+}

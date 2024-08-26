@@ -1,0 +1,43 @@
+{
+  "uuid": "c1b287bf-5e40-430c-b134-d76367d7497c",
+  "shortname": "إذا_فقد_الإنسان_أرض_وطنه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إِذَا فَقَدَ الإِنْسَانُ أَرْضَ وَطَنِهِ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d6d78a9fe0791710d0b1c062f0b4867043249c21",
+    "bytesize": 1259,
+    "body": "<p>\r\n<span style=\"font-size: 0.8em\" class=\"kufi\" data-redactor-style=\"font-size: 0.8em\">\r\nكَانَ السُّوْفْيِيْتُ فِي الحَرْبِ العَالَمِيَّةِ الثَّانِيَةِ يُنْشِدُوْنَ أُنْشُوْدَةً تَقُوْلُ:</span>\r\n</p><p style=\"font-size: 1.1em;\">\r\n\tإِذَا فَقَدَ الجُنْدِيُّ سَاقَيْهِ فِي الحَرْبِ ... يَسْتَطِيْعُ مُعَانَقَةَ الأَصْدِقَاءِ\r\n\t<br>\r\n\tوَإِذَا فَقَدَ يَدَيْهِ ... يَسْتَطِيْعُ الرَّقْصَ فِي الأَفْرَاحِ\r\n\t<br>\r\n\tوَإِذَا فَقَدَ عَيْنَيْهِ ... يَسْتَطِيْعُ سَمَاعَ مُوْسِيْقَى الوَطَنِ\r\n\t<br>\r\n\tوَإِذَا فَقَدَ سَمْعَهُ ... يَسْتَطِيْعُ التَّمَتُّعَ بِرُؤْيَةِ الأَحِبَّةِ\r\n\t<br>\r\n\tوَإِذَا فَقَدَ الإِنْسَانُ كُلَّ شَيْءٍ ... يَسْتَطِيْعُ الاسْتِلْقَاءَ عَلَى أَرْضِ وَطَنِهِ\r\n\t<br>\r\n\tأَمَّا إِذَا فَقَدَ أَرْضَ وَطَنِهِ ... فَمَاذَا بِمَقْدُوْرِهِ أَنْ يَفْعَل !!!\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "سِياسَة",
+    "قِصّة"
+  ],
+  "created_at": "2015-08-06T18:04:04Z",
+  "attributes": {
+    "old_id": 1471
+  },
+  "language": "ar",
+  "history": []
+}

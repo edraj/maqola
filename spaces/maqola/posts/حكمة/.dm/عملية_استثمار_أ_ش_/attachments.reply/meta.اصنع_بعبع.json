@@ -1,0 +1,29 @@
+{
+  "uuid": "7a441739-94a4-4fec-bf4a-518e2835f11b",
+  "shortname": "اصنع_بعبع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اصنع بعبع"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bc4ae96a875c758f7b4c8cdb3d509d789d734e30",
+    "bytesize": 515,
+    "body": "اصنع بعبع للناس تسدهم حكام العرب صنعوا بعبع الارهاب -بل وجدوه جاهزا فاستوردوه- وصار أي خلاف مع الحاكم قد يوصل إلى محكمة مكافحة الإرهاب فصمت الناس إلى أن قامت الثورات المباركة.  ولكن إلى اليوم بعبع الإرهاب نظام معمول به في الحجاز وفي الأردن بل استورده نظام مصر ما بعد الثورة. يا للسخرية."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-05-07T16:45:22Z",
+  "attributes": {
+    "old_id": 640,
+    "old_entry_id": 556
+  },
+  "language": "ar"
+}

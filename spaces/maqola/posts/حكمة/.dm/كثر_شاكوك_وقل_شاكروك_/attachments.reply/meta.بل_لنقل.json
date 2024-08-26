@@ -1,0 +1,29 @@
+{
+  "uuid": "83f48c23-4026-4461-8f34-80a384ef8cec",
+  "shortname": "بل_لنقل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بل لنقل..."},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ff22c7cb6fec86846cad4b57f0683d6b12a6cc1a",
+    "bytesize": 321,
+    "body": " ان شعوبنا أرسلت هذه الرسالة ولاكن لا حياة لمن تنادي.فسلكت المسلك الاخر, فيا حبذا لو تلقى هذه الرساله اذانا صاغية أو قلوب واعية.  وشكرا جزيلا على ما تقدموه لنا من الحكم والمواعظ . "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-17T06:35:38Z",
+  "attributes": {
+    "old_id": 552,
+    "old_entry_id": 533
+  },
+  "language": "ar"
+}

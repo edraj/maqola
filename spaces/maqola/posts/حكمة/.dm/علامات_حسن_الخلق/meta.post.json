@@ -1,0 +1,41 @@
+{
+  "uuid": "4025342f-0b5a-45db-b325-24c71aabc32f",
+  "shortname": "علامات_حسن_الخلق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عَلاماتُ حُسنِ الخُلُق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a2ffed237af8651737898644907e4f5072dd6f33",
+    "bytesize": 543,
+    "body": "<p>قيل: علامَةُ حُسنِ الخُلُق عَشرُ خِصال:</p><p>قِلَّةُ الخِلاف وحُسنُ الإنصاف وتَركُ طَلبِ العَثرات وتَحسينُ ما يبدوا من السَّيئات والتماسُ المَعذِرة واحتمالُ الأذى والرجوعُ بالملامَةِ على النفس والتفرّدُ بمعرف عيوب نفسه دونَ غيره وطلاقَةُ الوجه للصغير والكبير ولطفُ الكلامِ لمن دونه ولمن فوقه.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-03-07T07:40:50Z",
+  "attributes": {
+    "old_id": 1087
+  },
+  "language": "ar",
+  "history": []
+}

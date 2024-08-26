@@ -1,0 +1,33 @@
+{
+  "uuid": "bf15321a-59fb-410d-b2e4-2b49c63d0a14",
+  "shortname": "bf15321a",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-03-30T17:43:46Z",
+  "author_locator": { "type": "content",
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-03-30T17:43:46Z",
+  "attributes": {
+    "old_id": 393,
+    "old_entry_id": 1134
+  },
+  "language": "en",
+  "location": {
+    "uuid": "bf15321a-59fb-410d-b2e4-2b49c63d0a14",
+    "shortname": "bf15321a",
+    "subpath": "posts/خاطرة",
+    "space_name": "maqola",
+    "parent_shortname": "من_يجمع_المال_قصدا_للسعادة",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

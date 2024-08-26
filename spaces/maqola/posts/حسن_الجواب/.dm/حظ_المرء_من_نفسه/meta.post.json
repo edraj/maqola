@@ -1,0 +1,44 @@
+{
+  "uuid": "0bc341a4-2dbd-4b02-b46d-1d1894022511",
+  "shortname": "حظ_المرء_من_نفسه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حَظُّ المَرْءِ مِنْ نَفْسِهِ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b5e819338a952f1d318d6c67e415152bae32ce9d",
+    "bytesize": 295,
+    "body": "<p>\r\n\tقِيْلَ لِبَعْضِ العَرَبِ: ألَا تَخُوْضُ مَعَنَا فِي الحَدِيْثِ؟<br>\r\n\tقَالَ: حَظُّ المَرْءِ مِنْ نَفْسِهِ فِي أُذُنِهِ، وَالحَظُّ لِغَيْرِهِ فِي لِسَانِهِ.\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "قاعدة أصولية",
+    "مَثَل"
+  ],
+  "created_at": "2015-06-28T11:01:45Z",
+  "attributes": {
+    "old_id": 1356
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "014a6f4b-7e1d-49c1-804b-da9bd6de50ba",
+  "shortname": "العقد_الصحيح_بين_الحاكم_و_المحكومين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العقد الصحيح بين الحاكم و المحكومين"},
+  "updated_at": "2011-04-18T22:49:32Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:10461f50de2a390662ba058af4c7def2f859e850",
+    "bytesize": 943,
+    "body": "<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\">عندما تولى أبوبكر الصديق (رضي الله عنه) الخلافة، اعتلى المنبر وخطب في الناس فقال ...</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span style=\"font-family: UthmanTN1,&quot;Traditional Arabic&quot;,serif;\">أيها الناسُ: إِنِّي قد وُلّيتُ عَليكم ولَسْتُ بخيرِكم، فإِن رأيتُمُوني على حَقٍّ فأعينوني وِإن رأيتموني على باطلٍ فَسَددُونِي، أطيعوني ما أطعتُ اللّه فيكم فإِن عصيتُه فلا طاعةَ لي عليكم، ألا إِنَّ أقواكُم عندي الضعيفُ حتى آخذَ الحقَّ منه، وأضعَفَكم عندي القويُّ حتى آخذَ الحقَ له. أقولُ قولِي هذا واستغفرُ اللّه لِي ولكم.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "سِياسَة"
+  ],
+  "created_at": "2011-04-18T22:49:32Z",
+  "attributes": {
+    "old_id": 468
+  },
+  "language": "ar",
+  "history": []
+}

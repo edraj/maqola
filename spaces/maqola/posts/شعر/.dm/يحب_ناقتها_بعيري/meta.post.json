@@ -1,0 +1,43 @@
+{
+  "uuid": "9d36cd72-2fae-4ec4-b537-0a7562b74b3c",
+  "shortname": "يحب_ناقتها_بعيري",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يُحِبُّ ناقَتُها بَعيري"},
+  "updated_at": "2010-12-07T22:47:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eddbacd45f648eba6a367f5990a94684e28d8576",
+    "bytesize": 1246,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">ولَقد دَخَلتُ على الفَتاةِ الخِدرِ في اليَومِ المَطيرِ<br />\r\n\tالكاعِبُ الحَسناءُ تَرفِلُ في الدِّمَقسِ وفي الحَريرِ<br />\r\n\tفَدَفَعتُها فَتَدافَعَتْ مَشيَ القَطاةِ إلى الغَديرِ<br />\r\n\tوأُحِبُّها وتُحِبُّني ويُحِبُّ ناقَتُها بَعيري</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">الخِدر : الفتاةُ البِكر المُحتَجِبة عن الناس. وقيل في المثل : أشَدُّ حياءً مِن العذراءِ في خِدرِها.<br />\r\n\tالكاعِب: التى نَهَدَ ثَدياها وبرزا.<br />\r\n\tتَرفِل : تَجُرُّ ذَيْلَها إذا مَشَتْ كِبرا.<br />\r\n\tالدِّمَقس : مِن أنواع الحرير.<br />\r\n\tالقطاة : واحِدُها القَطا وهو نَوعٌ مِن اليمام.<br />\r\n\t<br />\r\n\tيُقال أن قائل هذه الأبيات هو المُنخلُ اليَشكُري، مِن شُعراء العرب قبل الإسلام.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "غَزَل"
+  ],
+  "created_at": "2010-12-07T22:27:04Z",
+  "attributes": {
+    "old_id": 339
+  },
+  "language": "ar",
+  "history": []
+}

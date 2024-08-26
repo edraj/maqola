@@ -1,0 +1,29 @@
+{
+  "uuid": "10e06a7f-72d3-4d8d-b786-ddab6861eaad",
+  "shortname": "رائع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رائع "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b258f16645616854a80f658a92250bf794eaef5d",
+    "bytesize": 91,
+    "body": "ومثل ذلك ذكريات بائسة يدفن المرء منا قلبه بداخلها "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "408ce0c9-ab58-4640-b1fd-76dce0b65e36",
+    "shortname": "شجون_رؤية",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-03T12:43:56Z",
+  "attributes": {
+    "old_id": 824,
+    "old_entry_id": 768
+  },
+  "language": "ar"
+}

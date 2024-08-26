@@ -1,0 +1,42 @@
+{
+  "uuid": "9f33dfcc-0740-430d-84d7-0bf55105e490",
+  "shortname": "الخلف_الطالح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الخَلَفُ الطالِح"},
+  "updated_at": "2010-10-23T19:39:10Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:baa2ed639948c1404b42756c5129a7472b4292b8",
+    "bytesize": 1038,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قال محمد بن جرير الطبري:‏ ‏<br />\r\n\tحدثنا وكيع عن هشام بن عروة بن الزبير عن أبيه عن عائشة أم المؤمنين<br />\r\n\tأنها كانت تنشد بيت لبيد بن ربيعة:‏ ‏<br />\r\n\tذَهَبَ الذين يُعَاشُ في أكْنافِهِم ‏ ‏ وبَقَيْتُ في خَلَفٍ كَجِلْدِ الأَجْرَبِ ‏ ‏<br />\r\n\tثم تقول:‏ ‏ رحم الله لبيدا! كيف لو أدرك من نحن بين ظهرانيهم! ‏ ‏<br />\r\n\tقال عروة:‏ ‏ رحم الله عائشة! فكيف بها لو أدركتْ من نحن بين ظهرانيهم! ‏ ‏<br />\r\n\tقال هشام بن عروة:‏ ‏ رحم الله أبي! فكيف لو أدرك من نحن بين ظهرانيهم! ‏ ‏<br />\r\n\tقال الطبري: ‏ ‏ رحم الله هشاماً! فكيف لو أدرك من نحن بين ظهرانيهم!‏ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2010-10-23T18:17:53Z",
+  "attributes": {
+    "old_id": 110
+  },
+  "language": "ar",
+  "history": []
+}

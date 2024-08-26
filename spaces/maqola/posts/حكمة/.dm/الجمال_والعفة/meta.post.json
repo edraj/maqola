@@ -1,0 +1,41 @@
+{
+  "uuid": "f0959682-6266-4059-acd8-db4435de5880",
+  "shortname": "الجمال_والعفة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الجمال والعفة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:304481b2f81ef45b4e1a6ddd1c16c858182045ba",
+    "bytesize": 109,
+    "body": "<p>بيع الجمال و اشتري العفة ، فالجمال موجود و العفاف صدفة .  </p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9c174caf-74b9-4b46-898e-2eca959a8cc8",
+    "shortname": "monzer_khalid",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-04-07T14:48:23Z",
+  "attributes": {
+    "old_id": 1143
+  },
+  "language": "ar",
+  "history": []
+}

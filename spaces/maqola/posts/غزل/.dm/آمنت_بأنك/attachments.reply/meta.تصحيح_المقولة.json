@@ -1,0 +1,29 @@
+{
+  "uuid": "773e1d51-bc5f-4e25-b351-002b5a826abf",
+  "shortname": "تصحيح_المقولة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح المقولة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a942c7434f70fc7115d5c7640df9c55daffacc7b",
+    "bytesize": 127,
+    "body": "اهلا اخي لؤي اود ان الفت انتباهك انه يمكنك تحرير وتصحيح المقولة نفسها."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "dcba9bf4-fefd-4ddb-ab37-ef862cebabab",
+    "shortname": "امين_صرصور",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-06-18T07:42:00Z",
+  "attributes": {
+    "old_id": 771,
+    "old_entry_id": 636
+  },
+  "language": "ar"
+}

@@ -1,0 +1,51 @@
+{
+  "uuid": "3a25ef5e-6385-4723-82ba-1e3abf018a34",
+  "shortname": "__لا_إكراه_في_الدين_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"{ لا إِكْرَاهَ فِي الدِّينِ }"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d384a4ec138d42f7600cd238684cf2e42dccab3a",
+    "bytesize": 410,
+    "body": "<p>قال ابن حزم رحمه الله : \" وأما قول الله تعالى { لا إِكْرَاهَ فِي الدِّينِ } فلا حجة لهم فيه ، لأنه لم يختلف أحد من الأمة كلها في أن هذه الآية ليست على ظاهرها ، لأن الأمة مجمعة على إكراه المرتد عن دينه \" . انتهى من \" المحلى \" ( 1 / 188 ) .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "شَجاعَة",
+    "عربية",
+    "فَصاحَة",
+    "قاعدة أصولية",
+    "لُغة عربيّة",
+    "مَثَل"
+  ],
+  "created_at": "2015-04-11T21:31:39Z",
+  "attributes": {
+    "old_id": 1173
+  },
+  "language": "ar",
+  "history": []
+}

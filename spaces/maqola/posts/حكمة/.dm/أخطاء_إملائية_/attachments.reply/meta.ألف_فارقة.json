@@ -1,0 +1,29 @@
+{
+  "uuid": "f76ff97d-25b4-43b3-973d-cbaf2b12ff9f",
+  "shortname": "ألف_فارقة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ألف فارقة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f126b47738fda59c58abd3e5e369cb0b2bb6da13",
+    "bytesize": 480,
+    "body": "هذا نتيجة الخلط مع الألف الفارقة التي تدخل على الفعل المضارع المقترن بواو الجماعة عندما يكون في غير محل الرفع. لذلك نكتب: مهندسو المدينة يهندسون مبانيها  - مهندسو المدينة لن\\\\لم يهندسوا مبانيها (مهندسو المدينة لن يهندسوا مبانيها - مهندسو المدينة لم يهندسوا مبانيها)."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "9a5c294b-89e8-41de-ab4e-0fc5bb2692c8",
+    "shortname": "ayad_derbal",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-11-23T06:15:42Z",
+  "attributes": {
+    "old_id": 809,
+    "old_entry_id": 775
+  },
+  "language": "ar"
+}

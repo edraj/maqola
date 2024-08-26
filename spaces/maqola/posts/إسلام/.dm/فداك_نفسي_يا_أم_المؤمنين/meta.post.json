@@ -1,0 +1,47 @@
+{
+  "uuid": "758f688c-5bf6-45e7-996c-2f9b69867099",
+  "shortname": "فداك_نفسي_يا_أم_المؤمنين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فداكِ نفسي يا أم المؤمنين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:41300c5985e1a0928b5f2b9188c0095563f751a3",
+    "bytesize": 715,
+    "body": "<p>قال عروة بن الزبير : \" ما رأيتُ أحدا من الناس أعلم بالقرآن ولا بفريضةٍ ولا بحلال وحرام ولا بشعرٍ ولا بحديث العرب ولا النسب من عائشة رضي الله عنها \". وتجد اليوم الرافضة أذناب إيران وشيعة المجوس يلعنونها في الحُسينيات صُبحَ مساء ويتهمونها بالزنى!! وخيانة النبي صلى الله عليه وسلم .. عليهم من الله ما يستحقون.</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "عربية",
+    "لُغة عربيّة",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-07-22T01:09:49Z",
+  "attributes": {
+    "old_id": 1420
+  },
+  "language": "ar",
+  "history": []
+}

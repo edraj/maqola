@@ -1,0 +1,41 @@
+{
+  "uuid": "8be07c30-87e5-4c49-b10a-ae4d5219a0c6",
+  "shortname": "العيش_قبل_الموت",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العيش قبل الموت"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6a0cce3c2291c2ccf510f44b6c51c06928107ad7",
+    "bytesize": 792,
+    "body": "<p><span style=\"background-color: rgb(146, 205, 220);\"> </span></p><p><span style=\"background-color: rgb(146, 205, 220);\"><span style=\"color: rgb(127, 96, 0);\">حين تسأل ربك الموت فى سبيله</span> ..<br><span style=\"color: rgb(192, 80, 77);\">لاتنسى أن تسأله أولا العيش فى سبيله </span>..<br><span style=\"color: rgb(15, 36, 62);\">فلن تأتى مكرمة الموت فى سبيل الله </span>..<br><span style=\"color: rgb(227, 108, 9);\">إلا إذا سبقتها مكرمة العيش فى سبيله .</span></span></p><p><span style=\"background-color: rgb(146, 205, 220);\"><br></span></p><p><span style=\"background-color: rgb(146, 205, 220);\"><span style=\"color: rgb(12, 12, 12);\">الكاتب : نبيل جلهوم </span>.</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-02-11T08:18:01Z",
+  "attributes": {
+    "old_id": 1011
+  },
+  "language": "ar",
+  "history": []
+}

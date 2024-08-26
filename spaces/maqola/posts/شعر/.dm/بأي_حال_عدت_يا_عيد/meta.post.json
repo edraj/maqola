@@ -1,0 +1,42 @@
+{
+  "uuid": "2fb4da6c-0314-46b1-8a22-c2dc0105f53f",
+  "shortname": "بأي_حال_عدت_يا_عيد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بأيّ حالٍ عُدتَ يا عيدُ"},
+  "updated_at": "2010-11-14T22:38:01Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6d13c22496adebebfbf160a7f6e024dd2af66d34",
+    "bytesize": 1278,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\"><span dir=\"RTL\">عيدٌ بأيّةِ حالٍ عُدتَ يا عيدُ </span><span dir=\"RTL\">بمَا مَضَى أمْ بأمْرٍ فيكَ تجْديدُ<br />\r\n\tأمّا الأحِبّةُ فالبَيْداءُ دونَهُمُ</span> <span dir=\"RTL\">فَلَيتَ دونَكَ بِيداً دونَهَا بِيدُ<br />\r\n\tلَوْلا العُلى لم تَجُبْ بي ما أجوبُ بهَا</span> <span dir=\"RTL\">وَجْنَاءُ حَرْفٌ وَلا جَرْداءُ قَيْدودُ<br />\r\n\tوَكَانَ أطيَبَ مِنْ سَيفي مُعانَقَةً</span> <span dir=\"RTL\">أشْبَاهُ رَوْنَقِهِ الغِيدُ الأمَاليدُ<br />\r\n\tلم يَترُكِ الدّهْرُ مِنْ قَلبي وَلا كبدي</span> <span dir=\"RTL\">شَيْئاً تُتَيّمُهُ عَينٌ وَلا جِيدُ<br />\r\n\tيا سَاقِيَيَّ أخَمْرٌ في كُؤوسكُما</span> <span dir=\"RTL\">أمْ في كُؤوسِكُمَا هَمٌّ وَتَسهيدُ؟<br />\r\n\tأصَخْرَةٌ أنَا، ما لي لا تُحَرّكُني</span> <span dir=\"RTL\">هَذِي المُدامُ وَلا هَذي الأغَارِيدُ</span></span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e70cb39c-739b-4d5a-8d89-b40ad20f0b00",
+    "shortname": "عبدالكريم_جعافرة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-11-14T11:22:36Z",
+  "attributes": {
+    "old_id": 183
+  },
+  "language": "ar",
+  "history": []
+}

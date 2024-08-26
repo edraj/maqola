@@ -1,0 +1,29 @@
+{
+  "uuid": "5d0f3821-563e-4cd3-ac2e-a213c547265a",
+  "shortname": "قصيدة_اليتيمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قصيدة اليتيمة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bde7581e56e82e23318f099ad92dd67e004e5c7c",
+    "bytesize": 39,
+    "body": "القائل: دوقلة المنبجي"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "d6eaba7b-34f2-410a-a1ba-a7488ff51822",
+    "shortname": "modar_kh",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-10-03T19:46:54Z",
+  "attributes": {
+    "old_id": 802,
+    "old_entry_id": 191
+  },
+  "language": "ar"
+}

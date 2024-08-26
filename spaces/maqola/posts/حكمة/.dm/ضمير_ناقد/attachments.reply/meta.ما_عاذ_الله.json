@@ -1,0 +1,29 @@
+{
+  "uuid": "36ff4943-74eb-4a43-872b-69f6864cc9be",
+  "shortname": "ما_عاذ_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما عاذ الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e0a5621f6a098f815785d14b1bada1dac06ad10f",
+    "bytesize": 342,
+    "body": "ما عاذ الله أن تكون في نيتا تشويه أو تخريف. أرجو أن تكون موضوعيا في تحديد وجه اعتراضك. علما بأن هذه المقولات منقولة من بطون الكتب. فإن كان هنالك خطأ في اسم أو شخص صلحناه. مع تقديرنا واحترامنا."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T07:11:55Z",
+  "attributes": {
+    "old_id": 57,
+    "old_entry_id": 61
+  },
+  "language": "ar"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "fb8c00bc-b30b-4f65-ac9c-4c128598dbcc",
+  "shortname": "تقاطعات_وطن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تقاطعات وطن"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:dce9061764853937af85219e95bc1de87f7a6dc4",
+    "bytesize": 315,
+    "body": "<p>سَأتبع طيفك .. وأمضي إلى هناك ...<br> وأقف على تقاطعات وطن علّني أجد دربك ...<br> وأُشمر عن ساعدي طلاسم ليل أنت فجره ...<br> وأهب لنفسي أملاً بغد .. فيهـ يُعانق ظِلك العلم ...<br><br>بيسار</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "سِياسَة",
+    "عربية"
+  ],
+  "created_at": "2015-02-19T14:16:56Z",
+  "attributes": {
+    "old_id": 1038
+  },
+  "language": "ar",
+  "history": []
+}

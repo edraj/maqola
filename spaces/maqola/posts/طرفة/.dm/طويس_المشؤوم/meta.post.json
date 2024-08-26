@@ -1,0 +1,41 @@
+{
+  "uuid": "5627c57c-89cd-475b-ba63-0acadb74a8d4",
+  "shortname": "طويس_المشؤوم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طويس المشؤوم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e173e4f04aa8dc5928afc25c92172d50dc8369db",
+    "bytesize": 526,
+    "body": "<p>قال الأصمعي : قيل لِطُويس : ما بلغ شؤمك ؟!! ، قال : ولدت يوم توفّي رسول الله صلى الله عليه وسلم ، وفُطمتُ يوم توفّي أبو بكر ، وخُتنتُ يوم مات عمر ، وراهقتُ \" بلغت الحُلم \" يومَ قُتل عثمان ، وتزوجتُ يوم قُتل علي ، ووُلِدَ لي يوم قُتِلَ الحُسين .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2015-05-28T00:28:58Z",
+  "attributes": {
+    "old_id": 1308
+  },
+  "language": "ar",
+  "history": []
+}

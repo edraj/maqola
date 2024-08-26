@@ -1,0 +1,42 @@
+{
+  "uuid": "e5c1dca4-653e-4ba1-a0c5-d7be97727742",
+  "shortname": "إشراقة_من_نور",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إشراقة من نور"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3cac89084f230900065faa22e042824b4ecf26b4",
+    "bytesize": 642,
+    "body": "<p>أنوارٌ مستفيضةٌ تَكْمِنُ  داخِلَ كائِنٌ من الإنس .. </p><p>والإيمانُ في القلبِ هاجسٌ يَتَّقي نَوازِعَ النفسِ ..<br>وعُصارةَ  المحبة دعاء بفاتحة الكتاب وزهرَةَ الحِسٍ .. <br>وتضًرُعَاً  بالرجاء عِبْقاّ  ليسَ فيهِ نَزْعَةً تجُادِلُ النفس </p><p>إشُعاعٌ براءة ٍيُطرِدُ الوساوسَ و الشقاء والتَعْس  <br>تراتيلُ ملائكة  بالطاعةِ  اليوم والأمس</p><p>( ضياء ابراهيم)</p><p><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "قَناعَة"
+  ],
+  "created_at": "2015-02-20T09:29:48Z",
+  "attributes": {
+    "old_id": 1050
+  },
+  "language": "ar",
+  "history": []
+}

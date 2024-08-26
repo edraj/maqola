@@ -1,0 +1,45 @@
+{
+  "uuid": "94467ab8-4f46-4f0f-9ce3-a256df6f18d6",
+  "shortname": "أجمل_حكمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أجمل حكمة"},
+  "updated_at": "2014-02-13T14:13:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1780f9469bfed18d9f54e9c97b32ae4cba99d903",
+    "bytesize": 347,
+    "body": "سئلُ أديب : ما هي أجملُ حكمة ؟<br> <br> فقالَ: لي 70 عاما وأنا اقرأ .. ما وجدتُ أجملَ من هذه...<br> <br> \"إنَ مشقة الطاعة تذهبُ ويبقى ثوابها<br> <br> وإن لذةَ المعصية تذهب ويبقى عقابها\" <span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "ذَكاء",
+    "فَصاحَة"
+  ],
+  "created_at": "2014-02-13T14:13:16Z",
+  "attributes": {
+    "old_id": 836
+  },
+  "language": "ar",
+  "history": []
+}

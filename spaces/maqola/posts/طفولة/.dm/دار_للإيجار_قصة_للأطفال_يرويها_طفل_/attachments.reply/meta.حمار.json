@@ -1,0 +1,29 @@
+{
+  "uuid": "88cf59f5-bf0e-4911-9242-373789ccc4aa",
+  "shortname": "حمار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حمار"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d4beeb23645bf8d2db252c2b7010672130baa2d7",
+    "bytesize": 70,
+    "body": "محمد فرج أهبل مش حافظ ولا كلمة من القصة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-02T12:44:10Z",
+  "attributes": {
+    "old_id": 614,
+    "old_entry_id": 231
+  },
+  "language": "ar"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "e90a26a2-c882-46a6-929f-8c5c3d918955",
+  "shortname": "أذكر_أباك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أْذكُرْ أَبَاكْ"},
+  "updated_at": "2015-11-20T20:01:53Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3bb2f5bd45d9bc8e1e06b7664fea3e2d3466b243",
+    "bytesize": 365,
+    "body": "<p>مَرَّتْ عَلِيْكَ دُهُوْرٌ مَا مَرَرَتَ بِهَا يَوُمَاً عَلَى قَبْرِ مَنْ رَبَاكَ فِي الصِغَرِ</p><p>مَا دُمْتَ بِالخِيْرِ لَمْ تُسْعِفْ أَبَاكَ فَلَا تَطْمَحْ بِطَرّفِكَ لِلأَبْنَاءِ فِي الكِبَرِ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4a396cec-f540-4f4b-98f1-08ff3f27828d",
+    "shortname": "حسين_ال_لال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب"
+  ],
+  "created_at": "2015-11-20T19:50:26Z",
+  "attributes": {
+    "old_id": 1541
+  },
+  "language": "ar",
+  "history": []
+}

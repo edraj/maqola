@@ -1,0 +1,42 @@
+{
+  "uuid": "17efa2f4-9155-4071-851f-71fcb7b430aa",
+  "shortname": "من_أدبك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مَنْ أدَّبكَ؟"},
+  "updated_at": "2010-11-20T05:05:18Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:aba33141591c6883875d9cd0abe1fcdc88de73b9",
+    "bytesize": 318,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قيلَ لابنِ المُقَفَّع، مَن أدَّبك؟ قال، أنا أدبتُ نَفسي، كُنتُ إذا رأيتُ مِن الناسِ فِعلاً حسناً عَمِلتُ بهِ، وإذا رأيت فعلاً قَبيحاً اجتَنَبتُه.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c6e64ae9-0d4f-4102-81c3-777959981270",
+    "shortname": "ابن_المقفع",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-11-20T05:05:18Z",
+  "attributes": {
+    "old_id": 190
+  },
+  "language": "ar",
+  "history": []
+}

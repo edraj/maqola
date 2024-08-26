@@ -1,0 +1,29 @@
+{
+  "uuid": "67f195c4-585a-45c6-82fd-3f6e731a2ffd",
+  "shortname": "غير_متوقعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"غير متوقعة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fa519ec77e332d577e08e0838880a35960c81c3b",
+    "bytesize": 94,
+    "body": "رائعععععععععة حقا مشجعة جميلة وتبعث في الروح عزيمة "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-31T19:43:41Z",
+  "attributes": {
+    "old_id": 506,
+    "old_entry_id": 504
+  },
+  "language": "ar"
+}

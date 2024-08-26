@@ -1,0 +1,42 @@
+{
+  "uuid": "1915897b-5186-4131-9813-36d0329bd46c",
+  "shortname": "الاعتماد_على_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الاعتماد على الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:767d8db365d4bb72f60c5ddd1600705a3c6384ef",
+    "bytesize": 552,
+    "body": "<p style=\"margin-left: 40px;\">أوصى ابنُ قُدامَة إخوانَهُ : \" ... واعلم أنّ مَن هوَ في البَحرِ على اللوحِ، ليسَ بأحوَجَ إلى اللهِ وإلى لُطفه ممن هوَ في بيتِه بينَ أهلِه ومالِه ... فإذا حققتَ هذا في قَلبِك فاعتمد على الله اعتمادَ الغريقِ الذي لا يَعلَمُ له سببُ نجاةٍ غيرَ الله ...\"</p><p style=\"margin-left: 40px;\">- الوصية المُباركة (ص ٧٧)</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة"
+  ],
+  "created_at": "2015-08-13T17:12:11Z",
+  "attributes": {
+    "old_id": 1473
+  },
+  "language": "ar",
+  "history": []
+}

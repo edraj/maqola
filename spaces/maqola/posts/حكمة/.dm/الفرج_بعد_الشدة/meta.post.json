@@ -1,0 +1,43 @@
+{
+  "uuid": "6fc0296c-2dbe-45c1-adc6-a0549f56656f",
+  "shortname": "الفرج_بعد_الشدة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الفرج بعد الشدة"},
+  "updated_at": "2010-11-03T14:49:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4e726f45e9c06fc62448e5e35dd3ea734c4af6e1",
+    "bytesize": 370,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">و لَرُبَّ نازِلَةٍ يَضيقُ بِها الفَتى - ذَرعاً و عِندَ اللهِ مِنها المَخرجُ<br />\r\n\tضاقَت فَلَّما استَحكَمَت حَلقاتُها - فُرِجَت و كُنتُ أَظُنُّها لا تُفرَجُ</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-10-18T19:26:40Z",
+  "attributes": {
+    "old_id": 81
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "9133722f-67c1-4bcf-84d0-a9dae60fd8fc",
+  "shortname": "9133722f",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-09T23:08:02Z",
+  "author_locator": { "type": "content",
+    "uuid": "97e24f5d-4742-4e15-96dc-384186d9a4d9",
+    "shortname": "ليمو_هلال",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-09T23:08:02Z",
+  "attributes": {
+    "old_id": 267,
+    "old_entry_id": 1000
+  },
+  "language": "en",
+  "location": {
+    "uuid": "9133722f-67c1-4bcf-84d0-a9dae60fd8fc",
+    "shortname": "9133722f",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "لا_تعصر_العصير_إلا_إذا_كان_يستاهل_العصر",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

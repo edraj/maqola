@@ -1,0 +1,29 @@
+{
+  "uuid": "4cf2dcb0-4940-4e9d-8be8-87ee0d02cbed",
+  "shortname": "آكلة_الكبود_هند",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"آكلة الكبود هند"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d18dfc81f9a56d926f77524ff1ae3d73a912b25a",
+    "bytesize": 212,
+    "body": "هذه هي أرجوزة هند بنت عتبة في معركة أحد يوم كانت تحرض على قتل المسلمين اﻷوائل ويوم كانت تمثل بجثث القتلى من المسلمين "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-02T15:30:45Z",
+  "attributes": {
+    "old_id": 752,
+    "old_entry_id": 118
+  },
+  "language": "ar"
+}

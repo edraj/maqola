@@ -1,0 +1,41 @@
+{
+  "uuid": "60ee1322-7b90-4d01-9f8b-923aa7f115cf",
+  "shortname": "خالد_الجبوري_العراق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خالد الجبوري العراق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5b926a50c721c34d72c5bb651d32554c4995f6a0",
+    "bytesize": 161,
+    "body": "<p>مهما يفعل الأب فإنه لا يستطيع أن يجعل ابنه رجلا، إذ يجب على الأم أن تأخذ نصيبها من ذلك</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "77a78c74-fe9c-4930-b09f-e1c9e81dbfb1",
+    "shortname": "قناة_خالد_الدعوية",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2015-07-11T20:52:27Z",
+  "attributes": {
+    "old_id": 1383
+  },
+  "language": "ar",
+  "history": []
+}

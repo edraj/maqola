@@ -1,0 +1,42 @@
+{
+  "uuid": "d05098a4-7a99-44ba-84b8-cacfda5f1d1a",
+  "shortname": "لا_تكثر_من_الحلف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تُكثِر من الحَلف."},
+  "updated_at": "2013-10-05T10:12:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d57bfac94bae40d3aede85a2a03b1cf0205463ed",
+    "bytesize": 355,
+    "body": "<span class=\"maqola_body\"> إحذر أن تُكثرَ من الحَلفِ بِسَببٍ وبِغيرٍ سبب. فإنَّ العربَ تقول : علامَةُ الكاذِب أو الكذّاب جُودُه بيمنيه من غير مُستَحلِفٍ له. وفي الحديث الشريف: الحَلِفُ حِنثٌ أو نَدَم.<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-10-05T10:12:02Z",
+  "attributes": {
+    "old_id": 676
+  },
+  "language": "ar",
+  "history": []
+}

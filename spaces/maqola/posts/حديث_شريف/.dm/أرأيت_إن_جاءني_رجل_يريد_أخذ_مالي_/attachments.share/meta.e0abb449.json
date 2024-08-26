@@ -1,0 +1,33 @@
+{
+  "uuid": "e0abb449-0267-42cd-80c8-a65c468f3b73",
+  "shortname": "e0abb449",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-25T00:08:41Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-25T00:08:41Z",
+  "attributes": {
+    "old_id": 550,
+    "old_entry_id": 1438
+  },
+  "language": "en",
+  "location": {
+    "uuid": "e0abb449-0267-42cd-80c8-a65c468f3b73",
+    "shortname": "e0abb449",
+    "subpath": "posts/حديث_شريف",
+    "space_name": "maqola",
+    "parent_shortname": "أرأيت_إن_جاءني_رجل_يريد_أخذ_مالي_",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

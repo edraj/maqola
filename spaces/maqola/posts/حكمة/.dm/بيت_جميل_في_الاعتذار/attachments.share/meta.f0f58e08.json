@@ -1,0 +1,33 @@
+{
+  "uuid": "f0f58e08-c3f9-4965-9f70-0d39161715a3",
+  "shortname": "f0f58e08",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-06-09T00:51:32Z",
+  "author_locator": { "type": "content",
+    "uuid": "eb9ca728-dc5c-4993-8024-266bd62c9bf4",
+    "shortname": "mahmoud_salah",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-06-09T00:51:32Z",
+  "attributes": {
+    "old_id": 473,
+    "old_entry_id": 1338
+  },
+  "language": "en",
+  "location": {
+    "uuid": "f0f58e08-c3f9-4965-9f70-0d39161715a3",
+    "shortname": "f0f58e08",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "بيت_جميل_في_الاعتذار",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

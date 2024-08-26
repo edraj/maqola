@@ -1,0 +1,48 @@
+{
+  "uuid": "31f8635d-61f0-45f4-9fc1-2b78c66c575f",
+  "shortname": "الشيب_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الشيب!!"},
+  "updated_at": "2014-02-03T10:44:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1d0e2e4d67465286b6f5df73503f512d4e4b46d7",
+    "bytesize": 214,
+    "body": "يقولُ المتنبي مخاطبا الشيب:<br> ابعد!بعدت !بياضا لا بياضَ لهُ..<br> لأنتَ أسودَ في عيني منَ الظلمِ<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "شِعر",
+    "طُرفَة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-03T10:44:17Z",
+  "attributes": {
+    "old_id": 777
+  },
+  "language": "ar",
+  "history": []
+}

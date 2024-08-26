@@ -1,0 +1,18 @@
+{
+  "uuid": "96259328-4aba-4cce-b86e-7be3286a7857",
+  "shortname": "ceaser.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:cbbec2ba115bf25d6aae37885faeb2dc91ffcb1b",
+    "bytesize": 1121093,
+    "body": "ceaser.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 5
+  },
+  "language": "en"
+}

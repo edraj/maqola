@@ -1,0 +1,41 @@
+{
+  "uuid": "0c450626-6a39-4a5b-a93b-0c7a8300b275",
+  "shortname": "اية_كريمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اية كريمة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:19385df2baa8dc01a5470f8bc1d50f437ff9de6a",
+    "bytesize": 93,
+    "body": "<p><strong>انما المؤمنون اخوه فاصلحوا بين اخويكم</strong></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "7c6b7a94-a07d-4852-baf1-cd4397563251",
+    "shortname": "حمادة_حسن",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة"
+  ],
+  "created_at": "2015-04-01T21:53:49Z",
+  "attributes": {
+    "old_id": 1139
+  },
+  "language": "ar",
+  "history": []
+}

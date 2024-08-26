@@ -1,0 +1,42 @@
+{
+  "uuid": "f55f6ca1-81de-4919-88c2-3a026b017abd",
+  "shortname": "فضيلة_الستر_على_المسلمين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فضيلة الستر على المسلمين"},
+  "updated_at": "2014-02-26T10:42:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3f5e331fb39ddac74a8a08705831c9c6417bca4d",
+    "bytesize": 320,
+    "body": "<span class=\"maqola_body\"> <br><font color=\"#953734\"> الستر على مسلم أمر ليس بالسهل ، لأن الإنسان بطبيعته فضولي ؛ لذلك كان جزاء من يستر أخاه عظيم ، بأن يستره الله يوم القيامة أمام جميع الناس.</font><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9efae5e1-3745-4909-8642-41a845d9b903",
+    "shortname": "wael_mandour",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-02-26T10:42:02Z",
+  "attributes": {
+    "old_id": 846
+  },
+  "language": "ar",
+  "history": []
+}

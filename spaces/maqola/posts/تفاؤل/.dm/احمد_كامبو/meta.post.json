@@ -1,0 +1,45 @@
+{
+  "uuid": "d0469d47-bbf8-4ec6-b9db-56730c1ee673",
+  "shortname": "احمد_كامبو",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"احمد كامبو"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:71731c2bedb4a92351273036ce3ff93c8df8d604",
+    "bytesize": 118,
+    "body": "<p>رسمتها على ‫#‏الوشوش‬ تخلى الوش ‫#‏بشوش...................................</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "63829d59-b4b3-4b3f-9cfa-cf813943f55e",
+    "shortname": "kemo_kemo",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة",
+    "ذَكاء",
+    "لُغز",
+    "مَثَل"
+  ],
+  "created_at": "2015-05-03T00:08:49Z",
+  "attributes": {
+    "old_id": 1228
+  },
+  "language": "ar",
+  "history": []
+}

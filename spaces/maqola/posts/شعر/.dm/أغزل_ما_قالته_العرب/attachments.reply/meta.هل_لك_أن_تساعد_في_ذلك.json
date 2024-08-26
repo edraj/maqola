@@ -1,0 +1,29 @@
+{
+  "uuid": "101bacde-2dab-4edc-b9e4-4cc90646444f",
+  "shortname": "هل_لك_أن_تساعد_في_ذلك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هل لك أن تساعد في ذلك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b55e4821ba2c1d81de44c53b9e03f4744772f117",
+    "bytesize": 127,
+    "body": "أخي محمد، هل يمكنك المساعدة وتزويدنا بالنص الكامل مع قراءة شعرية منك؟"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T07:18:22Z",
+  "attributes": {
+    "old_id": 61,
+    "old_entry_id": 7
+  },
+  "language": "ar"
+}

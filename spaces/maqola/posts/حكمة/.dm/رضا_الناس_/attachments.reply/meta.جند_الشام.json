@@ -1,0 +1,29 @@
+{
+  "uuid": "6d1dd281-d114-4b50-80b8-65e9981b2ff5",
+  "shortname": "جند_الشام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جند الشام"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7c49e3dcc704f76d6e2016af52e7f7caed1bb451",
+    "bytesize": 341,
+    "body": "عن عائشة رضي الله عنها قالت: قال رسول الله صلى الله عليه وسلم \\\" من أرضى الناس بسخط الله سخط الله عليه وأسخط عليه الناس ومن أرضى الله بسخط الناس رضي الله عليه وأرضى عليه الناس \\\" رواه الترمذي ."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "aae79792-ed46-41e1-b220-95a0d0ada116",
+    "shortname": "جند_الشام",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-07-24T15:27:57Z",
+  "attributes": {
+    "old_id": 780,
+    "old_entry_id": 460
+  },
+  "language": "ar"
+}

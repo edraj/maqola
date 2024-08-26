@@ -1,0 +1,29 @@
+{
+  "uuid": "f03e8f00-b19c-4d3a-a11b-65046f5847fb",
+  "shortname": "المغزى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المغزى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:26d29a24703207e95592bc432e6d7008d1858d1b",
+    "bytesize": 261,
+    "body": "المغزى انه حفظ الشعر ليتشرب النظم و القافية  و طلبه ان ينساها لكي ينسي الكلمات فلا يتأثر بها حين ينظم و لكن يبقى داخله ما عرفه من فن النظم و الشعر"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-08T11:17:53Z",
+  "attributes": {
+    "old_id": 535,
+    "old_entry_id": 26
+  },
+  "language": "ar"
+}

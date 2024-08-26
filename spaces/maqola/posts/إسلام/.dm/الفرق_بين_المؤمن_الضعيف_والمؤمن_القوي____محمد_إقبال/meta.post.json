@@ -1,0 +1,46 @@
+{
+  "uuid": "bda59fa7-31b6-49c5-80c3-6861d7d1b20b",
+  "shortname": "الفرق_بين_المؤمن_الضعيف_والمؤمن_القوي____محمد_إقبال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الفرق بين المؤمن الضعيف والمؤمن القوي! - محمد إقبال"},
+  "updated_at": "2015-03-10T22:49:41Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:48421a8fc7aabea0a7a1f2f5acd991dc8ff96754",
+    "bytesize": 150,
+    "body": "<p>المؤمن الضعيف يتعلل بالقضاء والقدر، والمؤمن القوي هو قضاء الله وقدره في الأرض.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a6c801da-055e-4d39-a4f1-b820d06317f6",
+    "shortname": "أسامــــة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "ذَكاء",
+    "شَجاعَة",
+    "شِعر"
+  ],
+  "created_at": "2015-03-07T18:54:10Z",
+  "attributes": {
+    "old_id": 1092
+  },
+  "language": "ar",
+  "history": []
+}

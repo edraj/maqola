@@ -1,0 +1,23 @@
+{
+  "uuid": "b8b185fe-c3b1-4833-a79d-f5dd40a73cd9",
+  "shortname": "b8b185fe",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "03a4b188-d174-4eaf-8f45-af78e0abf79c",
+    "shortname": "rahma_ali",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:07+03:00",
+  "attributes": {
+    "old_id": 271,
+    "old_entry_id": 697
+  },
+  "language": "en",
+  "type": "like"
+}

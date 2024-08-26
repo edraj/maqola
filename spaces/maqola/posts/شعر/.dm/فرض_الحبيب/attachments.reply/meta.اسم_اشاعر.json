@@ -1,0 +1,29 @@
+{
+  "uuid": "67768b02-a7fc-4951-86f3-ebd1523dbd56",
+  "shortname": "اسم_اشاعر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اسم اشاعر "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:30a728c7908d41e8608217c2977d8c0739ddba1c",
+    "bytesize": 85,
+    "body": "الشاعر الذى الف هذه القصيده / مانع سعيد العتيبة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c74df491-8921-45bd-a151-b6debdaf8905",
+    "shortname": "sayed_hegazy",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-11-04T22:37:32Z",
+  "attributes": {
+    "old_id": 803,
+    "old_entry_id": 930
+  },
+  "language": "ar"
+}

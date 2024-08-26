@@ -1,0 +1,41 @@
+{
+  "uuid": "cd0ced93-0718-494d-8041-2f25c6e062df",
+  "shortname": "ياعيد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ياعيد"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e21404ad09bf44ccc5f0164938c6479f66c741f5",
+    "bytesize": 1226,
+    "body": "<p>ياعيد قد أقبلت من جديد بنفس الزمان</p><p><br><br>وهلت أيامك بالخير المديد لكل انسان</p><p><br><br>واستبشرت بقدومك امتنا في كل مكان</p><p><br><br>ياعيد قدمت على اﻻمة وهي في امتحان </p><p><br></p><p>اناس متعبة منهكة واصبحت تجرح وتهان</p><p><br><br>واقوام فيك تبحث عن لقمة بالمجان</p><p><br><br>قد نسيت فرحتك واستبدلتها باﻻحزان</p><p><br><br>ياعيد عدت علينا واﻻماني صارت هذيان</p><p><br><br>تفر منا هاربة فرار السليم من الجربان</p><p><br><br>متى تعود الينا فرحتك يادرب اﻻحسان</p><p><br><br>وتعود امانينا بعد ان ذقنا منها النكران</p><p><br><br>اقبل علينا ياأضحى ببركاتك واﻻمان</p><p><br><br>لكل ارملة وثكلى وﻻجئ ويتيم غلبان</p><p><br><br>ولتنزل رحمتك علينا ياكريم يامنان</p><p><br><br>فنحن بأشد الحاجة اليها يارحيم يارحمان</p><p><br><br><br>خربشات  بقلم احسان الصالحي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "675ade74-78d4-48da-926c-c8feb4a638c5",
+    "shortname": "احسان_الصالحي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-09-29T11:40:26Z",
+  "attributes": {
+    "old_id": 1518
+  },
+  "language": "ar",
+  "history": []
+}

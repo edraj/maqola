@@ -1,0 +1,29 @@
+{
+  "uuid": "321fa183-3c42-4498-b9ce-7d913ddc44c8",
+  "shortname": "تعديل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تعديل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2c90e423501833d0554438234596eea65123837a",
+    "bytesize": 192,
+    "body": "ولا تأكل من الفاكهة إلا نضجيها الصحيح ولا تأكل من الفاكهة إلا نضيجها بدلا من نضجيها  ---------- جزاكم الله خيرا"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-05-31T02:25:11Z",
+  "attributes": {
+    "old_id": 453,
+    "old_entry_id": 136
+  },
+  "language": "ar"
+}

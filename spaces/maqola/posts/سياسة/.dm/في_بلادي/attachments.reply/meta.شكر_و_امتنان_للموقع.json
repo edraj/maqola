@@ -1,0 +1,29 @@
+{
+  "uuid": "139ae7fe-8234-4e55-8c0b-ab03b980bfbc",
+  "shortname": "شكر_و_امتنان_للموقع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكر و امتنان للموقع"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1c6bd7d8020434a6b19d46b59ec85e94e672a783",
+    "bytesize": 293,
+    "body": "أحمد مطر...  الشاعر الوحيد الذي أقنعني بشعر التفعيلة.. شاعر يفوق الوصف..    بارك الله فيك أخي كفاح... و أتمنى مواصلة إمدادنا بهذه المقولات الرائعة والمختارة بعناية.    "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-03-02T11:07:50Z",
+  "attributes": {
+    "old_id": 415,
+    "old_entry_id": 464
+  },
+  "language": "ar"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "2ce93c42-1e28-4119-90aa-9f6c7402a7f5",
+  "shortname": "2ce93c42",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2014-02-04T14:35:41Z",
+  "author_locator": { "type": "content",
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2014-02-04T14:35:41Z",
+  "attributes": {
+    "old_id": 153,
+    "old_entry_id": 799
+  },
+  "language": "en",
+  "location": {
+    "uuid": "2ce93c42-1e28-4119-90aa-9f6c7402a7f5",
+    "shortname": "2ce93c42",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "من_أقوال_قاضي_فاضل",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

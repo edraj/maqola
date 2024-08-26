@@ -1,0 +1,41 @@
+{
+  "uuid": "8b904542-d007-43d1-8d91-02c1e78a6191",
+  "shortname": "وسأبقى_حيا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وسأبقى حيّاً"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ce155c9193207ba94a7eef69283dc1ddefde7714",
+    "bytesize": 454,
+    "body": "<p><span style=\"color: rgb(227, 108, 9);\"><strong>وسأبقى حيًّا مطمئنا  أتنفس حسن ظنى بربى أثق به أطمئن اليه ما</strong></span><span style=\"color: rgb(227, 108, 9);\"><strong>دام بيني وبينه باب.</strong></span></p><p><span style=\"color: rgb(227, 108, 9);\"><strong><br></strong></span></p><p><span style=\"color: rgb(227, 108, 9);\"><strong>الكاتب : نبيل جلهوم.</strong></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل"
+  ],
+  "created_at": "2015-02-10T08:45:12Z",
+  "attributes": {
+    "old_id": 1001
+  },
+  "language": "ar",
+  "history": []
+}

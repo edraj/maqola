@@ -1,0 +1,29 @@
+{
+  "uuid": "6fc60f80-c6e1-48ee-82cc-726f547f5216",
+  "shortname": "حكمه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حكمه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fb9c3d625fe337a5314baff2a54ad09b85de6e9d",
+    "bytesize": 96,
+    "body": "ومن نكد الدنيا علي الحر_ أن يري عدوا له مامن صداقته بد"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-01-13T22:43:49Z",
+  "attributes": {
+    "old_id": 384,
+    "old_entry_id": 454
+  },
+  "language": "ar"
+}

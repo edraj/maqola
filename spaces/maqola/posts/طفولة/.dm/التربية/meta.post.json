@@ -1,0 +1,41 @@
+{
+  "uuid": "265f69cb-ddfd-40e5-a9b4-a0bfaeb996f7",
+  "shortname": "التربية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"التربية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:099598ec93077541d5a770cd87f564f1c31a6ace",
+    "bytesize": 754,
+    "body": "<p>التربية على الجدية من أولويات المربي الناجح قال ابن القيم رحمه الله (وينبغي لولي الصبي أن يجنبه الكسل والبطالة والدعة .. ،ويأخذه بأضدادها، ولا يريحه إلا بما يجمّ نفسه وبدنه للشغل، فإن للكسل والبطالة عواقب سوء، ومغبة ندم، وللجد والتعب عواقب حميدة، إما في الدنيا وإما في العقبى، وإما فيهما؛ فأروح الناس أتعب الناس، وأتعب الناس أروح الناس، فالسيادة في الدنيا والسعادة في العقبى، لا يوصل إليها إلا على جسر من التعب)</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f2cf48da-162a-42e4-afc3-409b34a5d366",
+    "shortname": "أم_شعيب_شعبة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُفولَة"
+  ],
+  "created_at": "2015-10-15T10:15:10Z",
+  "attributes": {
+    "old_id": 1526
+  },
+  "language": "ar",
+  "history": []
+}

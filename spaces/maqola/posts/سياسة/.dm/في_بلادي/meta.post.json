@@ -1,0 +1,42 @@
+{
+  "uuid": "bf8f90da-2127-46a8-9498-6ff630db2161",
+  "shortname": "في_بلادي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في بِلادي"},
+  "updated_at": "2011-02-23T08:20:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:be4f5e1b176075e0ac56dae163e93ef0c721de0e",
+    "bytesize": 400,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">بالتمادي،<br />\r\n\tيُصبِحُ اللصُّ بأَورُبا مُديراً للنَوادي،<br />\r\n\tوبأمريكا، زَعيماً للعصاباتِ وأوكارِ الفساد،<br />\r\n\tوبأوطاني التي مِن شَرعِها قَطعُ الأيادي،<br />\r\n\tيُصبِحُ اللصُّ . . . زعيماً للبلاد!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة"
+  ],
+  "created_at": "2011-02-23T08:20:38Z",
+  "attributes": {
+    "old_id": 464
+  },
+  "language": "ar",
+  "history": []
+}

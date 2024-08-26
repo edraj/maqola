@@ -1,0 +1,50 @@
+{
+  "uuid": "8f353113-78ea-4bb3-92b0-5dc661975839",
+  "shortname": "لا_تنزلــن_إلى_سفاسـف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تنزلــن إلى سفاسـف"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0301c4ae81a81fb286bbf0a961565e6c37b4d6ec",
+    "bytesize": 334,
+    "body": "<p>لا تنزلــن إلى سفاسـف ولاـ تغرنـك بحــار ولا يجرفنــك تيار ولا يعجبنك ثناء أخيــار ولا يحـزنك انتقــاص فجــار كن كالأسد ذا هيبة ووقار ولا تخرجن كلمتك إلا كمـا تخرج الحرة من الدار ,</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "31520441-be44-4f25-8bf0-d6e5526e0446",
+    "shortname": "islame_laddada",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "شِعر",
+    "عربية",
+    "فَخر",
+    "فَصاحَة",
+    "قَدح",
+    "كَرَم",
+    "مَدح"
+  ],
+  "created_at": "2015-05-22T13:30:31Z",
+  "attributes": {
+    "old_id": 1287
+  },
+  "language": "ar",
+  "history": []
+}

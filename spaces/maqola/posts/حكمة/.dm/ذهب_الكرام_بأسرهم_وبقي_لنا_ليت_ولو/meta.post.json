@@ -1,0 +1,43 @@
+{
+  "uuid": "537b20bf-1042-4934-8772-1004800078d4",
+  "shortname": "ذهب_الكرام_بأسرهم_وبقي_لنا_ليت_ولو",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ذَهَبَ الكِرامُ بأسرِهمْ وَبَقي لَنا لَيتَ وَلَوْ"},
+  "updated_at": "2013-04-07T17:06:49Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c4f562510e9a911c1b1e6233cf8e985df03f0ad9",
+    "bytesize": 462,
+    "body": "<span class=\"maqola_body\"> <br> إنّ الزّمانَ زَمانُ سَوْ -- وَ جَميعَ هَذا الخَلقِ بَوْ<br>و إذا سألْتَهم نَدًى -- فَجَوَابُهُم عَن ذاكَ وَوْ<br>لَو يَملِكونَ الضّوءَ بُخ -- لاً لَم يَكُن للخَلقِ ضَوْ<br>ذَهَبَ الكِرامُ بأسرِهمْ -- وَبَقي لَنا لَيتَ وَلَوْ<br><br>البحتري<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2013-04-07T17:06:13Z",
+  "attributes": {
+    "old_id": 569
+  },
+  "language": "ar",
+  "history": []
+}

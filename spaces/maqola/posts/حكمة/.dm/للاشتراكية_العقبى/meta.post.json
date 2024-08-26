@@ -1,0 +1,42 @@
+{
+  "uuid": "a149c7e7-791c-4253-94b8-e5ccda0b6d2a",
+  "shortname": "للاشتراكية_العقبى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"للاشتراكيةِ العُقْبى"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:08f3fe756e8eeb11392201e3de793971da2734fd",
+    "bytesize": 605,
+    "body": "<p> للاشتراكيةِ العُقْبى إذا شَمِلتْ ... شَتىَّ الشُعوبَ وجَارَاها المُجَاورُونا</p><p> فَلا الكثيرونَ مُلْكاّ للأقَّلِينا ... ولاَ الأقَّلُونَ مُلْكا للكثيرِينا </p><p>ولا نَرى واحدا مَلأى خََزَائِنُهُ ... بالمُغْنِياتِ وآلافاً يجَُوعُونا </p><p> ولا نَرى دُرَّةً في رأسِ مُحْتَكِمٍ ... تَهْفُو إليه ِقُلُوبَ المُسْتَظِلينا</p><p>أحمد الكاشف</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "سِياسَة"
+  ],
+  "created_at": "2015-03-10T16:14:38Z",
+  "attributes": {
+    "old_id": 1097
+  },
+  "language": "ar",
+  "history": []
+}

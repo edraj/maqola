@@ -1,0 +1,42 @@
+{
+  "uuid": "4e9a1900-c2cc-4f36-a473-9b03450951c6",
+  "shortname": "ازرع_جميلا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ازرَع جَمِيلاً"},
+  "updated_at": "2010-11-18T04:56:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b1685664864b78b1093e3d5d635b85032fd25317",
+    "bytesize": 433,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">ازرَع جَمِيلَاً وَلَو في غَيرِ مَوضِعِهِ&#160; --&#160; فَلَا يَضِيعُ جَمِيلٌ أَينَمَا زُرِعَا<br />\r\n\tإِنَّ الجَمِيلَ وإِن طَالَ الزَّمَانُ بِه&#160; --&#160; فَلَيسَ يَحصُدُهُ إِلَّا الَّذِي زَرَعَا </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e70cb39c-739b-4d5a-8d89-b40ad20f0b00",
+    "shortname": "عبدالكريم_جعافرة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-11-14T08:03:53Z",
+  "attributes": {
+    "old_id": 179
+  },
+  "language": "ar",
+  "history": []
+}

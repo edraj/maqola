@@ -1,0 +1,41 @@
+{
+  "uuid": "86b28813-e8b4-48df-9cc6-361cd06de8d0",
+  "shortname": "القرآن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القرآن"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5e0193199b50915a4ada6f39304bb2565d0ea7a7",
+    "bytesize": 157,
+    "body": "<p>لفتة جميلة: <br> قيل للحسن البصري رحمه الله: \"فلان يحفظ القرآن، قال: بل القرآنُ يحفظه\".</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f2cf48da-162a-42e4-afc3-409b34a5d366",
+    "shortname": "أم_شعيب_شعبة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب"
+  ],
+  "created_at": "2015-10-15T10:06:33Z",
+  "attributes": {
+    "old_id": 1525
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "ec134d5a-caa5-4cef-9b2d-e43b4486ada7",
+  "shortname": "نصف_العلم_أن_تقول__لا_أدري",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نصفُ العِلمِ أنْ تقول: لا أدري"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:62e656d5a1271eb636c343fc94a01d3ecacbad86",
+    "bytesize": 464,
+    "body": "<p>سُئِلَ ‫‏الشَعبي‬ عَنْ شَيْءٍ، فقالَ: لا أدري!<br>فقيلَ لهُ: أما تستحيي أنْ تقولَ \"لا أدري\"، وأنتَ فقيهُ ‫‏العراق‬؟<br>فقال: لكنَّ الملائكةَ لم تستحي إذ قالتْ: {سُبْحَانَكَ لاَ عِلْمَ لَنَا إِلاَّ مَا عَلَّمْتَنَا إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ}!</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "فَصاحَة"
+  ],
+  "created_at": "2015-03-06T00:29:49Z",
+  "attributes": {
+    "old_id": 1085
+  },
+  "language": "ar",
+  "history": []
+}

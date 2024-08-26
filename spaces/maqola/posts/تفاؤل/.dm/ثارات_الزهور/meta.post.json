@@ -1,0 +1,45 @@
+{
+  "uuid": "c961239e-f5a1-4797-8d95-31512a7d6eef",
+  "shortname": "ثارات_الزهور",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ثارات الزُّهور"},
+  "updated_at": "2011-06-01T22:02:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fad6049059d6ce61cc63d2b179f76db22285a6fd",
+    "bytesize": 936,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قَطفوا الزهرةَ ...<br />\r\n\tقالت:<br />\r\n\tمِن ورائي بُرعُمٌ سَوفَ يَثور.<br />\r\n\tقطعوا البرعمَ ...<br />\r\n\tقالت:<br />\r\n\tغَيرُهُ يَنبِضُ في رَحمِ الجُذور.<br />\r\n\tقلعوا الجَذرَ مِن التُّربة ...<br />\r\n\tقالت:<br />\r\n\tإنني مِن أجلِ هذا اليوم<br />\r\n\tخبأتُ البذور.<br />\r\n\tكامن ثأري بأعماق الثرى<br />\r\n\tوغداً سوف يرى كل الورى<br />\r\n\tكيف تأتي صرخة الميلاد<br />\r\n\tمن صمت القبور.<br />\r\n\tتَبردُ الشمسُ ...<br />\r\n\tولا تبرد ثارات الزهور! </span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-size: 1em;\"><span style=\"font-family: Tahoma,Geneval,sans-serif;\">(إلى زهورنا الذين قضوا شهداء في مواجهة قاتليهم)</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة",
+    "رِثاء",
+    "سِياسَة"
+  ],
+  "created_at": "2011-06-01T22:02:00Z",
+  "attributes": {
+    "old_id": 480
+  },
+  "language": "ar",
+  "history": []
+}

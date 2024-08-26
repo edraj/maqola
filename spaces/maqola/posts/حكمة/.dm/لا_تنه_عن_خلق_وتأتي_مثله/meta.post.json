@@ -1,0 +1,43 @@
+{
+  "uuid": "a4946cb9-d214-420b-87c4-8ec50defa288",
+  "shortname": "لا_تنه_عن_خلق_وتأتي_مثله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تنه عن خُلقٍ وتأتي مِثلَه"},
+  "updated_at": "2010-12-21T15:33:47Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5c6acb7659e2b1c74d11bfded472b2b501397f89",
+    "bytesize": 1159,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">لا تَنهَ عَن خُلُقٍ وتَأتي مِثلَهُ -- عارٌ عَليكَ إذا فَعَلتَ عَظيمُ </span><br />\r\n\t<br />\r\n\t<span style=\"font-size: 1.4em;\">العارُ هُنا هو أن تأتي بالخُلُقِ الذميمِ وليس النَّهيُ عنهُ (أو ابداء النصح)، كما قد يُظن. فلا يَجدر بأحد أن يبخل بالنصح لغيره، مهما كانت أعماله، ولا يجدر بأحد أن يمتنع عن أخذ النصيحة لأن الناصح لا يعمل بها أو أنه لا يُعجبه. فالحكمة ضالةُ المؤمن، وتَركُ النصيحة بالنظر للناصح يُعدُّ مِن الجهل. فمثلاً، إذا دعاني مُدَخنٌ إلى الابتعاد عن التدخين آخذ بنصيحته بكل جدية. ولا يجدر بذلك المدخن أن يتوانى عن نُصح الآخرين ونهيهم عن التدخين، والعار في أن يستمر بعادة التدخين، ولكن العار الأكبر أن يترك النصيحة. والله أعلم. </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-21T15:33:13Z",
+  "attributes": {
+    "old_id": 402
+  },
+  "language": "ar",
+  "history": []
+}

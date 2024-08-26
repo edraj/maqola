@@ -1,0 +1,29 @@
+{
+  "uuid": "54d0c12a-7a6f-44e6-a04c-41303e13282c",
+  "shortname": "تصحيح_حلما",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح حلما"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8637dd9a83628455182d7da9b24794e4dfb30841",
+    "bytesize": 48,
+    "body": "حلما بكسر الحاء وليس بضمها"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bc87f69d-122a-49c0-a5eb-6b916c3b82cd",
+    "shortname": "علو_الهمة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-08T11:05:01Z",
+  "attributes": {
+    "old_id": 828,
+    "old_entry_id": 19
+  },
+  "language": "ar"
+}

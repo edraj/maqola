@@ -1,0 +1,29 @@
+{
+  "uuid": "1ec163f4-e039-46e8-8838-9f94ba66288c",
+  "shortname": "هي_دنيا_وليست_جنه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هي دنيا وليست جنه "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:57aa84bfd20a3801ea391b75f1282c027750716e",
+    "bytesize": 51,
+    "body": "من أروع الأمثال والحكم أيضا "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "9ac67bf0-2764-4ed7-ab5d-5540890ee113",
+    "shortname": "omyah_abusallama",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-08-29T10:30:56Z",
+  "attributes": {
+    "old_id": 906,
+    "old_entry_id": 448
+  },
+  "language": "ar"
+}

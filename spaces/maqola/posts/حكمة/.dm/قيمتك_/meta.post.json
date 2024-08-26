@@ -1,0 +1,42 @@
+{
+  "uuid": "db631698-ed6c-44bd-9524-32d0b939e262",
+  "shortname": "قيمتك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قيمتك!!"},
+  "updated_at": "2014-08-08T10:43:01Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:181017e5be4f638b5ee9df5e3d5d135c0fd56b39",
+    "bytesize": 201,
+    "body": "<span class=\"maqola_body\"> <br> قيمة الشخص ما يحسنه لا ما يملكه&#160;  </span><div><span class=\"maqola_body\">إلا في البنك فقيمتك بما تملك!!!</span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "6a89b050-46f2-4a8f-8986-5ba6aa130d3c",
+    "shortname": "محمد_حسن_الزهراني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-08-08T10:43:01Z",
+  "attributes": {
+    "old_id": 913
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "93f81498-f667-49ec-80f6-b6c8bd702c4c",
+  "shortname": "93f81498",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-12-20T00:58:01Z",
+  "author_locator": { "type": "content",
+    "uuid": "4be9571a-fcbf-4e81-8a6d-91f98f740f89",
+    "shortname": "hassan_abu_sleem",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-12-20T00:58:01Z",
+  "attributes": {
+    "old_id": 657,
+    "old_entry_id": 1565
+  },
+  "language": "en",
+  "location": {
+    "uuid": "93f81498-f667-49ec-80f6-b6c8bd702c4c",
+    "shortname": "93f81498",
+    "subpath": "posts/حديث_شريف",
+    "space_name": "maqola",
+    "parent_shortname": "استفت_قلبك",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

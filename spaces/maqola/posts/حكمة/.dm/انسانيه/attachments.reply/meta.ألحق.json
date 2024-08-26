@@ -1,0 +1,29 @@
+{
+  "uuid": "5f7ca87e-79f4-4f16-85d6-4de91697311e",
+  "shortname": "ألحق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ألحق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7b35a5b6b1b187927fbdb22fcc5127f53165f9cd",
+    "bytesize": 54,
+    "body": "ينام لحق أحيانا--ولكنه لا يموت"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "d7715027-65bd-427b-a02b-eceac61c72b0",
+    "shortname": "nazmi_abu_samrah",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-02-14T19:41:00Z",
+  "attributes": {
+    "old_id": 799,
+    "old_entry_id": 844
+  },
+  "language": "ar"
+}

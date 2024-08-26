@@ -1,0 +1,43 @@
+{
+  "uuid": "28ed1285-8efe-437e-b614-d801908595cf",
+  "shortname": "داء_الغرام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"دَاءُ الغَرَام"},
+  "updated_at": "2015-07-19T21:30:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:abf41d98be27ca028b2cdb0a29148d13f79562b5",
+    "bytesize": 1318,
+    "body": "<p>الصبر حلو يافؤادى فانتظر رحماك إنى من غرام أحتضر </p><p>خفقات عشق كم تؤرقنى بها فوددت نزعك من وريد المستعر </p><p>داء الغرام يصيبنا فى لمحة فننام فى كمد ونلتحف الكدر </p><p>كم من صحيح كان يصحو باكراً فهوى وبعد العشق أعياه السهر</p><p>فى كبرياء قد بنينا صرحنا لكننا قصراً نهيم فننحدر</p><p>كم سطر الماضون قصة عشق لديار من يهوى تغرب واستتر</p><p>فى كل جوف ساحه لمعارك والحب إن نازلته هو منتصر</p><p>أفنيت عمرى والفؤاد متيم بجميلة من حسنها غار القمر</p><p>ويظل قلبى فى غياهب حبها أتراه يحى والحبيب بل أثر</p><p>كأس الهيام إذا شربت صفاءوه من كف من تهوى ستشعر بالظفر</p><p>كَلِمَات / ناصر السعيد<br></p><p>________________________________________</p><p>حُرِرَتْ مِنْ قِبَل : أُسَامَة الحُصَرِى </p><p> <a href=\"https://www.facebook.com/osama.elhosary.7\">https://www.facebook.com/o<span style=\"background-color: rgb(229, 224, 236);\"></span>sama.elhosary.7</a></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "3defc0b7-8c89-4965-b0ac-944be80d283d",
+    "shortname": "usama_elhosary",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "غَزَل"
+  ],
+  "created_at": "2015-07-19T21:23:18Z",
+  "attributes": {
+    "old_id": 1405
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "3db9ad29-e8a6-4d18-8121-58b22a95cb58",
+  "shortname": "_____يا____",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ﺳﻼﻣﺔُ ﺍﻟﺼﺪﺭِ ﺭﺍﺣﺔٌ ﻓﻲ ﺍﻟﺪﻧيا ﻭ ﻏَﻨﻴﻤَﺔٌ ﻓﻲ ﺍﻵﺧﺮﺓ"},
+  "updated_at": "2013-04-07T17:12:49Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5490dc07d69c0a6ecb635c928ecab28e1a783fd3",
+    "bytesize": 1267,
+    "body": "<span class=\"maqola_body\"> يحكى ﺃﻥ رجلا كاﻥ ﻣﻦ ﺃﺟﻮَﺩ أهل زمانه، <br>ﻓﻘﺎﻟﺖ له زوجته ﻳﻮﻣًﺎ : ما رأيت ﺃﺷﺪَّ ﻟﺆﻣًﺎ ﻣﻦ ﺇﺧﻮﺍﻧﻚ ﻭ ﺃصحاﺑﻚ !!<br>ﻗﺎﻝ : ﻭ ﻟﻢ ﺫﻟﻚ ؟!<br>ﻗﺎﻟﺖ : ﺃﺭﺍﻫﻢ ﺇﺫﺍ ﺍغتنيتَ ﻟﺰِﻣُﻮﻙ ، ﻭﺇﺫﺍ ﺍﻓﺘﻘﺮﺕ ﺗﺮﻛﻮﻙ !<br>ﻓﻘﺎﻝ ﻟﻬﺎ : ﻫﺬﺍ ﻭ ﺍﻟﻠﻪ ﻣﻦ ﻛﺮﻡِ ﺃﺧﻼﻗِﻬﻢ ، ﻳﺄﺗﻮﻧﻨﺎ ﻓﻲ ﺣﺎﻝ ﻗُﺪﺭﺗﻨﺎ ﻋﻠﻰ ﺇﻛﺮﺍﻣﻬﻢ ، ﻭ ﻳﺘﺮﻛﻮﻧﻨﺎ ﻓﻲ ﺣﺎﻝ ﻋﺠﺰﻧﺎ ﻋﻦ ﺍﻟﻘﻴﺎﻡ ﺑﻮﺍﺟﺒﻬﻢ .<br><br></span><hr><span class=\"maqola_body\"><br>ﺍﻧﻈـُﺮ ﻛﻴﻒ ﺑﻜﺮﻣﻪ ﺟﺎﺀ ﺑﻬﺬﺍ ﺍﻟﺘﺄﻭﻳﻞ برغم علمه حقيقتهم فجعل ﻗﺒﻴﺢ ﻓِﻌﻠﻬﻢ حسناً ﻭ ﻇﺎﻫِﺮ ﻏﺪﺭﻫﻢ ﻭﻓﺎﺀ ﻭ ﻫﺬﺍ ﻳﺪﻝ على ﺃﻥ ﺳﻼﻣﺔ ﺍﻟﺼﺪﺭ ﺭﺍﺣﺔ ﻓﻲ ﺍﻟﺪﻧيا ﻭ ﻏﻨﻴﻤﺔ ﻓﻲ ﺍﻵﺧﺮﺓ. <br> ﺃﺣﺴﻦ ﺍﻟﻈﻦ ﺑﺎﻵﺧﺮﻳﻦ ﻭ ﺍﻟﺘﻤﺲ ﻷﺧﻴﻚ سبعين ﻋﺬﺭاً.<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء",
+    "كَرَم"
+  ],
+  "created_at": "2013-04-07T17:12:20Z",
+  "attributes": {
+    "old_id": 570
+  },
+  "language": "ar",
+  "history": []
+}

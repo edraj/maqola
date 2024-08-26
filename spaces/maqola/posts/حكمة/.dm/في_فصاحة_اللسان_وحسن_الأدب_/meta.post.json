@@ -1,0 +1,42 @@
+{
+  "uuid": "82575465-4f9b-4acc-9fcc-6f4698cba571",
+  "shortname": "في_فصاحة_اللسان_وحسن_الأدب_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في فصاحة اللسان وحسن الأدب،"},
+  "updated_at": "2010-11-04T05:11:20Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4fd3c71a6953d0d04b151d593c1d51f1d3692356",
+    "bytesize": 1117,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قال أبو حاتم - رضي الله عنه -: الفصاحةُ أحسنُ لباسٍ يَلْبَسهُ الرجل وأحسَنُ إزارٍ يئتَزرُ بِه العاقل، والأدب صاحبٌ في الغربة، ومؤنِسٌ في القِلَّة، وزينٌ في المحافلِ، وزيادةٌ في العقلِ، ودليلٌ على المروءةِ، ومَن استفادَ الأدبَ في حداثَتِهِ انتَفَعَ بِهِ في كبره، لأنَّ مَن غَرسَ فسيلًا، يوشِكُ أنْ يأكُلَ رُطَبَها، وما يَستوي عِند أولي النُهى، ولا يَكونُ سِيّانٌ عِندَ ذَوي الحُجي: رجلان: أحَدُهُما يُلحِنُ، والآخر لا يُلحِن.</span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">(واللحنُ هو الخطأ في لفظِ الكلمات أو تَشكيلِها مما قد يؤدي إلى إخلالٍ في المعنى).</span></span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-11-04T05:11:20Z",
+  "attributes": {
+    "old_id": 161
+  },
+  "language": "ar",
+  "history": []
+}

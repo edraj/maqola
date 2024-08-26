@@ -1,0 +1,41 @@
+{
+  "uuid": "990041e6-bf86-4d75-971a-c6ef56af5b9a",
+  "shortname": "ولا_يبالي_الشيطان_بأيهما_ظفر_بك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ولا يبالي الشيطان بأيهما ظفر بك!"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d38be24bedc50795b7cf716dbf46fa75061cc9f3",
+    "bytesize": 303,
+    "body": "<p>أفسد الترغيب قلوب البعض، فأطال أمد المعصية وسوّٓفوا التوبة..</p><p> وأفسد الترهيب قلوب آخرين حين دفعهم إلى اليأس وترك المحاولة.</p><p><br> ولا يبالي الشيطان بأيهما ظفر بك!</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "98c05580-9d4c-4379-b9ee-265dce111570",
+    "shortname": "نصر_الدين_أبوطالب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-03-13T04:14:08Z",
+  "attributes": {
+    "old_id": 1106
+  },
+  "language": "ar",
+  "history": []
+}

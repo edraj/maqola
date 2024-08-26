@@ -1,0 +1,45 @@
+{
+  "uuid": "cc99e1e6-ef3e-4797-a44a-b8ddf7271f12",
+  "shortname": "من_أقوال_احمد_مطر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أقوال احمد مطر"},
+  "updated_at": "2014-02-04T14:18:22Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2dfce146bc35e61013f726f30556a9472e223ef4",
+    "bytesize": 241,
+    "body": "يا صديقي<br> أنا ممنوعٌ منَ التفكيرِ حتى في التمني .<br> أنا لو أعصرُ ذهني<br> تعصرُ الدولة دُهني !!!<br> <br> --أحمد مطر<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "سِياسَة",
+    "شِعر",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-04T14:18:04Z",
+  "attributes": {
+    "old_id": 796
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "59904c82-d850-4278-960c-6da7684e810d",
+  "shortname": "هل_عرف_العرب_الشابكة_الإنترنت__قديما_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هل عرفَ العربُ الشابكة (الإنترنت) قديما؟"},
+  "updated_at": "2015-06-24T23:49:58Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b49da4b901ec84d6dec0ea08fc3a4fa3dc17fa63",
+    "bytesize": 644,
+    "body": "<p>سؤالٌ مُحيِّر ؟!</p><p>قيل أوصى أعرابيٌّ ابنَهُ، فقال: <br>أيُّ بُني،  إيّاكَ أنْ تَسُبَّ الرِّجالَ (فيسبوك) على الملأ، وإياك أن (توتر) قلوبَهم عليك، فإني قد حُدِّثتُ عن رجلين التقيا، (وتساب) الرجلانِ بينَهُما (فأي بر) قد كسبا؟ وأي حاضر قد قبل بهما؟! و (أي باد) رضي فعلَهُما؟! و (لا يك) همُّكَ الغلبة، و (ادمن) مُداراةَ الناس وحُسنَ مُعاملَتِهم.<br><span class=\"uthman\"></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2015-06-24T23:45:11Z",
+  "attributes": {
+    "old_id": 1353
+  },
+  "language": "ar",
+  "history": []
+}

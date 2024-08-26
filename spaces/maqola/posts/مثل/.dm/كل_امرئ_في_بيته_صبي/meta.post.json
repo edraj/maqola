@@ -1,0 +1,42 @@
+{
+  "uuid": "2d6cb37a-65d2-4ec8-bcd7-977997fc467f",
+  "shortname": "كل_امرئ_في_بيته_صبي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كلُّ امرِئٍ في بَيتِهِ صبيٌّ"},
+  "updated_at": "2011-01-07T16:20:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0fce7a4d9dbea0ea29a81ebcdbb9886d38abe9fe",
+    "bytesize": 706,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أي يَطرَحُ الحِشمَةَ، ويستعمل الفُكاهَةَ. يُضرَبُ في حُسْن المعاشرة‏.‏<br />\r\n\tقيل‏:‏ كان زيد بن ثابت من أَفْكَهِ الناس في أهْلِهِ وأدْمَثِهم إذا جلس مع الناس، وقَال عمر رضي الله عنه‏:‏ ينبغي للرجل أنْ يكونَ في أهلهِ كالصبي، فإذا التُمِسَ ما عِندَهُ وُجدَ رجلاً.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من كتاب &quot;مجمع الأمثال&quot; للميداني.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2011-01-07T16:20:38Z",
+  "attributes": {
+    "old_id": 452
+  },
+  "language": "ar",
+  "history": []
+}

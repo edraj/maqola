@@ -1,0 +1,43 @@
+{
+  "uuid": "408641c4-5d73-493f-bbe1-81ff923788ea",
+  "shortname": "ليست_النائحة_الثكلى_كالنائحة_المستأجرة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لَيسَت النائِحةُ الثكلى كالنائحةِ المُستأجَرة"},
+  "updated_at": "2013-05-08T05:00:22Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3ab416a88ee2ca334f845f3df86fd6f88aa50067",
+    "bytesize": 1013,
+    "body": "<span class=\"maqola_body\"> <br>لَيسَت النائِحةُ الثكلى كالنائحةِ المُستأجَرة<br><br>النائحة هي الباكية المولولة على فقيدها، أي: المرأة التي يموت لها قريب عزيز عليها فهي تبكي بمرارة وحسرة على فقده.<br><br>أما النائحة المستأجرة: فهي المرأة التي امتهنت النياحة للتكسب، فهي تأتي إلى أهل الميت لتعدد مناقبه وتولول وسط النساء لتضفي جواً من الحزن والأسى وتهيج المفجوعات، وتأخذ على ذلك مالاً، وهذه العادة السيئة كانت سائدة في الجاهلية ثم جاء الإسلام وحرمها ونهى عنها.<br><br>ويُضربُ هذا المثل للتدليل على أن صاحب الحاجة يفوق تعبيره و اهتمامه بأي شخص قد يأتي (مستأجرا) أو بديلا عنه.<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "مَثَل"
+  ],
+  "created_at": "2013-05-08T05:00:08Z",
+  "attributes": {
+    "old_id": 597
+  },
+  "language": "ar",
+  "history": []
+}

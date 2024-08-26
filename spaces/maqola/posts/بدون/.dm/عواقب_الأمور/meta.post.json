@@ -1,0 +1,41 @@
+{
+  "uuid": "68c3decc-ccf6-48d4-a9f2-d8dc699fc96d",
+  "shortname": "عواقب_الأمور",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عواقب الأمور"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:644dd5e7fdf5cb77e689d06f9aaa6e268e6d5bdb",
+    "bytesize": 109,
+    "body": "<p>ابن الجوزي: «راقب العواقب تسلم ولا تمل مع هوى الحس فتندم.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "f2fab9b9-066f-429f-a67d-b77e1569f19b",
+    "shortname": "ابن_الجوزي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "51930836-936e-4c66-a4fa-de348259073d",
+    "shortname": "gouda_yousuf",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-07-16T11:34:14Z",
+  "attributes": {
+    "old_id": 1402
+  },
+  "language": "ar",
+  "history": []
+}

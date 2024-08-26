@@ -1,0 +1,29 @@
+{
+  "uuid": "c1488026-6bc6-4246-aba1-7e3ac0b8d440",
+  "shortname": "ممتازة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ممتازة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9090a00f7ea81acfe006061a8f3d8b6283872bd3",
+    "bytesize": 23,
+    "body": "مقوله ممتازة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "06126d28-18ef-43cb-8a4d-73c6e5a4a0f1",
+    "shortname": "ayman_salem",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-11-08T08:37:33Z",
+  "attributes": {
+    "old_id": 936,
+    "old_entry_id": 153
+  },
+  "language": "ar"
+}

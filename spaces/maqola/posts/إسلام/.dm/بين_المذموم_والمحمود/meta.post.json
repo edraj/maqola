@@ -1,0 +1,44 @@
+{
+  "uuid": "a17c4efe-9595-4821-92a3-9aa899320e4e",
+  "shortname": "بين_المذموم_والمحمود",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بين المذموم والمحمود"},
+  "updated_at": "2015-05-15T01:44:55Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e89ae0cb4a78e9fd330a5088f5792df3586eaf82",
+    "bytesize": 364,
+    "body": "<p>قال الفضيل بن عيّاض : \" إن قدرتَ أن لا تــُعرف فافعل ، وما عليك إن لم يُثنَ عليك ، وما عليك أن تكونَ مذمُوما عِندَ النّاس إذا كنت عِندَ الله محمودا \" .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة"
+  ],
+  "created_at": "2015-05-15T01:44:22Z",
+  "attributes": {
+    "old_id": 1266
+  },
+  "language": "ar",
+  "history": []
+}

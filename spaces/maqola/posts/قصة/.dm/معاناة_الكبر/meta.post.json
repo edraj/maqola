@@ -1,0 +1,42 @@
+{
+  "uuid": "bfbe647b-fa78-4228-a6d5-cdb9732d18f8",
+  "shortname": "معاناة_الكبر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مُعاناةُ الكِبَر"},
+  "updated_at": "2010-12-02T14:28:04Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:55afaf3506d67b6f35571da89ba94199fbd95846",
+    "bytesize": 1141,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">دَخلَ مَعنُ بن زائدة على المأمون وقد كَبِرَ، فقال له المأمون: إلى أيِّ حالٍ صَيَّرَكَ الكِبَر؟ قال: إلى أنْ أعثر بِبَعرة، وتُقَيُّدني شَعرة، فقال: كيف حالك في المأكول والمشروب؟ قال: إن جُعتُ حَردِت، وإنْ شَبِعتُ وَجِعت، قال: فكيفَ حالُكَ في النوم؟ قال: إنْ كُنتُ في ملأ نَعِستْ، وإنْ صِرتُ إلى فِراشي أُرِّقتْ، قال: فكيفَ حالُك مَع النساء؟ قال: عِندي مِنهُنَّ ضُروب: أما القِباحُ فَلستُ أُريدُهُن، وأما الملاح فَلَسن يُردنَني، قال المأمون: لا يَحِلُّ أنْ يُستَنابَ مِثلُك (أي أنه ما عاد يقدر على الرياسة)، وأضعِفوا له رِزقه، وألزموه بَيتَه، يُركَبُ إليه ولا يَركَبُ إلى أحد (كأنه أحالَه على التقاعد!) .</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2010-12-02T14:28:04Z",
+  "attributes": {
+    "old_id": 294
+  },
+  "language": "ar",
+  "history": []
+}

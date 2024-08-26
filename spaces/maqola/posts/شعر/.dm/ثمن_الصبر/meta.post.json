@@ -1,0 +1,42 @@
+{
+  "uuid": "768f9358-31df-44d7-9317-f1cc3d99ace3",
+  "shortname": "ثمن_الصبر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ثمن الصبر"},
+  "updated_at": "2014-07-02T13:15:03Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2bbb12def8f9a98b3f1a1b15e47b72f75baa4b99",
+    "bytesize": 938,
+    "body": "<span class=\"maqola_body\"> <br> ﻳﺎ ﺑﺎﺋﻊَ ﺍﻟﺼَّﺒﺮِ ﻻ‌ ﺗُﺸﻔِﻖْ ﻋﻠﻰ ﺍﻟﺸَّﺎﺭﻱ<br>ﻓﺪِﺭﻫَﻢُ ﺍﻟﺼَّﺒﺮِ ﻳَﺴﻮَﻯ ﺃﻟﻒَ ﺩﻳﻨﺎﺭِ<br><br>ﻻ‌ ﺷﻲﺀَ ﻛﺎﻟﺼَّﺒﺮِ ﻳَﺸﻔﻲ ﺟُﺮﺡَ ﺻﺎﺣِﺒﻪِ<br>ﻭﻻ‌ ﺣَﻮَﻯ ﻣﺜﻠَﻪُ ﺣﺎﻧﻮﺕُ ﻋَﻄَّﺎﺭِ<br><br>ﻫﺬﺍ ﺍﻟﺬﻱ ﺗُﺨﻤِﺪُ ﺍﻷ‌ﺣﺰﺍﻥَ ﺟُﺮﻋﺘُﻪُ<br>ﻛﺒﺎﺭِﺩِ ﺍﻟﻤﺎﺀِ ﻳُﻄﻔﻲ ﺣِﺪَّﺓَ ﺍﻟﻨَّﺎﺭ<br><br>ِﻭﻳَﺤﻔﻆُ ﺍﻟﻘﻠﺐَ ﺑﺎﻕٍ ﻓﻲ ﺳﻼ‌ﻣﺘﻪِ<br>ﺣﺘﻰ ﻳُﺒَﺪَّﻝَ ﺇﻋﺴﺎﺭٌ ﺑﺈﻳﺴﺎﺭ<br><br>ِﺇﻥ ﺍﻟﺴَّﻼ‌ﻣﺔَ ﻛَﻨﺰٌ ﻛﻞُّ ﺧﺮﺩﻟﺔ<br>ٍﻣﻨﻪُ ﺗﻘُﻮَّﻡُ ﻣِﻦ ﻣﺎﻝٍ ﺑﻘﻨﻄﺎﺭِ<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "945a78fc-63f7-42c1-a380-1730a1a586cc",
+    "shortname": "فياض_دوابشة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2014-07-02T13:15:03Z",
+  "attributes": {
+    "old_id": 896
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "10a7b2da-a3ad-4800-8f7b-a0301051c367",
+  "shortname": "نداء_لذوي_البصائر_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نداءٌ لِذَوي البصائر ،"},
+  "updated_at": "2010-11-10T08:53:27Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:44124f997ccb47df78a412c9ea53a5c064baefa1",
+    "bytesize": 462,
+    "body": "<p>\r\n\t<span class=\"maqola_font_bold\"><span style=\"font-size: 1.5em;\">أتُؤذى المُسلِماتُ بِكُلِّ أرضٍ - وَ عَيشُ المُسلِمينَ إذاً يَطيبُ؟<br />\r\n\tأما للهِ والإسلامِ حَقٌّ - يُدافِعُ عَنهُ شُبّانٌ و شيبُ؟<br />\r\n\tفَقُلْ لِذوي البَصائِرِ حَيثُ كانوا - أجيبوا الله، وَيحَكُمُ، أجيبوا!</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "شِعر"
+  ],
+  "created_at": "2010-11-10T05:57:46Z",
+  "attributes": {
+    "old_id": 171
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,49 @@
+{
+  "uuid": "5668d4dc-a629-4349-a68e-5f1ae5b6daa2",
+  "shortname": "أحسن_الى_الناس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أحسن الى الناس"},
+  "updated_at": "2014-02-02T11:49:13Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8cfd510ea1bcfa9863dafee0bca5f634af2a1e4e",
+    "bytesize": 175,
+    "body": "أحسِنْ إلى النّاس تستعبدْ قلوبَهمُ ... فلطالما استعبدَ الإنسانَ إحسانُ<span class=\"maqola_body\"> <br> <br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة",
+    "خاطِرة",
+    "سِياسَة",
+    "شِعر",
+    "فَصاحَة",
+    "قَناعَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-01T15:50:27Z",
+  "attributes": {
+    "old_id": 762
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "cf36da9f-cee1-413b-be33-77a2dbfa860f",
+  "shortname": "شكرا_على_التوضيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكرا على التوضيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c5f33141308855a7ee683c5f136a03b8b93bc9a1",
+    "bytesize": 687,
+    "body": "السلام عليكم أخي واستاذي كفاح  شكرا على التصحيح وبارك الله فيك على التوضيح فالحكم يقع بالتعيين وهو ما لا يمكن أن نحكم به على الشاعر والظاهر هو كما بينت في شرحك.  كتعقيب أخي كفاح على قولك: \\'والملاك اسم يُستخدم حتى في تسمية البنات\\'  التسمية باسم ملاك العلماء لهم قول فيه ما بين التحريم والكراهة. (انظركتاب: تسمية المولود : آداب و أحكام  لفضيلة الشيخ بكر أبو زيد رحمه الله).  الله الموفق "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-19T15:42:11Z",
+  "attributes": {
+    "old_id": 107,
+    "old_entry_id": 186
+  },
+  "language": "ar"
+}

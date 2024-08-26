@@ -1,0 +1,41 @@
+{
+  "uuid": "29fbf2c3-5cf9-419e-b7b7-9e0873d69b69",
+  "shortname": "براءة__الطفولة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"براءة  الطفولة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2f5b313f2b00e85d413b919ba1eef0ac7d3358a9",
+    "bytesize": 543,
+    "body": "<p>يوم كنا في الطفـولة توأمان  ..</p><p> بـراءة وعفـة تجمع برعميـن يلعبـان ..<br>ركض وفـرح في ريـاض الأزهـار يمرحان ..<br>قلوب صغيرة لا ترى إلا مواضع العفة في الإنسان  ..<br>وإذا التقت اليـد باليـد الأنامل كانت تعانق في العيان .. <br>تحتضن بعضها والنوايـا خاليـة من شوائب الأدران  ..</p><p>ـــــــــــــ ضياء ابراهيم</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُفولَة"
+  ],
+  "created_at": "2015-02-21T18:35:23Z",
+  "attributes": {
+    "old_id": 1060
+  },
+  "language": "ar",
+  "history": []
+}

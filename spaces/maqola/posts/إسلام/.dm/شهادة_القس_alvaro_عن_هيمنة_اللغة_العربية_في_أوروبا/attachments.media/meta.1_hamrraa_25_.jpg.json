@@ -1,0 +1,18 @@
+{
+  "uuid": "228eb82f-138d-4ee5-ae70-1f86c72b876a",
+  "shortname": "1_hamrraa_25_.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:eb8cc81f33b511208ff3f59bd56c36f302411cd7",
+    "bytesize": 129873,
+    "body": "1_hamrraa_25_.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:09+03:00",
+  "attributes": {
+    "old_id": 86
+  },
+  "language": "en"
+}

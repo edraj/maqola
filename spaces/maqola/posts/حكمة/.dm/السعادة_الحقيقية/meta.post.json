@@ -1,0 +1,46 @@
+{
+  "uuid": "fc5cd5a3-2b81-4c56-95c4-adfa55c65586",
+  "shortname": "السعادة_الحقيقية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السعادة الحقيقية"},
+  "updated_at": "2014-02-04T13:45:32Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0345e7ce741243480a3cc5e78f5949e20205358a",
+    "bytesize": 412,
+    "body": "وَلستُ أرى السعادةَ جَمْعَ مالٍ ** ولكنَّ التقيَّ هو السعيدُ<br> وتــقـوى اللهِ خـيـرُ الـزادِ ذُخْــراً ** وعـنـد اللهِ لَلْأَتْقَى مَزِيدُ<br> ولا بــد أن يــأتــي قــــريــــبٌ ** ولكنَّ الذي يمضي بعيدُ<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-04T13:45:26Z",
+  "attributes": {
+    "old_id": 791
+  },
+  "language": "ar",
+  "history": []
+}

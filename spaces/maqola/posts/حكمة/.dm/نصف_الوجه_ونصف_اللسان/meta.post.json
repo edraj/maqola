@@ -1,0 +1,42 @@
+{
+  "uuid": "a0f5b032-fc17-4f3b-b0ff-56ed6ed0692a",
+  "shortname": "نصف_الوجه_ونصف_اللسان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نِصفُ الوَجهِ وِنصفُ اللِسانِ"},
+  "updated_at": "2010-12-25T12:07:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7da6e4b8463d67e5fa6a635e37a4269b06038758",
+    "bytesize": 391,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">لَئِن يَكونَ لي نِصفُ وَجهٍ ونِصفُ لِسانٍ،<br />\r\n\tعلى ما في ذلكَ مِن قُبحِ المَنظَرِ وعَجزِ المَخبَرِ،<br />\r\n\tأحَبُّ إليَّ من أن أكونَ ذا وَجهَينِ، وذا لِسانَينِ،<br />\r\n\tوذا قَولَين مُختَلِفين.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b4a0dbf6-91da-44df-a822-37c956f1885e",
+    "shortname": "الجاحظ",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-10-19T09:10:19Z",
+  "attributes": {
+    "old_id": 89
+  },
+  "language": "ar",
+  "history": []
+}

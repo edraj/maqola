@@ -1,0 +1,42 @@
+{
+  "uuid": "c71e0499-1d3d-49fa-85ca-8c12fa42fbb8",
+  "shortname": "الحب_الحققي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اَلْحُب الْحَقِقي"},
+  "updated_at": "2014-12-15T20:56:29Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7ca911b22e38ec7520fe056168234ea5493b9321",
+    "bytesize": 418,
+    "body": "<span class=\"maqola_body\"> <br><span class=\"fontxxlarge\"><b><span style=\"color: #4f6128;\"><span style=\"background-color: rgb(255, 255, 255);\"><span class=\"uthmanb\"> اَلْحُبُّ الْحَقِيقِيُّ قَوْلُ الْحَقِّ بِالْحَقِّ مِنْ أَجْلِ الْحَقِّ لِأَنَّ الحَيَاةَ خُلِقَتْ بِالْحَقِّ.</span></span></span></b></span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4a87769f-bd75-45cb-af52-3d06ee74f017",
+    "shortname": "trad_part",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-12-15T20:56:29Z",
+  "attributes": {
+    "old_id": 940
+  },
+  "language": "ar",
+  "history": []
+}

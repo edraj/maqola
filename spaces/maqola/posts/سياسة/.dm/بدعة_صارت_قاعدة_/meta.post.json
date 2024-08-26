@@ -1,0 +1,43 @@
+{
+  "uuid": "c0c3ce4c-e76f-4254-876c-aa6c56c26f45",
+  "shortname": "بدعة_صارت_قاعدة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بِدعَة صارت قاعدة،"},
+  "updated_at": "2010-12-09T14:10:59Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d71169be58a6677e0ac81337231c57ba88b1cd14",
+    "bytesize": 380,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\">بِدعَةٌ عِندَ وُلاةِ الأمرِ صارَت قاعِدَة ،<br />\r\n\tكُلُّهُم يَشتُمُ أمريكا ،<br />\r\n\tوأمريكا، إذا ما نَهَضوا للشَتمِ، تَبقى قاعِدَة ،<br />\r\n\tفإذا ما قَعَدوا، تَنهَضُ أمريكا لِتَبني قاعِدَة</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-30T11:12:56Z",
+  "attributes": {
+    "old_id": 271
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "3d86d122-acb7-44a0-9e1d-081c8637a708",
+  "shortname": "و_سيدوي_خلعك_في_الدنيا____وسيأتي_في_خبر_عاجل_........آمين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"و سَيَدوي خَلعُكَ في الدنيا -- وسيأتي في خَبرٍ عاجِل ........آمين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:62e151dd96e266c30697d3d547a43268c584291c",
+    "bytesize": 110,
+    "body": "و سَيَدوي خَلعُكَ في الدنيا -- وسيأتي في خَبرٍ عاجِل ........آمين"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-18T20:34:14Z",
+  "attributes": {
+    "old_id": 486,
+    "old_entry_id": 493
+  },
+  "language": "ar"
+}

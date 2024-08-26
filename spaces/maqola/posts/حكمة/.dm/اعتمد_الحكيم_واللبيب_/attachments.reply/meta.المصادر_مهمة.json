@@ -1,0 +1,29 @@
+{
+  "uuid": "e137c265-b4c6-46dc-923b-420bc991c0fa",
+  "shortname": "المصادر_مهمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المصادر مهمة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:55587105d5554c12944cd319eca0c9d799a84d9e",
+    "bytesize": 394,
+    "body": "السلام عليكم ورحمة الله وبركاتة  شكراً جزيلاً على هذا الموقع الرائع  هذا البيت للشاعر الجاهلي طرفة بن العبد بن سفيان بن سعد أبو عمرو الملقب بطرفة  اتمنى وضع اسم القائل في كل مشاركة ان توفرت لتكتمل الفائدة  وفقكم الرحمن"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-22T06:34:16Z",
+  "attributes": {
+    "old_id": 492,
+    "old_entry_id": 206
+  },
+  "language": "ar"
+}

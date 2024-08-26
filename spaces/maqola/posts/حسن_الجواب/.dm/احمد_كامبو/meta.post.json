@@ -1,0 +1,47 @@
+{
+  "uuid": "1ab2394f-9ec2-4757-8f15-cd5f0e5ed010",
+  "shortname": "احمد_كامبو",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"احمد كامبو"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:73bdf2276567caed4f3c81c7d88ff918b7556170",
+    "bytesize": 158,
+    "body": "<p>نصيحة</p><p>- عايز ‫#‏تنتقم‬ من اللى ‫#‏بيكرهك‬ بجد؟<br>-..........................‫#‏عاملو_كويس</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "63829d59-b4b3-4b3f-9cfa-cf813943f55e",
+    "shortname": "kemo_kemo",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "صَداقَة",
+    "قِصّة",
+    "مَثَل",
+    "مَعروف"
+  ],
+  "created_at": "2015-05-03T00:12:18Z",
+  "attributes": {
+    "old_id": 1231
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "352793d0-4b96-4513-bab1-34136ca76ce8",
+  "shortname": "النفس_التواقة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"النفسُ التّواقة،"},
+  "updated_at": "2010-11-04T04:00:27Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d7f1036608304d15e46655b7775312487b3702da",
+    "bytesize": 1263,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قال رجاءُ بنُ حَيَوَة: أمَرني عُمرُ بن عبد العزيز أنْ أشتريَ لَه ثوباً بِستّةِ دَراهم، فأتيتُه به فَجَسَّهُ.<br />\r\n\tوقال: هو على ما أحبُّ لولا أنَّ فيه ليناً.<br />\r\n\tقال: فبَكيتُ.<br />\r\n\tقال: فما يُبكيك.<br />\r\n\tقال: أتيتُكَ، وأنت أمير - قبل أن يُصبح الخليفة-، بِثوبٍ بستمائةِ درهم، فَجَسَستَهُ، وقلتَ: هو على ما أحبُّ لولا أن فيه خُشونَة، وأتيتُكَ، وأنتَ أميرُ المؤمنين، بثوبٍ بستةِ دراهم، فجسَستَه، وقلت: هو على ما أحب لولا أن فيه لينا.<br />\r\n\tفقال: يا رجاء، إنَّ لي نفسًا توّاقة، تاقت إلى فاطمةُ بنت عبد الملك فتَزَّوَجتُها، وتاقت إلى الإمارة فَوليتُها، وتاقت إلى الخِلافة فأدركتُها، وقد تاقت الآن إلى الجنة، فأرجو أن أُدركَها، إن شاء الله&#160; عزّ وجَل.</span></span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2010-11-04T04:00:27Z",
+  "attributes": {
+    "old_id": 142
+  },
+  "language": "ar",
+  "history": []
+}

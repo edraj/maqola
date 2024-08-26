@@ -1,0 +1,43 @@
+{
+  "uuid": "1f5bbf1d-4e45-4aef-904f-2fd699ffde92",
+  "shortname": "جودة_الخط",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جَودَةُ الخَطِّ"},
+  "updated_at": "2011-06-05T21:46:41Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:26ff232673fcca78fcd8c4299854e4c2178ee958",
+    "bytesize": 683,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">سُئلَ بَعضُ الكُتّابِ عن الخط، متى يستحقُّ أن يُوصَفَ بالجَودَة؟ فقال : إذا اعتدلت أقسامُهُ وطالت ألفُهُ ولامُهُ، واستقامت سُطورُهُ وضاهى صُعودُهُ حُدودَهُ، وتَفتَّحت عُيونُه ولَم تُشبِه راءُه نونَهُ، وأشرق قرطاسُهُ وأظَلَّت أنفاسُهُ، ولم تَختَلِف أجناسُهُ ويناسِبُ رقيقُه جليلَه، وخَرجَ عن نَمَطِ الورّاقين وبَعُدَ عن تَصَنُّعِ المُحبّرين.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2011-06-05T21:46:41Z",
+  "attributes": {
+    "old_id": 486
+  },
+  "language": "ar",
+  "history": []
+}

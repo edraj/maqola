@@ -1,0 +1,44 @@
+{
+  "uuid": "5caf24f4-62d3-4e0b-8fd8-24d6987496de",
+  "shortname": "بيـن_الأربعــــة_عشر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بيـن الأربعــــة عشر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d1e6282a8fd5e708f9fa40b666c8e3f35522e762",
+    "bytesize": 555,
+    "body": "<p>بـِــلا موعــد مع الجنــون ...<br> يُـحاور ظلكـِ الشفق ويَعِد الغسق بقبلـة ..<br> بيـن الأربعــــة عشر يِغازل اسمكِ القمـر  ..<br> بـ لغة الانتظار و أحرف محرابها أبجدية الشوق ..<br> تنفرد الريح بـ ضفائر يتخللها خيوط حَاكها القمر .. <br> ذاتـ فجــر ..<br> وعلى قارعة الشمس سينبعث ضوء يُعِيد نسج ثناياكـ ..<br><br></p><p>بيسار<br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "عربية",
+    "غَزَل",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-19T14:15:51Z",
+  "attributes": {
+    "old_id": 1037
+  },
+  "language": "ar",
+  "history": []
+}

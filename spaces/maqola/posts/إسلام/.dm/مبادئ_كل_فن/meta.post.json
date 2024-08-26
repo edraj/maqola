@@ -1,0 +1,48 @@
+{
+  "uuid": "20e158f0-3104-4389-bce7-0747e4e3f040",
+  "shortname": "مبادئ_كل_فن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مبادئ كل فن"},
+  "updated_at": "2015-09-16T15:59:07Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:de7b33ab7aa2a69b7c62e236266dd5655304d3c2",
+    "bytesize": 411,
+    "body": "<p style=\"text-align: center;\">إن مـــبادئ كل فن عشرة *** الحد والموضوع ثم الثمره </p><p style=\"text-align: center;\">زفضلــــه ونســــبته والـــواضع *** والإسم الإستمداد حكم الشارع</p><p style=\"text-align: center;\">مسائل والبعض بالبعض إكتفى *** ومن درى الجميع حاز الشرف <br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "شِعر",
+    "عربية",
+    "عُلوم",
+    "فَصاحَة",
+    "قاعدة أصولية",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-09-16T15:40:44Z",
+  "attributes": {
+    "old_id": 1510
+  },
+  "language": "ar",
+  "history": []
+}

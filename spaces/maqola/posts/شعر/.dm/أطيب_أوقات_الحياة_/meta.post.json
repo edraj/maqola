@@ -1,0 +1,43 @@
+{
+  "uuid": "eea431f7-afbd-4750-bf55-52890fec9ddd",
+  "shortname": "أطيب_أوقات_الحياة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أطيَبُ أوقات الحياة،"},
+  "updated_at": "2010-11-24T06:21:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6277e6c7ef53a8a8fe57eda0df63de98ea4106e0",
+    "bytesize": 854,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">وأطيَبُ ساعِ الحياةِ لَدَيّا - عَشيةَ أخْلو إلى وَلديّا<br />\r\n\tمتى ألِجُ البابَ يَهتِفُ باسمي - الفَطيمُ ويحبو الرَّضيعُ إليّا<br />\r\n\tفأُجْلِسُ هذا إلى جانِبي - وأُجلِسُ ذاكَ على رُكبَتيّا<br />\r\n\tوأغزو الشتاءَ بِمَوقِدِ فحمٍ - وأبسِطُ مِن فَوقِهِ راحتيّا<br />\r\n\tهُنالِكَ أنسى مَتاعِبَ يَومي - كأني لَمْ ألقَ في اليومِ شَيّا<br />\r\n\tفَكُلُّ طَعامٍ أراهُ لَذيذاً - وكُلُّ شَرابٍ أراهُ شَهيّاً<br />\r\n\tوما حاجَتي لِغِذاءٍ وماء - بِحَسبيَّ طِفلايَ زاداً ورَيّا !!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "4fb50af1-3ce8-4985-a924-5d6ebf660cbb",
+    "shortname": "محمود_غنيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "طُفولَة"
+  ],
+  "created_at": "2010-11-23T14:38:00Z",
+  "attributes": {
+    "old_id": 222
+  },
+  "language": "ar",
+  "history": []
+}

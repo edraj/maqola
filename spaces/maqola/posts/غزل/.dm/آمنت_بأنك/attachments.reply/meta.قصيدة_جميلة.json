@@ -1,0 +1,29 @@
+{
+  "uuid": "0ccb92ec-2629-477d-a9df-5c6d098d9b57",
+  "shortname": "قصيدة_جميلة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قصيدة جميلة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e955ff8af1e7fda652b77638af69a8d5fefd5d79",
+    "bytesize": 117,
+    "body": "    فهواكى مـقيـم فـى قـلبــى   ...    إنــســـان داخـــل إنـســـان. "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "dcba9bf4-fefd-4ddb-ab37-ef862cebabab",
+    "shortname": "امين_صرصور",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-06-18T07:44:43Z",
+  "attributes": {
+    "old_id": 772,
+    "old_entry_id": 636
+  },
+  "language": "ar"
+}

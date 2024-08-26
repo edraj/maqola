@@ -1,0 +1,33 @@
+{
+  "uuid": "e383faec-9d4b-4e18-9e6a-3abbfe6c1bcc",
+  "shortname": "e383faec",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-25T00:54:22Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-25T00:54:22Z",
+  "attributes": {
+    "old_id": 572,
+    "old_entry_id": 1449
+  },
+  "language": "en",
+  "location": {
+    "uuid": "e383faec-9d4b-4e18-9e6a-3abbfe6c1bcc",
+    "shortname": "e383faec",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "قصة_مع_إبراهيم_بن_أدهم",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

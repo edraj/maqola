@@ -1,0 +1,45 @@
+{
+  "uuid": "9b0ae1d2-621d-49c5-8bdf-e5456e977174",
+  "shortname": "ما_أفضل_المعرفة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما أفضَلُ المعرفة؟"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b184e1994d26da02e35e91d04972e5907ee6644d",
+    "bytesize": 364,
+    "body": "<p>قيل لِقس بن ســاعـدة: ما أفضل المَعرِفة ؟ قال معرفة الرجل نفْسَــهُ ؛ قـِيل له : فـمـا أَفضـلُ العِـلْم ؟ قال : وقوفُ المرءِ عـندَ عـِلْـمه ؛ قِيل له: فما أفضلُ المروءة ؟ قال: استبقاءُ الرجل ماء وجهه.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a77bb4e-9769-461d-a4f3-b95bc94de4ef",
+    "shortname": "أيمن_العمري",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "قِصّة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-01-25T06:05:10Z",
+  "attributes": {
+    "old_id": 952
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "7d82f97b-1749-4f1c-97e0-15146afc6564",
+  "shortname": "كليلة_و_دمنة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كليلة و دمنة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ef18b5f9b9ef9709d02ac8b33a5d78cbcf8a47f0",
+    "bytesize": 240,
+    "body": "بسم الله ........... اما بعد ان هذه  القصة مثيرة و مشوقة لكن انا طلبت قصة الحمامة المطوقة لانني احبها بنسبة % اما السمكات الثلاث 90.52 بالمئة "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-11T11:01:01Z",
+  "attributes": {
+    "old_id": 298,
+    "old_entry_id": 83
+  },
+  "language": "ar"
+}

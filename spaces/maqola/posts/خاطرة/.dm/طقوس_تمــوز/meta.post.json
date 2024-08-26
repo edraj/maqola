@@ -1,0 +1,45 @@
+{
+  "uuid": "b58e2b36-7350-4674-adf1-1101e21e07a8",
+  "shortname": "طقوس_تمــوز",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"طُقوسْ تَمّــوزْ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9600e8d9427454d8b9307537bafe2e1fe77f9ea5",
+    "bytesize": 507,
+    "body": "<p>أَنــا وأَنــتِ .. وصَمْت في حَضْرةُ الغِيابْ  ..<br> آثـــارُ الظِلْ ،،<br> وحَانِيــةُ الــروح ، وبَعْــض ممــا لـا أَذكُــر ..<br> وطُقوسْ تَمّــوزْ  ..<br> تُرتلُ تَغْرِيدَةُ شوقٍ تَحْترفُ صِناعة القُبْل ..<br> وتَتــركُ تَفاصِيْـل البَــوْح لِـرَتْـمـ اللِـــقَـــاْء ..<br><br>بيسار</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "عربية",
+    "غَزَل",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-19T14:10:28Z",
+  "attributes": {
+    "old_id": 1033
+  },
+  "language": "ar",
+  "history": []
+}

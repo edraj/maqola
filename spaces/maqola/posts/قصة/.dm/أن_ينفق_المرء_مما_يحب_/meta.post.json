@@ -1,0 +1,43 @@
+{
+  "uuid": "e278cc03-905a-4ad6-883a-758db0c248a3",
+  "shortname": "أن_ينفق_المرء_مما_يحب_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أنْ يُنفِق المرءُ مما يُحب،"},
+  "updated_at": "2010-11-04T04:07:21Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7a45b97c665ff5b9f693513446b95ab1031e8234",
+    "bytesize": 1066,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">رُويَ أنَّ عبدَ الله بن عُمر - رضي الله عنهما - نَزلَ الجحفةَ وهو شاكٍ، فقال: إني لأشتهي حيتانًا.<br />\r\n\tفالتمسوا له، فلم يجدوا إلا حوتًا واحدا فأخذتُه امرأتُه، فصنعَتهُ، ثم قَرَّبتهُ إليه، فأتى مِسكينٌ، فقال ابن عمر - رضي الله عنهما - خُذهُ.<br />\r\n\tفقال له أهله: سبحانَ الله، قد عَنيتَنا ومعنا زادٌ نعطيه.<br />\r\n\tفقال: إنَّ عبد الله يُحبه - يعني يحب أكل الحوت، فذلك جاد به دون غيره -.<br />\r\n\t<br />\r\n\tورُويَ أن سائلًا وقف بباب الربيع بن خثيم، فقال: أطعِموه سُكّرًا.<br />\r\n\tفقالوا: نُطعِمهُ خُبزًا أنفعُ له.<br />\r\n\tفقال: ويحكم،أطعموه سُكرًا، فإن الربيعَ يُحب السكر.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة",
+    "كَرَم"
+  ],
+  "created_at": "2010-11-04T04:07:21Z",
+  "attributes": {
+    "old_id": 144
+  },
+  "language": "ar",
+  "history": []
+}

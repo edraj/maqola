@@ -1,0 +1,29 @@
+{
+  "uuid": "da03995d-0e2b-4d59-8a0a-97b2f575a264",
+  "shortname": "غزل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"غزل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3372f905ef40cf6ef1deb0f4be5532b3fc135f7d",
+    "bytesize": 271,
+    "body": "قول الشريف الرضي:ولقد مررت علي ديارهمو   وطللولها بيد البلي نهب_فوقفت حتي ضج من لغب رحلي  وحتي ضاق بي الركب_وتلفتت عيني فمذ خفيت   عني الطلول تلفت القلب"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-21T04:41:19Z",
+  "attributes": {
+    "old_id": 490,
+    "old_entry_id": 475
+  },
+  "language": "ar"
+}

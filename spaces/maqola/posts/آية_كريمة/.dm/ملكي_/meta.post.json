@@ -1,0 +1,44 @@
+{
+  "uuid": "21245c87-2da5-4101-9bc0-141255dbe060",
+  "shortname": "ملكي_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مُلكي؟"},
+  "updated_at": "2011-07-30T22:44:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:96bed1b65c42b2fb0d1ebfa3d6fb89061aac31f1",
+    "bytesize": 389,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يقول أحد العارفين، وقد رزقه الله مِن فَضلهِ الاثنين، العلمَ والمال :</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">كيفَ أقولُ مُلكي والله عَزّ و جَلّ يقول : &quot;لِلَّهِ مُلْكُ السَّمَاوَاتِ وَالأَرْضِ&quot; !</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "حِكمَة"
+  ],
+  "created_at": "2011-07-30T22:44:00Z",
+  "attributes": {
+    "old_id": 503
+  },
+  "language": "ar",
+  "history": []
+}

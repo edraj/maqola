@@ -1,0 +1,29 @@
+{
+  "uuid": "51ca4c51-72ef-4d07-a3a3-db4ec54b4b4e",
+  "shortname": "غزل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"غزل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4c26fa038ee65308b7f5dbbd7fef19a141bf48af",
+    "bytesize": 635,
+    "body": "من قول عمر بن أبي ربيعه يصف إحدي مغامراته الليليه:ولقد دخلت عليها وأبوها نائم...وعبيده من حولها مثل الجمال الهرج_فوضعت يدي عند مقطع خصرها...فتنفست نفسا فلم تتلهج_ثم تنبهت وقالت من؟...قلت عمر فلم أتلجلج_فقالت وعيش أبي وحرمه أخوتي...لأنبهن الحي إن لم تخرج_فخرجت خوف يمينها فتبسمت...فعلمت أن يمينها لم تحرج_فلثمت فاها آخذا بقرونها...شرب النزيف ببرد ماء الحشرج"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-11T01:25:38Z",
+  "attributes": {
+    "old_id": 297,
+    "old_entry_id": 339
+  },
+  "language": "ar"
+}

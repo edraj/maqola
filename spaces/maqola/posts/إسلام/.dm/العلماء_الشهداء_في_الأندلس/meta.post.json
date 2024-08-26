@@ -1,0 +1,47 @@
+{
+  "uuid": "a93503e8-8956-4e0d-b61f-13384e92cee1",
+  "shortname": "العلماء_الشهداء_في_الأندلس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العلماء الشهداء في الأندلس"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eae2558268e5e255077be8e4491abba65ab588c0",
+    "bytesize": 222,
+    "body": "<p>ذكر عبد القادر الدرة في بحثه المعنون بـ ( العلماء الشهداء في الأندلس ) أسماءا لـ 116 عالما استشهدوا في الجهاد ضد النصارى .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "شَجاعَة",
+    "عربية",
+    "فَخر",
+    "قِصّة",
+    "لُغة عربيّة",
+    "مَدح"
+  ],
+  "created_at": "2015-04-11T21:03:52Z",
+  "attributes": {
+    "old_id": 1161
+  },
+  "language": "ar",
+  "history": []
+}

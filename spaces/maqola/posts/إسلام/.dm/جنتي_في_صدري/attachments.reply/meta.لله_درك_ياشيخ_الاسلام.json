@@ -1,0 +1,29 @@
+{
+  "uuid": "2ae5722c-a124-4854-b6af-3633061e975e",
+  "shortname": "لله_درك_ياشيخ_الاسلام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لله درك ياشيخ الاسلام"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:71b30fef161a3f95413d9b274761fbd443a03f03",
+    "bytesize": 80,
+    "body": "رحم الله شيخ الاسلام ابن تيمية كان رجل بأمة  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T17:53:10Z",
+  "attributes": {
+    "old_id": 66,
+    "old_entry_id": 132
+  },
+  "language": "ar"
+}

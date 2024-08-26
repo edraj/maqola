@@ -1,0 +1,29 @@
+{
+  "uuid": "821afa89-61a7-4071-ab9c-7a641679eaf4",
+  "shortname": "عما_قريب_بإذن_الله_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عما قريب بإذن الله ..."},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6593102d61f3203e68a5059ab9af99527f8a03be",
+    "bytesize": 68,
+    "body": "نعمل حاليا على توفير خاصية الربط هذه. "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T07:04:50Z",
+  "attributes": {
+    "old_id": 54,
+    "old_entry_id": 155
+  },
+  "language": "ar"
+}

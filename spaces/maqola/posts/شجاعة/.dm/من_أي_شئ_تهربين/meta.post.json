@@ -1,0 +1,42 @@
+{
+  "uuid": "b63d253d-4025-44ef-9080-9cbb8dce0d31",
+  "shortname": "من_أي_شئ_تهربين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أي شئ تهربين"},
+  "updated_at": "2013-12-02T18:04:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:dbbf05c2097b0e728245f3e81f490f7a1b228e60",
+    "bytesize": 517,
+    "body": "<span class=\"maqola_body\"> <br> من أي شئ تهربين من وحشة الأيام بعدي أم من الذكرة وأطياف الحنين من لوعة الاشواق وانطفاء الضوء في القلب المسافر لا شئ بعدي غير بين صامت ينساب في عينيك ودموع تحكي حكايا الراحلين لا شئ بعدي وأسال العشاق كيف يطول العاشقين فـلتهربي ما شئتِ عن عيني فإنكِ الضلوع تسافرين.  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "056dbf25-7ff1-493c-8d96-0055e5f1416e",
+    "shortname": "mohammed_ali",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَجاعَة"
+  ],
+  "created_at": "2013-12-02T18:04:08Z",
+  "attributes": {
+    "old_id": 724
+  },
+  "language": "ar",
+  "history": []
+}

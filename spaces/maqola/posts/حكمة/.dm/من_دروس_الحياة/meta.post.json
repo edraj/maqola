@@ -1,0 +1,41 @@
+{
+  "uuid": "ddecc83b-fcc1-42bf-846e-c88eb183c47c",
+  "shortname": "من_دروس_الحياة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من دروس الحياة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fb97514562dbf8cec1d4881387a6a6a00b70bb59",
+    "bytesize": 835,
+    "body": "<p>مااجمل الصبر في الحياة واحسنه</p><p><br><br>به تحصل على غاية<br>المقصود والفرج</p><p><br><br>من تحلى وتجمل به<br>عند كل مشكلة</p><p><br><br>أتته الراحة تزهو<br>في الظلمة كالسرج</p><p><br><br>فاصبر وصابر<br>واحتسب للمعضلة</p><p><br><br>تسهل باذن الله وتجد منها المخرج </p><p><br><br>تنعم بالهدوء والسكينة عند كل مسألة </p><p><br><br>ومن المولى سبحانه كل المصائب تفرج</p><p><br><br>الحي الجليل جعل لكل عسر ميسره</p><p><br><br>فابشر بفرجك يأتي في الروحات والدلج </p><p><br><br>.</p><p><br><br>.</p><p><br><br>من دروس الحياة بقلم احسان الصالحي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "675ade74-78d4-48da-926c-c8feb4a638c5",
+    "shortname": "احسان_الصالحي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2015-08-15T12:27:57Z",
+  "attributes": {
+    "old_id": 1477
+  },
+  "language": "ar",
+  "history": []
+}

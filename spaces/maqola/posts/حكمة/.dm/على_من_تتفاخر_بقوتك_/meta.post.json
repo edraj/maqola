@@ -1,0 +1,42 @@
+{
+  "uuid": "5759cd44-768b-4f61-9d57-a2c64d49d853",
+  "shortname": "على_من_تتفاخر_بقوتك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"على مَن تتفاخرُ بِقوّتِك؟"},
+  "updated_at": "2010-12-05T15:20:46Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:76999895b67ae868203fe11770e0a759376111c1",
+    "bytesize": 907,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">رأى فَيلسوفٌ رجلاً يَفخَرُ بتفوّقه في المصارعة، فقال له:‏ ‏ هل غَلبتَ مَن هو أضعَفُ مِنكَ أم مَن هُوَ أقوى مِنك؟‏ ‏ فقال: غَلبتُ مَن هوَ أضعفُ مِنّي.‏ ‏ قال: فما هذا مَوضِعُ مدحٍ ولا فخر، وذلك أنَّ كُلَّ واحدٍ مِن الناسِ يَغلِبُ مَن هو أضعَفُ مِنهُ.‏ ‏ فقال له الرجلُ: بَل غلبتُ من هو أقوى مِنّي.‏ ‏ قال: هذا مُحالٌ وباطل.‏ ‏ فقال: إذا غلبتُ من هو مُساوٍ لي.‏ ‏ قال: مَن غلبتَهُ لا يَكونُ مُساوياً لك. فحالُكَ مِثلُ أيِّ إنسان آخر، فلا تفخر بغلبَتِكَ على مَن هو أضعفُ مِنك.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-12-05T15:20:46Z",
+  "attributes": {
+    "old_id": 319
+  },
+  "language": "ar",
+  "history": []
+}

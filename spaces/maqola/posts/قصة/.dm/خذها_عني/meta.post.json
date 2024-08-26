@@ -1,0 +1,41 @@
+{
+  "uuid": "5824f3ca-8cf7-4724-b642-b4d2a00c8eca",
+  "shortname": "خذها_عني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خذها عني"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8cfb86a42fb82d2a2222490245faeff7bb0c276c",
+    "bytesize": 150,
+    "body": "<p>ارتفاع الوعي يزيد الآلام ..</p><p>و أغلب المصابين بالإكتئاب النفسي<br>من المثقفين ..</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f6c36be-5a2b-419d-a578-0296c008e053",
+    "shortname": "muhammad_salih_abdualrahim",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2015-08-25T01:26:12Z",
+  "attributes": {
+    "old_id": 1488
+  },
+  "language": "ar",
+  "history": []
+}

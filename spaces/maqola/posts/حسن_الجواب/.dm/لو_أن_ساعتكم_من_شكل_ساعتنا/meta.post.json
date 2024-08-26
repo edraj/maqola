@@ -1,0 +1,44 @@
+{
+  "uuid": "1f17055f-3116-44bf-ab9d-81b741a9e25e",
+  "shortname": "لو_أن_ساعتكم_من_شكل_ساعتنا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لو أنَّ ساعتَكُم مِن شكلِ ساعتِنا"},
+  "updated_at": "2015-03-20T13:54:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d5e40a3674dd3d6b88fe576e06d90af36e19687f",
+    "bytesize": 1253,
+    "body": "<p>\r\n\t<span style=\"color: rgb(79, 97, 40);\">تأخر أحد الموظفين عن دوامه لبضع دقائق؛ فاستوضحه المدير عن السبب؟!\r\n</span></p><p><span style=\"color: rgb(79, 97, 40);\">\r\n\tفرد الموظف بهذه الأبيات:</span>\r\n</p><p><span style=\"color: rgb(99, 36, 35);\">\r\n\tلو أنَّ ساعتَكُم مِن شكلِ ساعتِنا *** لطابقتَها ولكنْ ساعتي (صيني)\r\n</span></p><p><span style=\"color: rgb(99, 36, 35);\">\r\n\tأسيرُ حيث أشارتْ لي عقاربُها *** مُصدِّقًا قولَها واللومُ يأتيني\r\n</span></p><p><span style=\"color: rgb(99, 36, 35);\">\r\n\tإنْ شئتَ ألبستني من جنسِ ساعتكُم *** من نفسِ مصنعها (والجينُ كالجينِ)\r\n</span></p><p><span style=\"color: rgb(99, 36, 35);\">\r\n\tفعندها تصبحُ الأوراقُ واضحةً *** وإنُ تأخرتُ لُمني لا تواسيني</span>\r\n</p><p>\r\n\tفقام المدير بإهداء المعلّم ساعته ، وكتب له:\r\n\t<br>\r\n\t<span style=\"color: rgb(29, 27, 16);\">تُمنح ساعتنا للمعلم هدية ولا أقبل ردها، وليَ عليك حق الأنضباط وعدم التأخير!!</span>\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "شِعر",
+    "طُرفَة"
+  ],
+  "created_at": "2015-03-20T13:49:13Z",
+  "attributes": {
+    "old_id": 1118
+  },
+  "language": "ar",
+  "history": []
+}

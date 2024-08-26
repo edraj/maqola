@@ -1,0 +1,29 @@
+{
+  "uuid": "70830a8c-ad17-4d8a-a7a0-4cb1497fedb8",
+  "shortname": "آن_الأوان_لأعتزل_فن_الخطابة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"آن الأوان لأعتزل فن الخطابة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:19c54caf6b43e748b045fb1e23020fa92240a397",
+    "bytesize": 324,
+    "body": "آن الأوان لأعتزل \r\nفن الخطابةْ\r\nآن الأوان \r\nأعقُّ نفسي مرةً\r\nخوف الرقابةْ\r\nحبَّاً لأهلي\r\nوالعشيرة\r\nوالصحابةْ\r\nخوفاً على ذاتي\r\nعلى حلمي\r\nعلى شيءٍ\r\nبأعماقي\r\nأخشى اغتصابةْ\r\n\r\nشعر| هاني زين"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "240f763f-62d4-4984-becf-004014e9f6ce",
+    "shortname": "hani_zein",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-22T21:30:22Z",
+  "attributes": {
+    "old_id": 833,
+    "old_entry_id": 275
+  },
+  "language": "ar"
+}

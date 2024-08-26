@@ -1,0 +1,29 @@
+{
+  "uuid": "8a12274a-d7ed-4947-8aa5-6383c4322fd8",
+  "shortname": "هل_قمت_بفك_الشيفرة_بشكل_صحيح_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هل قمتُ بفك الشيفرة بشكل صحيح :)"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:039019623115173869e058110a2c5fdf779edc37",
+    "bytesize": 137,
+    "body": "إنّ اللبيب يشقى بعلمه للشئ أما الذي لا يعلم بشئ فهو ينعم بعدم معرفته للأمور."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-29T11:40:41Z",
+  "attributes": {
+    "old_id": 236,
+    "old_entry_id": 232
+  },
+  "language": "ar"
+}

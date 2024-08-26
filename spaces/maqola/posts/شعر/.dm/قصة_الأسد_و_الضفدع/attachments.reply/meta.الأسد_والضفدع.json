@@ -1,0 +1,29 @@
+{
+  "uuid": "d1ed50fc-e996-4330-9eee-f205ec02d818",
+  "shortname": "الأسد_والضفدع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الأسد والضفدع"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c190b75bdaec1457d4feba4a914e346e9e176f0d",
+    "bytesize": 164,
+    "body": "رخم الله شعراء العربية  وادباءها.المحافظين والمجددين _ _الذين قضوا  _وتركوا لنا ارثا كبيرا _"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-05-06T19:34:06Z",
+  "attributes": {
+    "old_id": 638,
+    "old_entry_id": 88
+  },
+  "language": "ar"
+}

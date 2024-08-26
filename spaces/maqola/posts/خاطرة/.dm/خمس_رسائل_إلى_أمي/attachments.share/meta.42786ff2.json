@@ -1,0 +1,33 @@
+{
+  "uuid": "42786ff2-2e73-4c1c-b6d1-bfe4246e042f",
+  "shortname": "42786ff2",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-25T00:42:27Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-25T00:42:27Z",
+  "attributes": {
+    "old_id": 564,
+    "old_entry_id": 1445
+  },
+  "language": "en",
+  "location": {
+    "uuid": "42786ff2-2e73-4c1c-b6d1-bfe4246e042f",
+    "shortname": "42786ff2",
+    "subpath": "posts/خاطرة",
+    "space_name": "maqola",
+    "parent_shortname": "خمس_رسائل_إلى_أمي",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "d8117585-723d-4a24-b287-c93d1c6d7bf2",
+  "shortname": "اللغة_العربية_تنعى_نفسها",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اللُغَةُ العربيةُ تنعى نفسها"},
+  "updated_at": "2010-11-04T07:16:26Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ece4dd5f4e45541fc23ac32e0a07bd4a2ef36439",
+    "bytesize": 1314,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">رَجَعتُ لِنَفسي فاتَّهمتُ حصاتي - ونادَيتُ قَومي فاحتَسَبتُ حَياتِي<br />\r\n\tرَموني بِعُقمٍ في الشَّباب و لَيتَني - عَقِمتُ فَلَم أجزَع لِقَولِ عُداتي<br />\r\n\tأنا البَحرُ في أحشائِه الدُّرُ كامِنٌ - فَهَل سألوا الغَوَّاصَ عن صَدَفاتي؟<br />\r\n\tوسِعتُ كِتابَ اللهِ لَفظاً وغايةً - وما ضِقتُ عن آيٍ بِهِ و عِظاتِ<br />\r\n\tفَكَيفَ أضيقُ اليَومَ عن وَصفِ آلةٍ - وتَنسيقِ أسماءٍ لمُختَرعاتِ؟<br />\r\n\tفيا وَيحَكُم أبلى وتَبلى مَحاسِني - ومِنكُم و إن عَزَّ الدَواءُ أُساتي<br />\r\n\tإلى مَعشَرِ الكُتَّابِ والجَمعُ حافِلٌ - بَسَطتُ رَجائي بَعدَ بَسطِ شكاتي<br />\r\n\tفإمّا حياةٌ تَبعَثُ المَيتَ من الرَدى - و تُنبِتُ من تِلكَ الرُموسِ رُفاتي<br />\r\n\tوإمّا مماتٌ لا قِيامةَ بَعدَه - مماتٌ لَعَمري لَم يُقَس بِمَماتِ</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "dc87bd55-325c-4b0f-8af4-df53bfb3abe2",
+    "shortname": "شاعر_النيل",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "رِثاء",
+    "شِعر"
+  ],
+  "created_at": "2010-10-13T16:13:19Z",
+  "attributes": {
+    "old_id": 13
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "23d42124-c07d-4620-a13b-560d0d761666",
+  "shortname": "imxplatform1",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"منصة المحتوى : ت. ا. م."},
+  "description":{"ar":""},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c96d553aaf75017c08b766dd7b181e0550977d58",
+    "bytesize": 981,
+    "body": "<div><b>منصة تبادل وإدارة المحتوى (ت. ا. م)</b> هي تطبيق (مخدم خلفي) يعمل على الخوادم عبر الشبكة. <br><br>ويحقق الإمكانات التالية:<br><ul><li>استيعاب واستيراد كافة أنواع المحتوى الرقمي: وسائط متعددة، نصوص، بيانات مُخططة (مهيكلة).</li><li>تنظيم المحتوى في مجلدات، مع حرية هيكلة المجلدات بما يناسب المستخدم.<br></li><li>إثراء المحتوى بمعلومات فوقية مثل التصنيف والمؤلف وسجل التعديلات والملحقات وتفاعلات المستخدمين الآخرين.</li><li>فهرسة المحتوى لتسريع عمليات البحث والوصول.</li><li>تعريف وضبط صلاحيات الوصول.</li></ul><div align=\"center\"><img src=\"/media/maqola/posts/slides/intro/imxplatform1/imx_heading_arabic.png\"></div></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "post",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-09-06T19:29:33+03:00",
+  "attributes": {
+    "ordinal": 4
+  },
+  "language": "en",
+  "history": [],
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

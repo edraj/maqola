@@ -1,0 +1,43 @@
+{
+  "uuid": "77f9f518-75df-4847-a68e-0c3ea7c629f9",
+  "shortname": "شهادة_تخرج",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شهادةُ تخرّج"},
+  "updated_at": "2011-10-05T20:33:01Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6b74109c02de390fb312f8242215cd2252b29a00",
+    "bytesize": 1226,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قيل أن خريجاً جامعياً متفوقاً لم يحظَ بوظيفة في إحدى المؤسسات فبعث قصيدةً إلى المسؤل يشكو إليه حاله قائلاً:<br>\r\n\tخريجُ جامعةٍ ببابكَ واقفٌ -- يرجو الوظيفة هل لديك وظائفُ<br>\r\n\tحـرقَ السنينَ دراسة وفلافلاً -- وإذا تبرجزَ فالطعامُ نواشفُ<br>\r\n\tتقديرهُ الممتازُ يشكو للورى -- فقرَ الجيوبِ و من قراركَ خائفُ</span><br>\r\n\t&nbsp;</p>\r\n<p>\r\n\t<br>\r\n\t<span style=\"font-size: 1.5em;\">فرد عليه المسؤل قائلاً :<br>\r\n\tليسَ المؤهّلُ يا فتى بشهادةٍ -- غيرُ الوساطةِ كلُّ شيءٍ تالفُ<br>\r\n\tتقديرُكَ الممتازُ لا يكفي هنا -- إنَّ الحياةَ معارفٌ و مناسفُ<br>\r\n\tانقعْ شهادتكَ التي احرزْتَها -- و اشربْ فإنَّ العلمَ شيءٌ زائفُ</span></p>\r\n<p>\r\n\t&nbsp;</p>\r\n<p>\r\n\t<span style=\"font-size: 1em;\"><span style=\"font-family: Tahoma,Geneval,sans-serif;\">- من مساهمات زوار الموقع</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "طُرفَة"
+  ],
+  "created_at": "2011-10-05T20:33:01Z",
+  "attributes": {
+    "old_id": 520
+  },
+  "language": "ar",
+  "history": []
+}

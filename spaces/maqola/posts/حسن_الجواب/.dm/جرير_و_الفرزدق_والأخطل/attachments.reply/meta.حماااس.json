@@ -1,0 +1,29 @@
+{
+  "uuid": "0b5711cb-8c8c-437e-ab40-cd2434fc4e55",
+  "shortname": "حماااس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حماااس"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a8807411d408c4d16e986c0d2eeae8b8195404a1",
+    "bytesize": 84,
+    "body": "الله عليهم بالرغم من انه هجاء لكنه روعه.. ويضحك"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-11-28T02:47:10Z",
+  "attributes": {
+    "old_id": 713,
+    "old_entry_id": 528
+  },
+  "language": "ar"
+}

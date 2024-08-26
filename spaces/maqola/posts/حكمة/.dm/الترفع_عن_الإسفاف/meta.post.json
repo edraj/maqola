@@ -1,0 +1,43 @@
+{
+  "uuid": "8a2592df-83ca-441f-9d96-97dcfdcb646b",
+  "shortname": "الترفع_عن_الإسفاف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الترفُّع عن الإسفاف"},
+  "updated_at": "2011-12-13T23:16:31Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eb667df9849d06cdeedd1074c3f9b7db0bd43884",
+    "bytesize": 520,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">سأترُكُ ماءَكم مِن غَير وِردٍ -- وذاك لِكَثرَةِ الورادِ فيه<br />\r\n\tإذا سقطَ الذُبابُ على طَعامٍ -- رَفعتُ يَدي ونفسي تَشتَهيه<br />\r\n\tوتَجتَنِبُ الأسودُ ورودَ ماءٍ -- إذا كانَ الكِلاب وَلِغنَ فيه<br />\r\n\tويَرتَجِعُ الكَريمُ خَميصَ بَطنٍ -- ولا يرضى مُساهَمَةَ السَّفيه </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2011-12-13T23:16:31Z",
+  "attributes": {
+    "old_id": 546
+  },
+  "language": "ar",
+  "history": []
+}

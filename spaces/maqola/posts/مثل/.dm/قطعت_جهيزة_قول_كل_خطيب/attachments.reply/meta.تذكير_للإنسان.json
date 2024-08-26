@@ -1,0 +1,29 @@
+{
+  "uuid": "fe0cbed9-223b-47c5-8f83-cf8b6164c0a1",
+  "shortname": "تذكير_للإنسان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تذكير للإنسان "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e4a59a57e9fd5043b1195885f9322e527089c921",
+    "bytesize": 312,
+    "body": "قال أبو زينب محمدُ مكّيّ بن عبد السلام درامي \r\n(( وَلِِى خَطٌّ وَلِلأَيّام خَطٌّ ***وَبَينهُما اختلافٌ في المدَاد ***سَأكتُبُه سَوادًا في بَياضٍ *** وتَكتُبه بَياضً في سَوادِ ))"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "76b7736f-19a5-4a1b-b701-01e24044dfb6",
+    "shortname": "abou_mahmoud_gumaneh",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-10-19T09:50:54Z",
+  "attributes": {
+    "old_id": 929,
+    "old_entry_id": 102
+  },
+  "language": "ar"
+}

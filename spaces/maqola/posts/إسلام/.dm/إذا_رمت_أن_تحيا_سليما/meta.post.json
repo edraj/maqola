@@ -1,0 +1,44 @@
+{
+  "uuid": "3f3cc318-772c-46d7-9af6-29f846f02e74",
+  "shortname": "إذا_رمت_أن_تحيا_سليما",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إذا رُمتَ أنْ تَحيا سَليماً"},
+  "updated_at": "2010-11-20T12:57:26Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:09586eae25f47c7716ff58546632d787535c86cc",
+    "bytesize": 619,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">إذا رُمتَ أنْ تَحيا سَليماً مِن الأذى - وَ دينُكَ مَوفورٌ وعِرْضُكَ صَيِنُّ<br />\r\n\tلِسانُكَ لا تَذكُرْ بِهِ عَورَةَ امرئٍ - فَكُلُّكَ عَوراتٌ وللنّاسِ ألسُنُ<br />\r\n\tوعَيناكَ إنْ أبدَتْ إليكَ مَعايِباً - فَدَعها وَقُلْ يا عَينُ للنّاسِ أعيُـنُ<br />\r\n\tوعاشِرْ بِمَعروفٍ وسامِحْ مَن اعتَدى - ودَافع ولكن بالتي هِيَ أحسَنُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-20T12:57:26Z",
+  "attributes": {
+    "old_id": 196
+  },
+  "language": "ar",
+  "history": []
+}

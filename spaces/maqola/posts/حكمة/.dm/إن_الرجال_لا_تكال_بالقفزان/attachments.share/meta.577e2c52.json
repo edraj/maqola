@@ -1,0 +1,33 @@
+{
+  "uuid": "577e2c52-afeb-497d-a602-3523f0b9841d",
+  "shortname": "577e2c52",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-25T00:11:51Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-25T00:11:51Z",
+  "attributes": {
+    "old_id": 554,
+    "old_entry_id": 1440
+  },
+  "language": "en",
+  "location": {
+    "uuid": "577e2c52-afeb-497d-a602-3523f0b9841d",
+    "shortname": "577e2c52",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "إن_الرجال_لا_تكال_بالقفزان",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

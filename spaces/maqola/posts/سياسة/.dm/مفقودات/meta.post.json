@@ -1,0 +1,43 @@
+{
+  "uuid": "1f195a52-5478-4365-8566-d60b2c960ea8",
+  "shortname": "مفقودات",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مَفقودات"},
+  "updated_at": "2011-01-13T22:41:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8aa0cae72e65144940f3c1352939dfc5c5760a92",
+    "bytesize": 1841,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">زارَ الرّئيسُ المؤتَمَنْ<br />\r\n\tبَعضَ وِلاياتِ الوَطنْ<br />\r\n\tوحينَ زارَ حَيَّنا قالَ لنا :<br />\r\n\tهاتوا شكاواكُم بصِدقٍ في العَلَنْ<br />\r\n\tولاتَخافوا أَحَداً..<br />\r\n\tفقَدْ مَضى ذاكَ الزّمَنْ .<br />\r\n\tفقالَ صاحِبي (حَسَنْ) :<br />\r\n\tياسَيّدي أينَ الرّغيفُ والَلّبَنْ ؟<br />\r\n\tوأينَ تأمينُ السّكَنْ ؟<br />\r\n\tوأينَ تَوفيرُ المِهَنْ ؟<br />\r\n\tوأينَ مَنْ يُوفّرُ الدّواءَ للفقيرِ دونَما ثَمَنْ ؟<br />\r\n\tياسيّدي<br />\r\n\tلمْ نَرَ مِن ذلكَ شيئاً أبداً .<br />\r\n\tقالَ الرئيسُ في حَزَنْ :<br />\r\n\tأحْرَقَ ربّي جَسَدي<br />\r\n\tأَكُلُّ هذا حاصِلٌ في بَلَدي؟!<br />\r\n\tشُكراً على صِدْقِكَ<br />\r\n\tفي تنبيهِنا يا وَلَدي<br />\r\n\tسوفَ ترى الخيرَ غَداً .<br />\r\n\t**<br />\r\n\tوَبَعْدَ عامٍ زارَنا<br />\r\n\tومَرّةً ثانيَةً قالَ لنا :<br />\r\n\tهاتوا شكاواكُمْ بِصدْقٍ في العَلَنْ<br />\r\n\tولا تَخافوا أحَداً<br />\r\n\tفقد مَضى ذاكَ الزّمَنْ .<br />\r\n\tلم يَشتكِ النّاسُ !<br />\r\n\t<br />\r\n\tفقُمتُ مُعْلِناً :<br />\r\n\tأينَ الرّغيفُ واللّبَنْ ؟<br />\r\n\tوأينَ تأمينُ السّكَنْ ؟<br />\r\n\tوأينَ توفيرُ المِهَنْ ؟<br />\r\n\tوأينَ مَنْ يوفِّر الدّواءَ للفقيرِ دونمَا ثمَنْ ؟<br />\r\n\tمَعْذِرَةً ياسيّدي<br />\r\n\t.. وَأينَ صاحبي(حَسَنْ)؟!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-30T07:32:30Z",
+  "attributes": {
+    "old_id": 269
+  },
+  "language": "ar",
+  "history": []
+}

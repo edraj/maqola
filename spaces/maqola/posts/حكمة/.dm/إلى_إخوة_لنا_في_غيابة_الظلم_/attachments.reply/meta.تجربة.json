@@ -1,0 +1,29 @@
+{
+  "uuid": "05cfaead-46a4-4467-8f2a-7278e15c462c",
+  "shortname": "تجربة",
+  "is_active": false,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تجربة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e0d8ce016b8f3503e2e32cf5e5ee87533799cf0a",
+    "bytesize": 10,
+    "body": "تجربة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-05-22T21:58:20Z",
+  "attributes": {
+    "old_id": 875,
+    "old_entry_id": 478
+  },
+  "language": "ar"
+}

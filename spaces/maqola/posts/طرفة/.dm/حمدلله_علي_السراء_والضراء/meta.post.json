@@ -1,0 +1,42 @@
+{
+  "uuid": "742eb423-508e-43c3-b79c-27049d18d161",
+  "shortname": "حمدلله_علي_السراء_والضراء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حمدلله علي السراء والضراء"},
+  "updated_at": "2013-11-08T20:58:28Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b51c5867e45b1e8a3e83153c4fd07e2bc5515a04",
+    "bytesize": 338,
+    "body": "<span class=\"maqola_body\"> <br> قالت امراًة لزوجها : ــــوكانت حسناء وهو قبيح دميم ــــ<br>اًبشر فاٍني واٍياكَ في الجنة <br>قال: ولٍمَ ،<br>قالت: لاًنّكَ اًُعْطِياَت فشكرت ، و اًنا اًُبتُليتُ فصبرت .<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "ba2d5487-1f31-4067-b462-3f5ff05ca394",
+    "shortname": "أبو_أحمد",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2013-10-23T21:39:59Z",
+  "attributes": {
+    "old_id": 700
+  },
+  "language": "ar",
+  "history": []
+}

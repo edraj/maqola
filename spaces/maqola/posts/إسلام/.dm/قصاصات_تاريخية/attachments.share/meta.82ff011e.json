@@ -1,0 +1,33 @@
+{
+  "uuid": "82ff011e-3c58-4fd5-9af9-f1e8eec25a41",
+  "shortname": "82ff011e",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-15T21:32:21Z",
+  "author_locator": { "type": "content",
+    "uuid": "94977e88-a087-472c-aefc-8cbea7be5f6d",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-15T21:32:21Z",
+  "attributes": {
+    "old_id": 282,
+    "old_entry_id": 1017
+  },
+  "language": "en",
+  "location": {
+    "uuid": "82ff011e-3c58-4fd5-9af9-f1e8eec25a41",
+    "shortname": "82ff011e",
+    "subpath": "posts/إسلام",
+    "space_name": "maqola",
+    "parent_shortname": "قصاصات_تاريخية",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

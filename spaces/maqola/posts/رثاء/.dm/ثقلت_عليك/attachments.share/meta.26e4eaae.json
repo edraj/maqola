@@ -1,0 +1,33 @@
+{
+  "uuid": "26e4eaae-f93b-446e-ae07-b5e67af10e34",
+  "shortname": "26e4eaae",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-03T13:09:49Z",
+  "author_locator": { "type": "content",
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-03T13:09:49Z",
+  "attributes": {
+    "old_id": 246,
+    "old_entry_id": 975
+  },
+  "language": "en",
+  "location": {
+    "uuid": "26e4eaae-f93b-446e-ae07-b5e67af10e34",
+    "shortname": "26e4eaae",
+    "subpath": "posts/رثاء",
+    "space_name": "maqola",
+    "parent_shortname": "ثقلت_عليك",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

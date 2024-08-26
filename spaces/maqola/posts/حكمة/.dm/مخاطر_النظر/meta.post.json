@@ -1,0 +1,43 @@
+{
+  "uuid": "eaf1a9c7-d0a5-44b0-a061-d31ae813db65",
+  "shortname": "مخاطر_النظر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مَخاطِرُ النَّظَر"},
+  "updated_at": "2010-11-20T04:42:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:adf70163d27b7435ae9ceb623f1e01bb5df3dd83",
+    "bytesize": 650,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كُلُّ الحَوادِثِ مَبدَؤها مِن النَّظر ..... وَمُعظَمُ النَّارِ مِن مُستَصغَرِ الشَرَر<br />\r\n\tوالمَرءُ ما دَامَ ذا عَينٍ يُقلِّبُها ..... في أَعيُنِ الغَيرِ مَوقوفٌ على الخَطَر<br />\r\n\tكَم نَظرةً فَعَلَت في قَلبِ صاحِبِها ..... فِعلَ السِّهامِ بِلا قَوسٍ ولا وَتر<br />\r\n\tيَسُرُّ ناظِرَهُ ما ضَرَّ خاطِرهُ ..... لا مَرحَباً بِسرورٍ عَادَ بالضَرر</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-20T04:42:54Z",
+  "attributes": {
+    "old_id": 189
+  },
+  "language": "ar",
+  "history": []
+}

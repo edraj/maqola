@@ -1,0 +1,41 @@
+{
+  "uuid": "7545dc90-8c49-499f-80d9-5815a68f6366",
+  "shortname": "أحسن_ما_سمعت",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أحسن ما سمعت"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7b27c10d21e8a59f1c269efa76cc48de3690aa9e",
+    "bytesize": 243,
+    "body": "<p>ينادونني في السلم يا ابن زبيبة</p><p>وعند صدام الخيل ياابن الأطايب</p><p>ولولا الهوى ما ذل مثلي لمثلهم ولا خضعت أسد الفلا للثعالب</p><p><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "b03b6672-4076-4358-ab04-95d2cbb11e60",
+    "shortname": "majid_yaakoubi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-02-14T20:38:22Z",
+  "attributes": {
+    "old_id": 1015
+  },
+  "language": "ar",
+  "history": []
+}

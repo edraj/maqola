@@ -1,0 +1,45 @@
+{
+  "uuid": "5f467fbe-0032-4d9c-b905-703bef446aab",
+  "shortname": "عندما_أرسلوا_القرضاوي_للملا_عمر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"​عندما أرسلوا القرضاوي للمُلاّ عُمر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:26942e13bd2ae35912e4829ce3f88cfdba37f918",
+    "bytesize": 891,
+    "body": "<p>عندما أرسلوا القرضاوي للمُلاّ عُمر - تقبله الله - أمير الإمارة الإسلامية في أفغانستان ليخبره عن عزم الصين واليابان شراء صنم بوذا ، رد عليه الملاّ ردّه التاريخي : \" لأن يُنادَى عليّ يوم القيامة بهادم الأوثان ؛ أحبُّ إليّ من أن يُنادى عليّ ببائع الأوثان \". رحم الله ( محمد إقبال ) الذي امتدح هذه الشرعة المحمدية والسُنّة الإبراهيمية : \" كُنَّا نرى الأصنامَ من ذهبٍ - فنهدِمُها ونهدِمُ فوقهَا الكُفَّارَا \" </p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "شَجاعَة",
+    "فَخر"
+  ],
+  "created_at": "2015-08-04T02:12:01Z",
+  "attributes": {
+    "old_id": 1465
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "986d0f3a-a2be-4612-ab7e-555a6f35e113",
+  "shortname": "ولنفخر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ولنفخر"},
+  "updated_at": "2014-02-03T10:13:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ee597f8347eb1dc7754c13c779fb8d13ea8bf55a",
+    "bytesize": 286,
+    "body": "قول المستشرقُ الهولندي دي بور: علمُ النحو أثرٌ رائعٌ من آثارِ العقلِ العربيِ بما له من دقةٍ في الملاحظةِ، ويحقُ للعربِ أن يفخروا بهِ.<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "فَخر",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-03T10:13:29Z",
+  "attributes": {
+    "old_id": 770
+  },
+  "language": "ar",
+  "history": []
+}

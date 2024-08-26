@@ -1,0 +1,44 @@
+{
+  "uuid": "99d58f43-620a-4c5e-85da-e85f76077915",
+  "shortname": "أخلاقك__تستحق_تفكرا_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أخلاقك ... تستحقّ تفكّرًا!"},
+  "updated_at": "2013-11-20T16:39:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c00138ac99a263ef57636754eae3fbd830ec1414",
+    "bytesize": 1398,
+    "body": "<span class=\"fontsmall\"></span> <span class=\"uthman\"><br> </span><span class=\"fontxxlarge\"><span class=\"uthman\"></span></span><span class=\"fontxlarge\"><span class=\"fontxxlarge\"><span class=\"uthman\"></span></span></span><span class=\"fontlarge\"><span class=\"fontxlarge\"><span class=\"fontxxlarge\"><span class=\"uthman\"><span style=\"background-color: rgb(255, 255, 255); font-weight: bold;\" class=\"fontlarge\">أخلاقُك تحكي عنك، وعن تربيتك الكثير ...؛ أفلا تنتقيها بحذَر؟</span><br></span></span></span></span><span class=\"fontsmall\"><span class=\"fontlarge\"><span class=\"fontxlarge\"><span class=\"fontxxlarge\"><span class=\"uthman\"></span></span></span></span></span><span class=\"fontsmall\"><span class=\"fontsmall\"><span class=\"fontlarge\"><span class=\"fontxlarge\"><span class=\"fontxxlarge\"><span class=\"uthman\"><br><span class=\"fontlarge\"></span></span></span></span></span></span></span><span class=\"fontlarge\"><span class=\"fontsmall\"><span class=\"fontsmall\"><span class=\"fontlarge\"><span class=\"fontxlarge\"><span class=\"fontxxlarge\"><span class=\"uthman\"><span class=\"fontlarge\">القائل: صبا العلي</span></span></span></span></span></span><span class=\"fontsmall\"><span class=\"fontsmall\"><span class=\"fontlarge\"><span class=\"fontxlarge\"><span class=\"fontxxlarge\"><span class=\"uthman\"></span></span></span></span></span></span></span></span><br>  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f65a1775-7d93-475b-8ecc-f58b0b7062f0",
+    "shortname": "ظــلال_",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "خاطِرة"
+  ],
+  "created_at": "2013-11-20T16:39:45Z",
+  "attributes": {
+    "old_id": 718
+  },
+  "language": "ar",
+  "history": []
+}

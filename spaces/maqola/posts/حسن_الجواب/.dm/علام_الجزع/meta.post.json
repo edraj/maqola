@@ -1,0 +1,44 @@
+{
+  "uuid": "20342ec1-77ad-4ab2-8c39-1b77732b4bf0",
+  "shortname": "علام_الجزع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عَلامَ الجَزَعُ"},
+  "updated_at": "2015-06-28T11:05:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8ee2751afb7cddaa0cc4d3e8ee1a85e7e56d5e7e",
+    "bytesize": 351,
+    "body": "<p>مَاتَ لِأَعْرَابِيٍّ أَوْلَادٌ، فَصَبَرَ. فَقِيْلَ لَهُ، فَقَالَ: \"مَا هُمْ فِي المَوْتِ بِبَدْعٍ، ولا أَنَا فِي المُصِيْبَةِ بِأَوْحَدَ، وَلا جِدِاءَ فِي الجَزَعِ، فَعَلامَ أَجْزَعُ؟!\".</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "قاعدة أصولية"
+  ],
+  "created_at": "2015-06-28T11:05:18Z",
+  "attributes": {
+    "old_id": 1357
+  },
+  "language": "ar",
+  "history": []
+}

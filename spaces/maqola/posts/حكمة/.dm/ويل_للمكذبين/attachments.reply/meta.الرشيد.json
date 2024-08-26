@@ -1,0 +1,29 @@
+{
+  "uuid": "4fd0b89f-15e7-49ca-96d4-b0c40ec71acf",
+  "shortname": "الرشيد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الرشيد"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fd7b59141867286c453bce41072bedbe6062b941",
+    "bytesize": 94,
+    "body": "فأين آية رشده ...انما الشديد من يملك نفسه عند الغضب ..."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-09-09T06:46:20Z",
+  "attributes": {
+    "old_id": 527,
+    "old_entry_id": 311
+  },
+  "language": "ar"
+}

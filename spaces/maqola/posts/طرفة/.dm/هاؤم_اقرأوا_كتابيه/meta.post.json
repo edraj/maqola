@@ -1,0 +1,42 @@
+{
+  "uuid": "310af95f-ff0a-4143-8b27-af4199e74553",
+  "shortname": "هاؤم_اقرأوا_كتابيه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هاؤم اقرأوا كتابيه"},
+  "updated_at": "2010-12-12T11:43:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f60bb17a932385239dc588968e48fdff4481ef9f",
+    "bytesize": 536,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">جيء بأعربي إلى السلطان في مجلس قضاء، ومَعَهُ كِتابٌ قَد كَتَبَ فيه قِصَّتَهُ، وهو يقول &quot;هاؤم اقرأوا كتابيه&quot;. فقيل له، يا هذا إنما تُقالُ هَذهِ يوم القيامة، فقال: هذا والله شرٌّ منه. فَيَومُ القيامةِ يُؤتى بِحسناتي وسيئاتي، وأنتم جِئتُم بسيئاتي وتَرَكتُم حسناتي.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-12T11:43:38Z",
+  "attributes": {
+    "old_id": 359
+  },
+  "language": "ar",
+  "history": []
+}

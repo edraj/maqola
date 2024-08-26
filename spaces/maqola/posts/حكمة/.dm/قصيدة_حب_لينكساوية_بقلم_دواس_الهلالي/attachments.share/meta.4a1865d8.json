@@ -1,0 +1,33 @@
+{
+  "uuid": "4a1865d8-17c2-492d-81d5-4e8f4fa71ca2",
+  "shortname": "4a1865d8",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-07-24T21:12:05Z",
+  "author_locator": { "type": "content",
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-07-24T21:12:05Z",
+  "attributes": {
+    "old_id": 537,
+    "old_entry_id": 1429
+  },
+  "language": "en",
+  "location": {
+    "uuid": "4a1865d8-17c2-492d-81d5-4e8f4fa71ca2",
+    "shortname": "4a1865d8",
+    "subpath": "posts/حكمة",
+    "space_name": "maqola",
+    "parent_shortname": "قصيدة_حب_لينكساوية_بقلم_دواس_الهلالي",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

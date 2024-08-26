@@ -1,0 +1,29 @@
+{
+  "uuid": "e936d5ad-580e-45cc-a94f-4485cb1a2a9c",
+  "shortname": "اه_يا_بلد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اه يا بلد "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f3dabf68d64bb8bed8c38d939b4d49c13518843a",
+    "bytesize": 64,
+    "body": "اةةةةةةةةةةةةةةةةةةةةةةةة يا بلد  "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-10-12T08:09:24Z",
+  "attributes": {
+    "old_id": 544,
+    "old_entry_id": 521
+  },
+  "language": "ar"
+}

@@ -1,0 +1,46 @@
+{
+  "uuid": "1c3c5fe3-555c-4e7e-bae3-8496e5b41d3a",
+  "shortname": "عاملوا_الناس_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عاملوا الناس!!!"},
+  "updated_at": "2014-02-08T12:10:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:97d00474b58904331db2dcb985405fe7386c42e7",
+    "bytesize": 261,
+    "body": "عَامِلُـوا الّنَاسَ بِمَا يُظْهِرُون لَكُم . . والله يَتَوَلّىَ مَافِي صَدِورِهِمْ<br> <br> ஃ عُمُــرُ بنْ الخَطـّـابْ ஃ<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "فَصاحَة"
+  ],
+  "created_at": "2014-02-08T12:10:30Z",
+  "attributes": {
+    "old_id": 822
+  },
+  "language": "ar",
+  "history": []
+}

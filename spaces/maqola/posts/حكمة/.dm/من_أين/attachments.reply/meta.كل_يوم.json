@@ -1,0 +1,29 @@
+{
+  "uuid": "bba60ddd-52a7-4b93-8516-ff063f96b13b",
+  "shortname": "كل_يوم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كل يوم"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1a7f54f67aeb080acceb3dd00c63ff634cca3491",
+    "bytesize": 116,
+    "body": "كل يوم أبتعد فيه من تاريخ ولادتي، أقترب فيه من يوم لقائك يا الله."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "f3cc4af4-709b-4050-ba51-81b2b4e401ac",
+    "shortname": "ebaa_mohammed",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-30T22:04:53Z",
+  "attributes": {
+    "old_id": 840,
+    "old_entry_id": 891
+  },
+  "language": "ar"
+}

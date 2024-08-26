@@ -1,0 +1,29 @@
+{
+  "uuid": "2bc3394d-d4e1-4531-84c7-fa6275d29e86",
+  "shortname": "تصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ccadcc35e858c71ee6e4b0ae5fe32adee8164f02",
+    "bytesize": 75,
+    "body": "لها الأشجار و الحيوان قوت  وليس الحيوانات"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-30T06:08:11Z",
+  "attributes": {
+    "old_id": 634,
+    "old_entry_id": 97
+  },
+  "language": "ar"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "c8fc17ab-f381-42dc-8769-827f28e71639",
+  "shortname": "دمعة_على_جثمان_الحرية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"دَمعَةٌ على جُثمانٍ الحُرّية"},
+  "updated_at": "2012-03-27T20:45:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9238c281584c93846245388692fb0117188405e1",
+    "bytesize": 815,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أنا لا أكتبُ الأشعارَ فالأشعارُ تَكتُبُني،<br />\r\n\tأُريدُ الصَمتَ كَي أحيا،<br />\r\n\tولكنّ الذي ألقاهُ يُنطِقُني،<br />\r\n\tولا ألقى سِوى حُزنٍ، عَلى حُزنٍ، عَلى حُزن،<br />\r\n\tأأكتبُ أنّني حَيٌ على كَفَني؟<br />\r\n\tأأكتبُ أنَني حُرٌ، و حتّى الحَرفُ يَرسِفُ بالعُبودية؟<br />\r\n\tلقد شُُيّعت فاتِنَةٌ، تُسمى في بِلاد العُربِ تَخريباً،<br />\r\n\tوإرهاباً<br />\r\n\tوطَعناً في القوانينِ الإلهيّةِ،<br />\r\n\tولكن اسمُها والله ...،<br />\r\n\tلكن اسمُها في الأصلِ حُرّية!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2012-03-27T20:45:24Z",
+  "attributes": {
+    "old_id": 552
+  },
+  "language": "ar",
+  "history": []
+}

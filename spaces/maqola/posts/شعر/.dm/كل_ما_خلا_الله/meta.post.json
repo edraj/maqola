@@ -1,0 +1,42 @@
+{
+  "uuid": "016a764a-ba85-4ab4-9793-757b01ecbd25",
+  "shortname": "كل_ما_خلا_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كُلُّ ما خلا الله"},
+  "updated_at": "2010-11-10T05:31:29Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:690b4f850be552b5e2f59d198d9db2082a0c1f54",
+    "bytesize": 258,
+    "body": "<p>\r\n\t<span class=\"maqola_font_normal\"><span style=\"font-size: 2em;\">ألا إنَّ كُلَّ ما خَلا الله باطِلُ&#160; -- وَ كُلُّ نَعيمٍ في الدُنا لا مَحالَةَ زائلُ</span></span></p>\r\n<p>\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-11-10T05:31:29Z",
+  "attributes": {
+    "old_id": 170
+  },
+  "language": "ar",
+  "history": []
+}

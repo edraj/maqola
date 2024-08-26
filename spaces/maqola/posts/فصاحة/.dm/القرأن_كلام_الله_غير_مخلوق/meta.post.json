@@ -1,0 +1,43 @@
+{
+  "uuid": "4f195a80-0f7e-4e05-ae0f-1a24b39519f1",
+  "shortname": "القرأن_كلام_الله_غير_مخلوق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"القرأن كلام الله غير مخلوق"},
+  "updated_at": "2014-04-04T12:43:42Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eb87019310ffe058a3c77e5eedeeff60d0fe51d1",
+    "bytesize": 166,
+    "body": "<span class=\"maqola_body\"> <br> إن كنت تزعم حبه لم هجرت كتابه................أو ما تأملت ما فيه من لذيذ خطابه  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "76ca55ec-ada2-4ae4-9a14-df289666493d",
+    "shortname": "ابوالبراء_محمدضياء_جادالله",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "فَصاحَة",
+    "قَناعَة"
+  ],
+  "created_at": "2014-04-04T12:43:42Z",
+  "attributes": {
+    "old_id": 872
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "620fdc56-66aa-4cd7-9abe-2ec1dda795ed",
+  "shortname": "كيف_تعالج_الزلة_والذنب_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كيفَ تُعالج الزّلة والذنب؟"},
+  "updated_at": "2013-04-14T16:31:56Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cb824177c7fa6065aeccd6101366551fa0cb0330",
+    "bytesize": 244,
+    "body": "<span class=\"maqola_body\"> يقولُ الجاحظ :<br><br>أما بعدُ، <br>فَنِعمَ البَديلُ من الزَّلَّةِ الاعتذارُ، و بِئسَ العوَضُ مِن التَوبةِ الإصرارُ.<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b4a0dbf6-91da-44df-a822-37c956f1885e",
+    "shortname": "الجاحظ",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-04-14T16:31:44Z",
+  "attributes": {
+    "old_id": 574
+  },
+  "language": "ar",
+  "history": []
+}

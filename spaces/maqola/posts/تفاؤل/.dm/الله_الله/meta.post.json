@@ -1,0 +1,41 @@
+{
+  "uuid": "02386596-f79a-4c3f-89b8-2b9a55ab1445",
+  "shortname": "الله_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الله الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6ad7bbe590eaa1187c015f21173acc0cca93a867",
+    "bytesize": 728,
+    "body": "<p><strong><span data-redactor-tag=\"span\" style=\"color: rgb(31, 73, 125);\">صوتك يسمعه الله , ألمك يعلمه الله , حاجتك يدركها الله , رزقك بخزائن الله , شفاؤك بيد  الله , عدوك سيخذله الله , توجّعك يشعر به الله .</span></strong></p><p><strong><span data-redactor-tag=\"span\" style=\"color: rgb(31, 73, 125);\"></span></strong><strong><span data-redactor-tag=\"span\" style=\"color: rgb(31, 73, 125);\">فإذا كان الله معك هكذا على كل حال فلماذا لاتحسن الظن فيه على كل حال .</span></strong></p><p><br></p><p><span style=\"color: rgb(79, 97, 40);\">الكاتب : نبيل جلهوم.</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل"
+  ],
+  "created_at": "2015-02-10T08:56:27Z",
+  "attributes": {
+    "old_id": 1003
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "cea976b9-61c1-46cb-9802-efab3ec89d08",
+  "shortname": "في_القبر_كيف_ترى_أكون",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في القَبر.... كيفَ تَرَى أكُونُ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:56ea350b41b879de1ab827ff56f6dc2fd14715ef",
+    "bytesize": 436,
+    "body": "<p><span class=\"kufi\"></span><span style=\"color: rgb(227, 108, 9);\"></span><em></em><strong></strong>إِني أَبُثّك من حَديثي</p><p>والحديثُ ذو شُجُونُ<br>غَيَّرتُ مَوضِعَ مَسْكَني<br>يَوماً فَفارَقَني السُكونُ<br>قُلْ لي فأوّلُ لَيْلَة في<br>القَبر.... كيفَ تَرَى أكُونُ<br> <br>\"الوزير المغربي\"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "لُغز"
+  ],
+  "created_at": "2015-03-11T16:29:15Z",
+  "attributes": {
+    "old_id": 1098
+  },
+  "language": "ar",
+  "history": []
+}

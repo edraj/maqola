@@ -1,0 +1,42 @@
+{
+  "uuid": "55cffe2d-02eb-4a32-a0b2-819085410cad",
+  "shortname": "يعاني_من_قلة_الشهية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يُعاني من قلة الشهية"},
+  "updated_at": "2010-12-11T18:56:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ba3a37e912dd61a2d241ad3d1fe771ce142f0cc5",
+    "bytesize": 990,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">نَزلَ رَجلٌ بصَومَعةِ راهب (ضيفا عليه)، فَقَدَّمَ إليه الراهبُ أربَعةَ أرغفة وذَهبَ لِيُحضِرَ إليه مرق العدس فحمله وجاء فوجده قد أكل الخُبز، فذهب فأتى بخبز فوجده قد أكل العدس ففعل ذلك عدة مرات؛ ثُمَّ سألَهُ الراهب أين مَقصَدُك؟ قال إلى الأردن، قال لماذا؟ قال بلغني أن بها طبيبا حاذقا أسأله عما يُصلِحُ معدتي فإني قليل الشهوة للطعام؛ فقال له الراهب إنّ لي إليك حاجة قال وما هي، قال إذا ذهبت وأصلحت معدتك فلا تجعل رجوعك عليّ.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من كتاب المستطرف في كل فن مستظرف.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-11T18:56:15Z",
+  "attributes": {
+    "old_id": 354
+  },
+  "language": "ar",
+  "history": []
+}

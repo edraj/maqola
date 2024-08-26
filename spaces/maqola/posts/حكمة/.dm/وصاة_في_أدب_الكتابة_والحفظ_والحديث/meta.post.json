@@ -1,0 +1,43 @@
+{
+  "uuid": "6a91b90f-f8c7-4a75-b958-5bb2fda2cc56",
+  "shortname": "وصاة_في_أدب_الكتابة_والحفظ_والحديث",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وصاة في أدب الكتابة والحفظ والحديث"},
+  "updated_at": "2014-01-12T12:51:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9fd62ab09e97da7ae93fbda77613a3c2d13567f7",
+    "bytesize": 352,
+    "body": "<span class=\"maqola_body\">قال أمير المؤمنين المأمون موصياً بعض بنيه :</span><div><span class=\"maqola_body\"><br>\"اكْتُبْ أَحْسَنَ مَا تَسْمَعُ ، وَاحْفَظْ أَحْسَنَ مَا تَكْتُبُ ، وحَدِّثْ بِأَحْسَنِ مَا تَـحْفَظُ\"<br>  </span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a3b522e4-2a27-4598-aa55-eba5e171481e",
+    "shortname": "niazi_elhadi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "عُلوم"
+  ],
+  "created_at": "2013-10-20T08:46:31Z",
+  "attributes": {
+    "old_id": 686
+  },
+  "language": "ar",
+  "history": []
+}

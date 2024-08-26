@@ -1,0 +1,43 @@
+{
+  "uuid": "7b0adbd3-fd06-4ecf-b5bd-a5d9641127ef",
+  "shortname": "من_اقوال_البارودي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من اقوال البارودي"},
+  "updated_at": "2014-03-01T15:45:28Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eb26fb842ee887bd3f55eaac01614d1dfdd4c0c9",
+    "bytesize": 300,
+    "body": "سمعَ الخليُّ تأوّهي فتلفّتـا <br> وأصابهَ عجبٌ فقال: من الفتى؟ <br> فأجبتُه: إني امرؤ لعبَ الهوى <br> بفؤادِه يومَ النوى فتفتّـتــا<br> <br>  البارودي<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2014-03-01T15:45:18Z",
+  "attributes": {
+    "old_id": 851
+  },
+  "language": "ar",
+  "history": []
+}

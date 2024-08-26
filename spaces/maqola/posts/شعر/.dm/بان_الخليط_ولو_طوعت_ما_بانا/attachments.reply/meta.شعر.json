@@ -1,0 +1,29 @@
+{
+  "uuid": "0886240d-de5e-49cf-bdce-59bc011aafd4",
+  "shortname": "شعر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شعر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:42dd42968b5ca1cd0d97669ba9fc4155213e86e3",
+    "bytesize": 321,
+    "body": "ماأرق قول الشريف الرضي في البكاء علي الأطلال:ولقد مررت علي ديارهمو...وطلولها بيد البلي نهب_فوقفت حتي ضج من لغب ..رحلي وحتي ضاق بي الركب_وتلفتت عيني فمذ خفيت...عني الطلول تلفت القلب"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-04T09:48:24Z",
+  "attributes": {
+    "old_id": 264,
+    "old_entry_id": 304
+  },
+  "language": "ar"
+}

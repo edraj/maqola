@@ -1,0 +1,18 @@
+{
+  "uuid": "f826defc-a90a-4440-bc2a-923a9946141f",
+  "shortname": "3bd_alr7man_al7men_6.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:98845e136a51d05bfcfbe3389368a616793a3005",
+    "bytesize": 7027939,
+    "body": "3bd_alr7man_al7men_6.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:05+03:00",
+  "attributes": {
+    "old_id": 24
+  },
+  "language": "en"
+}

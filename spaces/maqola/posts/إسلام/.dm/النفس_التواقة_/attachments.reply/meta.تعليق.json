@@ -1,0 +1,29 @@
+{
+  "uuid": "a78a2edf-1bac-490c-b7a2-14eb3a8e1a22",
+  "shortname": "تعليق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تعليق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2ab25d9234ac214a0c3f9109604e586389f3b773",
+    "bytesize": 46,
+    "body": "رحمهما اللهم رحمة واسعة.. "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-08-31T05:34:12Z",
+  "attributes": {
+    "old_id": 520,
+    "old_entry_id": 142
+  },
+  "language": "ar"
+}

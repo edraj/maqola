@@ -1,0 +1,29 @@
+{
+  "uuid": "dffd8db7-cfcb-43ea-8f19-5a6905d1928e",
+  "shortname": "تصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4f7cdd96811a318442a44db4ec05473681c33e6d",
+    "bytesize": 117,
+    "body": "اعتقد انك تقصد  الا كل شيء ما خلا الله باطل-وكل نعيم لا محالة زائل"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-10T19:15:55Z",
+  "attributes": {
+    "old_id": 92,
+    "old_entry_id": 170
+  },
+  "language": "ar"
+}

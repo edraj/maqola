@@ -1,0 +1,43 @@
+{
+  "uuid": "f9c7c3a0-a48a-45e9-8b3e-8bebc7640b9c",
+  "shortname": "إعداد_القادة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إعدادُ القادة"},
+  "updated_at": "2010-12-15T20:40:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:915e2770b72add8b69a5e6f8b2cae62e0b4c5ef4",
+    "bytesize": 991,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كان مُعلِّمُ كِسرى أنوشروان يَضربُه بِلا ذَنب، ويأخذه بأنْ يُمسكَ الثلجَ في يَدِه حتى تَكادُ كفُّهُ تَسقُط. فآلى في نفسه لئن مُلِّكتُ لأقتلنه؛ فلما مُلِّكَ كسرى هرب مُعلِّمُه، فأمَّنه فأتاه؛ فسأله عن الضرب ظُلماً، فقال: لِتَعرِف حِقدَ المظلوم إذا ظلمته؛ قال: أحسنت، فالثلج الذي كُنتَ تُعَذَّبُني به؟ قال: ستعرف ذلك؛ فغزا، فأصبحوا في غداة باردة، فلم يقدروا على توتير قسيهم، فوترها لهم، فقاتل وظفر، فَعرَفَ مُرادَ مُؤَدِبِه.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من كتاب ربيع الأبرار للزمخشري.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-12-15T20:40:02Z",
+  "attributes": {
+    "old_id": 377
+  },
+  "language": "ar",
+  "history": []
+}

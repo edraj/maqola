@@ -1,0 +1,23 @@
+{
+  "uuid": "3b3f7587-913b-474a-8d31-b54197395111",
+  "shortname": "3b3f7587",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "f36eda2c-f9a0-4a2f-bd1e-0ebb067d66bf",
+    "shortname": "abdulhade_altwergi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-08-09T01:54:25Z",
+  "attributes": {
+    "old_id": 1104,
+    "old_entry_id": 609
+  },
+  "language": "en",
+  "type": "like"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "5614a8dd-d825-4406-8488-b25ba14cd016",
+  "shortname": "معاني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"معاني......"},
+  "updated_at": "2014-02-01T11:49:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1d69a2f06738b54852c7140023c7433f8cc968c3",
+    "bytesize": 265,
+    "body": "بقسماط : <br> لفظٌ تركي .. هو نوعٌ منَ الخبزِ وهو عبارةٌ عن خبزٍ جاف يستعملُ في فتراتِ الطوارئِ حينَ لا يتوفر ُالخبزُ الطازج .<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عُلوم"
+  ],
+  "created_at": "2014-02-01T11:48:53Z",
+  "attributes": {
+    "old_id": 752
+  },
+  "language": "ar",
+  "history": []
+}

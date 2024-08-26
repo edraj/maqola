@@ -1,0 +1,29 @@
+{
+  "uuid": "89a8d04f-ede9-4acd-8c9f-8daec030e6ef",
+  "shortname": "اشادة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اشادة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b30c7340a4c2cd7a245e05c129f3b2ddd2a018f7",
+    "bytesize": 491,
+    "body": "بسم الله سلام عليكم  كلما قرأت لهذا الشاعر يتأكد لدي انه يصدر من مورد غير طبيعي لا يمكن  لأي شاعر في الجاهلية وفي الاسلام أن يرد عليه الا شوقي في العصر الحديث كأنه يحاول أن يحاكي شيئا من ابداع هذا الشاعر الفذ.   شكرا للقائمين على الموقع وللمشاركين.. وسلام على الجميع.  الرياض"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-11-20T08:35:45Z",
+  "attributes": {
+    "old_id": 569,
+    "old_entry_id": 540
+  },
+  "language": "ar"
+}

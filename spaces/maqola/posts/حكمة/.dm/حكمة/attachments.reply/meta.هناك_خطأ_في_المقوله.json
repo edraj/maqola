@@ -1,0 +1,29 @@
+{
+  "uuid": "a114672d-3064-4a25-8b3d-fc169dc8b104",
+  "shortname": "هناك_خطأ_في_المقوله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"هناك خطأ في المقوله "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d5e36a35e881dac85aee12392a82ea125c74a5e9",
+    "bytesize": 143,
+    "body": "من يدري ويدري انه يدري ليس بجاهل إنما هو عالم فسألوه كما ورد في المقولة الأصلية"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2977c5b4-47cb-44e8-a3d3-520d9be3843a",
+    "shortname": "سارة__5",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-03T19:55:47Z",
+  "attributes": {
+    "old_id": 826,
+    "old_entry_id": 900
+  },
+  "language": "ar"
+}

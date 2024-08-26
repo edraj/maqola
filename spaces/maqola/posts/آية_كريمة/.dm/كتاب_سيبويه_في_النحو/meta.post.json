@@ -1,0 +1,57 @@
+{
+  "uuid": "0f3c3b71-38b3-45ed-aa03-b3acbdc82c2a",
+  "shortname": "كتاب_سيبويه_في_النحو",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كتاب سيبويه في النحو"},
+  "updated_at": "2015-04-25T05:19:51Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4cf9c2ca5de90f7cf2a7cb3691f13a36ef6031d0",
+    "bytesize": 727,
+    "body": "<p>سُمي كتاب : \" سيبويه في النحو \" بالكتاب لأن مؤلفه تركه دون عنوان ، وقد سماه الناس قديماً \" قرآن النحو \" . وهو أقدم ما وصلنا مكتوبا في علم النحو . قال عنه الجاحظ أنه \" لم يكتب الناس في النحو كتاباً مثله \" قال عنه السيرافي : \" وكان كتاب سيبويه لشهرته وفضله علَماً عند النحويين ، فكان يقال بالبصرة : قرأ فلان الكتاب ، فيعلم أنه كتاب سيبويه . \" وقال الجرمي : \" أنا منذ ثلاثون سنة أفتي الناس في الفقه من كتاب سيبويه . \"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام",
+    "تَفاؤل",
+    "حَديثٌ شَريف",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "خاطِرة",
+    "سِياسَة",
+    "شَجاعَة",
+    "شِعر",
+    "عربية",
+    "فَخر",
+    "قَناعَة",
+    "قِصّة",
+    "لُغة عربيّة",
+    "مَثَل"
+  ],
+  "created_at": "2015-04-11T21:21:32Z",
+  "attributes": {
+    "old_id": 1166
+  },
+  "language": "ar",
+  "history": []
+}

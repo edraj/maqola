@@ -1,0 +1,43 @@
+{
+  "uuid": "5dd8c960-4c49-44f5-8d0a-f173e8d4687e",
+  "shortname": "الأخير_زمانه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الأخير زمانه"},
+  "updated_at": "2010-10-17T19:42:27Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8eae032719deaa0f3b729531466e7ed02620140c",
+    "bytesize": 226,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">وإِنِّي و إن كُنتُ الأخيرُ زَمانُهُ - لآتٍ بِما لَم تَستَطِعُهُ الأوائِلُ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b314a2ef-e00e-4242-bca9-b8d68b0bb0a4",
+    "shortname": "المعري",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "فَخر"
+  ],
+  "created_at": "2010-10-17T19:41:21Z",
+  "attributes": {
+    "old_id": 75
+  },
+  "language": "ar",
+  "history": []
+}

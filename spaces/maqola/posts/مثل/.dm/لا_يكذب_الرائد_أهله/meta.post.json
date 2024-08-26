@@ -1,0 +1,42 @@
+{
+  "uuid": "97b328c6-75ee-40f2-98b6-c1eeeae464a2",
+  "shortname": "لا_يكذب_الرائد_أهله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا يَكذِبُ الرائِدُ أَهلَهُ"},
+  "updated_at": "2011-01-05T20:53:22Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d3a106f0e76ef05481dcec8ca47834469dfef2e6",
+    "bytesize": 1539,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">و الرائدُ هو الذي يُقَدِّمُونه لِيرْتادَ مَنزِلاً أو ماءً أو مَوضِعَ حِرْزٍ يَلجَؤن إليه مِن عَدُوٍّ يَطلُبُهُم، فإن كَذَبهم صارَ تَدبيرُهُم على خِلافِ الصواب، وكانت فيه هَلَكتُهُم، أي أنّهُ وإنْ كان كذاباً فإنه لا يكذب أهله‏.‏<br />\r\n\tيُضرب فيما يُخَافُ مِن غِبِّ الكذب‏.‏<br />\r\n\tقَالَ ابنُ الأعرابي‏:‏ بَعثَ قَومٌ رائداً لَهُم فلما أتاهُم قَالَوا‏:‏ ما وراءُك‏؟‏ قَالَ‏:‏ رأيت عُشْباً يشبعْ مِنهُ الجملُ البروكْ، و تَشكَّت منه النساء، وهَمَّ الرَجلُ بأخيه. يقول‏:‏ العشب قليل لاَ يناله الجمل مِن قِصَرِه حتى يبرك، وقوله ‏&quot;‏تشكت مِنهُ النِساء‏&quot;‏ أي مِنْ قِلَّته تحلب الغنم في شَكْوَةٍ، وقوله‏ &quot;‏وهمَّ الرجُلُ بأخيه‏&quot;‏ أي تقاطَعَ الناسُ فهمَّ الرجلُ أَنْ يدعو أخاه ويصله من قلة العشب‏.</span></p>\r\n<p>\r\n\t&#160;</p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من كتاب &quot;مَجمَع الأَمثال&quot; للمَيداني.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2011-01-05T20:48:49Z",
+  "attributes": {
+    "old_id": 446
+  },
+  "language": "ar",
+  "history": []
+}

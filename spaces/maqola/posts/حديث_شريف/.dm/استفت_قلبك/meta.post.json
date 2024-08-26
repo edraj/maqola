@@ -1,0 +1,41 @@
+{
+  "uuid": "b3845aca-ad62-4553-9efd-10c96ddc4f5f",
+  "shortname": "استفت_قلبك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"استفت قلبك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c758c8a7788a60404a484b3434fcdbffc9ea1c3d",
+    "bytesize": 227,
+    "body": "<p>\" استفت قلبك, والبر ما اطمأنت إليه النفس, واطمأن إليه القلب, والإثم ما حاك في القلب, وتردد في الصدر, وإن أفتاك الناس وأفتوك \"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "fb9d54cf-2eca-48ad-870b-47ace16e059f",
+    "shortname": "رسول_الله_",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "4be9571a-fcbf-4e81-8a6d-91f98f740f89",
+    "shortname": "hassan_abu_sleem",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حَديثٌ شَريف"
+  ],
+  "created_at": "2015-12-20T00:58:01Z",
+  "attributes": {
+    "old_id": 1565
+  },
+  "language": "ar",
+  "history": []
+}

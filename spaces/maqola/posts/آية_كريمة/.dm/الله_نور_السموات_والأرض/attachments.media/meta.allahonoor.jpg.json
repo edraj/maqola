@@ -1,0 +1,18 @@
+{
+  "uuid": "dbbd667b-53be-4419-909e-ff330c91742d",
+  "shortname": "allahonoor.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:efd32ff5a61120ce4e46faf2e61b11773a39d69d",
+    "bytesize": 215122,
+    "body": "allahonoor.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 10
+  },
+  "language": "en"
+}

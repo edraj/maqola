@@ -1,0 +1,42 @@
+{
+  "uuid": "052587a3-4946-4785-8a67-5defdd15f55f",
+  "shortname": "لا_يكون_للحمار_مثل_عقل_الأمير",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا يكون للحمارِ مِثلُ عَقلِ الأمير"},
+  "updated_at": "2010-11-29T07:44:46Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:27c6d8457b573b981bbfe62821fb407aba27e727",
+    "bytesize": 855,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">وَقَفَ مُعاويةُ بن مروان على باب طَحّان فَرأى حِماراً يُدورُ بالرحى وفي عُنقِه جَلجَل. فقال للطحان: لِمَ جَعلتَ الجَلجلَ في عُنِقِ الحِمار؟ فقال: رُبَّما أدركَتني سآمَةٌ أو نُعاس فإذا لَم أسمع صَوتَ الجَلجل عَلِمتُ أنَّ الحِمارَ واقِفٌ فأَحُثُّهُ لِيستَأنِفَ المسير. فقال مُعاوية: ومَن أدراكَ؟ فَرُبَّما وَقفَ وحَرَّكَ رَأسَهُ بالجلجل هَكذا، وَ حَرَّكَ مُعاويةُ رأسَهُ. فقال الطحان: ومَن أينَ لي بِحمارٍ يَكونُ عَقلُهُ مِثلُ عَقلِ الأمير!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-29T07:44:46Z",
+  "attributes": {
+    "old_id": 258
+  },
+  "language": "ar",
+  "history": []
+}

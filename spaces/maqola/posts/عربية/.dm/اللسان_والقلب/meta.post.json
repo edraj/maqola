@@ -1,0 +1,42 @@
+{
+  "uuid": "8f7e19a8-1a6f-4164-8b5f-ab2f83d57033",
+  "shortname": "اللسان_والقلب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اللسان والقلب"},
+  "updated_at": "2010-10-12T21:14:59Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9102b6b1b1bd84d0e0c684a8c17c13d34857fd4b",
+    "bytesize": 256,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_bold\"><span class=\"maqola_body\">لِسانُ الفتى نِصفٌ ونِصفٌ فؤادُهُ - فَلم يَبقَ إلّا صُورةُ اللحمِ والدَمِ</span></span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "da52280d-f181-47cf-8a9c-16c21bdba9a2",
+    "shortname": "إبن_أبي_سلمي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عربية"
+  ],
+  "created_at": "2010-10-09T03:59:36Z",
+  "attributes": {
+    "old_id": 4
+  },
+  "language": "ar",
+  "history": []
+}

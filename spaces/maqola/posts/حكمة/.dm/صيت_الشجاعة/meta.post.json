@@ -1,0 +1,42 @@
+{
+  "uuid": "328e589d-de2b-4805-9fec-cbe1af4b1f63",
+  "shortname": "صيت_الشجاعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"صيت الشجاعة"},
+  "updated_at": "2010-11-01T04:07:45Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b9b34ef9ae240e8f24dab379aa1a2195c95a3f44",
+    "bytesize": 695,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">قيل لعنترة: أأنت أشجعُ العرب وأشدّهم؟<br />\r\n\tقال: لا.<br />\r\n\tقيل: فبماذا شاع لك في هذا الناس؟<br />\r\n\tقال: كنتُ أُقدِمُ إذا رَأيتُ الإقدامَ عَزْماً، وأُحجِمُ إذا رَأيتُ الإحجام حَزماً ولا أَدخُلُ إلاَّ مَوضِعاً أرى لي مِنهُ مَخرجاً، وكنت أعتَمِدُ الضَّعيفَ الجبانَ فأضرُبهُ الضَربةَ الهائلة يَطيرُ لها قَلبُ الشُجاع فأُثنّي عَليهِ فأقتُلهُ.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-10-26T12:33:01Z",
+  "attributes": {
+    "old_id": 116
+  },
+  "language": "ar",
+  "history": []
+}

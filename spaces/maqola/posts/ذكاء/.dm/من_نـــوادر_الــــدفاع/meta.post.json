@@ -1,0 +1,42 @@
+{
+  "uuid": "0bcfd0c0-f421-4cd8-b12d-b2e21c190183",
+  "shortname": "من_نـــوادر_الــــدفاع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من نـــوادر الــــدفاع...."},
+  "updated_at": "2014-08-15T00:33:26Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3c41a2eb34a1042018fdb1361c3b626fca0de6e3",
+    "bytesize": 2175,
+    "body": "<img src=\"<div id=\" fb-root\"=\"\"> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/ar_AR/all.js#xfbml=1\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <div class=\"fb-post\" data-href=\"https://www.facebook.com/photo.php?fbid=10204573552442870&amp;set=a.1821840949875.2117051.1355741499&amp;type=1\" data-width=\"466\"><div class=\"fb-xfbml-parse-ignore\">‎‎<a href=\"https://www.facebook.com/photo.php?fbid=10204573552442870&amp;set=a.1821840949875.2117051.1355741499&amp;type=1\">منشور</a>‎ by <a href=\"https://www.facebook.com/soufian.fis\">Soufian Wa Lilah Alhamd</a>.‎</div></div>\" /&gt;<span class=\"maqola_body\"> <br> *قال المحامي في معرض الدفاع عن موكلة المتهم بالسرقة , ان موكلي<br><br> ياحضرات القضاة لم يرتكب جريما ما , وكل ماهناك انة كان ماراً بتلك الشرفة<br><br> المطلة على الطريق , فأمتدت يدة اليمنى الى الصندوق الذي كان بها وأخذته<br><br> . ولا شك في أنكم توافقونني على أن اليد ليست سوى عضو من الأعضاء<br><br> الكثيرة في الجسم , فمن العدالة ألا تؤخذ الأعضاء كلها بجريمة عضو واحد منها<br><br> ولم يشك القضاة في ان المحامي يمزح , ان لم يكن قد أصيب في عقله ,<br><br> فقال رئيس المحكمة : ان حجتك ياحضرة المحامي منطقية جدا , ولذلك قضت<br><br> المحكمة بحبس يد المتهم اليمنى التي سرقت الصندوق , سنة مع الشغل ,<br><br> وهو حر في أن يصحبها أو لا يصحبها الى السجن ! .<br><br> وشد ماكانت دهشة القضاة , اذ رأوا المتهم يخلع ذراعة الصناعية ثم يتركها<br><br> على منصة المحكمة ,ويخرج من القاعة مع محامية في هدوء <span class=\"fontxlarge\"></span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9ac5503b-7bfd-451f-8d16-de8523eef134",
+    "shortname": "soufian_wa_lilah_lhamd",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "ذَكاء"
+  ],
+  "created_at": "2014-08-15T00:32:41Z",
+  "attributes": {
+    "old_id": 918
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "8631eb99-7b4a-4c32-9018-0497bd17dad9",
+  "shortname": "الناس_للناس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الناس للناس"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0351df759a273dd7a5a794b2ae9fcf2d8bac1e21",
+    "bytesize": 497,
+    "body": "الناس للناس..  الناسُ للناسِ ما زال الخير فيهم والكرمُ سائدٌ-لا ريب- هذي الحياةْ وخيرُ الناسِ من بين الورى رجلٌ تُقْضَى بواسطته...للناس حاجاتْ !! لا ترفضَنَّ حقّ المعروف على أحد ما دمت ميسورا...والعيشُ في ثَبَاتْ قد مات قومٌ ....وما ماتت فضائلُهم وعاش قومٌ ...وهم في الدنيا أمواتْ!!"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-05-04T15:19:14Z",
+  "attributes": {
+    "old_id": 636,
+    "old_entry_id": 412
+  },
+  "language": "ar"
+}

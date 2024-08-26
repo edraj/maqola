@@ -1,0 +1,33 @@
+{
+  "uuid": "85e0ae6c-2d5d-46bf-9e4b-e3722120dc21",
+  "shortname": "85e0ae6c",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-07-20T10:20:02Z",
+  "author_locator": { "type": "content",
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-07-20T10:20:02Z",
+  "attributes": {
+    "old_id": 51,
+    "old_entry_id": 643
+  },
+  "language": "en",
+  "location": {
+    "uuid": "85e0ae6c-2d5d-46bf-9e4b-e3722120dc21",
+    "shortname": "85e0ae6c",
+    "subpath": "posts/لغة_عربية",
+    "space_name": "maqola",
+    "parent_shortname": "حفظ_العربية_من_الضياع",
+    "resource_type": "locator",
+    "typename": "share",
+    "tags": []
+  }
+}

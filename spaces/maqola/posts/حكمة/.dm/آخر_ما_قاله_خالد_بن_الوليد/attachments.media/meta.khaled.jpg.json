@@ -1,0 +1,18 @@
+{
+  "uuid": "5ff0729f-d947-4199-931d-b7e405f449d6",
+  "shortname": "khaled.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:649e6b1e1d33f87acd02f7ecb1dcb2655b6e60c6",
+    "bytesize": 97295,
+    "body": "khaled.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 11
+  },
+  "language": "en"
+}

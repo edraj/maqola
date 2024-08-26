@@ -1,0 +1,29 @@
+{
+  "uuid": "8fa9c885-5970-4b50-a5bf-2cd338bb5318",
+  "shortname": "ياااااااااا_رب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ياااااااااا رب "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a1f35cc18deb31a95fac8fd2e025ce86a3cce6fd",
+    "bytesize": 118,
+    "body": "اللهم لا تحرمنا الجنة وما قرب اليها من قول او عمل  ياااااااااا رب "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-06-11T09:27:15Z",
+  "attributes": {
+    "old_id": 648,
+    "old_entry_id": 439
+  },
+  "language": "ar"
+}

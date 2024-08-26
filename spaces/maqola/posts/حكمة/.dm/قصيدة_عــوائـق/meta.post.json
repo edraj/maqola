@@ -1,0 +1,42 @@
+{
+  "uuid": "c9477679-f059-477f-828f-6bb9e629b226",
+  "shortname": "قصيدة_عــوائـق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قصيدة عــوائـق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0ff4de5a3c216669495a6e02fb294e8d9cb139f1",
+    "bytesize": 999,
+    "body": "<p>قلت للريح: استحمي في دمائي .<br> قالت الريح :<br> بهذا العاصف العاتي<br> سينشق ردائي .<br> قلت للشمس: استحمي .<br> هتفت :<br> أخشى بهذا الوهج الساطع<br> أن يعمى ضيائي .<br> قلت للبحر: تحمم .<br> قال لي :<br> أخشى من الطوفان<br> أن يغرق مائي .<br> ها أنا ناديت أقراني<br> وما من أحد لبى ندائي .<br> يا دمائي .. وحدك، اﻵن، عزائي .<br> يا دمائي حاولي أن تستحمي في دمائي .<br> هتفت :<br> ﻻ وقت عندي ﻻحتوائي .<br> إنني ألتف في شرنقة اﻹعصار<br> من غير انتهاء .<br> إنني غارقة في كبريائي !<br> قصيدة عــوائـق -الشاعر الكبير أحمد مطر.</p><p><br></p><p><iframe src=\"//www.youtube.com/embed/CM7-X5IYH0Y\" allowfullscreen=\"\" frameborder=\"0\" height=\"281\" width=\"500\"></iframe></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء"
+  ],
+  "created_at": "2015-07-25T00:45:28Z",
+  "attributes": {
+    "old_id": 1446
+  },
+  "language": "ar",
+  "history": []
+}

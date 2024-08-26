@@ -1,0 +1,42 @@
+{
+  "uuid": "10bf2671-9ef1-4c9c-948c-ea8b4d26d649",
+  "shortname": "الباذنجان__مدح_ثم_ذم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الباذنجان، مَدْحٌ ثُمّ ذَمّ."},
+  "updated_at": "2010-12-21T10:53:52Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ca7cf92a1760cc9f08a11f8f75f3ad17e7716bfb",
+    "bytesize": 770,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قال الأمير الشهابي لخادمه يوماً : تَميلُ نفسي إلى أكلة باذنجان . فقال الخادم : الباذنجان! بارك الله في الباذنجان! هو سيد المأكولات، شحم بلا لحم، سمك بلا حسك، يؤكل مقلياً ويؤكل مشويّاً، يؤكل كذا ويؤكل كذا. فقال الأمير : ولكن أكلت منه قبل أيام فنالني كَرْب (أي توجعت منه). فقال الخادم : الباذنجان ! لعنة الله على الباذنجان! فإنه ثقيل غليظ نفّاح.&#160; فقال الأمير : ويحك! تَمدَحُ الشيءَ وتذمُّه في وقت واحد ؟! </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-12-19T01:53:13Z",
+  "attributes": {
+    "old_id": 393
+  },
+  "language": "ar",
+  "history": []
+}

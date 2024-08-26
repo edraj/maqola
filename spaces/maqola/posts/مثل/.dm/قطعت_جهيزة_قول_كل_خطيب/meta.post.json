@@ -1,0 +1,42 @@
+{
+  "uuid": "93ba5eeb-8a03-4477-a45e-b633285a2036",
+  "shortname": "قطعت_جهيزة_قول_كل_خطيب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قَطَعَتْ جَهِيْزَةُ قَوْلَ كُلِّ خَطِيْبٍ"},
+  "updated_at": "2010-11-01T12:47:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:21daeda44f629a34faa8038cd1db13cda45ccee4",
+    "bytesize": 1082,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\"><span style=\"color: rgb(255, 0, 0);\">قَطَعَتْ جَهِيْزَةُ قَوْلَ كُلِّ خَطِيْبٍ </span></span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">أصْلُهُ أنَّ قَوماً اجتَمَعوا يَتَشاوَرونَ في صُلحٍ بَينَ حَيّينِ، قَتلَ أحدُهُما مِن الآخَر قتيلا، ويحاولون إقناعَهم بِقَبولِ الدِّية. وبينما هُم في ذلك جاءَت أمَةٌ اسمُها &quot;جهيزة&quot; فَقَالت : إنَّ القاتلَ قَد ظَفِرَ به بعضُ أولياءِ المقتولِ وقتلوه!<br />\r\n\tفَقَالوا عند ذلك: &quot;قَطَعَتْ جهِيزةُ قولَ كلِّ خَطيبٍ&quot;.<br />\r\n\tأي: قد استُغنى عَن الخُطَب.<br />\r\n\tويُضرَبُ هذا المثل لِمن يَقطعُ على النّاسِ ما هُم فيه بأمرٍ مُهمٍ يأتي به.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2010-10-22T18:53:06Z",
+  "attributes": {
+    "old_id": 102
+  },
+  "language": "ar",
+  "history": []
+}

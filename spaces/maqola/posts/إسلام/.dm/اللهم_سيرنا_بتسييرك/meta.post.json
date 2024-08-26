@@ -1,0 +1,41 @@
+{
+  "uuid": "19f48ecd-4505-40c1-86c5-f2259a1f1588",
+  "shortname": "اللهم_سيرنا_بتسييرك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اللهم سيّرنا بتسييرك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fe2a397a913a5a1eee5dfd517c42d1c6fd87c9aa",
+    "bytesize": 525,
+    "body": "<p><span style=\"color: rgb(99, 36, 35);\">اللهم سيّرنا بتسييرك , وامنحنا من فَيْضِ تيسيرك , وأفِضْ اللهم علينا من نورك , واجعل لنا نورا نمشى به بين الناس , وأخرجنا  من الظلمات إلى النور , </span><span style=\"color: rgb(99, 36, 35);\">وأفض علينا من فضلك وأبدل همومنا  سرورا .</span></p><p><br></p><p><span style=\"color: rgb(147, 137, 83);\">الكاتب : نبيل جلهوم.</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2015-02-12T06:48:55Z",
+  "attributes": {
+    "old_id": 1012
+  },
+  "language": "ar",
+  "history": []
+}

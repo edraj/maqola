@@ -1,0 +1,43 @@
+{
+  "uuid": "d6344cb6-8eb9-4ad4-ba18-a1b1b7dd3569",
+  "shortname": "الناس_على_دين_ملوكهم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الناسُ على دينِ مُلوكِهم"},
+  "updated_at": "2015-03-14T03:13:02Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:62da8dca60ce7b7e6cd452167baef72efb4ebe5b",
+    "bytesize": 1275,
+    "body": "<p>روى أصحابُ التواريخِ في كتبِهم قالوا،</p><p>كان الناس إذا أصبحوا في زمان الحجَّاج وتلاقَوا يتساءلون: مَنْ قُتِل البارحة؟ ومن صُلِبَ؟ ومن جُلِدَ؟ ومن قطع؟ وأمثالُ ذلك.</p><p><br></p><p>وكان الوليدُ صاحِبُ ضِيَاعٍ واتِّخاذِ مصَانِعَ، فكان الناس يتساءلونَ في زمانه عن البُنْيَان والمصانع والضِّياع وشَقِّ الأنهار وغرس الأشجار .</p><p><br>ولمّا وَلِيَ سُليمانُ بن عبدِ الملك ، وكان صاحبُ نِكاحٍ وطعام، فكان الناس يتحدثون في الأطعمةِ الرفيعةِ ويتوَسَّعون في الأنْكِحَةِ والسراري، ويغْمُرون مجالسَهم بذكر ذلك . </p><p><br></p><p>ولمَّا وَلِيَ عمرُ بنُ عبدِ العزيزِ كان النَّاس يتساءلون، كمْ تحفظُ من القرآن؟ وكمْ وُرْدُك في كل ليلة؟وكم يحفظ فلان؟ ومتى يَخْتِم؟ وكم يصوم من الشهر؟ وأمثال ذلك.<br><br>سير الملوك للطرطوشي ص١٩١</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "سِياسَة"
+  ],
+  "created_at": "2015-03-14T03:12:03Z",
+  "attributes": {
+    "old_id": 1114
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "56a14acf-f96f-4d41-bb87-cc592cc0c9ff",
+  "shortname": "اليسر_بعد_العسر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اليُسرُ بَعدَ العُسر"},
+  "updated_at": "2010-11-19T03:05:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b85f47b5bd5940a287817814ed8f0fa146cbfe5c",
+    "bytesize": 276,
+    "body": "<p>\r\n\t<span class=\"maqola_font_normal\"><span style=\"font-size: 1.5em;\">إذا أصْبَحْتَ في عُسرٍ - فَلا تَحزَن لَهُ وافرَحْ<br />\r\n\tفَبَعدَ العُسرِ يُسرٌ عا - جِلٌ وإقرأ ألم نَشرحْ</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "شِعر"
+  ],
+  "created_at": "2010-10-10T22:45:44Z",
+  "attributes": {
+    "old_id": 6
+  },
+  "language": "ar",
+  "history": []
+}

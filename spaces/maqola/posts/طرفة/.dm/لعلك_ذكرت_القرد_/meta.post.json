@@ -1,0 +1,42 @@
+{
+  "uuid": "adb7524c-e883-4236-b871-146de17d6978",
+  "shortname": "لعلك_ذكرت_القرد_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لعلك ذكرت القِرد!"},
+  "updated_at": "2011-01-02T23:19:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4c9a50422fee690509eee8822c1cc7315165af3b",
+    "bytesize": 786,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قال الجاحظ، كان رجل يُرقي الضِّرس (<span style=\"font-size: 0.5em;\">أي يستخدم الرُّقية للعلاج من آلام الأسنان</span>) يَسخَرُ بالناس ليأخُذَ منهم شيئاً، وكان يقول للذي يُرقيه إيّاكَ أنْ يَخطُرَ على قلبك الليلة ذِكرُ القرد! فيبيتُ وَجِعاً فَيُبَكِّرُ إليه، فيقول لعلكَ ذكرتَ القِرد؟ فيقول نعم. فيقول مِن ثَمَّ لَمْ تَنفُع الرُّقية. </span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">- من كتاب الأذكياء لابن الجوزي.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2011-01-02T23:19:15Z",
+  "attributes": {
+    "old_id": 438
+  },
+  "language": "ar",
+  "history": []
+}

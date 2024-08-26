@@ -1,0 +1,29 @@
+{
+  "uuid": "ea8cf06d-bc4e-4088-a6c6-7856decbb8ff",
+  "shortname": "يعني_بالله_معقولة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يعني بالله معقولة ؟"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e0560724b92127b85b1203a44f01ab852c74afda",
+    "bytesize": 625,
+    "body": "سبحان الله , أعجب من يصدق هذه القصص !!  حسستني إن القصة هذي صارة في لندن , مش في الدولة الإسلامية !!  يا سبحان الله , كيف عبث الكذابون بتاريخنا الإسلامي والعربي ؟  أنا لا ألومهم , ففي كل حضارة مدلسون ,  ولا ألوم أصحاب الكتب ولا المكاتب , فعلى الأقل هذه الترهات مركونة على الأرفف , لكن ألوم الموقع الذي ينشرها للجميع .  سامحكم الله , فقط صرفت وقتا ضائعا هنا ."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-04T05:07:45Z",
+  "attributes": {
+    "old_id": 50,
+    "old_entry_id": 131
+  },
+  "language": "ar"
+}

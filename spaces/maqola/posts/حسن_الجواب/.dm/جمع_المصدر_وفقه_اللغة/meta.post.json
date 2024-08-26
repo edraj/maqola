@@ -1,0 +1,44 @@
+{
+  "uuid": "8241abed-73ac-4cdc-a79f-516c67b83aa6",
+  "shortname": "جمع_المصدر_وفقه_اللغة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جمعُ المصدر وفِقهُ اللغة"},
+  "updated_at": "2014-12-30T20:11:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1c61db95d30998a9e9c87adb57d182d08435c6e9",
+    "bytesize": 1032,
+    "body": "<span class=\"maqola_body\"> يُروى أنّ أبو الطيب المتنبي دَخلَ على الوزير ابن الفرات وعنده فُضلاءُ فيهم أبو علي الأمدي اللُغوي. فاحتفى الوزير بالمتنبي وقال له :<br>يا أبا الطيب هذا أبوعلي الأمدي ...<br>فقال المتنبي : لاأعرفه !! فأزعجَ ذلك أبا علي ...<br>ثُم أنشدَ المتنبي من شعره قوله :<br>(إنما التهنئات للأكفاء ..... ولمن يدني من البعداء)<br>فقال الأمدي : كيف جمعت التهنئة وهي مصدر والمصادر لاتجمع ؟<br>فقال أبو الطيب لمن بجانبه : أمسلمٌ هذا ؟<br>فقيل : سبحان الله هذا أبو علي الأستاذ تقول فيه مثل هذا!<br>قال المتنبي : أليس يصلي؟ فيقول التحيات لله!؟<br>وهي مثل التهنئات!<br>فخجل أبو علي ومن في المجلس.<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-12-30T20:11:16Z",
+  "attributes": {
+    "old_id": 947
+  },
+  "language": "ar",
+  "history": []
+}

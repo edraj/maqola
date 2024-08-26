@@ -1,0 +1,29 @@
+{
+  "uuid": "c6be2832-bcc9-45bd-934a-337bff4fad40",
+  "shortname": "احوال_العطارين_في_هذا_الزمن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"احوال العطارين في هذا الزمن"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d27bddac5ffff6708acb4f04d7a92a63effebc1f",
+    "bytesize": 220,
+    "body": "السلام عليكم في زمننا هذا تتهافت الفتيات على صالونات التجميل ناهيك عن التجمل في البيت قبل الخروج  لاحول ولا قوة الا بالله"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-01-10T04:50:07Z",
+  "attributes": {
+    "old_id": 376,
+    "old_entry_id": 428
+  },
+  "language": "ar"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "b2820a69-8195-43a9-9f0b-ee632eee6c8c",
+  "shortname": "الخمار_الوردي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الخمار الوردي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fe4c9ee86c58a45af86e64276974745ef926e95f",
+    "bytesize": 1202,
+    "body": "<p>اطلت علينا ذات الخمار الوردي واشارت بالبنان</p><p>فما عدت ادري اسكنت حواسي ام سكن الزمان</p><p>جميلة سمراء ياقوتة زمردة الماسة غالية الاثمان</p><p>احسد عيني عليها وتمنيت لو اطبق عليها الاجفان</p><p>اخفيها عن الناس وعن كل شر كل حاسد وعيّان </p><p>لامعة شفافة مثل كوكب دري بارز متألق للعيان<br>ياصاحبة السمو رفقا بنا فنحن نبقى من بني الانسان<br>اشفقي علينا من حسنك الطاغي والعطف منكي برحمة وحنان<br>فجمالك الاخاذ ليس يدرك وصفه بقصيدة وعيان <br>ولن يكفي وصفه معلقة من صنع عنترة او نابغة ذبيان <br>فالبدر ضيف عندكي والشمس اصبحت تميل للهذيان<br>وجميل طلتك كسحابة امطرت في صحراء تروي لها العطشان <br>سبحان ربي ابدع خلقه كما سخر الروح تسري في الابدان <br>.<br>.<br>خواطر شاردة بقلم احسان الصالحي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "675ade74-78d4-48da-926c-c8feb4a638c5",
+    "shortname": "احسان_الصالحي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "غَزَل"
+  ],
+  "created_at": "2015-08-15T09:19:37Z",
+  "attributes": {
+    "old_id": 1474
+  },
+  "language": "ar",
+  "history": []
+}

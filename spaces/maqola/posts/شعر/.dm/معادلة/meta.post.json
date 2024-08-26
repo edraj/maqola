@@ -1,0 +1,41 @@
+{
+  "uuid": "c9e5b214-7619-4df4-9120-d00e7fd992d3",
+  "shortname": "معادلة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"معادلة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2b528b5331e167d8a1cb7432c230d46da83afd50",
+    "bytesize": 456,
+    "body": "<p>قتل امرئٍ في غابةٍ<br></p><p>جريمةٌ لا تُغتَفر</p><p>وقتل شعبٍ آمنٍ</p><p>مسأَلةٌ فيها نظر</p><p>والحقُّ للقوَّةِ لا</p><p>يعطاهُ الاَّ مَن ظفر</p><p>ذي حالة الدنيا فكن</p><p>من شرّها عَلَى حذر</p><p>ديب اسحاق *شاعر وأديب وصحافي ثائر (1856 - 1885)</p><p>القصيدة من بحر مجزوء الرجز</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "15d34541-3bed-4775-887b-b73a43598f8e",
+    "shortname": "فيصل_الوليدي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-02-04T12:04:53Z",
+  "attributes": {
+    "old_id": 977
+  },
+  "language": "ar",
+  "history": []
+}

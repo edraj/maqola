@@ -1,0 +1,42 @@
+{
+  "uuid": "921c9d4d-cde6-4b43-9ca5-9337e6d661f0",
+  "shortname": "الحكيم_والمهموم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحكيم والمهموم"},
+  "updated_at": "2013-09-09T08:35:07Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:074682b094887caadcbc72d9da2e355f7bc34b02",
+    "bytesize": 1017,
+    "body": "<span class=\"maqola_body\"> سأل رجل مهموم حكيما فقال :<br><br>أيها الحكيم لقد أتيتك وما لي حيلة مما أنا فيه من الهم ؟<br><br>فقال الحكيم : سأسألك سؤالين وأُريد إجابتهما<br>فقال الرجل : اسأل .. !!<br><br>فقال الحكيم : أجئت إلى هذه الدنيا ومعك تلك المشاكل؟ ... قال: لا<br>فقال الحكيم : هل ستترك الدنيا وتأخذ معك المشاكل؟ ... قال: لا<br><br>فقال الحكيم : أمرِ لم تأتِ به، ولن يذهب معك ... الأجدر ألا يأخذ منك كل هذا الهم فكن صبوراً على أمر الدنيا وليكن نظرك إلى السماء أطول من نظرك إلى الأرض يكن لك ما أردت ،<br><br>أبتسم فرزقك مقسوم وقدرك محسوم وأحوال الدنيا لا تستحق الهموم لأنها بين يدي الحي القيوم .<br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "30366a4a-e464-4349-b879-34c54fd58fe5",
+    "shortname": "ahmad_ismail",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-09-09T08:35:07Z",
+  "attributes": {
+    "old_id": 666
+  },
+  "language": "ar",
+  "history": []
+}

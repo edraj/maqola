@@ -1,0 +1,29 @@
+{
+  "uuid": "61e56bfd-49b5-4caa-a230-5c4cf107b8ca",
+  "shortname": "يا_رب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يا رب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eff5eb436cd9d8077ddc3851ec4104be4f7f37f9",
+    "bytesize": 32,
+    "body": "ما خاب من استشار .."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-12-21T20:12:17Z",
+  "attributes": {
+    "old_id": 588,
+    "old_entry_id": 549
+  },
+  "language": "ar"
+}

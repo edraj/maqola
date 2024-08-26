@@ -1,0 +1,43 @@
+{
+  "uuid": "3a7e069f-6be0-4ccb-8df7-3599438120a8",
+  "shortname": "المتوفـي_والمتوفـى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المُتَوَفِّـي والمُتَوَفَّـى‏"},
+  "updated_at": "2010-12-07T21:52:11Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b9977f7e94f0812309bd6d6accbbf302a2036554",
+    "bytesize": 602,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">حكى إسحاقُ بن إبراهيم قال‏:‏ حَضَرتُ جَنازَةً لِبَعضِ القِبطِ فَقالَ رَجُلٌ مِنهُم‏:‏ مَن المُتَوَفِّـي‏!‏ فَقُلتُ :‏ الله، فَضُرِبتُ حَتى كِدتُ أموت‏.‏ </span></p>\r\n<p>\r\n\t<br />\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\">(المُتَوَفِّي هو الله&#160; والمُتَوَفَّى هو الميت‏)<br />\r\n\tمن كتاب أخبار الحمقى والمغفلين لابن الجوزي.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2010-12-07T21:52:11Z",
+  "attributes": {
+    "old_id": 335
+  },
+  "language": "ar",
+  "history": []
+}

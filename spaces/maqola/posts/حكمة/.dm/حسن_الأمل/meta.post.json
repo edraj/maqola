@@ -1,0 +1,43 @@
+{
+  "uuid": "3956d7aa-48e3-4947-a38e-29f724369d0b",
+  "shortname": "حسن_الأمل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حُسنُ الأمل"},
+  "updated_at": "2010-10-26T11:49:53Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:da063727e7a3f80b7fddd716d3b9620e8072af3e",
+    "bytesize": 231,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">أُعَلِّلُ النَّفسَ بالآمالِ أَرقُبُها -- ما أَضيقَ العيشَ لولا فُسحَةُ الأملِ</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-10-26T11:49:53Z",
+  "attributes": {
+    "old_id": 113
+  },
+  "language": "ar",
+  "history": []
+}

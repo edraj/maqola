@@ -1,0 +1,29 @@
+{
+  "uuid": "75d17c7d-2505-44b4-8f43-7c76be0fdac7",
+  "shortname": "شكر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شكر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c06240b78668204cf3b961b8b03c40f6dbf0dd8e",
+    "bytesize": 136,
+    "body": "شكرا للذوق الرائع في اختيار هذه الدرر من شعر أدباء المهجر الأوفياء للعربية"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-14T18:51:13Z",
+  "attributes": {
+    "old_id": 101,
+    "old_entry_id": 176
+  },
+  "language": "ar"
+}

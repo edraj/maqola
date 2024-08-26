@@ -1,0 +1,29 @@
+{
+  "uuid": "21649fd7-9012-4f68-816f-dac95e3340a1",
+  "shortname": "تصويب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصويب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:759fa7c2c11738b9bf1a4e2096e46357845b5f82",
+    "bytesize": 297,
+    "body": "السلام عليكم  ثلاث بفتح الثاء في أول الكلمة. (على متصفح كروم ظهرت بالضم)  أما فايرفوكس فقد ظهر مستطيل مرمز لذا وددت أن يتم التصحيح فالحركة لم تظهر.  بالتوفيق أخي كفاح "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-20T08:20:47Z",
+  "attributes": {
+    "old_id": 108,
+    "old_entry_id": 48
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "9ea9f847-7df4-4f17-9626-d6ed0be4a4ec",
+  "shortname": "مستسلمة_امام_عيناك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مستسلمة امام عيناك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ba8dca49c3878b505a4ad8c44b7a243cfee3b666",
+    "bytesize": 385,
+    "body": "عندما تتجمع الكلمات ع نسج المعنى ترتجف الانامل التي بها اخط ويصيب اقلامي فتور خوفا من الياءس لم اتعلم هذه الفلسفة الا من معلمي ولكن الحالة التي تجسدت ورايت صور من البوم احلامي وذاكرة لم تغب عني برغم من كثر متاهتي "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-07-26T15:34:15Z",
+  "attributes": {
+    "old_id": 656,
+    "old_entry_id": 558
+  },
+  "language": "ar"
+}

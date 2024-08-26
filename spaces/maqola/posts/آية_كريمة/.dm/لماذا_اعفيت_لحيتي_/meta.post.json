@@ -1,0 +1,42 @@
+{
+  "uuid": "3da388e6-493c-465c-8385-83966169e4ec",
+  "shortname": "لماذا_اعفيت_لحيتي_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لماذا اعفيت لحيتي ؟؟؟؟"},
+  "updated_at": "2013-06-15T15:14:53Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0b438377cdbd08d59eb9f0325fd2a7513bd4c490",
+    "bytesize": 914,
+    "body": "<b>قال رسول الله صلى الله عليه وسلم :</b><p></p><div><b>[\r\n عشرٌ من الفِطرةِ :&#160;قصُّ&#160;الشَّاربِ&#160;،&#160;وإعفاءُ&#160;اللِّحيةِ&#160;، والسِّواكُ ، \r\nواستنشاقُ الماءِ ، وقصُّ الأظفارِ ، وغسلُ البراجمِ &#160;ونتفُ الإبطِ ، \r\nوحلْقُ العانةِ ، وانتقاصُ الماءِ . قال زكريَّاءُ : قال مصعبٌ : ونسيتُ \r\nالعاشرةَ . إلَّا أن تكونَ المضمضةَ . زاد قُتيبةُ : قال وكيعٌ : انتقاصُ \r\nالماءِ يعني الاستنجاءَ ]</b><p></p>\r\n<p><b>الراوي:&#160;عائشة أم المؤمنين&#160;المحدث:مسلم -&#160;المصدر:&#160;صحيح مسلم -&#160;الصفحة أو الرقم:&#160;261</b></p></div><span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "3eca3a41-2007-4bb0-9e74-1fe209ef83da",
+    "shortname": "amouri_mahmoud",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة"
+  ],
+  "created_at": "2013-06-15T15:14:53Z",
+  "attributes": {
+    "old_id": 630
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "d1b5f6df-317e-452a-9de9-298c82b8ee4a",
+  "shortname": "الإباء_والعزة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الإباء والعزة"},
+  "updated_at": "2014-08-30T18:46:05Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8386fd5d453fe614cfdbc86ee0eeda7a490a5541",
+    "bytesize": 216,
+    "body": "<span class=\"maqola_body\"> <br>لَنْ تُدرِكَ مَرحلةَ الإباءِ حتى تقولَ \" لا \" صريحةً لجميعِ الإغراءات . &#160; <b>(حِكمة فِرِنسيَّة )</b>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "008b6bed-df6e-4e5e-b154-0eb6859114bd",
+    "shortname": "amr_m._shoeb",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-08-30T18:46:05Z",
+  "attributes": {
+    "old_id": 924
+  },
+  "language": "ar",
+  "history": []
+}

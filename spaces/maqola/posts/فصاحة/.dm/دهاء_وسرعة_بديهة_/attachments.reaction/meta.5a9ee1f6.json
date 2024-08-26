@@ -1,0 +1,23 @@
+{
+  "uuid": "5a9ee1f6-39d9-48de-b6a7-fa25ea69e7c0",
+  "shortname": "5a9ee1f6",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "3d959908-341f-488d-8ad5-4197a99060a0",
+    "shortname": "أم_أسامة_الليثي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2015-08-19T15:10:37Z",
+  "attributes": {
+    "old_id": 1112,
+    "old_entry_id": 608
+  },
+  "language": "en",
+  "type": "like"
+}

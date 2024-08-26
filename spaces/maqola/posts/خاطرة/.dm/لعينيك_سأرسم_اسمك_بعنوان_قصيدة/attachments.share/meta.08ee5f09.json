@@ -1,0 +1,33 @@
+{
+  "uuid": "08ee5f09-ff42-4a27-a56e-43b1222ee4e4",
+  "shortname": "08ee5f09",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-19T14:20:11Z",
+  "author_locator": { "type": "content",
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-19T14:20:11Z",
+  "attributes": {
+    "old_id": 305,
+    "old_entry_id": 1040
+  },
+  "language": "en",
+  "location": {
+    "uuid": "08ee5f09-ff42-4a27-a56e-43b1222ee4e4",
+    "shortname": "08ee5f09",
+    "subpath": "posts/خاطرة",
+    "space_name": "maqola",
+    "parent_shortname": "لعينيك_سأرسم_اسمك_بعنوان_قصيدة",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "cc2c98de-2581-4e44-8339-1fc43204239b",
+  "shortname": "لا_تحزن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تحزن"},
+  "updated_at": "2013-06-17T12:57:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a910738fac93fd0ae232df046b22c84291a47308",
+    "bytesize": 239,
+    "body": "<span class=\"maqola_body\"> . لا تحزن إذا جاءك سهم قاتل من أقرب الناس إلى قلبك<br><br>.. فسوف تجد من ينزع السهم ويعيد لك الحياة و الابتسامه<br><br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "69fd1b3f-4f98-4311-b497-ee8d4f0eda04",
+    "shortname": "خالد_تحسين",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-06-17T12:57:37Z",
+  "attributes": {
+    "old_id": 633
+  },
+  "language": "ar",
+  "history": []
+}

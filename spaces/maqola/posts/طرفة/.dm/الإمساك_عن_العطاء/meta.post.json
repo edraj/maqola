@@ -1,0 +1,42 @@
+{
+  "uuid": "bcb4802c-294c-4d44-a8d8-77c6bbcc6744",
+  "shortname": "الإمساك_عن_العطاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الإمساك عن العطاء"},
+  "updated_at": "2010-11-04T04:49:40Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c5698275ac89bc5288eb8787b8f8ce9de17c45a4",
+    "bytesize": 385,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قال محمد بن إبراهيم الإمام لسعيدٍ الدارمي: لَو صَلُحَتْ عليكَ ثيابي لَخَلَعتُها عليك!<br />\r\n\tقال: فَديتُك، إنْ لَم تَصلُح عليَّ ثيابُكُم صَلُحَتْ عَليَّ دَنانيُرك!</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-04T04:49:40Z",
+  "attributes": {
+    "old_id": 156
+  },
+  "language": "ar",
+  "history": []
+}

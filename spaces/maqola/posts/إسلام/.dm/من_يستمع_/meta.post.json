@@ -1,0 +1,44 @@
+{
+  "uuid": "712e07aa-842d-43cd-bc79-3104a68a6b06",
+  "shortname": "من_يستمع_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من يستمع!!"},
+  "updated_at": "2014-02-03T10:17:41Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d3bdb770e4b3804039c8b18103370e614d0a416b",
+    "bytesize": 289,
+    "body": "<span class=\"maqola_body\"> <br> قالَ النبيُ ﷺ:<br> (من استمعَ إلى حديثِ قوم، وهم لهُ كارهون أو يفرون منهُ= صُبَ في أذنهِ الآنك يومَ القيامة).<br> <br> رواهُ البخاري في صحيحهِ<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "خاطِرة"
+  ],
+  "created_at": "2014-02-03T10:17:31Z",
+  "attributes": {
+    "old_id": 771
+  },
+  "language": "ar",
+  "history": []
+}

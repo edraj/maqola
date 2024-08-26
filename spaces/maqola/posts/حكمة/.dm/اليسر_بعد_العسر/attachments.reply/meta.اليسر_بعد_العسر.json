@@ -1,0 +1,29 @@
+{
+  "uuid": "29a0164e-bb38-4bfa-8dcc-aad6291865d7",
+  "shortname": "اليسر_بعد_العسر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اليُسرُ بَعدَ العُسر "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8ff45cc26f93cb45bab23bdabfc717e30d13bcb7",
+    "bytesize": 366,
+    "body": "فلا تجزع إذا أعسرت يوماً  ***  فقد أيسرت في دهر طويل ولا تيأس فأن اليأس كفر  ***  لعل الله يغني من قليل ولا تظنن بربك ظن سـوء  ***  فـإن الله أولـى بالجمـيـل رأيت العسـر يتبـعه يسـار  ***  وقـول الله أصـدق كل قـيل "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-04-29T07:10:55Z",
+  "attributes": {
+    "old_id": 631,
+    "old_entry_id": 6
+  },
+  "language": "ar"
+}

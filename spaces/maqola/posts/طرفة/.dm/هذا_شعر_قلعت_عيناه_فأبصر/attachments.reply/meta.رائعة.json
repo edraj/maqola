@@ -1,0 +1,29 @@
+{
+  "uuid": "715d3ab8-db8c-444e-9d08-3cff52dbd691",
+  "shortname": "رائعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رائعة "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ad22036c5c1e5786343011fb55c158de6fee99ba",
+    "bytesize": 69,
+    "body": "هذا ذكاء وفطنة وفراسة وحُسن تصرف منه :)"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "e7199d94-a359-4a2e-ae17-d6ac52480b1f",
+    "shortname": "ابو_زيد",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-01-26T11:24:17Z",
+  "attributes": {
+    "old_id": 798,
+    "old_entry_id": 499
+  },
+  "language": "ar"
+}

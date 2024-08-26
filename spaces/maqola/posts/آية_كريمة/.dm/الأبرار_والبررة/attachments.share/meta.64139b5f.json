@@ -1,0 +1,33 @@
+{
+  "uuid": "64139b5f-c8f2-43d6-be9b-ae06ba7a89e7",
+  "shortname": "64139b5f",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2014-02-03T09:51:31Z",
+  "author_locator": { "type": "content",
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2014-02-03T09:51:31Z",
+  "attributes": {
+    "old_id": 120,
+    "old_entry_id": 766
+  },
+  "language": "en",
+  "location": {
+    "uuid": "64139b5f-c8f2-43d6-be9b-ae06ba7a89e7",
+    "shortname": "64139b5f",
+    "subpath": "posts/آية_كريمة",
+    "space_name": "maqola",
+    "parent_shortname": "الأبرار_والبررة",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

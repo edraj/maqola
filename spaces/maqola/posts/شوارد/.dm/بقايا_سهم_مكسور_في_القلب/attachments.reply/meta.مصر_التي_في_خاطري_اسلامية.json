@@ -1,0 +1,29 @@
+{
+  "uuid": "9d1f651f-7ccc-4d85-9c8e-285a4ddcd3be",
+  "shortname": "مصر_التي_في_خاطري_اسلامية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مصر التي في خاطري اسلامية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a3ccc7225c8921ee7d9f0375b609afcbab97407c",
+    "bytesize": 151,
+    "body": "مقال موضوعي ورائع .جزاك الله خيرا .وجزي الله خيرا كل القائمين علي هذا الموقع الرائع "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "bc87f69d-122a-49c0-a5eb-6b916c3b82cd",
+    "shortname": "علو_الهمة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-04-05T22:34:22Z",
+  "attributes": {
+    "old_id": 844,
+    "old_entry_id": 1136
+  },
+  "language": "ar"
+}

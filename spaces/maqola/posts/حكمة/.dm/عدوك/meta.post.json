@@ -1,0 +1,42 @@
+{
+  "uuid": "a13da541-59ff-46ba-8bf8-b2a3cc4c3197",
+  "shortname": "عدوك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عدوك"},
+  "updated_at": "2013-10-06T20:46:52Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8a57355e4f4703e1a6779f399f39934308557401",
+    "bytesize": 175,
+    "body": "<span class=\"maqola_body\"> عدوك يجب ان يكون كوتد الخيمة ،جسمه في التراب ورأسه للحجر،والحبل في عنقه<br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "701d892e-710e-40af-be43-26810f7df3ac",
+    "shortname": "الحواس_تركي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-10-06T20:46:52Z",
+  "attributes": {
+    "old_id": 678
+  },
+  "language": "ar",
+  "history": []
+}

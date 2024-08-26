@@ -1,0 +1,23 @@
+{
+  "uuid": "85df0c41-729b-4eb2-9cac-f4195acacab8",
+  "shortname": "85df0c41",
+  "is_active": true,  "owner_shortname": "dmart",
+  "author_locator": { "type": "content",
+    "uuid": "26f96763-c2fc-4dc9-b058-987ce2cfdb14",
+    "shortname": "rabie_bushra_abd_almalik",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reaction",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 5,
+    "old_entry_id": 7
+  },
+  "language": "en",
+  "type": "like"
+}

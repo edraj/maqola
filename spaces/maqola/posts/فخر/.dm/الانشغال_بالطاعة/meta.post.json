@@ -1,0 +1,42 @@
+{
+  "uuid": "457d698c-101f-4b7c-a08b-8ec7f9b283b3",
+  "shortname": "الانشغال_بالطاعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الانشغال بالطاعة"},
+  "updated_at": "2013-09-16T08:33:12Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:038ad9d1d0c1f23530cbe2a80910b8cafc176538",
+    "bytesize": 662,
+    "body": "<span class=\"maqola_body\"><b> <br> </b><div style=\"text-align: -webkit-auto; direction: rtl; \"><font face=\"UthmanTN1, sans-serif\"><span style=\"font-size: 12px; line-height: 18px; -webkit-text-size-adjust: 100%; background-color: rgba(255, 255, 255, 0);\"><b>من كُلِّ شيءٍ إذا ضيَّعتَـهُ عِـوَضٌ</b></span></font></div><div style=\"text-align: -webkit-auto; direction: rtl; \"><font face=\"UthmanTN1, sans-serif\"><span style=\"font-size: 12px; line-height: 18px; -webkit-text-size-adjust: 100%; background-color: rgba(255, 255, 255, 0);\"><b>وما من اللهِ إن ضيَّعتَـهُ عِـوَضُ</b></span></font></div>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "6c14e43c-ca96-4c92-90b4-d672d8185051",
+    "shortname": "hanaa_alharbi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "فَخر"
+  ],
+  "created_at": "2013-09-16T08:33:12Z",
+  "attributes": {
+    "old_id": 670
+  },
+  "language": "ar",
+  "history": []
+}

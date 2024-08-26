@@ -1,0 +1,29 @@
+{
+  "uuid": "e4d52fd9-4890-48d6-862b-30aee51f468d",
+  "shortname": "نهاية_الإقتباس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نهاية الإقتباس"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b664484a96c7572834f49c4d428edcc227ee2e12",
+    "bytesize": 304,
+    "body": "قرأتها لتوي!  تتمة الإقتباس من الكتاب كالتالي :  \\\"فقبض صاحب الحمار والماء العذب قبضة من حصى، ثم ضرب بها الأرض، ثم قال: لا تعلم أنك من المسرفين، حتى تسمع بأخبار الصالحين.\\\""
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-03-17T18:07:40Z",
+  "attributes": {
+    "old_id": 607,
+    "old_entry_id": 361
+  },
+  "language": "ar"
+}

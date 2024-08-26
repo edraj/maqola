@@ -1,0 +1,47 @@
+{
+  "uuid": "4ed5512e-c843-44f7-8f8d-5296abeb3a47",
+  "shortname": "لا_تحلف",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تحلف"},
+  "updated_at": "2014-02-06T12:17:56Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fb7ed706175891bf5fd1ea58c34a5746538d8aaf",
+    "bytesize": 215,
+    "body": "<span class=\"maqola_body\"><br> قالَ أبو العلاءَ :<br> لا تَحلِفَنّ على صِدقٍ ولا كَذِبٍ، فما يُفيدُكَ، إلاّ المأثمَ، الحَلِفُ .<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "9fa526b2-aa9d-417a-a704-72126a816168",
+    "shortname": "بشار_بن_برد",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "شِعر",
+    "فَصاحَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-06T12:17:52Z",
+  "attributes": {
+    "old_id": 807
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "681606c4-b4e9-41c8-a206-83b92d33d5de",
+  "shortname": "رفق_ولين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"رفق ولين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:781740ffa84d10e6ce513b11cc28fff364696818",
+    "bytesize": 943,
+    "body": "<p>كان عمر</p><p>بن عبد العزيز- رضي الله عنه- معروفا بالحكمة والرفق، وفي يوم من الأيام، دخل عليه<br>أحد أبنائه، وقال له:</p><p>يا أبت!<br>لماذا تتساهل في بعض الأمور؟! فوالله لو أني مكانك ما خشيت في الحق أحد</p><p>فقال<br>الخليفة لابنه: لا تعجل يا بني؛ فإن الله ذم الخمر في القرآن مرتين، وحرمها في<br>المرة الثالثة، وأنا أخاف أن أحمل الناس على الحق جملة فيدفعوه (أي أخاف أن أجبرهم<br>عليه مرة واحدة فيرفضوه) فتكون فتنة.</p><p>فانصرف<br>الابن راضيا بعد أن اطمأن لحسن سياسة أبيه، وعلم أن وفق أبيه ليس عن ضعف، ولكنه<br>نتيجة حسن فهمه لدينه.</p><p><br><br><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "238464c9-bd9a-4028-8139-3196b1016575",
+    "shortname": "yosef_mohamad",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة"
+  ],
+  "created_at": "2015-09-13T20:59:32Z",
+  "attributes": {
+    "old_id": 1508
+  },
+  "language": "ar",
+  "history": []
+}

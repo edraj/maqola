@@ -1,0 +1,38 @@
+{
+  "uuid": "28e8b809-49ef-4b1b-82f6-0fdb64fa3a89",
+  "shortname": "imx_arabic",
+  "is_active": true,
+  "displayname": {"ar":"Imx Arabic"},
+  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:fa404c0f50ae2787a1ca0454354d3c7b7f743b2a",
+    "bytesize": 214140,
+    "body": "imx_heading_arabic.png"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "media",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-09-10T09:29:08+03:00",
+  "attributes": {},
+  "language": "en",
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

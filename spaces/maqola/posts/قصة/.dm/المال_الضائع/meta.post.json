@@ -1,0 +1,41 @@
+{
+  "uuid": "07c13030-ded0-493e-b72b-7920943c186a",
+  "shortname": "المال_الضائع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المال الضائع"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6e1a3aaab96ab7af94bf8e260827a7a500a3d214",
+    "bytesize": 1061,
+    "body": "<p>يحكى أن</p><p>امرأة جاءت إلى أحد الفقهاء، فقالت له: لقد مات أخي، وترك ستمائة درهم، ولما قسموا<br>المال لم يعطوني إلا درهما واحدا!</p><p><br><br><br>فكر<br>الفقيه لحظات، ثم قال لها: ربما كان لأخيك زوجة وأم وابنتان واثنا عشر أخا. فتعجبت<br>المرأة، وقالت: نعم، هو كذلك.</p><p><br><br><br>فقال:<br>إن هذا الدرهم حقك، وهم لم يظلموك: فلزوجته ثمن ما ترك، وهو يساوي (75 درهما)،<br>ولابنتيه الثلثين، وهو يساوى (400 درهم)، ولأمه سدس المبلغ، وهو يساوي (100 درهم).</p><p><br><br><br>ويتبقى<br>(25 درهما) توزع على إخوته الاثنى عشر وعلى أخته، ويأخذ الرجل ضعف ما تأخذه<br>المرأة، فلكل أخ درهمان، ويتبقى للأخت- التي هي أنت- درهم واحد.</p><p><br><br><br><br><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "238464c9-bd9a-4028-8139-3196b1016575",
+    "shortname": "yosef_mohamad",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2015-09-13T20:56:44Z",
+  "attributes": {
+    "old_id": 1507
+  },
+  "language": "ar",
+  "history": []
+}

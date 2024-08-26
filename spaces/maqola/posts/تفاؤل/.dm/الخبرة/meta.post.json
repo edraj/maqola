@@ -1,0 +1,47 @@
+{
+  "uuid": "6cee5f83-8502-49fe-8e10-c0edf0b833bd",
+  "shortname": "الخبرة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الخبرة"},
+  "updated_at": "2014-02-01T15:56:25Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:be98f446583d59cf859822fdfdbe8f57fefb5bf2",
+    "bytesize": 337,
+    "body": "<p></p><p></p><div>من مواعظِ لقمان لابنه:<br> <br> يا بُنيَّ شاور من جربَ الأمور، <br> <br> فإنّه يعطيكَ من رأيهِ ما قامَ عليهِ بالغلاء، <br> <br> وأنتَ تأخذهُ بالمجَّان.<p></p><p></p></div><span class=\"maqola_body\"> <br> <br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "شِعر",
+    "فَصاحَة"
+  ],
+  "created_at": "2014-02-01T15:56:20Z",
+  "attributes": {
+    "old_id": 763
+  },
+  "language": "ar",
+  "history": []
+}

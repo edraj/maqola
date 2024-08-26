@@ -1,0 +1,43 @@
+{
+  "uuid": "8054e5fc-9f8c-4c88-882c-56691ac8cd75",
+  "shortname": "إن_المحب_عن_العذال_في_صمم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إنَّ المُحِبَّ عَن العُذّالِ في صَمَمِ"},
+  "updated_at": "2011-08-18T20:20:06Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c7d71c213077c79cffa4942cd06132cfcf2f85cd",
+    "bytesize": 618,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يا لائِمي في الهَوى العُذريّ مَعذِرَةً -- مِنّي إليكَ و لَو أَنصَفتَ لَم تَلُمِ<br />\r\n\tمَحَّضتَني النُّصحَ لكن لَستُ اسمَعُهُ -- إنَّ المُحِبَّ عَن العُذّالِ في صَمَمِ<br />\r\n\t<br />\r\n\tمِن قَصيدةِ &quot;البُردَة&quot; للبُوصِيرِي، ومَطلَعُها :<br />\r\n\tأمِنْ تَذَكُّرِ جِيرانٍ بِذي سَلَمٍ -- مَزجْتَ دَمعاً جَرَى مِن مُقلَةٍ بِدَمِ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "شِعر"
+  ],
+  "created_at": "2011-08-18T20:20:06Z",
+  "attributes": {
+    "old_id": 508
+  },
+  "language": "ar",
+  "history": []
+}

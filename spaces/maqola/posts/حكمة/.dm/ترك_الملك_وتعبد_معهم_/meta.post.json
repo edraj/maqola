@@ -1,0 +1,44 @@
+{
+  "uuid": "5c1e1824-a6f9-4d03-bf95-9ede57bdfb97",
+  "shortname": "ترك_الملك_وتعبد_معهم_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ترك المُلك وتعبَّد معهم !"},
+  "updated_at": "2010-12-16T18:52:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:aea51283b935d274d2ba587909c58811baf0318c",
+    "bytesize": 1224,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قال عون بن عبد الله بن عتبة : بنى ملكٌ مِمن كان قبلنا مدينة، فتنوق في بنائها ( تَنَوّق، أي: تأنق في الصنعة وجودها ) ثُمّ صنع طعاما ودعا الناس إليه وأقعد على أبوابها ناساً يسألون كل من خرج، هل رأيتم عيباً ؟ فيقولون : لا، حتى جاء في آخر الناس قومٌ عليهم أكسية، فسألوهم : هل رأيتم عيباً ؟<br />\r\n\tفقالوا : نعم ، فأدخلوهم على الملك ، فقال : هل رأيتم عيباً ؟<br />\r\n\tفقالوا : نعم ، قال : وما هو ؟<br />\r\n\tقالوا : تخرب، ويموت صاحبها !<br />\r\n\tقال : أفتعلمون دار لا تخرب ولا يموت صاحبها ؟ (<span style=\"font-size: 1em;\">أي أنه تعجب من رأيهم، فلا يوجد دار لا تخرب ولا يموت صاحبها</span>)<br />\r\n\tقالوا : نعم ، فدعوه، (قصدوا الدار الآخرة، ودعوه للإيمان بالله) فاستجاب لهم، وانخلع من مُلكِهِ، وتَعَبَّدَ معهم!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قَناعَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-12-16T18:52:15Z",
+  "attributes": {
+    "old_id": 381
+  },
+  "language": "ar",
+  "history": []
+}

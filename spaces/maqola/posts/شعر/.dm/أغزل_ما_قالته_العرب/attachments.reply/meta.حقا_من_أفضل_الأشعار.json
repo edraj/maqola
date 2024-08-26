@@ -1,0 +1,29 @@
+{
+  "uuid": "1e7e1bc7-0f83-49ef-86ad-400afd6b97e1",
+  "shortname": "حقا_من_أفضل_الأشعار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حقاً من أفضل الأشعار"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2b67fd60ef43c2bafa5f6b87ae25296bd782ef66",
+    "bytesize": 495,
+    "body": "حقاً من أفضل الأشعار ...... وأنا دائماً أعتبره الأفضل وخصوصاً البيتين اللذان قمت بوضعهما لنا.  ولكن ما مشكلة التسجيل الصوتي لماذا في كل تسجيلاتكم يتوقف التسجيل ؟ لقد انتهى هنا عند كلمة مني ... بحسب ما أذكر.  شكراً أخي عبدالحميد النجار لأني ولأول مرة أقرأ الشعر الكامل. حقاً رائع."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-10T19:20:28Z",
+  "attributes": {
+    "old_id": 759,
+    "old_entry_id": 7
+  },
+  "language": "ar"
+}

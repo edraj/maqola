@@ -1,0 +1,29 @@
+{
+  "uuid": "dafe3eff-7ad1-4a47-9a5f-42925ab65f1f",
+  "shortname": "كيف_ذلك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كيف ذلك ؟"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:40269cba572977f581a29575ef847a6f65bba90a",
+    "bytesize": 614,
+    "body": "أخي، تهمة تحريف القرآن تهمة عظيمة ولا يجوز اطلاقها كيفما اتفق.  تحريف القرآن *يجب* أن يتضمن صراحة أن يقول الشخص أن هذا الكلام هو القرآن.   هذه القصيدة تستعير النسق من سورة الرحمن، ولم يدعي أحد أنها كلام الله.  والكثير من الأعمال الأدبية شعرا كانت أم نثرا تستعير من القرآن الكريم. سواء في التراكيب أو النسق ولا غضاضة في ذلك.  ولكم منا أطيب تحية،"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-09-23T07:13:23Z",
+  "attributes": {
+    "old_id": 530,
+    "old_entry_id": 515
+  },
+  "language": "ar"
+}

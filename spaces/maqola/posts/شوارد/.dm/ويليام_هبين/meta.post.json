@@ -1,0 +1,41 @@
+{
+  "uuid": "8bef2d8f-ef3b-46cf-9a79-b2e15ce41e7a",
+  "shortname": "ويليام_هبين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ويليام هبين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1589320c03ff4fcc3605363bb6f07501c522124e",
+    "bytesize": 832,
+    "body": "<p>الحقُّ قوةٌ ..</p><p>لكنَّنا لا نَراهُ هكذا إلّا في حالاتٍ نادرَة لأنَّه حقٌ، يتألَّمُ دائماً ويجبُ أَن يُهزَمَ طالَما هو حَقٌّ، أمّا عندما ينتَصرُ هذا الحَقُّ فَنرى الآخرين يٌنصِتون إليهِ.<br>لِماذا؟<br>ألأنَّهُ حقٌّ؟<br>لا فلو كان لِهذا السَّببِ لانضمّوا إليهِ عِندَما كان يَتألَّم أيضاً.<br>ولِهذا السَّببِ فإنَّ عَدمَ انضمامِهم إليهِ لَيسَ للقوَّةِ التي يَمتَلِكها، إنَّهم يَنضَمّونَ إليهِ بَعدَ أن يُصبِحَ قوةً لأنَّ الآخرينَ يكونون قد سَبقوهم لِذلِكَ.</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "363bcd99-61c3-449c-ba2b-fd7d0d21b015",
+    "shortname": "hamzah_m._rababa_h",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَوارِد"
+  ],
+  "created_at": "2015-12-18T12:36:19Z",
+  "attributes": {
+    "old_id": 1556
+  },
+  "language": "ar",
+  "history": []
+}

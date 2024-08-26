@@ -1,0 +1,43 @@
+{
+  "uuid": "7817ed27-247a-44bd-a6f0-12d6fe234131",
+  "shortname": "إذا_جاريت_في_خلق_دنيئا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إذا جَارَيْتَ في خُلُقٍ دَنيئاً"},
+  "updated_at": "2010-12-06T08:07:25Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ab15794e007dcc35c0c08f2a89c45ad25ddc3ee6",
+    "bytesize": 1051,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">إذا جَارَيْتَ في خُلُقٍ دَنيئاً --&#160; فأنتَ ومَن تُجاريه سَواءُ<br />\r\n\tرأيتُ الحُرَّ يَجتنِبُ المخازي -- ويَحمِيهِ عَن الغَدرِ الوَفاءُ<br />\r\n\tوما مِن شِدَّةٍ&#160; إلاَّ سَيأْتي -- لَها مِن بعدِ شِدَّتها رَخاءُ<br />\r\n\tلقد جَرَّبْتُ هذا الدَّهرَ حتَّى -- أفَادَتْني التَّجارِبُ والعَناءُ<br />\r\n\tإذا ما رأسُ أهلِ البيتِ وَلّى -- بَدا لهمُ مِنَ الناسِ الجَفاءُ<br />\r\n\tيَعِيشُ المَرءُ ما استحيَى بِخَيرٍ -- ويبقى العودُ ما بقيَ اللحاءُ<br />\r\n\tفلا واللهِ ما في العيشِ خَيرٌ -- ولا الدُّنيا إذا ذَهبَ الحَياءُ<br />\r\n\tإذا لَم تَخشَ عاقبةَ الليالي -- ولَم تستَحْي فافعَلْ ما تَشاءُ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-06T08:07:25Z",
+  "attributes": {
+    "old_id": 324
+  },
+  "language": "ar",
+  "history": []
+}

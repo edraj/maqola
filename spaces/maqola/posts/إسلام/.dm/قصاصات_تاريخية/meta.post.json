@@ -1,0 +1,41 @@
+{
+  "uuid": "79915c30-10e0-45fd-8aad-cdaa9eb02296",
+  "shortname": "قصاصات_تاريخية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قصاصات تاريخية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ac0993117e302b905372ab944356ca724dd2824f",
+    "bytesize": 268,
+    "body": "<p>قبل قيام الدولة الصفوية (1501م) كان أهل السنة أغلبية كاسحة في إيران  ، <br>تتجاوز نسبتهم 95% ولم يمر سوى أقل من قرن من القمع حتى صارت الأغلبية شيعة!!<br> .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "94977e88-a087-472c-aefc-8cbea7be5f6d",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام"
+  ],
+  "created_at": "2015-02-15T21:32:18Z",
+  "attributes": {
+    "old_id": 1017
+  },
+  "language": "ar",
+  "history": []
+}

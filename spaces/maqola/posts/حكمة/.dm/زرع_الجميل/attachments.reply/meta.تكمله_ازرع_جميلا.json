@@ -1,0 +1,29 @@
+{
+  "uuid": "dd4b69fe-31d2-493c-9d55-ce94facd28db",
+  "shortname": "تكمله_ازرع_جميلا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تكمله ازرع جميلا "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c6e74b407b228b529f780aceda487dc919c90e01",
+    "bytesize": 192,
+    "body": "ازرع جميلا ولو في غير موضعه  فلا يضيع جميل اينما زرعا  ان الجميل وان طال الزمان به  فليس يحصده الا الذي زرعا"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-04-24T09:14:16Z",
+  "attributes": {
+    "old_id": 436,
+    "old_entry_id": 416
+  },
+  "language": "ar"
+}

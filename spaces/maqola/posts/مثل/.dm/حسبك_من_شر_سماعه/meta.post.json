@@ -1,0 +1,42 @@
+{
+  "uuid": "175c3a6c-cecf-452b-8607-81da9e4d2717",
+  "shortname": "حسبك_من_شر_سماعه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حَسبُكَ مِنْ شَرِّ سَمَاعُهُ‏"},
+  "updated_at": "2011-11-01T22:46:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:dc314805861bb784f0d14b1b2fb258c3d6cf151c",
+    "bytesize": 1559,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">أي اكتَفِ من الشر بسماعه ولا تُعَاينه، ويجوز أن يريد يَكفِيك سَمَاعُ الشر، وإن لم تُقدِمْ عليه ولم تنسب إليه‏.‏<br />\r\n\tقال أبو عبيد‏:‏ أخبرني هشام بن الكلبي أن المثل لأم الربيع بن زياد العبسي، وذلك أن ابنها الربيع كان أَخَذَ من قيس بن زهير بن جَذِيمة دِرْعاً، فعرض قيس لأم الربيع وهي على راحلتها في مَسِيرٍ لها، فأراد أن يذهب بها ليرتهنها بالدرع، فقالت له‏:‏ أين عَزَبَ عنك عَقلُك يا قيس‏؟‏ أترى بني زياد مُصَالحيك وقد ذهبتَ بأمهم يميناً وشمالاً، وقال الناس ما قالوا وشاءوا‏؟‏ وإن حسبَك من شر سماعه، فذهبت كلمتها مثلا، تقول‏:‏ كَفَى بالمَقَالة عاراً وإن كان باطلا‏.‏<br />\r\n\t<br />\r\n\tيُضرب عند العار والمقالةِ السيئة، وما يُخاف منها‏.‏<br />\r\n\t<br />\r\n\tوقال بعض النساء الشواعر‏:‏<br />\r\n\tسَائِلْ بنا فِي قَومِنَا * وَ ليَكفِ مِنْ شَرٍّ سَمَاعُه<br />\r\n\t<br />\r\n\t<br />\r\n\t<span style=\"font-size: 1em;\"><span style=\"font-family: Tahoma,Geneval,sans-serif;\">من كتاب مجمع الأمثال للميداني</span></span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "مَثَل"
+  ],
+  "created_at": "2011-11-01T22:46:00Z",
+  "attributes": {
+    "old_id": 537
+  },
+  "language": "ar",
+  "history": []
+}

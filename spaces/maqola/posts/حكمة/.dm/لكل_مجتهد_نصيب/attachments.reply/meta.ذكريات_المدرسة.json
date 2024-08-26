@@ -1,0 +1,29 @@
+{
+  "uuid": "68a17813-9d10-4960-b998-c00162b09bab",
+  "shortname": "ذكريات_المدرسة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ذكريات المدرسة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9fe2d73a10c7c6badc67b9ca3f502cd9a9a32d21",
+    "bytesize": 214,
+    "body": "و الله هذة المسرحية من الذكريات الجميلة المسلية في المدرسة و هذا الواقع الان نشاهدة كل يوم  فعلا  لكل مجتهد نصيب umdeema.com"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-11-11T07:36:19Z",
+  "attributes": {
+    "old_id": 705,
+    "old_entry_id": 521
+  },
+  "language": "ar"
+}

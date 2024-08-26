@@ -1,0 +1,42 @@
+{
+  "uuid": "b40828f3-6123-40a9-8670-58e4d62ac705",
+  "shortname": "ماذا_أعجبك_من_حديث_النبي__",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ماذا أعجبك من حديث النبي ﷺ ؟"},
+  "updated_at": "2010-11-18T11:11:36Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:613d9f7c05e1de7110a03db33482ea513cdb6e18",
+    "bytesize": 923,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">لَزِمَ أعرابيٌ سُفيانَ بنُ عُيَينَةَ، المُحَدِّثُ المعروف، مُدَّةً يَسمَعُ مِنهُ الحديثَ فَلمَا أنْ جاء لِيُسافرَ قال له سُفيان: يا أعرابي، ما أَعجَبَكَ مِن حَديثِنا ؟ فقال الأعرابي: ثلاثةُ أحاديث، حديثُ عائشةَ رضي الله عَنها عَنْ النبيِّ صلى الله عليهِ و سلَّمَ { أنَّهُ كانَ يُحِبُّ الحَلوى والعَسل }، و حديثِهِ صلى الله عليه و سلم { إذا وُضِعَ العَشاءُ و حَضَرت الصلاةُ فابدأوا بالعَشاء }، و حديثه صلى الله عليه و سلم { لَيسَ مِن البِرِّ الصَومُ في السفر }.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة"
+  ],
+  "created_at": "2010-11-18T05:31:17Z",
+  "attributes": {
+    "old_id": 186
+  },
+  "language": "ar",
+  "history": []
+}

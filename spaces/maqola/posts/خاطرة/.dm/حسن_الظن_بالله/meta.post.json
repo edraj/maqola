@@ -1,0 +1,42 @@
+{
+  "uuid": "0eb43ef0-53ff-4713-adc2-38b4379c8ba9",
+  "shortname": "حسن_الظن_بالله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حسن الظن بالله"},
+  "updated_at": "2014-06-18T01:57:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:215eb5eb6a6c3a1ed7beb06ba673dc39519c21d9",
+    "bytesize": 257,
+    "body": "<span class=\"maqola_body\"> <br> أعلل النفس بالاَمال أرقبها .. ما أصعب العيش لولا فسحة الأمل&#160;<br>ضاقت فلما أستحكمت حلقاتها ..فرجت : وكنت أظنها لا تفرج&#160;  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "841e650e-3a09-421d-a827-d26efb6c24aa",
+    "shortname": "kimoo_gawish",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-06-18T01:57:08Z",
+  "attributes": {
+    "old_id": 888
+  },
+  "language": "ar",
+  "history": []
+}

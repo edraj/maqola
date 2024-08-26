@@ -1,0 +1,45 @@
+{
+  "uuid": "9e320c22-d046-41e3-bd36-3ce58b3ee24c",
+  "shortname": "الحركة_المقدرة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحركة المقدرة"},
+  "updated_at": "2014-02-03T10:07:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b2b987c511c16461ad41f473b1ad08a427625f62",
+    "bytesize": 568,
+    "body": "ما معنى الحركةُ مُقدَّرة للتَّعذُّر أو للثِّقل ؟<br> تُقدَّر الحركاتُ على الواو والياءِ للثِّقل؛ أي يمكنُ النّطق بها ولكن بثقلٍ:<br> يمكنُ أن نقولَ: هو يمشيُ ويدعوُ<br> ولكنّها ثقيلةٌ.<br> <br> تُقدَّر الحركاتُ على الألفِ للتَّعذُّر؛ أي يتعذَّر النُّطقُ بها أي يستحيل:<br> فلا يمكنُ قولُ : هو يسعىُ<span class=\"maqola_body\"><br> <br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-03T10:07:48Z",
+  "attributes": {
+    "old_id": 769
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "3611fda0-b09f-4b12-aeb3-3059a837d943",
+  "shortname": "سبه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سبَّهُ "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b4f76c3aa21e0eb2f8468362735b22adb218ae8d",
+    "bytesize": 10,
+    "body": "تعديل"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a9513630-b8b1-4360-8451-f5db77de8612",
+    "shortname": "polat_ömer",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-09-02T02:07:01Z",
+  "attributes": {
+    "old_id": 911,
+    "old_entry_id": 258
+  },
+  "language": "ar"
+}

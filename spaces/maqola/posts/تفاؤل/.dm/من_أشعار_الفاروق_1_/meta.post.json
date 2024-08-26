@@ -1,0 +1,44 @@
+{
+  "uuid": "ff05e2b6-c9b0-4826-8819-a4b442b8bf3f",
+  "shortname": "من_أشعار_الفاروق_1_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أشعار الفاروق (1)"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7e17a151d43802741006626152edf5544f28b2b3",
+    "bytesize": 830,
+    "body": "<p>من صدفت عن الدنيا و زينتها **** فلم يغرك من دنياك مغريها</p><p><br>ماذا رأيت بباب الشام حين رأوا **** أن يلبسوك من الأثواب زاهيها</p><p><br>و يركبوك على البرذون تقدمه **** خيل مطهمة تحـلو مرائيـها<br><br>مشى فهملج مختالا براكبه **** و في البراذين ما تزها بعاليـها<br><br>فصحت يا قوم كاد الزهو يقتلني **** و داخلتني حال لست أدريها<br><br>و كاد يصبو إلى دنياكم عمر **** و يرتضي بيـع باقيه بفانـيها<br><br>ردوا ركابي فلا أبغي به بدلا **** ردوا ثيابي فحسبي اليوم باليها<br><br>الفاروق : عمر بن الخطاب</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة",
+    "ذَكاء",
+    "قَناعَة"
+  ],
+  "created_at": "2015-07-25T00:17:27Z",
+  "attributes": {
+    "old_id": 1442
+  },
+  "language": "ar",
+  "history": []
+}

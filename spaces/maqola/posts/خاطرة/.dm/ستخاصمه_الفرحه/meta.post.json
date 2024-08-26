@@ -1,0 +1,41 @@
+{
+  "uuid": "279a2fb8-ee6b-445f-b364-83266a4e4930",
+  "shortname": "ستخاصمه_الفرحه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ستخاصمه الفرحه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6620e11a0b7d2163154a28fa9deecd9a3211c671",
+    "bytesize": 290,
+    "body": "<p>من أطفأ نور غيره وسرق فرحة قلبه , حتما سيأتى يومُ يعاقبه فيه ربه و تخاصمه الفرحة و ينطفأ نوره .</p><p><br>الكاتب : نبيل جلهوم</p><p>عضو عامل برابطة أدباء الشام بلندن .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-04-27T07:24:51Z",
+  "attributes": {
+    "old_id": 1201
+  },
+  "language": "ar",
+  "history": []
+}

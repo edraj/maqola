@@ -1,0 +1,18 @@
+{
+  "uuid": "a527ba8b-819c-4e21-8e65-20817eb685d7",
+  "shortname": "13.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:cae955fbd52696d6a50a5cfb286b20c83bb8d6cd",
+    "bytesize": 348288,
+    "body": "13.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:06+03:00",
+  "attributes": {
+    "old_id": 51
+  },
+  "language": "en"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "10d71459-fdef-4ff6-8618-ab854bc48997",
+  "shortname": "احفظ_الله_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"احفظ الله!"},
+  "updated_at": "2013-04-30T22:30:58Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:50a4cba759d311da8c3334d9b6bcc5b44fd9078f",
+    "bytesize": 421,
+    "body": "<span class=\"maqola_body\"> \" احفَظ الله تجده أمَامك، تعرف إلَى الله في الرَخاءِ يعرفُك فِي الشّدة، واعلَم أن مَا أخطأك لَم يكُن ليُصيبك وما أصَابك لم يكُن ليُخطئك، واعلَم أن النَصر مع الصّبر، وأن الفَرج معَ الكرب، وأنَ مع العُسر يُسراً \" <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "fb9d54cf-2eca-48ad-870b-47ace16e059f",
+    "shortname": "رسول_الله_",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "1e237e56-05a6-41b9-b206-30214ea0a86a",
+    "shortname": "___",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حَديثٌ شَريف"
+  ],
+  "created_at": "2013-04-30T22:30:58Z",
+  "attributes": {
+    "old_id": 591
+  },
+  "language": "ar",
+  "history": []
+}

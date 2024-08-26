@@ -1,0 +1,42 @@
+{
+  "uuid": "a92eedca-dda2-483a-8fcc-8e78bbe203dd",
+  "shortname": "الفوز_العظيم_والخسران_المبين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الفوز العظيم والخسران المبين"},
+  "updated_at": "2014-03-07T20:10:14Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0244dbb38c41e81e0ac0ea9f583bcba7fa986c71",
+    "bytesize": 162,
+    "body": "<span class=\"maqola_body\"> <i><span class=\"uthmanb\">من وجد الله فماذا فقد ومن فقد الله فماذا وجد .</span><br> </i><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "238464c9-bd9a-4028-8139-3196b1016575",
+    "shortname": "yosef_mohamad",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-03-07T20:10:14Z",
+  "attributes": {
+    "old_id": 864
+  },
+  "language": "ar",
+  "history": []
+}

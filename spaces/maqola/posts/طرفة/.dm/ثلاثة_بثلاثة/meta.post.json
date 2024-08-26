@@ -1,0 +1,43 @@
+{
+  "uuid": "03cf01cb-5530-4660-ae0f-dfafb12ac0e1",
+  "shortname": "ثلاثة_بثلاثة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ثلاثةٌ بثلاثة"},
+  "updated_at": "2010-12-02T14:35:46Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f90f22bc53dcd5a52f209b413bafd5affefdbab2",
+    "bytesize": 1265,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">خطب معاويةُ يوماً فقال : أيها الناس إنَّ الله حَبا قُريشاً بثلاث ... </span><span style=\"font-size: 1.5em;\">فقال لنبيه صلى الله عليه وسلم ( وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ) ونحن عشيرته الأقربون . وقال تعالى : (وَإِنَّهُ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ) ونحن قومه . وقال تعالى : (لِإِيلَافِ قُرَيْشٍ) ونحن قريش ..<br />\r\n\tفأجابه رجل من الأنصار فقال : على رِسلِك يا معاوية فإن الله تعالى يقول : (وَكَذَّبَ بِهِ قَوْمُكَ وَهُوَ الْحَقُّ ) وأنتم قومه .. وقال تعالى : (وَلَمَّا ضُرِبَ ابْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ) وأنتم قومه ..وقال تعالى (وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَذَا الْقُرْآنَ مَهْجُورًا) وأنتم قومه .. ثَلاثَةٌ بِثلاثة ولَو زِدتَنا زِدناك!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "طُرفَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-12-02T14:35:46Z",
+  "attributes": {
+    "old_id": 295
+  },
+  "language": "ar",
+  "history": []
+}

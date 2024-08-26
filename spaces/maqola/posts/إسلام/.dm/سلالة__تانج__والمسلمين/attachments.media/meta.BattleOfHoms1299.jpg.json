@@ -1,0 +1,18 @@
+{
+  "uuid": "7a058ce6-cce6-4112-bfc4-84c04b69a985",
+  "shortname": "BattleOfHoms1299.jpg",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:deb2483465c69560eb18ef5fb1b6e007dba4a214",
+    "bytesize": 798689,
+    "body": "BattleOfHoms1299.jpg"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:08+03:00",
+  "attributes": {
+    "old_id": 63
+  },
+  "language": "en"
+}

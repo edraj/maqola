@@ -1,0 +1,43 @@
+{
+  "uuid": "39d5a4ad-f42d-46be-9c66-0d14ea9d85ba",
+  "shortname": "لأي_شيء_يختار_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لأيِّ شيءٍ يختار؟"},
+  "updated_at": "2014-11-07T20:22:08Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a73978b108acf7f3f7bff0a073cc4ba829fa1349",
+    "bytesize": 687,
+    "body": "<span class=\"maqola_body\"> <br> قال ابن القيم في زاد المعاد (٥\\٤٧٥):<br>وسمعت شيخنا - يعني ابن تيمية - رحمه الله يقول: تنازعَ أبوان صبياً عند بعضِ الحُكّام فَخَيَّرهُ بَنَهُما، فاختارَ أباهُ.<br>فقالت له أُمُّهُ: سَلْهُ لأيِّ شيءٍ يختارُ أباه؟<br>فسألهُ فقال: أُمي تبعثني كلَّ يومٍ للكُتاب، والفقيه يَضرِبُني، وأبي يترُكُني للَّعبِ مع الصِّبيان. <br>فقضى به للأم، قال: أنتِ أحقُّ به. <br><br>انتهى<br>  </span>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2014-11-07T20:21:58Z",
+  "attributes": {
+    "old_id": 931
+  },
+  "language": "ar",
+  "history": []
+}

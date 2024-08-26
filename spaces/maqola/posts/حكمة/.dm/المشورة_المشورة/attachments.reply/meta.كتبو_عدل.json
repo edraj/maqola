@@ -1,0 +1,29 @@
+{
+  "uuid": "45ce2181-0ac8-48cb-850f-699e4687f4c1",
+  "shortname": "كتبو_عدل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كتبو عدل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:31f8b841b3f65624e890bd61a4dea66cbf035023",
+    "bytesize": 51,
+    "body": "اذا فاتحين موقع طلعو شي بخير"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-01-02T16:57:24Z",
+  "attributes": {
+    "old_id": 592,
+    "old_entry_id": 549
+  },
+  "language": "ar"
+}

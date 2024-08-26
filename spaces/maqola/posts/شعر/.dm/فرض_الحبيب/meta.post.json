@@ -1,0 +1,42 @@
+{
+  "uuid": "57a60cfd-0965-43af-8314-56ea92060bdc",
+  "shortname": "فرض_الحبيب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فرض الحبيب"},
+  "updated_at": "2014-11-04T22:36:35Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2ff3d55b300a81a2183ecd849a93daff6f49cee0",
+    "bytesize": 2185,
+    "body": " <br><table><tbody><tr><td>فَرَضَ الحبيب ُ دَلالَهُ وتَمَنَّعَا</td><td>وَأَبَى بغيرِ عذابِنَا أَنْ يَقْنعا</td></tr><tr><td>ما حيلتي وأنا المكبّلُ بالهوى</td><td>ناديته فأصَرَّ ألاّ يسمعا</td></tr><tr><td>وعجبتُ من قلبٍ يرقُّ لظالمٍ</td><td>ويُطيقُ رغمَ إبائِهِ أنْ يَخْضَعَا</td></tr><tr><td>فأجابَ قلبي لا تَلُمني فالهوى</td><td>قَدَرٌ وليس بأمرِنَا أَنْ يُرْفَعَا</td></tr><tr><td>والظلمُ في شَرْعِ الحبيبِ عدالةٌ</td><td>مهما جَفَا كنتَ المُحِبَّ المُُولَعَا</td></tr><tr><td>ولقد طربتُ لصوتِه ودلالِهِ</td><td>واحتلّتْ اللفتاتُ فيّ الأضلُعَا</td></tr><tr><td>البدرُ من وجهِ الحبيبِ ضياؤه</td><td>والعطرُ من وردِ الخدودِ تضوَّعَا</td></tr><tr><td>والفجرُ يبزغُ من بهاءِ جَبينِهِ</td><td>والشمسُ ذابَتْ في العيونِ لتسطعَا</td></tr><tr><td>يا ربّ هذا الكون أنتَ خلقتَهُ</td><td>وكسوتَهُ حُسْنَاً فكنتَ المُبْدِعَا</td></tr><tr><td>وجعلته ملكاً لقلبي سيّداً</td><td>لمّا على عرشِ الجمالِ تربَّعَا</td></tr><tr><td>سارتْ سفينةُ حبِّنَا في بحرِهِ</td><td>والقلبُ كانَ شراعها فتلوَّعَا</td></tr><tr><td>لعبتْ بها ريحُ الهوى فتمايلتْ</td><td>ميناؤها المنشودُ باتَ مُضّيَّعَا</td></tr><tr><td>يا صاحبي خُذْ للحبيبِ رسالةً</td><td>فعسى يرى بينَ السطورِ الأدمُعَا</td></tr><tr><td>بَلِّغْهُ أَنِّي في الغرامِ متيّمٌ</td><td>والقلبُ من حرِّ الفراقِ تَصَدَّعَا</td></tr><tr><td>ما في النوى خيرٌ لنرضى بالنوى</td><td>بل أنّ كلَّ الخيرِ أن نحيا مَعَا</td></tr></tbody></table><br>  \r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "c74df491-8921-45bd-a151-b6debdaf8905",
+    "shortname": "sayed_hegazy",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2014-11-04T22:36:35Z",
+  "attributes": {
+    "old_id": 930
+  },
+  "language": "ar",
+  "history": []
+}

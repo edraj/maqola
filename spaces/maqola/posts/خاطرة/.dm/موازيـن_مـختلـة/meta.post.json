@@ -1,0 +1,46 @@
+{
+  "uuid": "2bc93571-514f-4511-a9c2-c87b39c912b9",
+  "shortname": "موازيـن_مـختلـة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"موازيـن مـختلـة"},
+  "updated_at": "2015-07-20T13:48:52Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:791acdec587547cac9289d8dd6ca2b4acc2c42cd",
+    "bytesize": 1081,
+    "body": "<p>إختلت موازينك يا وطني حتي صارت سماءك تمطر عهرا...<br>ذبل المسكين في حضنك يا وطني حتى صرت له قبرا..<br>..............................<br>دعوني، أشرب أسكر أفجر أرقص <br>كي تنصب لي التماثيل<br>كي تذاب أمامي العراقيل<br>كي يصطف الإعلام، لبجاحتي وحقارتي بالتطبيل<br>...................................<br>دعوني، أسرق، أنهب، أطغى، أبطش<br>كي أكون أنا الرجل الفضيل الأصيل<br>والباقي من عامة الشعب هو الذليل<br>...................................<br>دعوني، أهز الخصر، أفشي الفقر، أهين الفكر..<br>كي يصير الشعب لأي تفاهة يميل<br>كي يرضى عني فخامة العميل<br>..................................<br><br></p><p>صدام درويش<br></p><p><iframe src=\"//www.youtube.com/embed/a٥JtWRu_k٨k\" allowfullscreen=\"\" frameborder=\"٠\" height=\"٢٨١\" width=\"٥٠٠\"></iframe></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "سِياسَة",
+    "شِعر",
+    "قَدح",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-07-20T11:04:37Z",
+  "attributes": {
+    "old_id": 1415
+  },
+  "language": "ar",
+  "history": []
+}

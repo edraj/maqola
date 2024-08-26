@@ -1,0 +1,33 @@
+{
+  "uuid": "eafc72c8-146b-41cd-8438-032d5b2f18c8",
+  "shortname": "eafc72c8",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-03-13T21:57:41Z",
+  "author_locator": { "type": "content",
+    "uuid": "c75bfafb-ad00-4934-a0b8-1f87a4a49ac7",
+    "shortname": "مواهب_مواهب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-03-13T21:57:41Z",
+  "attributes": {
+    "old_id": 375,
+    "old_entry_id": 1111
+  },
+  "language": "en",
+  "location": {
+    "uuid": "eafc72c8-146b-41cd-8438-032d5b2f18c8",
+    "shortname": "eafc72c8",
+    "subpath": "posts/بدون",
+    "space_name": "maqola",
+    "parent_shortname": "من_أروع_ما_قيل_عن_اللغة_العربية",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

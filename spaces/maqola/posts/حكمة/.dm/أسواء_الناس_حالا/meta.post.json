@@ -1,0 +1,42 @@
+{
+  "uuid": "496db61a-b121-4f0b-a59f-0ffd271243c7",
+  "shortname": "أسواء_الناس_حالا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أسواءُ النّاسِ حالاً"},
+  "updated_at": "2011-06-22T03:45:56Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:11c4b1b0e3743a508efe39b1c471577f3ca73fc1",
+    "bytesize": 271,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">سُئلَ أحدُ العُلماءِ : مَن أسوأُ الناسِ حالا؟ قال : مَن لا يَثِقُ بأَحدٍ لِسوءِ ظَنّهِ ولا يَثِقُ بهِ أحدٌ لِسوءِ فِعلِهِ.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2011-06-22T03:45:56Z",
+  "attributes": {
+    "old_id": 494
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "80188437-6f3f-4078-95a2-ffecd35b14e9",
+  "shortname": "العبد_المبارك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العبد المبارك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:743541b23cebb2333ee9ad79f41d1dd27674dd12",
+    "bytesize": 204,
+    "body": "رحم الله العبد المبارك عبد الله بن المبارك زاهد عالما مجاهدا فى سبيل الله لله دره ... يا ليت فى زماننا من هو معشاره"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "fc33da2a-1c8a-4e3c-bfeb-73cddabb1f2a",
+    "shortname": "ahmed_fawzy",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-05-16T11:53:57Z",
+  "attributes": {
+    "old_id": 867,
+    "old_entry_id": 1264
+  },
+  "language": "ar"
+}

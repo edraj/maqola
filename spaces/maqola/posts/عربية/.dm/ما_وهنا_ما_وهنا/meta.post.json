@@ -1,0 +1,43 @@
+{
+  "uuid": "0d74548c-9b16-4065-8144-41a0b6a0da20",
+  "shortname": "ما_وهنا_ما_وهنا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما وهنا ما وهنا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5f2647b0c508862c81732d81b5f67a3688e75a0b",
+    "bytesize": 1424,
+    "body": "<p>ما <a href=\"http://www.syrianarmyfree.com/vb/showthread.php?t=65589\">وهنا </a>ما \r\n<a href=\"http://www.syrianarmyfree.com/vb/showthread.php?t=65589\">وهنا </a>… نحن \r\n<a href=\"http://www.syrianarmyfree.com/vb/showthread.php?t=65589\">أحفاد </a><a href=\"http://www.syrianarmyfree.com/vb/showthread.php?t=65589\"><a href=\"http://www.syrianarmyfree.com/vb/showthread.php?t=65589\">المثنى \r\n</a><br><br>في طريق المجد سرنا… اسألوا التاريخ عنا<br><br>مجدنا ذات السلاسل ... عِزنا أسوار تُستر <br><br>واسألوا قصر المدائن … \r\nإذ به القعقاع كبر<br><br>لا نبالي لو أردنا... خلع هامات \r\nالجبال<br><br>في سبيل الله سرنا... عبر ساحات القتال <br><br>أيها التاريخ عدنا... قد رجعنا من جديد <br><br>بالدماء قد كتبنا... \r\nصفحة المجد التليد<br><br>اسألوا جند الصليب ... اسألوا جند \r\nالتتار<br><br>هل يئسنا من قتال... أو كُسرنا من حصار<br><br>واذكروا فتحًا بمكة... بعد صبر وانتظار<br><br>طارق في وادي لَكة... خاض \r\nأمواج البحار<br><br>اسألوا ذات الصواري... اسألوا عنا \r\nالصحاري<br><br>نحن طلاب المعالي... نحن رهبان الليالي<br><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عربية",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-02T16:02:09Z",
+  "attributes": {
+    "old_id": 971
+  },
+  "language": "ar",
+  "history": []
+}

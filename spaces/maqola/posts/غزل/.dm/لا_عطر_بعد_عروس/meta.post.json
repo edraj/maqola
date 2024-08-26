@@ -1,0 +1,43 @@
+{
+  "uuid": "4f07e3da-eabd-4915-af1b-7124e1614491",
+  "shortname": "لا_عطر_بعد_عروس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا عِطرَ بَعدَ عَروس"},
+  "updated_at": "2013-05-08T04:26:49Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:03568bfe98b23e6300bf15cd60ca84bc66b2c3b8",
+    "bytesize": 859,
+    "body": "<span class=\"maqola_body\"> <span class=\"uthmanb\"><span class=\"fontxxlarge\">لا عِطرَ بَعدَ عَروس</span></span><br> <br>قيل بأن قصة هذا المثل هي أن رجلا يقال له \"عروس\" بنى بامرأة، فلما أرادت الرحيل معه إلى دياره قيل لها بأن تأخذ عطرها، وكانت قد نسيته، فقالت : لا عطر بعد عروس، أي أنَّ قيمَةَ \"عروس\" زَوجُها أعلى وأكبر من أن تقارنه بشيء أو تضيف له شيئا آخر. <br><br>وتتضح بلاغة هذا المثال وجماله وقوة بيانه في أنه يحوي بداخله على مضمون خفي قوي يوصل الفكرة دون أن يخل بالمعنى ودون أن يُحتاج معه إلى زيادة في الإطراء والمديح.<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "غَزَل",
+    "مَثَل"
+  ],
+  "created_at": "2013-05-08T04:26:32Z",
+  "attributes": {
+    "old_id": 596
+  },
+  "language": "ar",
+  "history": []
+}

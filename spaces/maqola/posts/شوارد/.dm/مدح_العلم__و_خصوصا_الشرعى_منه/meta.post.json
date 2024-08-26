@@ -1,0 +1,44 @@
+{
+  "uuid": "4ddc52f3-6906-47a1-a665-859421a26f50",
+  "shortname": "مدح_العلم__و_خصوصا_الشرعى_منه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مدح العلم  و خصوصا الشرعى منه"},
+  "updated_at": "2015-04-11T09:13:22Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1d5a5691cbe9252af8a9702a1b17ce8778518a12",
+    "bytesize": 319,
+    "body": "<p>فَلَولا العِلْمُ ما سَعِدَتْ نُفُوسٌ .. .. وَلا عُرِفَ الحَلالُ وَلا الحَرامُ</p><p>فبِالعِلْمِ النَّجاُة مِـنَ المَخَازِي .. .. وَبِالجَــهْلِ المَــذَلَّةُ وَالــرُّغــامُ</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "98c05580-9d4c-4379-b9ee-265dce111570",
+    "shortname": "نصر_الدين_أبوطالب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَوارِد",
+    "شِعر",
+    "مَدح"
+  ],
+  "created_at": "2015-03-13T03:41:30Z",
+  "attributes": {
+    "old_id": 1103
+  },
+  "language": "ar",
+  "history": []
+}

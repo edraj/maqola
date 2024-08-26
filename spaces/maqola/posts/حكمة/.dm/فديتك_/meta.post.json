@@ -1,0 +1,44 @@
+{
+  "uuid": "fc2a7ad0-351e-412f-b786-a5fa33202378",
+  "shortname": "فديتك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"فديتك!!!"},
+  "updated_at": "2014-03-01T15:53:14Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d28b615771aa11c120e4fdb1cee73fedb0192e42",
+    "bytesize": 257,
+    "body": "فديتُكَ من غائبٍ حاضرِ <br> مَقَرُّكَ في القلبِ والناظرِ <br> وإن باعدتْنَا صُرُوفُ النوَى<br>  رَنوتُ إلى طيفِكَ الزائرِ<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر",
+    "فَصاحَة"
+  ],
+  "created_at": "2014-03-01T15:53:02Z",
+  "attributes": {
+    "old_id": 855
+  },
+  "language": "ar",
+  "history": []
+}

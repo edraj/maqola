@@ -1,0 +1,44 @@
+{
+  "uuid": "ab7cf331-07fa-46eb-9de0-67b755a305be",
+  "shortname": "وحشة_العيش",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وحشة العيش"},
+  "updated_at": "2010-12-16T19:13:26Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:cf5de069b921d969e5af2dc19c9eee86f910297a",
+    "bytesize": 195,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">ما أجدَبَ العُمرَ لا حُبٌّ يُظَلِّلُهُ -- ما أوحشَ العيشَ دونَ الاهلِ والوَلَدِ</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر",
+    "غَزَل"
+  ],
+  "created_at": "2010-12-16T19:13:26Z",
+  "attributes": {
+    "old_id": 384
+  },
+  "language": "ar",
+  "history": []
+}

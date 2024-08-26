@@ -1,0 +1,43 @@
+{
+  "uuid": "db071138-5a16-41e4-a725-37387340989f",
+  "shortname": "عتاب_الأصدقاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عِتابُ الأصدقاء"},
+  "updated_at": "2010-11-21T07:56:16Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4f5e65444e8b27e9b7be90865c297a5cdae15daa",
+    "bytesize": 2040,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">إذا كُنتَ في كُلِّ الأمورِ مُعاتِباً&#160; -- صَديقُكَ لَمْ تَلقَ الذى لا تُعاتِبُه<br />\r\n\tفَعِشْ واحِداً أو صِلْ أخاكَ فإنَّهُ </span><span style=\"font-size: 1.5em;\">--</span><span style=\"font-size: 1.5em;\"> مُقارِفُ ذَنبٍ مَرَّةً ومُجانِبُه<br />\r\n\tإذا أنتَ لَمْ تَشرَبْ مِرارا على القَذى</span><span style=\"font-size: 1.5em;\"> --</span><span style=\"font-size: 1.5em;\"> ظمئت وأيُّ الناسِ تَصفو مَشارِبُه<br />\r\n\t</span></p>\r\n<hr />\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">المُفردات اللغوية:<br />\r\n\tمعاتبا : تلومه بما صدر منه من نقص فى فعله<br />\r\n\tصِلْ : داوم على وصاله<br />\r\n\tمقارف : مرتكب لذنب<br />\r\n\tمجانبه : مبتعد عن هذا الذنب<br />\r\n\tمرارا : مرات كثيرة<br />\r\n\tالقذى : العيوب والنقائص<br />\r\n\tتصفو : تخلو من العكر<br />\r\n\t</span></span></p>\r\n<hr />\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">المعنى: أنَّ الإنسانَ جُبِلَ على النقصِ فلا يوجدُ مَن هوَ كاملٌ على ظَهرِ هذه البسيطة، فالكمالُ للهِ وحده، فمِنّا نحنُ البشر المخادعُ، والكاذب، والنمّام الى آخره من أُمورِ النقص،<br />\r\n\tفإذا ظَلَّ الإنسانُ يَلومُ صديقَهُ على كل صغيرةٍ وكبيرةٍ، فسوفَ يعيشُ وحيداً بغيرِ صاحب، فإما العيشُ وتَجَرع مَرارةَ الوحدة، أو العيش مع الصديق بما له وما عليه لأن النقصَ سمة البشر.</span></span><br />\r\n\t&#160;</p>\r\n<p>\r\n\t- من مُساهَماتِ زُوارِ الموقع.</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-21T07:47:52Z",
+  "attributes": {
+    "old_id": 205
+  },
+  "language": "ar",
+  "history": []
+}

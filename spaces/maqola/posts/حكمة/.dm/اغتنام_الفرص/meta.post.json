@@ -1,0 +1,44 @@
+{
+  "uuid": "030649fd-2734-41d8-b801-88498920d01d",
+  "shortname": "اغتنام_الفرص",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اغتنامُ الفُرص"},
+  "updated_at": "2010-11-10T07:14:23Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eae0fb8d76328f3f788c74c4a59f2ca208c83207",
+    "bytesize": 328,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_bold\">إذا هَبَّت رِياحُكَ فاغتَنِمها - فإنَّ لِكُلِّ خافِقَةٍ سُكونُ<br />\r\n\tو لا تَغفَلْ عَن الإحسانِ فيها - فَلا تَدري السُكونُ متى يَكونُ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر",
+    "مَثَل"
+  ],
+  "created_at": "2010-10-09T04:02:28Z",
+  "attributes": {
+    "old_id": 5
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "4e9c6339-1914-4e77-b31b-3d698f898937",
+  "shortname": "قالوا_في_الحياء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قالوا في الحياء"},
+  "updated_at": "2011-06-22T03:54:00Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1c4d3551c852eb5cdfd57260ecf734235eec60ec",
+    "bytesize": 811,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يقول الشاعر</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">إذا لَم تَخشَ عاقِبةَ الليالي&#160; -- و لم تَستحِ فافعل ما تشاءُ<br />\r\n\tفلا والله مَا في العيَشِ خَيرٌ -- ولا الدُّنيا إذا ذهَبَ الحياءُ<br />\r\n\tيعيشُ المرءُ ما استحيا بخيرٍ -- ويبقى العُودُ ما بقي اللحاءُ<br />\r\n\t<br />\r\n\t<br />\r\n\tويقول أخر،<br />\r\n\tإذا قَلَّ ماءُ الوَجهِ قَلَّ حَياؤهُ -- فلا خَيرَ في وَجهٍ إذا قل ماؤهُ<br />\r\n\tحَياءُكَ فاحفَظهُ عَليكَ فإنَّما -- يَدُلُّ على وَجهِ الكَريمِ حَياؤهُ </span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2011-06-22T03:54:00Z",
+  "attributes": {
+    "old_id": 495
+  },
+  "language": "ar",
+  "history": []
+}

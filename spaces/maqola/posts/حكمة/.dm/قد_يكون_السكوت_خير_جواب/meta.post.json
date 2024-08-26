@@ -1,0 +1,43 @@
+{
+  "uuid": "fff92f21-3fbb-448a-979d-97ac312e02f4",
+  "shortname": "قد_يكون_السكوت_خير_جواب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قد يكون السكوت خير جواب"},
+  "updated_at": "2010-12-22T06:01:50Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:49c1696af107b3433dc92a46a79ccf04dd5ee285",
+    "bytesize": 492,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قالوا، أَسَكَتَّ وقد خوصِمتَ؟ قُلتُ لهم -- إنَّ الجوابَ لِبابِ الشَّرِ مِفتاحُ<br />\r\n\tوالصمتُ عَن جاهِلٍ أو أحمَقٍ شَرَفٌ -- وفيه أيضاً لِصَوْنِ العِرضِ إصلاحُ<br />\r\n\tأما تَرى الأُسدَ تُخشى وهي صامِتَةٌ -- والكلبُ يُخسى لعَمْري وهو نَبّاحُ </span><br />\r\n\t&#160;</p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-12-22T06:01:50Z",
+  "attributes": {
+    "old_id": 404
+  },
+  "language": "ar",
+  "history": []
+}

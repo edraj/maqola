@@ -1,0 +1,29 @@
+{
+  "uuid": "e3893474-6252-46b8-abff-accb76ca88be",
+  "shortname": "عجز_البيت_الثاني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عجز البيت الثاني"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:775dde618c279abffbf856858fee9da7607ce67a",
+    "bytesize": 122,
+    "body": "هلاّ أتممت علينا نصيحتك، وأخبرتنا بما يجب أن يكون عليه؟ ولكم الشكر."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-30T10:07:47Z",
+  "attributes": {
+    "old_id": 246,
+    "old_entry_id": 267
+  },
+  "language": "ar"
+}

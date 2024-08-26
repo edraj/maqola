@@ -1,0 +1,29 @@
+{
+  "uuid": "6fbb66c4-0658-433d-ac22-18f491df7f0e",
+  "shortname": "قدح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قدح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1136904c2e90da32a88d2a9938bc6b926392828f",
+    "bytesize": 751,
+    "body": "قال جرير يهجو أحدهم ناعتا أهله بالبخل الشديد:قوم إذا أكلوا  أخفوا  كلامهم     وإستوثقوا من رتاج الباب والدار_قوم إذا استنبح الأضياف كلبهم     قالوا لأمهم بولي علي النار       فضنت بالبول أن تجود به     فما فعلت إلا بمقدار.                      ملحوظه:من هنا يتبين لنا المعني الصحيح لكلمه (رتاج)إذ يتضح من سياق القول أنها بمعني :قفل أو مزلاج أو ترباس الباب وليس معناها كسوه الكعبه كما يقول بعض الجهلاء وكثيرون منهم أطلقوه علي بناتهم !!!"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-07-27T01:09:00Z",
+  "attributes": {
+    "old_id": 494,
+    "old_entry_id": 55
+  },
+  "language": "ar"
+}

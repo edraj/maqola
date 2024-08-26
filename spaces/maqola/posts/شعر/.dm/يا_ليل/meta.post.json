@@ -1,0 +1,42 @@
+{
+  "uuid": "eda9757a-6f39-43f6-9f23-14dcc9bc1d76",
+  "shortname": "يا_ليل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يا ليل"},
+  "updated_at": "2010-11-14T07:19:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ed3647c508379dac9a7f32ea7c9fc51b8f9759e6",
+    "bytesize": 1004,
+    "body": "<p dir=\"RTL\">\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">يا لَيلُ قَد أَغرَيتَ جِسمِي بِالضَّنَا -- حَتَّى لَيُؤلِمُ فَقدَهُ أَعضَائِي<br />\r\n\tوَرَمَيتَنِي يَا لَيلُ بِالهَمِّ الَّذِي -- يَفرِي الحَشَا، وَالهَمُّ أَعسَرُ دَاءِ<br />\r\n\tيَا لَيلُ مَالَكَ لا تَرِقُّ لِحَالَتِي -- أَتُرِاكَ والأَيَّامُ مِن أَعدَائِي؟<br />\r\n\tيا لَيلُ حَسبِي مَا لَقِيتُ مِنَ الشَّقَا -- رُحمَاكَ لَستُ بِصَخرَةٍ صَمَّاءِ<br />\r\n\tبِن يَا ظَلامُ عَنِ العِيُونِ فَرُبَّمَا -- طَلَعَ الصَّبَاحُ وَكَانَ فِيهِ عَزَائِي</span></span></p>\r\n<p dir=\"RTL\">\r\n\t<span style=\"font-size: 1em;\"><span class=\"maqola_font_normal\">من قصيدة الفقير</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c4a44906-1d9d-4f41-8f93-d4aad3520f45",
+    "shortname": "شاعر_المهجر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e70cb39c-739b-4d5a-8d89-b40ad20f0b00",
+    "shortname": "عبدالكريم_جعافرة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-11-14T07:19:38Z",
+  "attributes": {
+    "old_id": 177
+  },
+  "language": "ar",
+  "history": []
+}

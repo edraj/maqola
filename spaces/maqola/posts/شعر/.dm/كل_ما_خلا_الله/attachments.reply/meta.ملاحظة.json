@@ -1,0 +1,29 @@
+{
+  "uuid": "5f7f3317-c3d6-41a9-bef5-8b0b6dfad63d",
+  "shortname": "ملاحظة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ملاحظة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:86d92fe6b202dddf2e388e2d005c7fa668171f7a",
+    "bytesize": 179,
+    "body": "اصل البيت ليس على هذا النحو ...لقد قمت بتعديل البيت ليصبح معناه صحيحا ...لان اصل  البيت فيه خطأ عقدي ..."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "9fce0783-7cd5-4394-bf48-4ba457688d2d",
+    "shortname": "ahmed_amine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-04-06T09:52:27Z",
+  "attributes": {
+    "old_id": 845,
+    "old_entry_id": 170
+  },
+  "language": "ar"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "e1da8c4c-ec74-4704-b54a-87bf96e4e75a",
+  "shortname": "كن_رابط_الجأش",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كن رابط الجأش"},
+  "updated_at": "2015-03-20T10:42:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eb16ff20e722df7a2b24a2e5a82461e74abd37f5",
+    "bytesize": 358,
+    "body": "<p>كن رابط الجأش وارفع راية الأمل *** وسر إلى الله في جد بلا هزل</p><p>وإن شـعـرت بنقص فيـك تـعرفـه *** فـغـذ روحـك بالـقـرآن واكـتمـل</p><p>وحارب النفس وامنعها غوايـتـها *** فالنفس تهوى الذي يدعو إلى الزلل</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "53929f58-3e61-4fa9-8dd6-fc85852da21c",
+    "shortname": "aissa_chabbi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-03-20T10:41:18Z",
+  "attributes": {
+    "old_id": 1117
+  },
+  "language": "ar",
+  "history": []
+}

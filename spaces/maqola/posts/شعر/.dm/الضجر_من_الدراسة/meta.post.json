@@ -1,0 +1,43 @@
+{
+  "uuid": "9995e6c2-b64a-4f0a-8787-ca73aca2b0c2",
+  "shortname": "الضجر_من_الدراسة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الضجر من الدراسة"},
+  "updated_at": "2010-11-06T12:15:06Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8e2b6332dc0fa550a0b30a1aa608448762ca9d52",
+    "bytesize": 490,
+    "body": "<p>\r\n\tهذه أبيات قيلت على لسان طالب ضجر من الدراسة، ولكنه رغم ذلك ما زال يحاول أن يُعرب كل ما يمر به من جمل :</p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">متى يكونُ ربيعٌ - ليسَ فيهِ امتحانُ<br />\r\n\tوليسَ فيه دروسٌ - بلاغةٌ أو بيانُ<br />\r\n\tليتَ الزمانَ ربيعٌ - واسم ليتَ الزمانُ</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "طُرفَة"
+  ],
+  "created_at": "2010-10-22T16:51:10Z",
+  "attributes": {
+    "old_id": 96
+  },
+  "language": "ar",
+  "history": []
+}

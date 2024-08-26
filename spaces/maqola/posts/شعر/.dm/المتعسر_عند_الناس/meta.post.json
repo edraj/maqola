@@ -1,0 +1,41 @@
+{
+  "uuid": "fb29d54e-384c-4150-9972-1414c0500c96",
+  "shortname": "المتعسر_عند_الناس",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المتعسّر عند الناس"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0609bbc0ec309324bedae4d750abbb10112a4724",
+    "bytesize": 447,
+    "body": "<p style=\"text-align: center;\"><span style=\"color: rgb(192, 80, 77);\"><span style=\"background-color: rgb(242, 220, 219);\">خذ من الناس ما تيسر    *** و اترك من الناس ما تعسّر</span></span></p><p style=\"text-align: center;\"><span style=\"color: rgb(192, 80, 77);\"><span style=\"background-color: rgb(242, 220, 219);\">إنّما الناس من زجاجٍ    ***  إن لم ترفّق به تكسّر</span></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "729dda88-c993-4da9-916c-c9ad227a7457",
+    "shortname": "آمال_هاشم_البرير",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-02-13T16:50:21Z",
+  "attributes": {
+    "old_id": 1013
+  },
+  "language": "ar",
+  "history": []
+}

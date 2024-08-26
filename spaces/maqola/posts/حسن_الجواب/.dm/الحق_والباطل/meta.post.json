@@ -1,0 +1,43 @@
+{
+  "uuid": "467993c4-afef-4af2-ae73-3f2a977d4599",
+  "shortname": "الحق_والباطل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحَقُّ والبَاطِلُ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0d7ce3a02060b0603018878c6e54797a92794ad5",
+    "bytesize": 238,
+    "body": "<p>قِيْلَ لِلْحَقِّ: أَيْنَ كُنْتَ لَمَّا عَلَا البَاطِلُ؟<span></span></p><p>قَالَ: كُنْتُ تَحْتَهُ أَجْتَثُّ أُصُوْلَهُ!<span></span><span></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "مَثَل"
+  ],
+  "created_at": "2015-06-28T11:45:21Z",
+  "attributes": {
+    "old_id": 1360
+  },
+  "language": "ar",
+  "history": []
+}

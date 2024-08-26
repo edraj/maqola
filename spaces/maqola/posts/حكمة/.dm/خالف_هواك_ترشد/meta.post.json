@@ -1,0 +1,42 @@
+{
+  "uuid": "c314a2b9-11d3-4eac-b304-226dc792ef03",
+  "shortname": "خالف_هواك_ترشد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خالِف هَواكَ تَرشَد"},
+  "updated_at": "2011-06-05T21:39:22Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0ddc97089f2c9d47ca9650e0c679841939e6302f",
+    "bytesize": 1128,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قال ابن عطاءِ الله : أصلُ كُلِّ مَعصيَةٍ وغَفلَةٍ وشَهوة، الرِّضا عَن النّفس، وأصلُ كُلّ طاعَةٍ ويَقَظَةٍ وعِفّةٍ عَدَمُ الرِّضا عنها.</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\">يقولُ الشاعر:<br />\r\n\tإذا حَدّثَتكَ النّفسُ يَوماً بِشَهوَةٍ -- وكان عليها للخلافِ طريقُ<br />\r\n\tفَخالِف هواها ما استطعتَ فإنما -- هواها عَدوٌ والخِلافُ صَديقُ<br />\r\n\t<br />\r\n\tوقال يحيى بن معاذ : مِن سَعادِةِ المَرءِ أن يكونَ خَصمُهُ عاقلاً، وخَصمي لا عقلَ لَه. فقيلَ لَهُ : و مَن خَصمُك؟ فقال : نفسي. فأيُّ عَقلٍ لها وهي تَبيعُ الخلودَ في الجنَّةِ بِشَهوَةِ ساعة؟<br />\r\n\tوقال آخر : مَن تَوَهَّمَ أن لَهُ عدواً أعدى مِن نفسِه قَلَّ عِلمُهُ بِنَفسِه. </span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2011-06-05T21:39:22Z",
+  "attributes": {
+    "old_id": 483
+  },
+  "language": "ar",
+  "history": []
+}

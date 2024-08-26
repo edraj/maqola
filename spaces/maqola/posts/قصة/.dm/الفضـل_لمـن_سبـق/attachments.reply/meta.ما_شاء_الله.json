@@ -1,0 +1,29 @@
+{
+  "uuid": "a9ff132a-a6ae-4bdd-82f6-0186b6fbaabd",
+  "shortname": "ما_شاء_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما شاء الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f756c4a9c1ff8db6ceabfb171a64a1e774467c34",
+    "bytesize": 34,
+    "body": "هذا هو خلق آل البيت"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "50d32ec1-d642-49f6-b9fc-204decd4b4d5",
+    "shortname": "widad_ajmi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-03-31T03:56:55Z",
+  "attributes": {
+    "old_id": 841,
+    "old_entry_id": 36
+  },
+  "language": "ar"
+}

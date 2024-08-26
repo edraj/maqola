@@ -1,0 +1,42 @@
+{
+  "uuid": "545979cc-3342-43bb-b5ce-7a3badf4bfac",
+  "shortname": "الذكر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الذكر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eb026d5f5153756700d21b18d3882bb28b463a1f",
+    "bytesize": 167,
+    "body": "<p>\" وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَنِ نُقَيِّضْ لَهُ شَيْطَاناً فَهُوَ لَهُ قَرِينٌ \"</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "a29a922d-1dde-479f-9695-99f32c7b58a4",
+    "shortname": "تنزيل_العزيز_الحكيم",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "363bcd99-61c3-449c-ba2b-fd7d0d21b015",
+    "shortname": "hamzah_m._rababa_h",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة",
+    "إسلام"
+  ],
+  "created_at": "2015-12-18T18:36:03Z",
+  "attributes": {
+    "old_id": 1564
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "c017393f-3d11-4d9d-923a-e664eecfd085",
+  "shortname": "الصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f830f5f5848b55838177ddda2e0c3d8806230b2c",
+    "bytesize": 65,
+    "body": "الصحيح هو: وأكره من تجارته المعاصي..."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-28T17:24:07Z",
+  "attributes": {
+    "old_id": 231,
+    "old_entry_id": 243
+  },
+  "language": "ar"
+}

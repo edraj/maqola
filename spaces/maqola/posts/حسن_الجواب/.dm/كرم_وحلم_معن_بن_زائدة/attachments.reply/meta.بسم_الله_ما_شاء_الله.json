@@ -1,0 +1,29 @@
+{
+  "uuid": "ddd5867f-8774-43ea-b989-915ba1c0ea3b",
+  "shortname": "بسم_الله_ما_شاء_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بسم الله ما شاء الله"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f5cf0d3d05d6f82b94377b254c2fea37212c418f",
+    "bytesize": 39,
+    "body": "اضافات دائما في القمة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "ee57ed84-4fb5-471c-b55b-84d58d0d15a2",
+    "shortname": "monira_nadir",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-10-12T21:53:32Z",
+  "attributes": {
+    "old_id": 927,
+    "old_entry_id": 950
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "17b8c60d-0ab9-4f37-85a0-b206ef430177",
+  "shortname": "السند",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السند"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c6df89a8de70a8c56ce0e98eb00b47d9e8071b6a",
+    "bytesize": 262,
+    "body": "أهلا بك أخي علي، ورد ذكر هذه القصة في أكثر من كتاب، منها : \\\"الهفوات النادرة\\\" لمحمد بن هلال الصابي و \\\"بغية الطلب في تاريخ حلب\\\" لابن العديم   وغيرها."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-03T14:06:06Z",
+  "attributes": {
+    "old_id": 753,
+    "old_entry_id": 38
+  },
+  "language": "ar"
+}

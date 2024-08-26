@@ -1,0 +1,42 @@
+{
+  "uuid": "e6bf710d-0cf5-4355-851a-1ccf732e3162",
+  "shortname": "يؤخذ_الأدب_من_أفواه_الرجال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يؤخَذُ الأدبُ مِن أفواهِ الرجال"},
+  "updated_at": "2010-11-20T05:49:48Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0a93d3404f43d0624de720aa1441527ea3e88d19",
+    "bytesize": 473,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">يُروى أنَّ مُصعَبُ بن الزُبير : إنَّ الناسَ يَتَحدَّثونَ بأحَسنَ ما يحفَظون ، ويَحفَظونَ أحَسنَ ما يَكتُبون، ويَكتُبونَ أحسنَ ما يَسمَعونُ ، فإذا أخذتَ الأدبَ فَخُذهُ مِن أفواهِ الرِّجالِ فَإنَّك لا تَستَمِعُ مِنهُم إلا مُختاراً.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-11-20T05:49:48Z",
+  "attributes": {
+    "old_id": 192
+  },
+  "language": "ar",
+  "history": []
+}

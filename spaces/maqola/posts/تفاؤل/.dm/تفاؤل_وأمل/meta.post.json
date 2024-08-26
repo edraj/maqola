@@ -1,0 +1,43 @@
+{
+  "uuid": "5ed55697-87ae-437d-b767-9c63c5e9563a",
+  "shortname": "تفاؤل_وأمل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تَفاؤلٌ وأمل"},
+  "updated_at": "2010-11-29T04:36:21Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6bc4b57295e1b25068e9d8a8f877224ba59e8e96",
+    "bytesize": 1357,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كَفْكِفْ دُموعَكَ لَيسَ يَنفَعُكَ البُكاءُ ولا العَويلُ<br />\r\n\tوَ أنهضْ و لا تَشكُ الزَّمانَ فما شكا إلا الكَسولُ<br />\r\n\tوأسلكْ بِهِمَّتِكَ السبيلَ ولا تَقُلْ كَيفَ السبيلُ<br />\r\n\tما ضَلَّ ذو أملٍ سعى يوماً وحكمَتُهُ الدليلُ<br />\r\n\tكَلّا ولا خَابَ امرؤٌ يوماً ومَقصدُهُ نبيلُ<br />\r\n\t<br />\r\n\tأفنيتَ يا مِسكينُ عُمركَ بالتأوِّهِ والحَزَن<br />\r\n\tوقَعَدتَ مَكتوفَ اليدينِ تقولُ:حارَبَني الزَّمَن<br />\r\n\tما لَم تَقمْ بالعبءِ أنتَ فَمَن يَقومُ بِهِ إذن؟<br />\r\n\t<br />\r\n\tأضحى التشاؤمُ في حَديثِكَ بالغَريزَةِ و السليقة<br />\r\n\tمِثلُ الغرابِ نَعى الدّيارَ وأسمَعَ الدُّنيا نِعيقَه<br />\r\n\tتِلكَ الحَقيقَةُ والمريضُ القَلبِ تَجرَحُهُ الحَقيقة<br />\r\n\tأملٌّ يَلوحُ بَريقُهُ فاستَهدِ يا هذا بَريقَه<br />\r\n\tما ضاقَ عَيشُكَ لَو سَعيتَ لَهُ وَلَو لَم تَشكُ ضيقَه</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "7183331c-6061-4986-abd8-2b3491eb1e72",
+    "shortname": "إبراهيم_طوقان",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "شِعر"
+  ],
+  "created_at": "2010-11-28T17:21:06Z",
+  "attributes": {
+    "old_id": 253
+  },
+  "language": "ar",
+  "history": []
+}

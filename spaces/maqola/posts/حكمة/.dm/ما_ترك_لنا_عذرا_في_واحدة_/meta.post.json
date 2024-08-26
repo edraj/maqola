@@ -1,0 +1,43 @@
+{
+  "uuid": "c7baec1c-8f87-42ee-a3e7-b7bf79f3366e",
+  "shortname": "ما_ترك_لنا_عذرا_في_واحدة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما ترك لنا عذراً في واحدة!"},
+  "updated_at": "2010-11-01T09:30:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7a151afd05312e63adc555d18496bf576a39e721",
+    "bytesize": 971,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قيلَ أنّ بَعضَ وُفودِ العربِ قَدِموا على أميرِ المؤمنينَ عُمرَ بن عبد العزيز رضيَّ الله عَنه، وكان فيهم شابٌ.‏ ‏ فقامَ وقال:‏ ‏ يا أميرَ المؤمنين أصابَتْنا سِنونٌ عِجافٌ، سَنةٌ أذابتْ الشّحم، وسَنةٌ أكلتْ اللحم، وسَنةٌ دَقّتْ العَظم. وفي أيديكُم فضولُ أموال، فإن كانت لَنا فَعَلامَ تَمنَعونَها عَنّا، وإن كانتْ للهِ فَفَرّقوها على عِبادِ الله، وإن كانت لَكُم فَتَصدّقوا بها علينا إن الله يُجزي المتصدقين.‏ ‏ فقالَ عُمر بن عبد العزيز:‏ ‏ ما تَركَ الأعرابيُّ لنا عذراً في واحدة. ‏</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-17T13:20:29Z",
+  "attributes": {
+    "old_id": 25
+  },
+  "language": "ar",
+  "history": []
+}

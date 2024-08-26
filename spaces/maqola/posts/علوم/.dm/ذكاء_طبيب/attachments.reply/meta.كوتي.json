@@ -1,0 +1,29 @@
+{
+  "uuid": "87faf3d8-2b38-4266-86b5-f9e0ff419edd",
+  "shortname": "كوتي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كوتي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8bb46bb455ff73fc0557d3f1a0fd6eb8efa4de99",
+    "bytesize": 11,
+    "body": "يا غبي"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-02-21T01:02:59Z",
+  "attributes": {
+    "old_id": 412,
+    "old_entry_id": 456
+  },
+  "language": "ar"
+}

@@ -1,0 +1,48 @@
+{
+  "uuid": "b9af0e1a-3bf5-41ce-9037-4fb18f11d867",
+  "shortname": "من_لم_يحفظ_ما_بين_فكيه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"​من لم يحفِظ ما بينَ فكّيه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:90a901f7934337dc9013c31d75364c993ecb7dbe",
+    "bytesize": 852,
+    "body": "<p>من لم يحفِظ ما بينَ فكّيه ، ظلّ يُقلِّبُ كفّيه. وباتَ يتملمَلُ على دَفّيه ، حُزناً على ما فرّطَ فيه من التحفُّظ. وأسِفاً على ما فرَّطَ مِنهُ من التلفـُّظ ، ولو كان اللسِانُ مخزُوناً. لم يكن الفؤادُ محزوناً ، وقلَّمَا يَحرسُ مُهجته. من لا يُخرِسُ لهجته. ولن تجدَ على السِرِ أميناً. إلّا من كان بكُلِّ أمانةٍ قمينَا.</p><p>من كتاب \" أطواق الذهب في المواعظ والخطب \" لـ أبو القاسم محمود بن عمرو بن أحمد ، الزمخشري جار الله ( المتوفى : 538هـ )</p><p>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "عربية",
+    "فَصاحَة",
+    "قَناعَة",
+    "لُغة عربيّة",
+    "مَثَل",
+    "مَدح"
+  ],
+  "created_at": "2015-07-03T14:48:40Z",
+  "attributes": {
+    "old_id": 1372
+  },
+  "language": "ar",
+  "history": []
+}

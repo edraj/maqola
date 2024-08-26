@@ -1,0 +1,29 @@
+{
+  "uuid": "bce83a38-4f02-4ccb-9ecc-49aaae9fb2f3",
+  "shortname": "سياسة_كان_وحده",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سياسة ،كانَ وَحْدَه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:55a4bac20cfd76d7563194f81d73755585338b54",
+    "bytesize": 59,
+    "body": "رَحِمَ الله قَتيلَ الأَنْظِمَةْ"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-27T19:19:52Z",
+  "attributes": {
+    "old_id": 223,
+    "old_entry_id": 169
+  },
+  "language": "ar"
+}

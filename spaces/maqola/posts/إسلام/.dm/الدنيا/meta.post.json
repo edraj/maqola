@@ -1,0 +1,43 @@
+{
+  "uuid": "a6ef6192-6e58-49b8-9fd1-708ccd4e250b",
+  "shortname": "الدنيا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الدنيا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:308b59b8f2efad91a7865d541f155451c2233fac",
+    "bytesize": 539,
+    "body": "<p>الدنيا أدوار ، والنَّاسُ أطوار ، فالبس كُلَّ يومٍ بحسبِ ما فيه مِنَ الطوارق وجالس كُلَّ قومٍ بقدرِ ما لهم من الطرائق . فلن تجري الأيامَ على أُمنيتك ، ولن تنزل الأقوامَ على قضيتك . ولن تُشايعكَ الدنيا إلى ما تروم ، وإن ساعدتك فمُساعدتها لا تدوم .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "خاطِرة"
+  ],
+  "created_at": "2015-05-15T16:37:50Z",
+  "attributes": {
+    "old_id": 1273
+  },
+  "language": "ar",
+  "history": []
+}

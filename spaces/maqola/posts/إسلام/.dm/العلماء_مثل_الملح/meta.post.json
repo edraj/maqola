@@ -1,0 +1,48 @@
+{
+  "uuid": "55385f51-486d-440a-8369-146f704a97e5",
+  "shortname": "العلماء_مثل_الملح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العلماء مثل الملح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:68766ae590e94cc3b54b85fdca6d500336a343a7",
+    "bytesize": 432,
+    "body": "<p>قال الإمام الحافظ يحيى بن أبي كثير اليماميّ : \" العلماء مثل الملح ، بهم صلاحُ كل شيء ، فإذا فَسَد الملح لم يصلحه شيء ، وينبغي أن يُوطأ بالأقدام!! \" .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p><p>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "شَجاعَة",
+    "قَدح",
+    "لُغة عربيّة",
+    "مَثَل",
+    "مَدح"
+  ],
+  "created_at": "2015-07-15T07:53:23Z",
+  "attributes": {
+    "old_id": 1396
+  },
+  "language": "ar",
+  "history": []
+}

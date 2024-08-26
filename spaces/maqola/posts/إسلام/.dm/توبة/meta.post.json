@@ -1,0 +1,44 @@
+{
+  "uuid": "cbe4de06-c18e-4033-a38a-3427ee988cf8",
+  "shortname": "توبة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تَوبَة.."},
+  "updated_at": "2013-06-09T18:56:07Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:aa0a8d7c08d13a6b77ddf2960d5e3abe9b7c3001",
+    "bytesize": 1788,
+    "body": "<span class=\"maqola_body\"> رغم الذنوب الجاثماتِ على فؤادي<br>كالجبالْ..<br>وبرغم أخطائي التي كثرت وصارتْ<br>عَدَّ حبّات الرمالْ..<br>أنا عائدٌ ربي إليكْ<br>فابسُط بليلٍ أو نهارٍ يا إلهي لي يدَيكْ<br>قل لي:<br>تعال إليَّ يا عبدي تعالْ..<br>إني ببابك يا ملاذ الخائفينْ<br>افتَحْ لعبدٍ تائبٍ بابَ النجاة من الضلالْ<br>أوَلستَ تفرحُ يا إلهي بالمسيء إذا أتاك؟<br>ها قد أتيتْ<br>وإليك يا ربي سعيتْ<br>وعلى ذنوبي يا رجائي كم بكيتْ<br>والدمعُ فوق الخدِّ سالْ<br>فاغفرْ خطايايَ الثِّقالْ.<br>رباه..<br>رباهُ إن العبدَ آتْ<br>قد ملَّ فعْلَ الموبقاتْ<br>والبُعْدُ أضنى قلبَهُ<br>فأتاك يرجو رحمةً قبل المماتْ<br>فاصفَحْ فمن إلاك يا رباهُ يغفر زلّتي<br>وسواك من يا ربُّ يقبلُ توبتي<br>ويزيلُ أحزاني الطوالْ<br>من يطفئ النيران.. إن النار تزداد اشتعالْ<br>أطفئ بماء العفو يا ربي حريق السيئات<br>طمئنْ فؤادي..<br>واغفر بعفوك حوبتي يا ذا الجلالْ<br><br><span class=\"fontsmall\"></span><span class=\"fonttohama\"><span class=\"fontsmall\"></span></span><span class=\"fontlarge\"><span class=\"fonttohama\"><span class=\"fontsmall\"></span></span></span><span class=\"fontxlarge\"><span class=\"fontlarge\"><span class=\"fonttohama\"><span class=\"fontsmall\">شعر الأستاذ وائل البتيري</span></span></span></span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2013-06-09T18:55:55Z",
+  "attributes": {
+    "old_id": 624
+  },
+  "language": "ar",
+  "history": []
+}

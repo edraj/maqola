@@ -1,0 +1,44 @@
+{
+  "uuid": "aab37589-881d-433b-a427-23f32cec73d0",
+  "shortname": "قيمة_كل_امرئ_ما_يحسن",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قيمة كلّ امرئ ما يحسن"},
+  "updated_at": "2014-01-12T12:46:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:f121be170704519b3613bc4959a03f4348110267",
+    "bytesize": 258,
+    "body": "<span class=\"maqola_body\"><span class=\"fontxlarge\">قال عليّ -رضي الله عنه- :</span></span><div><span class=\"maqola_body\"><span class=\"fontxlarge\"><br> «قِيمَةُ كُلِّ امْرِئٍ ما يُحسِنُ»</span><br>  </span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a3b522e4-2a27-4598-aa55-eba5e171481e",
+    "shortname": "niazi_elhadi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء",
+    "فَصاحَة"
+  ],
+  "created_at": "2013-10-20T09:14:37Z",
+  "attributes": {
+    "old_id": 698
+  },
+  "language": "ar",
+  "history": []
+}

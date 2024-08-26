@@ -1,0 +1,29 @@
+{
+  "uuid": "efdf49e1-48da-4551-a647-6c5bb5e8b7b9",
+  "shortname": "المقصود",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المقصود"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5d799e8742370595baff6437e8730c3eb5cf9d16",
+    "bytesize": 237,
+    "body": "عبيدالله معروف معناها لكن حماميز الله ليس لها معنى , فالمقصود ان حمزة اراد ان ان يكون فصيحا ويفعل مثل الشاب الفصيح ولكنه كان احمقا ."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-01T11:18:18Z",
+  "attributes": {
+    "old_id": 256,
+    "old_entry_id": 266
+  },
+  "language": "ar"
+}

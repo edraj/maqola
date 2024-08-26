@@ -1,0 +1,18 @@
+{
+  "uuid": "1138cef9-cfa6-421c-9cf0-a22e1d3e97f9",
+  "shortname": "malek.mp3",
+  "is_active": true,  "owner_shortname": "dmart",
+  "payload": {
+    "content_type": "audio",
+    "checksum": "sha1:fbb7be6ae6f5eb29b68d3ad2c6c4a4336f2ea038",
+    "bytesize": 9203840,
+    "body": "malek.mp3"
+  },
+  "resource_type": "media",
+  "tags": [],
+  "created_at": "2020-09-18T19:45:04+03:00",
+  "attributes": {
+    "old_id": 7
+  },
+  "language": "en"
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "c9cee179-924a-4211-9b4b-620fbbdd1c0b",
+  "shortname": "العزة_بالطاعة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العزة بالطاعة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6bdc54dec475ee7437da7297df21b2333ce52a68",
+    "bytesize": 97,
+    "body": "<p>ومن يهن الله فما له من مكرم . ان الله يفعل ما يشاء . </p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "c0535af1-1bd5-44b0-9371-5017bfaaaa32",
+    "shortname": "amer_khatib",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "آيةٌ كَريمة"
+  ],
+  "created_at": "2015-02-22T13:03:25Z",
+  "attributes": {
+    "old_id": 1061
+  },
+  "language": "ar",
+  "history": []
+}

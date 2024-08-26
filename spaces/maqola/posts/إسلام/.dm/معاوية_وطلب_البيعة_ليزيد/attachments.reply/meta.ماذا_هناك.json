@@ -1,0 +1,29 @@
+{
+  "uuid": "328821ee-4bf6-41e3-aa91-029c38b88910",
+  "shortname": "ماذا_هناك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ماذا هناك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:238a2d891a9a2f74f66093d5d6db174514ee793a",
+    "bytesize": 40,
+    "body": "لماذا تم الحذف؟؟؟؟؟؟؟"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "ee57ed84-4fb5-471c-b55b-84d58d0d15a2",
+    "shortname": "monira_nadir",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-09-03T16:38:29Z",
+  "attributes": {
+    "old_id": 912,
+    "old_entry_id": 1178
+  },
+  "language": "ar"
+}

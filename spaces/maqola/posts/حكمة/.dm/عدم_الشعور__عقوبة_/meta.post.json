@@ -1,0 +1,42 @@
+{
+  "uuid": "e4abdfea-e3d8-473a-b1d2-d596020307aa",
+  "shortname": "عدم_الشعور__عقوبة_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عدم الشعور  عقوبة !!"},
+  "updated_at": "2013-08-23T12:55:26Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b0952e982d030b2db1c3edb8a2929d3b56f5e16c",
+    "bytesize": 275,
+    "body": "أسرف رجل على نفسه ، وبينما هو نائم ناجى الله قائلا : أى ربى ، كم عصيتك ولم تعاقبنى !! &#160; &#160; &#160; &#160; &#160; فسمع قائلا يقول : أى عبدى ، كم عاقبتك ولم تشعر !!!&#160;"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "da46f4fa-9f16-4c3c-9189-a02baa40d900",
+    "shortname": "محمد_عبدالفتاح",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2013-08-23T12:55:26Z",
+  "attributes": {
+    "old_id": 661
+  },
+  "language": "ar",
+  "history": []
+}

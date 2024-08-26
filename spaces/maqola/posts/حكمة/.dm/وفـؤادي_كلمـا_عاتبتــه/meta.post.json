@@ -1,0 +1,43 @@
+{
+  "uuid": "140904db-8ee1-491b-9d27-20bfaf332aef",
+  "shortname": "وفـؤادي_كلمـا_عاتبتــه",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وفـؤادي كلمـا عاتبتــه"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:43d6652568cf7c33db60925d22346524da50f878",
+    "bytesize": 471,
+    "body": "<p>وفـؤادي كلمـا عاتبتــه *** هام في اللذات يبغي تعبي<br> يا قرين السوء مـا هذا الصبا *** فنـي العمر كذا في اللعب<br> وشبابي بـان عني فمضى *** قبـل أن أقضي منه أربي<br> ما أرجي بعـده إلا الفنا *** ضيّـق الشيب عليّ مطلبي<br> نفسي لا كنت ولا كان الهوى *** اتقي الله وخافي وارهبي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "شِعر"
+  ],
+  "created_at": "2015-07-24T21:07:19Z",
+  "attributes": {
+    "old_id": 1428
+  },
+  "language": "ar",
+  "history": []
+}

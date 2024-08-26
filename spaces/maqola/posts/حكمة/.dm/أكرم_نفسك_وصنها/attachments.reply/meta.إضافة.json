@@ -1,0 +1,29 @@
+{
+  "uuid": "571c004e-44ea-4014-8b27-2f17d3155264",
+  "shortname": "إضافة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إضافة "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d9ae8fe1429a3888cd0db8dd73b79b42d9bd0649",
+    "bytesize": 186,
+    "body": "وعارضه احمد شوقي في قصيدته هذه , فقال في مطلعها : إختلاف الليل والنهار ينسي *** اذكرا لي الصبا وأيام انسي "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-01-20T14:52:27Z",
+  "attributes": {
+    "old_id": 391,
+    "old_entry_id": 316
+  },
+  "language": "ar"
+}

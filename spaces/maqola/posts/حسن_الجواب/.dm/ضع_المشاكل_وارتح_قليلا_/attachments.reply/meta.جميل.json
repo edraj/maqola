@@ -1,0 +1,29 @@
+{
+  "uuid": "d544ea28-44a8-416a-895a-6e7307631cd2",
+  "shortname": "جميل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جميل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:13b90b3fe581730516b2051d4d480ac65874a9ea",
+    "bytesize": 125,
+    "body": "مقنع.  \\\"كلما طالت مدة حملي له كلما زاد وزنه.\\\" أرجو حذف \\\"كلما\\\" الثانية. "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "9a5c294b-89e8-41de-ab4e-0fc5bb2692c8",
+    "shortname": "ayad_derbal",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2014-11-15T06:17:32Z",
+  "attributes": {
+    "old_id": 805,
+    "old_entry_id": 919
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "1f244978-7c41-4091-8565-1d667542a0ea",
+  "shortname": "وإن_النار_بالعودين_تذكى_._._وإن_الحرب_مبدؤها_كلام",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وإن النار بالعودين تُذكى .:. وإن الحرب مبدؤها كلامُ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:b187303dc661e92e6a0d4ccf30d1b40c540de331",
+    "bytesize": 10,
+    "body": "رائعة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "f36eda2c-f9a0-4a2f-bd1e-0ebb067d66bf",
+    "shortname": "abdulhade_altwergi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-08-08T23:14:40Z",
+  "attributes": {
+    "old_id": 902,
+    "old_entry_id": 1104
+  },
+  "language": "ar"
+}

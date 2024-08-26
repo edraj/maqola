@@ -1,0 +1,41 @@
+{
+  "uuid": "cc9e7bfe-91f7-47b8-946f-ab659b8f084d",
+  "shortname": "adminsection",
+  "is_active": true,
+  "owner_shortname": "dmart",
+  "displayname":{"ar":"قسم الإشراف"},
+  "description":{"ar":""},
+  "payload": {
+    "content_type": "image",
+    "checksum": "sha1:7e3e576231f970fedb370dd999ff02a498f00dce",
+    "bytesize": 389088,
+    "body": "screenshot_arabic_admin.png"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "media",
+  "tags": [
+    ""
+  ],
+  "created_at": "2020-09-07T11:19:38+03:00",
+  "attributes": {
+    "ordinal": 6
+  },
+  "language": "en",
+  "editor_locator": {
+    "uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "shortname": "kefah",
+    "subpath": "/members/2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+    "space_name": "wwwimx",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  }
+}

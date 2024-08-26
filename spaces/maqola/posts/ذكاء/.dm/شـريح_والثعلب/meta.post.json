@@ -1,0 +1,43 @@
+{
+  "uuid": "d7962681-c3da-4d86-86a5-b20bf47f2ff2",
+  "shortname": "شـريح_والثعلب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شـُريح والثعلب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:79b58647037ac2731558bd8d1affc15ef1320220",
+    "bytesize": 856,
+    "body": "<p>أخبرنا مجَالد بن سعيد قال : قلت للشَّعبيّ يُقال في المثل أن شريحا أدهى من الثّعلب وأحيل فما هذا ؟!! فقال لي في ذالك : أن شريحاً خرج أيَّام الطاعون إلى النجف وكان إذا قام يصلّي يجيء ثعلب فيقف تجاهه فيحاكيه ويخيل بين يديه فيشغله عن صلاته فلمّا طال ذالك عليه نزع قميصه فجعله على قَصَبَةٍ وأخرج كميه وجعل فلنسوته وعمامته عليه فأقبل الثعلب فوقف على عادته فأتى شُرَيْح من خلفه وأخده بغتَة فلذالك يقال هو أدهى من الثّعلب وأحيل .</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "ذَكاء",
+    "طُرفَة",
+    "قِصّة"
+  ],
+  "created_at": "2015-05-19T20:59:13Z",
+  "attributes": {
+    "old_id": 1279
+  },
+  "language": "ar",
+  "history": []
+}

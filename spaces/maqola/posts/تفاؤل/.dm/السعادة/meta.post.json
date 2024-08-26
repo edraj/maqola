@@ -1,0 +1,43 @@
+{
+  "uuid": "443f2d77-0850-4df4-b9f1-16356398a8b1",
+  "shortname": "السعادة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"السعادة"},
+  "updated_at": "2013-07-29T04:44:42Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9158866fc9f0b0d7a31ab7873eb33aee39dd709c",
+    "bytesize": 277,
+    "body": "<span class=\"maqola_body\">السعادة دائماً تبدو ضئيلة عندما نحملها بأيدينا الصغيرة لكن عندما نتعلم كيف نشارك بها سندرك كم هي كبيرة و ثمينـه. - ابراهيم الفقي <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "bcfff891-7e5f-4ccf-aa69-aec47ad7a402",
+    "shortname": "amr_atef",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل",
+    "حِكمَة"
+  ],
+  "created_at": "2013-07-29T04:44:42Z",
+  "attributes": {
+    "old_id": 650
+  },
+  "language": "ar",
+  "history": []
+}

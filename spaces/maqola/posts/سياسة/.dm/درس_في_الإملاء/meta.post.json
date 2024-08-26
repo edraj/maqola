@@ -1,0 +1,43 @@
+{
+  "uuid": "8601deae-cba8-4eb9-a4fe-f4d19c4bde8e",
+  "shortname": "درس_في_الإملاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"درسٌ في الإملاء"},
+  "updated_at": "2010-11-30T12:18:46Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1f818fd584926cb14fee7b8d9a204b92905e9bee",
+    "bytesize": 736,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">كَتبَ الطالِبُ : ( حاكِمَنا مُكْتأباً يُمسي<br />\r\n\tو حزيناً لضياع القدس ) .<br />\r\n\tصاحَ الأستاذُ بِه: كلاّ … إنكَ لَم تَستَوعِب دَرسي .<br />\r\n\t&#160; اِرْفَع حاكِمَنا يا ولدي<br />\r\n\tو ضَع الهمزةَ فوقَ ( الكُرسي ) .<br />\r\n\tهتفَ الطالبُ : هَل تَقصِدُني … أم تَقصِدُ عنترةَ العبسي ؟!<br />\r\n\tأستوعبُ ماذا ؟! و لماذا ؟!<br />\r\n\tدَع غيري يَستَوعِبُ هذا<br />\r\n\tواتركني أستوعِبُ نَفسي .<br />\r\n\tهل دَرسُكَ أغلى مِن رأسي ؟!</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "b9474479-3a69-49bc-bedd-21245962000f",
+    "shortname": "أحمد_مطر",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "سِياسَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-30T11:49:32Z",
+  "attributes": {
+    "old_id": 277
+  },
+  "language": "ar",
+  "history": []
+}

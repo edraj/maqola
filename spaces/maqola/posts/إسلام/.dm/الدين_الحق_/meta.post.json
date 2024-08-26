@@ -1,0 +1,44 @@
+{
+  "uuid": "a2455f7a-946b-4622-b64e-8ee182c22a6c",
+  "shortname": "الدين_الحق_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الدِّينُ الحَقْ ,,,"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d22401b31b878227ac035306fc2a5d27e655593a",
+    "bytesize": 414,
+    "body": "<p><span style=\"color: rgb(89, 89, 89);\"></span><span style=\"color: rgb(89, 89, 89);\">الدين الحق </span></p><p>هو الذي يعطيك فلسفة متكاملة للحياة، ونظاماً وافياً بحاجات المجتمع، <br>كالمهندس الماهر يبني لك بيتا متين الدعائم، مستوفي المنافع .<br><br></p><p>يزيد '×'.'  عقيد القوم ,,</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "012ddd49-5d97-4be9-834a-6a31df986208",
+    "shortname": "عقيد_آلقوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "عُلوم"
+  ],
+  "created_at": "2015-04-10T18:11:14Z",
+  "attributes": {
+    "old_id": 1149
+  },
+  "language": "ar",
+  "history": []
+}

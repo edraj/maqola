@@ -1,0 +1,44 @@
+{
+  "uuid": "9519d8c9-2d66-4bb2-9247-58a599e2b5cd",
+  "shortname": "صه_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"صه!!"},
+  "updated_at": "2014-02-04T12:45:11Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:80b11ce2ebf058be6bd263fd9c5a634e16735400",
+    "bytesize": 222,
+    "body": "صه بالسكونِ تعني اسكت عن هذا الموضوعِ وتحدث في موضوعٍ اخر،واذا قلتَ صه يعني اسكت عن مطلقِ الكلام<span class=\"maqola_body\"> ِ<br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-04T12:45:06Z",
+  "attributes": {
+    "old_id": 786
+  },
+  "language": "ar",
+  "history": []
+}

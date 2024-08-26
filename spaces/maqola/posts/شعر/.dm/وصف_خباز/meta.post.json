@@ -1,0 +1,42 @@
+{
+  "uuid": "294b9865-1fc6-4047-b580-1ecef6fbc8fc",
+  "shortname": "وصف_خباز",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"وصفُ خبّازٍ"},
+  "updated_at": "2015-05-10T18:33:03Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5089c6bc6d8315b403af368899074dc60eedf950",
+    "bytesize": 504,
+    "body": "<p><span style=\"color: rgb(١٢, ١٢, ١٢);\">ما أنسَ لا أنسَ خبازاً مررت به       يشكو الرُّقاقة َ وشكَ اللمحِ بالبصرِ</span></p><p><span style=\"color: rgb(١٢, ١٢, ١٢);\">ما بــين رؤيتهــا في كفـه كرةً        وبين رؤيتها قــــــوراءَ كالــقمر<br>إلا بمقدارِ ما تنــداح دائــرة ٌ        في صفحة الماء يُرمَى فـــيه بالحجر</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "78e126ec-ac1f-483a-a696-3e84ab4bc5b2",
+    "shortname": "abbas_al_robaiyee",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-05-10T17:55:19Z",
+  "attributes": {
+    "old_id": 1255
+  },
+  "language": "ar",
+  "history": []
+}

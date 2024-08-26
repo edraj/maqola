@@ -1,0 +1,42 @@
+{
+  "uuid": "58327f0b-b4f7-4c44-9189-6f3dea80e253",
+  "shortname": "لا_تدقق_في_الحساب_مع_أهلك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا تُدَقِقْ في الحِسابِ مع أهلك!"},
+  "updated_at": "2010-11-04T02:57:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fba1574f4eca074612977143cffd2cf23190dd4e",
+    "bytesize": 1426,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">خَطَبَ المُغيرَةُ بنُ شُعبة وفتىً مِن العربِ امرأة، وكان الفتى جميلاً! فأرسلَتْ إليهما المرأةُ: لا بُدَّ أنْ أراكُما، وأسمعُ كلامَكُما، فاحضِرا إنْ شِئتُما، فاجلَستْهُما بِحيث تراهُما. فَعلِمَ المغيرةُ أنها تُؤثِرُ عَليهِ الفتى، فأقبلَ عَليهِ فقال: لقد أوتيتَ حُسنًا وجمالاً وبَيانًا. فهل عِندَكَ سِوى ذلك؟<br />\r\n\tقال: نعم، فَعدّدَ عليهِ مَحاسِنَهُ، ثُمَّ سكت. فقال المغيرةُ: فكيف حِسابُكَ؟ فقال: لا يَسقُطُ عليّ مِنّي شيء، وإني لأستدركُ مِنهُ أقلُّ مِن الخَردلة، فقال له المغيرة: لكنِّي أضعُ البَدْرةَ -صرةٌ مِن المال- في زاويةِ البيتِ، فَيُنفِقُها أهلُ بيتي على ما يريدون، فما أعلمُ بنفادِها حتّى يسألوني غيرها! فقالت المرأةُ: والله لهذا الشيخُ الذي لا يُحاسِبُني أحَبُّ إليَّ مِن الذي يُحصي عليَّ أدنى مِن الخردلة! فتزوجت المغيرة.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2010-11-04T02:57:37Z",
+  "attributes": {
+    "old_id": 131
+  },
+  "language": "ar",
+  "history": []
+}

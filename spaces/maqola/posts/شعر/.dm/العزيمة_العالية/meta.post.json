@@ -1,0 +1,42 @@
+{
+  "uuid": "1248e173-5d0f-43ff-8e41-059ff5313bb7",
+  "shortname": "العزيمة_العالية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"العزيمة العالية"},
+  "updated_at": "2010-10-28T00:33:59Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:77c8c8ac895d62bee4a31c65852f6376a74c458f",
+    "bytesize": 367,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">إذا غامَرْتَ في شَرَفٍ مَرُومٍ &#160; -- &#160; فَلا تَقنَعْ بما دونَ النّجومِ<br />\r\n\tفطَعْمُ المَوْتِ في أمْرٍ حَقِيرٍ &#160; --&#160; كطَعْمِ المَوْتِ في أمْرٍ عَظيمِ</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2010-10-28T00:33:59Z",
+  "attributes": {
+    "old_id": 117
+  },
+  "language": "ar",
+  "history": []
+}

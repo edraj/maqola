@@ -1,0 +1,33 @@
+{
+  "uuid": "1e7ede20-767f-4b7f-a62c-f116f6eb6b91",
+  "shortname": "1e7ede20",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2014-02-04T12:41:43Z",
+  "author_locator": { "type": "content",
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2014-02-04T12:41:43Z",
+  "attributes": {
+    "old_id": 139,
+    "old_entry_id": 785
+  },
+  "language": "en",
+  "location": {
+    "uuid": "1e7ede20-767f-4b7f-a62c-f116f6eb6b91",
+    "shortname": "1e7ede20",
+    "subpath": "posts/حسن_الجواب",
+    "space_name": "maqola",
+    "parent_shortname": "من_كتاب_فضل_الكلاب",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

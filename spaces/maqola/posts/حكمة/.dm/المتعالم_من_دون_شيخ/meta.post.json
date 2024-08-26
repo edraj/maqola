@@ -1,0 +1,42 @@
+{
+  "uuid": "69823a74-a73a-4818-be76-3b1e62846703",
+  "shortname": "المتعالم_من_دون_شيخ",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"المتعالم من دون شيخ"},
+  "updated_at": "2014-07-02T12:30:46Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e2f6b74c676f1c61ef3f58c2c34e137931170f5c",
+    "bytesize": 647,
+    "body": "<span class=\"maqola_body\"> <br> يَظُنُّ الْغُمْرَ أَنَّ الْكُتْبَ تَهْدِي** أَخَا فَهْمٍ لإدراكِ الْعُلُومِ<br>وَمَا يَدْرِي الْجَهُولُ بأنَّ فِيْها **غوامضَ حَيَّرَتْ عَقْل الْفَهِيْمِ&#160;<br>إذَا رُمْتَ الْعُلْومَ بِغَيْرِ شَيْخٍ ** ضَلَلْتَ عَنِ الْصِّراطِ الْمُسْتَقِيْمِ&#160;<br>وَتَلْتَبِسُ الأمورُ عَلَيْكَ حَتَّى ** تَكونَ أَضَّلَ مِنْ تُوْمَا الْحَكِيْمِ<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "945a78fc-63f7-42c1-a380-1730a1a586cc",
+    "shortname": "فياض_دوابشة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2014-07-02T12:30:46Z",
+  "attributes": {
+    "old_id": 894
+  },
+  "language": "ar",
+  "history": []
+}

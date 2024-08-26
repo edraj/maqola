@@ -1,0 +1,29 @@
+{
+  "uuid": "03f38718-3313-4458-b7df-5de24838a698",
+  "shortname": "اعجبتني",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"اعجبتني "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:c537357807a5fc3d3223b68705491eba98d08776",
+    "bytesize": 28,
+    "body": "روووعه اعجبتني "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "e349fb6e-cf89-479d-b429-299e1fbe863f",
+    "shortname": "عاشقة_خجولة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-12-20T11:58:07Z",
+  "attributes": {
+    "old_id": 944,
+    "old_entry_id": 1003
+  },
+  "language": "ar"
+}

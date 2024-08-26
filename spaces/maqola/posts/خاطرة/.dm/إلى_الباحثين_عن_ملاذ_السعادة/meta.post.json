@@ -1,0 +1,42 @@
+{
+  "uuid": "988712e0-b0f8-4cc8-ad3c-0ad6318e2746",
+  "shortname": "إلى_الباحثين_عن_ملاذ_السعادة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إلى الباحثين عن ملاذ السعادة"},
+  "updated_at": "2015-03-07T15:27:15Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6aea3493968c3bda70ef0a125f0bafcefe1cb4a7",
+    "bytesize": 410,
+    "body": "<p>إلى من يبحث عن ملاذ السعادة  ..</p><p>إلى من أتعبتهم هموم الحياة ..</p><p>إلى من لم يجدوا صداً لآلامهم ..</p><p>إلى هؤلاء وإلى نفسى أقول لى ولهم :.</p><p>إصبروا فالدنيا دار ابتلاء ومصيرها فناء .</p><p>والآخرة خير وأبقى .</p><p>الكاتب : نبيل جلهوم </p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-03-07T15:26:35Z",
+  "attributes": {
+    "old_id": 1089
+  },
+  "language": "ar",
+  "history": []
+}

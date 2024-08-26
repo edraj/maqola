@@ -1,0 +1,33 @@
+{
+  "uuid": "3df289d8-99e7-4392-8b33-3aa0e9353f32",
+  "shortname": "3df289d8",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-05-10T08:05:50Z",
+  "author_locator": { "type": "content",
+    "uuid": "dcba9bf4-fefd-4ddb-ab37-ef862cebabab",
+    "shortname": "امين_صرصور",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-05-10T08:05:50Z",
+  "attributes": {
+    "old_id": 32,
+    "old_entry_id": 600
+  },
+  "language": "en",
+  "location": {
+    "uuid": "3df289d8-99e7-4392-8b33-3aa0e9353f32",
+    "shortname": "3df289d8",
+    "subpath": "posts/سياسة",
+    "space_name": "maqola",
+    "parent_shortname": "دمشق_عاصمة_الخلفاء",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

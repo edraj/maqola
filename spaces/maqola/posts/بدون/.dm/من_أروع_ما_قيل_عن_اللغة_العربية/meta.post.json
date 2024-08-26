@@ -1,0 +1,41 @@
+{
+  "uuid": "d2cb6b26-e6e5-4062-936c-b365c6ee62a2",
+  "shortname": "من_أروع_ما_قيل_عن_اللغة_العربية",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أروع ما قيل عن اللغة العربية"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ee456cab9fce9400d7225fe83bba42c40ae84f52",
+    "bytesize": 458,
+    "body": "<p>من أغرب ماوقع في تاريخ البشر انتشار اللغة العربية ، فقد كانت غير معروفة فبدأت فجأةً في غاية الكمال ، سَلِسَة ، غنية ، كاملة ،فليس لها طفولة ولا شيخوخة ، تلك اللغة التي فاقت أخواتها بكثرة مفرداتها ودقة معانيها وحسن نظام مبانيها .</p><p>.....ارنست رينان......</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "c75bfafb-ad00-4934-a0b8-1f87a4a49ac7",
+    "shortname": "مواهب_مواهب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "بِدون"
+  ],
+  "created_at": "2015-03-13T22:00:24Z",
+  "attributes": {
+    "old_id": 1112
+  },
+  "language": "ar",
+  "history": []
+}

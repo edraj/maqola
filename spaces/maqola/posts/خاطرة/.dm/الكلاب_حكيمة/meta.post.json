@@ -1,0 +1,41 @@
+{
+  "uuid": "2ad67648-b924-4acb-a3c4-8427ca4bc204",
+  "shortname": "الكلاب_حكيمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الكلاب حكيمة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:91717a84849059db53d8eb58c08deb802a1d3237",
+    "bytesize": 276,
+    "body": "<p>الكلاب حكيمة، فهي تزحف إلى ركن هادئ وتلعق جراحها ولا تنضم إلى العالم مجدداً إلا عندما تستعيد كامل عافيتها. </p><p>ــــــــــــ ضياء ابراهيم<em></em></p><p><br></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-02-27T11:51:09Z",
+  "attributes": {
+    "old_id": 1073
+  },
+  "language": "ar",
+  "history": []
+}

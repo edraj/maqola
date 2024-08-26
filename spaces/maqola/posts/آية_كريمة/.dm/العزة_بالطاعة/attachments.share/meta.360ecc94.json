@@ -1,0 +1,33 @@
+{
+  "uuid": "360ecc94-dfe7-4376-8473-5e102d369aac",
+  "shortname": "360ecc94",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-02-22T13:03:29Z",
+  "author_locator": { "type": "content",
+    "uuid": "c0535af1-1bd5-44b0-9371-5017bfaaaa32",
+    "shortname": "amer_khatib",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-02-22T13:03:29Z",
+  "attributes": {
+    "old_id": 326,
+    "old_entry_id": 1061
+  },
+  "language": "en",
+  "location": {
+    "uuid": "360ecc94-dfe7-4376-8473-5e102d369aac",
+    "shortname": "360ecc94",
+    "subpath": "posts/آية_كريمة",
+    "space_name": "maqola",
+    "parent_shortname": "العزة_بالطاعة",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

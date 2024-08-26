@@ -1,0 +1,43 @@
+{
+  "uuid": "24d71c1a-e380-489d-af28-a55ec8ed2291",
+  "shortname": "صنوف_العلوم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"صنوف العلوم"},
+  "updated_at": "2014-01-12T12:51:33Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0b01a84b8b254de3a75208c0b22c10902f949490",
+    "bytesize": 752,
+    "body": "<span class=\"maqola_body\"><span class=\"fontxlarge\">قال الإمامُ الشّافعيُّ في مفتاح دار السّعادة :</span></span><div><span class=\"maqola_body\"><span class=\"fontxlarge\"><br> \"مَن تَعَلَّمَ القُرْآنَ ؛ عَظُمَتْ قِيمَتُهُ . ومَن نَّظَرَ في الفِقْهِ ؛ نَبُلَ مِقْدَارُهُ . ومَن تَعَلَّمَ اللُّغَةَ ؛ رَقَّ طَبْعُهُ . ومَن تَعَلَّمَ الحِسَابَ ؛ جَزُلَ رَأْيُهُ . ومَن كَتَبَ الحَدِيثَ ؛ قَوِيَتْ حُجَّتُهُ . ومَن لَّمْ يَصُن نَّفْسَهُ ؛ لَمْ يَنفَعْهُ عِلْمُهُ\"</span><br>  </span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "8aca783d-246f-4073-9b68-d3ab823ae2af",
+    "shortname": "الشافعي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a3b522e4-2a27-4598-aa55-eba5e171481e",
+    "shortname": "niazi_elhadi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "عُلوم"
+  ],
+  "created_at": "2013-10-20T08:35:32Z",
+  "attributes": {
+    "old_id": 684
+  },
+  "language": "ar",
+  "history": []
+}

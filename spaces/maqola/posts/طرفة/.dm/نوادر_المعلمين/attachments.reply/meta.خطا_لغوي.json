@@ -1,0 +1,29 @@
+{
+  "uuid": "82fdfdc3-0e77-400a-a4c3-2c4514a1053f",
+  "shortname": "خطا_لغوي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خطا لغوي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:eb3852aa34ddff549f6f1b5cbb0be773621eca7e",
+    "bytesize": 820,
+    "body": "سلام عليكم\r\nحبيبي اخ كفاح فقط اريد ان انوه ان هناك خطا نحوي في البيت :\r\nلا تأخذين فؤادي تَلعبين به ... فكيف يلعب بالإنسان إنسانا\r\nو الصحيح ان يكون :\r\nلا تأخذين فؤادي تَلعبين به ... فكيف يلعب بالإنسان إنسانُ\r\nبضم \"انسان\" لانه فاعل في هذه الجملة .\r\nثم اذا كان الامر كذلك فان هذا البيت لا يتوافق و قافيته مع البيت السابق ما يجعلني اعتقد بان هذه القصة هي من وحي الخيال و ليس لها وجود اذ لا يمكن لرجل صاحب ادب و نحو مثل ذلك المعلم ان يبكي و يعطل لاجل بيت غير صحيح النظم .\r\n\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "ad1f1758-37a8-4c03-ba9f-be72c0fca606",
+    "shortname": "علي_عدنان",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-06-18T13:19:11Z",
+  "attributes": {
+    "old_id": 885,
+    "old_entry_id": 188
+  },
+  "language": "ar"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "005c38c6-d3f9-40be-be46-540c496672e8",
+  "shortname": "الصديق_في_وقت_الضيق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الصديق في وقت الضيق"},
+  "updated_at": "2013-10-12T23:20:27Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ccddae27389bef26b2f55a1a34e11479097bd783",
+    "bytesize": 217,
+    "body": "<span class=\"maqola_body\"> <br> يا أَخي !!<br>فلتجعل لك صديقاً في كُلِ مَضيق ... ليَرقَعَ لكَ ثِيَابَك في وقتِ الضيق<br><br>أسامة زقوت<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "b6ddd773-da58-46ae-9f09-e4a2deba30b3",
+    "shortname": "ossama_abed._zaqqout",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "قَناعَة"
+  ],
+  "created_at": "2013-10-12T23:20:27Z",
+  "attributes": {
+    "old_id": 681
+  },
+  "language": "ar",
+  "history": []
+}

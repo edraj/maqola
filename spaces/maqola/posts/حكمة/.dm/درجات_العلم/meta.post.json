@@ -1,0 +1,42 @@
+{
+  "uuid": "5c9b176c-ecc1-4f58-9ad7-a8aec416657d",
+  "shortname": "درجات_العلم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"دَرَجاتُ العِلم"},
+  "updated_at": "2010-12-01T08:53:12Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a26bc6f0bdac833e8549f61da17b69ad6173fe17",
+    "bytesize": 466,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قيل أوَّلُ العِلمِ الصَّمتُ، والثاني الاستِماعُ، والثالثُ الحِفظُ، والرابعُ العَمَلُ، والخامسُ نشره.</span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\">من كتاب العقد الفريد لإبن عبدربه - باب الياقوتة في العلم و الأدب. </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-12-01T08:53:12Z",
+  "attributes": {
+    "old_id": 282
+  },
+  "language": "ar",
+  "history": []
+}

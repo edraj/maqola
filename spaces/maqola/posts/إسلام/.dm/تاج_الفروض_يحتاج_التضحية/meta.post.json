@@ -1,0 +1,43 @@
+{
+  "uuid": "8440d0b3-1e39-4824-8762-5c4ecf07506a",
+  "shortname": "تاج_الفروض_يحتاج_التضحية",
+  "is_active": false,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تاج الفروض يحتاج التضحية"},
+  "updated_at": "2015-01-24T03:32:09Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4a622aceaf0adaa5e708f5c59865f373fe85930b",
+    "bytesize": 1205,
+    "body": "<p><span class=\"maqola_body\">أيها الإخوة,  </span></p><p><span class=\"maqola_body\">إن اشتداد الأزمة مؤذن بانفراجها, وهذا الضيق الذي يكاد يلفنا من كل جانب يجب أن يدفعنا لبذل الوسع, والسعي الحثيث للأخذ بالأسباب الموصلة للهدف, مهما طال الطريق واشتد, قسلعة الله غالية, والجنة حفت بالمكاره, وإننا أيها الإخوة لعازمون بإذن الله أن لا نترك سبباً مشروعاً نستطيعه إلا استعنا بالله وفعلناه لعل الله يشف صدوركم وصدورنا في وقت ليس ببعيد وما ذلك على الله بعزيز.</span></p><p><span class=\"maqola_body\">إننا نعمل وعيوننا تتطلع إلى الخلافة, وقلوبنا تخفق نحوها, وكلنا طمأنينة بقيامها فرسول الله صلى الله عليه وسلم انبأنا بذلك وبشرنا \"... ثم تكون خافة على منهاج النبوة\". وكل هذا حقيق على أن يشحذ الهمم, ويقوي العزائم, ويشرح الصدور.</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "4546b9d1-314b-4084-882e-71e6fcf61e80",
+    "shortname": "عطاء_أبو__الرشتة",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "f38768e4-d585-4772-9d76-4d773046a3a8",
+    "shortname": "محمدنجم_ابوعرقوب",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "سِياسَة"
+  ],
+  "created_at": "2013-06-17T17:52:33Z",
+  "attributes": {
+    "old_id": 637
+  },
+  "language": "ar",
+  "history": []
+}

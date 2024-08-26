@@ -1,0 +1,29 @@
+{
+  "uuid": "454c0b6b-992a-46e6-88b5-dd96689f2f8a",
+  "shortname": "في_أسفل_يمين_المقولة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"في أسفل يمين المقولة"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:538ab02c471448fdddd921d48cf109a97e55b835",
+    "bytesize": 89,
+    "body": "أهلا بك، قائل المقولة موجود في أسفل يمين المقولة."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-28T05:16:18Z",
+  "attributes": {
+    "old_id": 226,
+    "old_entry_id": 234
+  },
+  "language": "ar"
+}

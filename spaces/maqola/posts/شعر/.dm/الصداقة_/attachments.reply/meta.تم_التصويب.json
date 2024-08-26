@@ -1,0 +1,29 @@
+{
+  "uuid": "82a9ee68-e4bc-4987-86d8-4dcb9ab49a06",
+  "shortname": "تم_التصويب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تم التصويب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5f3931f5c8bdbaa53577ba2d5c5e1a1bc16101a2",
+    "bytesize": 140,
+    "body": "وشكرا لكم استاذ عبده علي. وأرجو أن لا تبخل علينا بأية مراجعات أخرى على الموقع."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-03T18:05:20Z",
+  "attributes": {
+    "old_id": 261,
+    "old_entry_id": 234
+  },
+  "language": "ar"
+}

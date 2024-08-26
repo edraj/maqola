@@ -1,0 +1,41 @@
+{
+  "uuid": "d643e20a-08f0-40a1-9b1c-2b8e17eae926",
+  "shortname": "الذوق",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الذوق"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:a1381dd9ba8d4f9ca6e2b791acd2cfe48780d909",
+    "bytesize": 746,
+    "body": "<p><span style=\"color: rgb(151, 72, 6);\"><strong><span data-redactor-tag=\"span\" style=\"background-color: rgb(255, 255, 0);\"><span style=\"color: rgb(99, 36, 35);\">الذوق فى التعاملات  , قيمة أخلاقية هامة إفتقدها كثير من المسلمين .</span></span></strong></span></p><p><span style=\"color: rgb(151, 72, 6);\"><strong><span data-redactor-tag=\"span\" style=\"background-color: rgb(255, 255, 0);\"><span style=\"color: rgb(99, 36, 35);\"><br></span></span></strong></span></p><p><span style=\"color: rgb(151, 72, 6);\"><strong><span data-redactor-tag=\"span\" style=\"background-color: rgb(255, 255, 0);\"><span style=\"color: rgb(99, 36, 35);\">الكاتب : نبيل جلهوم .</span></span></strong></span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-03-04T08:01:07Z",
+  "attributes": {
+    "old_id": 1082
+  },
+  "language": "ar",
+  "history": []
+}

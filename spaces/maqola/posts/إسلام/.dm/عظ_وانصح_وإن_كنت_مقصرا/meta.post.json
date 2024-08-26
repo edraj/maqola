@@ -1,0 +1,42 @@
+{
+  "uuid": "b4fb3c9e-fdca-4b64-84eb-2fd71527a17c",
+  "shortname": "عظ_وانصح_وإن_كنت_مقصرا",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عِظْ وانصَح وإنْ كُنتَ مُقصِّرا"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d095f1289c61641a510078f00cd8e05648f13314",
+    "bytesize": 309,
+    "body": "<p>قال ابن رجب : \"لوْ لمْ يعِظ إلّا معصومٌ من الزَّلل , لمْ يعِظِ النّاسَ بعدَ رسولِ الله صلَّى الله عليه وسلَّم أحدٌ؛ لأنّه لا عصمةَ لأحَدٍ بعدَه\".<br></p><p>لطائف المعارف ص/١٩</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة"
+  ],
+  "created_at": "2015-03-07T07:51:07Z",
+  "attributes": {
+    "old_id": 1088
+  },
+  "language": "ar",
+  "history": []
+}

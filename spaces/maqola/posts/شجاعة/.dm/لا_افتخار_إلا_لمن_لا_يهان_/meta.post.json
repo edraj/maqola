@@ -1,0 +1,43 @@
+{
+  "uuid": "d60d07e1-56a4-4f53-932c-7ee1ffb4da90",
+  "shortname": "لا_افتخار_إلا_لمن_لا_يهان_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لا افتخارٌ إلا لمن لا يُهانُ ..."},
+  "updated_at": "2010-11-27T05:18:37Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:3672ab07e9aa406de6f42a068e9e258a7ecee3a5",
+    "bytesize": 1444,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">لا افْتِخارٌ إلاّ لِمَنْ لا يُضامُ --&#160;&#160;&#160; مُدْرِكٍ أوْ مُحارِبٍ لا يَنَامُ<br />\r\n\tلَيسَ عَزْماً مَا مَرِضَ المَرءُ فيهِ -- لَيسَ هَمّاً ما عاقَ عنهُ الظّلامُ<br />\r\n\tذَلّ مَنْ يَغْبِطُ الذّليل بعَيشٍ --&#160;&#160;&#160; رُبّ عَيشٍ أخَفُّ منْهُ الحِمامُ<br />\r\n\tكُلُّ حِلْمٍ أتَى بغَيرِ اقْتِدارٍ --&#160;&#160;&#160; حُجّةٌ لاجىءٌ إلَيها اللّئَامُ<br />\r\n\tمَنْ يَهُنْ يَسْهُلِ الهَوَانُ عَلَيهِ -- ما لجُرْحٍ بمَيّتٍ إيلامُ </span></p>\r\n<p>\r\n\t<span style=\"font-size: 1em;\"><span style=\"font-family: Tahoma,Geneval,sans-serif;\">المُدرِك : هو الإنسانُ الذي يَصلُ إلى مُبتغاهُ وأهدافه في الدنيا، والمحاربُ الذي لا ينام : هو مَن لا يزال يحاول&#160; الوصول إلى مُبتغاه. ويعطي المتنبي هنا، تقييما لحياة الإنسان، حيث الكرامة والعزة والافتخار هي حليف من لا يقبل الضيم والظلم، ويعمل على الوصول لأهداف سامية في حياته، وما عدا ذاك فالموت أهون منه.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6bbf71af-e93d-4250-aa15-02f5e92415ff",
+    "shortname": "المتنبي",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَجاعَة",
+    "شِعر"
+  ],
+  "created_at": "2010-11-27T05:14:54Z",
+  "attributes": {
+    "old_id": 233
+  },
+  "language": "ar",
+  "history": []
+}

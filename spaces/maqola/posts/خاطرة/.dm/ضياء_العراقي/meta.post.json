@@ -1,0 +1,42 @@
+{
+  "uuid": "0d33ac0f-922e-4aed-b921-e3bc4d7962b3",
+  "shortname": "ضياء_العراقي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ضياء العراقي"},
+  "updated_at": "2014-07-22T20:25:11Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:9745bef1a0bdd57ae035c93277dd11c264e7b018",
+    "bytesize": 169,
+    "body": "<span class=\"maqola_body\"> <br> &#160;من المحتمل أن تعود المياه لمجاريها, لكن غالبا لا تعود صالحة للشرب<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "97cf2260-a93e-4674-a5ff-d7a2d0a4b374",
+    "shortname": "dhia_naif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-07-22T20:25:11Z",
+  "attributes": {
+    "old_id": 909
+  },
+  "language": "ar",
+  "history": []
+}

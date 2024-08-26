@@ -1,0 +1,33 @@
+{
+  "uuid": "655c4544-174b-4542-8de8-0d2a18b167c0",
+  "shortname": "655c4544",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-03-11T16:29:18Z",
+  "author_locator": { "type": "content",
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-03-11T16:29:18Z",
+  "attributes": {
+    "old_id": 362,
+    "old_entry_id": 1098
+  },
+  "language": "en",
+  "location": {
+    "uuid": "655c4544-174b-4542-8de8-0d2a18b167c0",
+    "shortname": "655c4544",
+    "subpath": "posts/شعر",
+    "space_name": "maqola",
+    "parent_shortname": "في_القبر...._كيف_ترى_أكون",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

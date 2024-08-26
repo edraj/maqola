@@ -1,0 +1,43 @@
+{
+  "uuid": "0f403648-14d1-4ddc-8eba-e4da81aeb625",
+  "shortname": "قول_نعم",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قول نعم"},
+  "updated_at": "2010-11-07T12:38:17Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:13f4dc1f9a6a172a56e0cfb0a29201e761efb564",
+    "bytesize": 578,
+    "body": "<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">لا تَقولَنَّ إذا ما لَم تُرِدْ ... أنْ تُتِمَّ الوَعدَ فِي شَئٍ نَعم<br />\r\n\tحَسَنٌ قَولُ نَعَم مِن بَعدِ لا ... وَقَبيحٌ قَولُ لا بَعدَ نَعم<br />\r\n\tإنَّ لا بَعدَ نَعم فاحِشَةٌ ... فَبِـلا فابدأ إنْ خِفتَ النَدَم<br />\r\n\tوإذا قُلتَها فانفِذْ لَها ... بِنَجازِ الوَعدِ إنَّ الخُلفَ ذَم</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر"
+  ],
+  "created_at": "2010-10-13T22:03:18Z",
+  "attributes": {
+    "old_id": 18
+  },
+  "language": "ar",
+  "history": []
+}

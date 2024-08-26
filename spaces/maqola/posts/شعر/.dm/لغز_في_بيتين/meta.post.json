@@ -1,0 +1,43 @@
+{
+  "uuid": "44455720-82b1-466c-9939-ef37bd1d4a2c",
+  "shortname": "لغز_في_بيتين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لُغز في بيتين"},
+  "updated_at": "2013-04-07T12:31:34Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:2a095779d1e33ab74f476ba816a6493ffb099b95",
+    "bytesize": 581,
+    "body": "<span class=\"maqola_body\"> <span class=\"fonttohama\"></span><span class=\"fontsmall\"><span class=\"fonttohama\">ما المقصود بقول الشاعر :<br> </span></span><br>وباسِطَةٌ بِلا عَصَبٍ جَناحاً -- و تَسبِقُ ما يَطيرُ ولا تَطيرُ<br>إذا ألقَمتَها الحجرَ اطمأنَّت -- و تَجزَعُ إن يُلامِسُها الحَريرُ<br><br><span class=\"fonttohama\"></span><span class=\"fontsmall\"><span class=\"fonttohama\">مشاركة من الأخ \"أبو عبدالرحمن\"</span></span><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "لُغز"
+  ],
+  "created_at": "2013-04-07T12:31:20Z",
+  "attributes": {
+    "old_id": 565
+  },
+  "language": "ar",
+  "history": []
+}

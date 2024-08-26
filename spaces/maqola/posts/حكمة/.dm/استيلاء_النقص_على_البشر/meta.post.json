@@ -1,0 +1,42 @@
+{
+  "uuid": "b77935d3-7d35-4000-be70-b62daca45909",
+  "shortname": "استيلاء_النقص_على_البشر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"استيلاء النقص على البشر"},
+  "updated_at": "2010-11-01T17:33:50Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:6c031e0c893d7a7aa3677dad61d44b3af80c5a2f",
+    "bytesize": 844,
+    "body": "<p>\r\n\t<span class=\"maqola_font_bold\"><span style=\"font-size: 2em;\">يقول العماد الأصفهاني،</span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">إنّي رأيتُ أنّه ما كَتَبَ أحَدُهُم في يَومِهِ كِتاباً إلا قالَ في غَدِهِ،<br />\r\n\t<span class=\"maqola_font_bold\">لوغُيّرَ هذا لَكانَ أَحسن ولَو زُيِّدَ ذاكَ لَكانَ يُستَحسن، ولَو قُدِّمَ هذا لكانَ أفضل، ولو تُرِكَ ذاكَ لَكانَ أجمل، </span></span></span><br />\r\n\t<span style=\"font-size: 2em;\"><span class=\"maqola_font_normal\">وهذا مِن أعظَمِ العِبر، وهو دَليلٌ على استيلاءِ النّقْصِ على جُملَةِ البَشر.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "ed9ca880-440b-4282-8888-0466038a2dc7",
+    "shortname": "العماد_الأصفهاني",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-10-21T03:34:18Z",
+  "attributes": {
+    "old_id": 94
+  },
+  "language": "ar",
+  "history": []
+}

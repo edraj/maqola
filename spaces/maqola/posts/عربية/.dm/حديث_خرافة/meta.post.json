@@ -1,0 +1,46 @@
+{
+  "uuid": "ce0f53c2-1736-406e-9116-0423be57f283",
+  "shortname": "حديث_خرافة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"حديث خُرافةَ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:80c2d6ae1f53dd2c6b872cdb2857330d097933d0",
+    "bytesize": 719,
+    "body": "<p>الخُرافة الحديثُ الـمُستملح من الكذب. وقالوا : حديث خُرافةَ ، ذكر ابن الكلبي \" أنّ خُرافةَ رجل من بني عذرة ، غاب عن قبيلته زمناً ثم عاد فزعم أن الجن اختطفته ، وأنه رأى أعاجيب جعل يقصُّها عليهم ، فأكثر ، فكذَّبوه فجرى على أَلْسُنِ الناس ، فقالوا في الحديث المكذوب : ( حديث خرافة ) وقالوا فيه : ( أكذب من خرافة ) \".</p><p><br></p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .<br>تابعوني على فيسبوك : ياقوت هداه الله</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عربية",
+    "فَصاحَة",
+    "قَدح",
+    "لُغة عربيّة",
+    "مَثَل",
+    "مَدح"
+  ],
+  "created_at": "2015-08-04T02:07:46Z",
+  "attributes": {
+    "old_id": 1462
+  },
+  "language": "ar",
+  "history": []
+}

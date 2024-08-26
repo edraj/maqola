@@ -1,0 +1,29 @@
+{
+  "uuid": "4f65fb8d-9079-46f2-b391-bcb9d87053f5",
+  "shortname": "تصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:08c32d128c79cf3da24d123e29d1eb743f8455f9",
+    "bytesize": 526,
+    "body": "الخطأ: و دارٌ خَرابٌ بِها قَد نَزَلتُ الصواب: و دارٍ خَرابٍ بِها قَد نَزَلتُ   الواو هي واو ربَّ   الخطأ: فَلا فَرقَ ما بَين أنْ  -- أكونَ بِها أو أكونَ في القَارِعَة الصواب: فلا فرق ما بين أني أكو   --------- ن بها أو أكون على القارعة   الخطأ: خَشيتُ أنْ تَقرأ الواقعه الصواب: خَشيتُ بأنْ تَقرأ الواقعة"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-29T08:59:37Z",
+  "attributes": {
+    "old_id": 234,
+    "old_entry_id": 257
+  },
+  "language": "ar"
+}

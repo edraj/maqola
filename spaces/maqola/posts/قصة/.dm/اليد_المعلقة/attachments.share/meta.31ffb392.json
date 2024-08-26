@@ -1,0 +1,33 @@
+{
+  "uuid": "31ffb392-29d7-4629-9145-25109f0f12c0",
+  "shortname": "31ffb392",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2013-07-31T19:06:26Z",
+  "author_locator": { "type": "content",
+    "uuid": "ba6f8a88-d2b2-41e3-8672-127d2a00bb42",
+    "shortname": "امجد_المحجوب_الزناجحة",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2013-07-31T19:06:26Z",
+  "attributes": {
+    "old_id": 56,
+    "old_entry_id": 652
+  },
+  "language": "en",
+  "location": {
+    "uuid": "31ffb392-29d7-4629-9145-25109f0f12c0",
+    "shortname": "31ffb392",
+    "subpath": "posts/قصة",
+    "space_name": "maqola",
+    "parent_shortname": "اليد_المعلقة",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

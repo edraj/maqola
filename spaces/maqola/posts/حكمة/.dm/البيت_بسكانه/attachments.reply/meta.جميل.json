@@ -1,0 +1,29 @@
+{
+  "uuid": "7e213a52-f41c-4081-8d2c-cda88333a815",
+  "shortname": "جميل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"جميل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:83291cf617d3c0bfc85731da1c201763343cee8e",
+    "bytesize": 58,
+    "body": "ما اشبه هذا المثل بكثير منا الان"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-06-08T05:28:39Z",
+  "attributes": {
+    "old_id": 463,
+    "old_entry_id": 481
+  },
+  "language": "ar"
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "bb2bfa9e-f9f8-44ad-98f5-c8339061fe7d",
+  "shortname": "الكتمان",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الكتمان"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:fbdcfbc720b4d18b57115654385048b4fafa7f01",
+    "bytesize": 351,
+    "body": "الصمت ثم الصمت ثم الصمت  والصبر ثم الصبر ثم الصبر وكتمانك للسرك دون افشاء سرك يكون افضل واذا اردت ان تفشي سرك لاحد فالله الواحد الاحد فهو المتكفل بعباده وهو كاشف الضر  وما بعد العسر الا يسر باذنه"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-06-21T07:44:34Z",
+  "attributes": {
+    "old_id": 650,
+    "old_entry_id": 547
+  },
+  "language": "ar"
+}

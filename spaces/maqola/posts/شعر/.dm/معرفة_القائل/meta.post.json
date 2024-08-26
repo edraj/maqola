@@ -1,0 +1,42 @@
+{
+  "uuid": "5e75b0de-05ec-49b1-bd65-7aee029cad60",
+  "shortname": "معرفة_القائل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"معرفة القائل"},
+  "updated_at": "2014-01-21T04:02:38Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bbfee2f87a2a482812cd8087f2c69b8dcb80284a",
+    "bytesize": 278,
+    "body": "<span class=\"maqola_body\"> <br> ذُنُوْبِي مِثْلُ اَعْدَادِ\r\nالرِّمَالِ ... فَهَبْ لِي تَوْبَةً يَا ذَا الْجَلالِ<br>من هو قائل هذا الكلام وفي اي كتاب ارجو الاجابة<br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "7925e270-76c4-4a15-9d8d-796cfda7fcd7",
+    "shortname": "abdul_aziz_mohamad",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2014-01-21T04:02:38Z",
+  "attributes": {
+    "old_id": 740
+  },
+  "language": "ar",
+  "history": []
+}

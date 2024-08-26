@@ -1,0 +1,42 @@
+{
+  "uuid": "eff176ff-c3a9-4cbd-8314-57d6e2414a40",
+  "shortname": "الشاعر_الحقيقي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الشاعر الحقيقي"},
+  "updated_at": "2013-04-26T21:04:22Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e62fd41d41ac69e60e2188cd7e8b0013f6413165",
+    "bytesize": 1279,
+    "body": "<span class=\"maqola_body\"> <br> الشاعر الحقيقي ... <br> <br>\r\n الشاعر الحقيقي: هو الذي إن حزن أبكاك حتى تبلَّ لحيتَك، وإن فرح أضحكك \r\nحتى تبدوَ نواجذُك، وإن طرقَ الأملُ بابَه أوهمك أنك ستطأُ القمرَ \r\nمستقبلاً، وصوَّرَ أيامَكَ الآتيةَ درجاتِ سلَّمٍ يصل بين يومك هذا واليوم \r\nالذي ستطأ فيه القمر، وإنْ جُنَّ عليه ليلُ اليأسِ والقنوط، جعل مستقبلك \r\nقاعَ جبٍّ، وشبَّهَ أيامَك بمِطْرَقةٍ عظيمةٍ يحملها الدهرُ بكلتا يديه، \r\nيوشك أن يضربَك بها على رأسِك فتخرَّ في سابع أراضين، وإن أحبَّ حولاءَ \r\nأراكها حوراءَ، وإن هجرتْه زعمَ أن بلديَّةَ الرئتين قد قطعت الكهرباء عن \r\nقلبه المحبِّ.<br> <br> ألا لله درُّ الشعراء الحقيقيين ... قد عزَّ وجودُهم ..<br> <br> <a href=\"https://www.facebook.com/YAZANABUALBASSAM?ref=stream&amp;group_id=0\">الشاعر أبو البسام التميمي يزن أبورميلة</a><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "2d44d18e-01d7-4f15-8cea-aa4fc64edf75",
+    "shortname": "أبو_البسام_يزن_التميمي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قِصّة"
+  ],
+  "created_at": "2013-04-26T21:04:22Z",
+  "attributes": {
+    "old_id": 586
+  },
+  "language": "ar",
+  "history": []
+}

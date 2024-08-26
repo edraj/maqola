@@ -1,0 +1,43 @@
+{
+  "uuid": "30076c5d-4436-49aa-afdd-f0e78e562231",
+  "shortname": "الشهيد",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الشهيد"},
+  "updated_at": "2010-11-02T12:29:57Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:82d065f72cfd4a1f4f70652d40e78f63283a352f",
+    "bytesize": 1131,
+    "body": "<p>\r\n\t<span class=\"maqola_font_normal\"><span style=\"font-size: 2em;\">عَبَسَ الخَطبُ فابتَسَم - و طَغى الهَولُ فاقتَحَم<br />\r\n\tرابِطُ الجأشِ و النُهى - ثابِتُ القَلبِ و القَدَم<br />\r\n\tلَم يُبالي الأذى و لَم - يُثنِهِ طارِئُ الألم<br />\r\n\tنَفسُهُ طَوعُ هِمَّةٍ - وجَمَت دُونَها الهِمَم<br />\r\n\tتَلتَقي في مَزاجِها - بالأعاصيرِ والحِمَم<br />\r\n\tتَجمَعُ الهائِجَ الخِضَم - إلى الراسِخِ الأشم<br />\r\n\tوهي مِن </span></span><span class=\"maqola_font_normal\"><span style=\"font-size: 2em;\">عُنصُرِ </span></span><span class=\"maqola_font_normal\"><span style=\"font-size: 2em;\">الفِدا - و مِن</span></span><span class=\"maqola_font_normal\"><span style=\"font-size: 2em;\"> جَوهَر</span></span><span class=\"maqola_font_normal\"><span style=\"font-size: 2em;\">ِ الكَرَم<br />\r\n\tو مِن الحَقِّ جَذوَةٌ - لَفحُها حَرّرَ الأُمَم</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "7183331c-6061-4986-abd8-2b3491eb1e72",
+    "shortname": "إبراهيم_طوقان",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَجاعَة",
+    "شِعر"
+  ],
+  "created_at": "2010-10-13T15:56:18Z",
+  "attributes": {
+    "old_id": 12
+  },
+  "language": "ar",
+  "history": []
+}

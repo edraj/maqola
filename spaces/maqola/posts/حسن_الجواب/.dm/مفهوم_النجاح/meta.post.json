@@ -1,0 +1,42 @@
+{
+  "uuid": "12126463-5c13-4dfe-a61c-e38adfa3b443",
+  "shortname": "مفهوم_النجاح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مفهوم النجاح"},
+  "updated_at": "2014-05-12T09:38:54Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:64ba5c6a04bcb056cbc667343f90fef3b07dff42",
+    "bytesize": 441,
+    "body": "<span class=\"maqola_body\"> <br> <p></p><div><div><div><span>قيل لمصطفى صادق الرافعي: ما هي وصيتُكَ، إذا حضرتكَ الوفاةُ؟<br>فقال: هي تكرارُ المبدأ الذي وضعتُه لأولادي: „النجاحُ لا ينفعنا، بل ينفعنا الامتيازُ في النجاح“.</span><p></p></div></div></div><p></p><form><div><div><p></p></div></div></form><br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "744cab76-46e0-40d8-930c-62b557f4b21f",
+    "shortname": "yaḥyā_fatḥȳ",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب"
+  ],
+  "created_at": "2014-05-12T09:38:23Z",
+  "attributes": {
+    "old_id": 883
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "a02e1932-3f6c-4739-8f9a-f19281cd4b7f",
+  "shortname": "أيـها_الريح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"أيـها الريح"},
+  "updated_at": "2013-12-02T18:15:03Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:336c1ad1e249690e8e44c2813f48c357eb9b3488",
+    "bytesize": 379,
+    "body": "<span class=\"maqola_body\"> <br> وهج أيها الريح أجل ولـكنها هي حبي وتعلالي ويأسي هي في الغيب خلقت لي وعلي موعدها أضبظ عيني وعلي تذكارها وسدت رأسي  </span><div><span class=\"maqola_body\"><br></span></div><div><span class=\"maqola_body\">بن الصعيد/محمد الاسيوطي</span></div>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "056dbf25-7ff1-493c-8d96-0055e5f1416e",
+    "shortname": "mohammed_ali",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شَجاعَة"
+  ],
+  "created_at": "2013-12-02T18:15:03Z",
+  "attributes": {
+    "old_id": 725
+  },
+  "language": "ar",
+  "history": []
+}

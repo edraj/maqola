@@ -1,0 +1,45 @@
+{
+  "uuid": "25010781-9105-4fa4-8460-ea0aa4c806d5",
+  "shortname": "كيف_ولي_إياس_بن_معاوية_القضاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"كيفَ ولي إياسُ بن معاويةُ القضاءَ"},
+  "updated_at": "2011-08-19T09:27:01Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:780a96bf6b8fafce972e84057cb0ca21d4de3186",
+    "bytesize": 1061,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">قَدّمَ إياسُ بن معاويةُ شَيخاً إلى قاضي دمشق، وكان إياسُ يومئذٍ غُلاماً أمرداً.<br />\r\n\tفقال له القاضي: ما تَستَحي؟ تُقدِّمُ شَيخاً كبيراً إلى القضاء؟<br />\r\n\tقال إياس : الحقُّ أكبرُ مِنهُ؟<br />\r\n\tقال : ما أظُنُّكَ يا غُلامُ إلا ظالماً؟<br />\r\n\tقال : ما على ظَنِّكَ خَرَجتُ مِن أهلي.<br />\r\n\tقال : اسكت!<br />\r\n\tقال : فَمَن يَنطِقُ بِحُجَّتي إذاً؟<br />\r\n\tقال : ما أظُنُّكَ تقول في مَجلِسكَ هذا حَقاً.<br />\r\n\tقال : أشهدُ أنّ لا إله إلا الله.<br />\r\n\t<br />\r\n\tفبلغَ ذلك الخليفةَ عبدُالملك بن مروان، فعزل القاضي وولّاه وهو يومئذٍ غُلام.<br />\r\n\t<br />\r\n\tمِن كتاب &quot;المُستجادُ من فعلات الأجواد&quot; للتَنوخي.</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "فَصاحَة",
+    "قِصّة"
+  ],
+  "created_at": "2011-08-19T09:27:01Z",
+  "attributes": {
+    "old_id": 510
+  },
+  "language": "ar",
+  "history": []
+}

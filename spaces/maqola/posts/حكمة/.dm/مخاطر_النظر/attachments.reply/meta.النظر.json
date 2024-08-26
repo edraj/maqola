@@ -1,0 +1,29 @@
+{
+  "uuid": "33048e43-c845-4795-a06b-068c19de5ea9",
+  "shortname": "النظر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"النظر"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:99d7e09230cbe3155028a6e433dc536dd61f7ae0",
+    "bytesize": 275,
+    "body": "                               قديما قالوا  :   \\\" العين بريد القلب  \\\" .   جزاك الله  خيرا على تعبك المضني في  صيانة هذه  الحديقة الغناء (الموقع).                    مـصـطـفــــــور"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-06-07T16:59:44Z",
+  "attributes": {
+    "old_id": 462,
+    "old_entry_id": 189
+  },
+  "language": "ar"
+}

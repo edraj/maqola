@@ -1,0 +1,45 @@
+{
+  "uuid": "3840eaee-d716-4642-8e25-97b86df5d454",
+  "shortname": "قل__تناولت_السحور__لا_السحور_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"قُلْ: تناولتُ (السَّحور)، لا (السُّحور)"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:705ea8aea6990b1f198be39412c06263338bf507",
+    "bytesize": 1160,
+    "body": "<p>\r\nقُلْ: \r\n\t<span style=\"color: rgb(118, 146, 60);\">تَنَاوَلتُ السَّحُور</span>.\r\n</p>\r\n<p>\r\nولا تَقُلْ: \r\n\t<span style=\"color: rgb(192, 80, 77);\">تَنَاوَلتُ السُّحُور</span>.\r\n</p>\r\n<p>\r\n\tلأنَّ السَّحُورَ: طَعَامُ السَّحَرِ وشَرَابُهُ.\r\n</p>\r\n<p>\r\n\tقَالَ ابْنُ الأَثيْرِ: السَّحُورُ \r\n\t<span style=\"color: rgb(54, 96, 146);\">بالفَتْحِ </span>اسمُ ما يُتَسَحَّرُ بِهِ من الطَّعَامِ والشَّرَابِ، أمَّا <span style=\"color: rgb(54, 96, 146);\">بالضَّمِّ </span>فَهُوَ مَصْدَرُ الفِعْلِ نَفْسَهُ:\r\n\t<br>\r\n\tسَحَرَ يَسْحَرُ سَحُوْراً.\r\n</p>\r\n<p>\r\n\tقَالَ رَسُوْلُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \t\"تَسَحَّروا فَإنَّ في السَّحُوْرِ بَرَكَةً\".\r\n</p>\r\n<p>\r\n\t\t<br>\r\n</p>\r\n<p>\r\n_________________\r\n\t<br>\r\n\t<small data-redactor-tag=\"small\">\r\n\tالمَصْدَرُ: لِسَانُ العَرَبِ لابنِ مَنْظُور\r\n\t</small>\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حَديثٌ شَريف",
+    "عربية",
+    "فَصاحَة",
+    "قاعدة أصولية",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-06-23T21:22:42Z",
+  "attributes": {
+    "old_id": 1352
+  },
+  "language": "ar",
+  "history": []
+}

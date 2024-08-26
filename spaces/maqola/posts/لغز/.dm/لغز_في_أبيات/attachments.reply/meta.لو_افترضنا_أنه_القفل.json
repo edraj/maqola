@@ -1,0 +1,29 @@
+{
+  "uuid": "477f521e-4502-46c6-ba10-d93ea5a570df",
+  "shortname": "لو_افترضنا_أنه_القفل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لو افترضنا أنه القفل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:aba2f3af7f044b9d605f5bb1b94e06fe5c459499",
+    "bytesize": 56,
+    "body": "كيف يُنحِلُ البَردُ جسم القفل؟"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-06-26T13:39:48Z",
+  "attributes": {
+    "old_id": 482,
+    "old_entry_id": 487
+  },
+  "language": "ar"
+}

@@ -1,0 +1,1 @@
+{"type": "object", "title": "title", "properties": {"governorate_shortnames": {"type": "array", "items": {"type": "string"}}}}

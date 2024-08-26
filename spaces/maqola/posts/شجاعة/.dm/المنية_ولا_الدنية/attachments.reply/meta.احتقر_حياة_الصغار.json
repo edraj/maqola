@@ -1,0 +1,29 @@
+{
+  "uuid": "dec2183b-0ce9-4338-b6be-ec74076ca836",
+  "shortname": "احتقر_حياة_الصغار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"احتَقَرَ حَياةَ الصِغارِ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:bbd2ec54c1125933d07971fad442a758ebf98822",
+    "bytesize": 390,
+    "body": "هنا كلمة الصغار مشكولة خطأ احتَقَرَ حَياةَ الصِغارِ وصواب التشكيل الصَغار بفتح الصاد وهي من الذل -- أظنك أخي كفاح تستعمل تشكيل جوجل فهو وإن كان جيدا لا بد من مراجعته فلا تعلم متى يعطيك تشكيلا يقلب المعنى رأسا على عقب"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-12-24T23:00:00Z",
+  "attributes": {
+    "old_id": 349,
+    "old_entry_id": 255
+  },
+  "language": "ar"
+}

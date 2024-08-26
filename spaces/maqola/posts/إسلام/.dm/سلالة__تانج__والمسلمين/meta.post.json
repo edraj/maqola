@@ -1,0 +1,52 @@
+{
+  "uuid": "d727b910-f9b8-4df3-b520-d7fabfae1be1",
+  "shortname": "سلالة__تانج__والمسلمين",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"سلالة ( تانج ) والمسلمين"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:4036b1381f8c00832fb7dd3b0b52497901971585",
+    "bytesize": 534,
+    "body": "<p>كانت سلالة ( تانج ) من أقوى الأسر التي حكمت الصين ، وكان الإمبراطور ( زوان زونج ) أقوى حكامها ، وقد هزمه المسلمون هزيمة مدوية في معركة ( طالاس ) 96 هـ / 751 م ، أدت المعركة لتدمير جيش الصين تماما ، وما أثار إستغراب المؤرخين ، أن المسلمين لم يفتحوها بل توقفوا عند التخوم الغربية للإمبراطورية الصينية .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "تَفاؤل",
+    "ذَكاء",
+    "سِياسَة",
+    "شَجاعَة",
+    "عربية",
+    "فَصاحَة",
+    "قِصّة",
+    "كَرَم",
+    "لُغة عربيّة",
+    "مَدح",
+    "مَعروف"
+  ],
+  "created_at": "2015-04-11T20:57:26Z",
+  "attributes": {
+    "old_id": 1159
+  },
+  "language": "ar",
+  "history": []
+}

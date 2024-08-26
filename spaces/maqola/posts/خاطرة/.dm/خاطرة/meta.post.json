@@ -1,0 +1,42 @@
+{
+  "uuid": "bd2182b3-e15e-4508-b6e6-f480d538f09a",
+  "shortname": "خاطرة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"خاطرة"},
+  "updated_at": "2014-07-16T07:53:27Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:886fd4e896cfa84afd293b03a8aa47ecb3769250",
+    "bytesize": 99,
+    "body": " <br> أنا شخص أُمٍي لكنني أقرأ كثيراً. &#160; ( ضياء ابراهيم )"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2014-07-16T07:53:27Z",
+  "attributes": {
+    "old_id": 903
+  },
+  "language": "ar",
+  "history": []
+}

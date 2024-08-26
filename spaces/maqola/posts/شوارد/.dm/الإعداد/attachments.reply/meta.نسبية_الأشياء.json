@@ -1,0 +1,29 @@
+{
+  "uuid": "9b5afe4a-8d68-43e3-aa59-7ca9ee1f66cd",
+  "shortname": "نسبية_الأشياء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"نسبيّة الأشياء"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ca9b504617d53354cef30ba5e988d0e6ded6bed1",
+    "bytesize": 298,
+    "body": "ما تراه صعبا يراه غيرك سهلا وما تراه سهلا يراه غيرك صعبا..هل هذه النسبية راجعة إلى الذات المدركة أم إلى طبيعة الموضوع المدرَك..هنا يكمن النقاش من خلال هذه الإشكالية\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "21327be8-3be7-4ee1-96a6-d33a91a12be9",
+    "shortname": "abdenacer_bencherif",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-06-04T22:22:16Z",
+  "attributes": {
+    "old_id": 881,
+    "old_entry_id": 1324
+  },
+  "language": "ar"
+}

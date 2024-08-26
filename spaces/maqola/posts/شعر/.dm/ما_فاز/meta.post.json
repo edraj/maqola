@@ -1,0 +1,41 @@
+{
+  "uuid": "6b33fd37-abd1-49ef-84b7-ce080e8dd86d",
+  "shortname": "ما_فاز",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ما فَاز"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:d040136ac49f1b1bd926d389b25ba65113d9d8fc",
+    "bytesize": 1263,
+    "body": "<p>ما فَاز ..!ما فاز من سفك الدماء وأهدراوعلى الجماجم والضلوع تبخترا</p><p>ما فاز من أعطى الضياع زمامه<br>مهما ادعى فوزاً ومهما أظهرا</p><p><br><br>هل فاز فرعون الذي جعل الهوى<br>ربّاً وأسرف في الضلال وأنكرا؟</p><p><br><br>هل فاز من فتكوا بناقة صالح<br>مَن كان أصغرَ منهمُ أو أكبرا؟</p><p><br><br>هل فاز نمرودُ اللعينُ وجيشُه<br>أم صار من بعد التطاول أحقرا؟</p><p><br><br>يلقى الطغاةُ نهايةً مشؤومةً<br>في يومِ نحسٍ قَمْطَريرٍ أغبَرا</p><p><br><br>إن الذي قتل الحقائقَ مُقْبِلاً<br>هو من ستطرده الحقائق مُدْبِرا</p><p><br><br>دع عنك ذا سينين تركض خلفها<br>معقوفتان من الحروف لمن يرى</p><p><br><br>قد يُمهل اللهُ العبادَ لحكمةٍ<br>تخفى ويغفل عن حقيقتها الورى</p><p><br><br>قل للذي خدعته قدرةُ ظالمٍ<br>لا تنسَ أن اللهَ يبقى الأقدرا</p><p><br></p><p>د.عبدالرحمن العشماوي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "15d34541-3bed-4775-887b-b73a43598f8e",
+    "shortname": "فيصل_الوليدي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2015-02-07T21:06:06Z",
+  "attributes": {
+    "old_id": 999
+  },
+  "language": "ar",
+  "history": []
+}

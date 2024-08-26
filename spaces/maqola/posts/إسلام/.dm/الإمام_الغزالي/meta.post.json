@@ -1,0 +1,42 @@
+{
+  "uuid": "7458ca1f-6cf5-4bc3-9e1f-56c21c815b0d",
+  "shortname": "الإمام_الغزالي",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الإمام الغزالي"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:98ecdbb293d550d80dc8a5ba770626639eb597e0",
+    "bytesize": 119,
+    "body": "<p>«ما أَشَدَّ العَيشَ مَعَ الأَحياءِ والإِقتِداءَ بالأَمواتِ»</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "363bcd99-61c3-449c-ba2b-fd7d0d21b015",
+    "shortname": "hamzah_m._rababa_h",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة"
+  ],
+  "created_at": "2015-12-18T12:42:36Z",
+  "attributes": {
+    "old_id": 1559
+  },
+  "language": "ar",
+  "history": []
+}

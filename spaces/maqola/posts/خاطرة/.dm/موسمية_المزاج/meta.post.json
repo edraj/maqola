@@ -1,0 +1,43 @@
+{
+  "uuid": "0361c23d-70af-4175-94c6-fa4dc36ba2c3",
+  "shortname": "موسمية_المزاج",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مَوْسِميةَ المِزَاْجْ"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:13f6c071f5787d81eafce58430b126e2e5d6917a",
+    "bytesize": 650,
+    "body": "<p>كـَ رَبِيْــع مُتأخّر يَأتِــيْ بِمَــا تَبقّىْ مِنْ عِطْرُكِـ ،<br> يَخْلُدُ إلْى قَطَرات النَدْى ، لـِ يُعَانِقْ حَاْء الرُوحْ ،<br> وَيَرْنُو وتَرْنِيمَةُ عِشْقٍ لـِ سَنْــا  طَرْفكِـ ..<br> يـَـا مَوْسِميةَ المِزَاْجْ ..<br> أَعْلَم أَنّ عَيْنَ السَمَاْء تَنْظُرْ  ..<br> وَأَشْتَاقُ غُروْراً  يَخْتَـالُ ثقـةً ،<br> يُحَدْثُكِ  بـِ وَصَاْيَا آبْ ..<br><br>بيسار</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "e2259d12-baee-4bc8-b676-646a465b920f",
+    "shortname": "p_sar_palstine",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة",
+    "عربية",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-19T14:09:08Z",
+  "attributes": {
+    "old_id": 1032
+  },
+  "language": "ar",
+  "history": []
+}

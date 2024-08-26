@@ -1,0 +1,46 @@
+{
+  "uuid": "33f7db6e-1c27-4b5a-8e89-6b3e98e752a5",
+  "shortname": "من_أقوال_هلال_بن_العلاء",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"من أقوال هلال بن العلاء"},
+  "updated_at": "2014-02-03T10:40:30Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5775a7d126c2ceef7f08f49711d51a1ad4495044",
+    "bytesize": 387,
+    "body": "<p></p><div><div>قالَ هلالُ بنُ العلاءِ:<br> سَيبلى لسانٌ كانَ يُعْربُ لفظَه=فيا ليتَه في وقْفَةِ العَرْض يَسلمُ<br> وما يَنفعُ الإِعرابُ إِن لم يكنْ تُقَى=وما ضرَّ ذا التقوَى لسانٌ معجَمُ<p></p></div></div><span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "شِعر",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2014-02-03T10:40:25Z",
+  "attributes": {
+    "old_id": 776
+  },
+  "language": "ar",
+  "history": []
+}

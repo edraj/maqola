@@ -1,0 +1,42 @@
+{
+  "uuid": "ca4f91e6-6121-4900-845d-9f390fb0724b",
+  "shortname": "شعر",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"شعر"},
+  "updated_at": "2013-07-26T01:16:16Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7cbd947d5c25673b44e023a97eab7a72ba1072c6",
+    "bytesize": 136,
+    "body": "<span class=\"maqola_body\"> <br> ثناءُ الجاهلين عليك ذمُّ ... وذمُّهمُ عليك هو الثناءُ  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "806bbdf1-0c72-4fa8-805f-d0c2ba0e39df",
+    "shortname": "أبو_عبد_الملك",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر"
+  ],
+  "created_at": "2013-07-26T01:16:16Z",
+  "attributes": {
+    "old_id": 646
+  },
+  "language": "ar",
+  "history": []
+}

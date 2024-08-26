@@ -1,0 +1,50 @@
+{
+  "uuid": "46392d39-85c4-4c8a-97c1-38790b60bccf",
+  "shortname": "الى_طريق_الله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الى طريق الله"},
+  "updated_at": "2014-02-01T11:54:36Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e7aa9b6fb58424a118b2cc503896619343e6b29a",
+    "bytesize": 357,
+    "body": "إنْ كُنْتُ فِي آلطّريقِ إلَى الله فَاركُض ،<br> وإنْ صَعُبَ عَليكَ فَهَرولْ ،<br> وإنْ تَعبت فَامشِى ،<br> وَإنْ لَم تَسْتَطع كُل هَذا فَسر وَلو حَبواً ،<br> ولكن إياكَ والرجوع ...<span class=\"maqola_body\"> <br> <br>  </span>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حِكمَة",
+    "خاطِرة",
+    "ذَكاء",
+    "شِعر",
+    "فَخر",
+    "فَصاحَة",
+    "قَناعَة",
+    "مَثَل"
+  ],
+  "created_at": "2014-02-01T11:54:31Z",
+  "attributes": {
+    "old_id": 754
+  },
+  "language": "ar",
+  "history": []
+}

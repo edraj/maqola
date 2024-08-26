@@ -1,0 +1,42 @@
+{
+  "uuid": "d2837d18-f764-4338-a28a-86181b0b66cb",
+  "shortname": "الحمد_لله",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الحمد لله"},
+  "updated_at": "2010-11-08T08:46:44Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:faf65ced1923856fea8fb21914fb80d99e182e22",
+    "bytesize": 742,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">قال سَرّي السَقطي، وكان أوحَدَ زَمانِهِ في الوَرَعِ وعُلومِ التَّوحيدِ: ‏ ‏ مُنذُ ثَلاثينَ سَنة وأنا في الاستِغفارِ مِن قَولي مَرةً: الحَمدُ للّه. ‏ ‏ قيل لَه: وكَيفَ ذلك ؟ ‏ ‏ قال: وَقَعَ بِبغدادَ حَريقٌ، فاستَقبَلَني واحِدٌ وقال: نَجا حانوتُك! ‏ ‏ فَقُلت: ‏ ‏ الحَمدُ للّه!‏ ‏ فأنا نادِمٌ مِن ذلك الوَقتِ حَيثُ أردتُ لِنَفسيَ خَيراً مِن دُونِ النّاس. ‏ </span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة"
+  ],
+  "created_at": "2010-10-17T14:01:58Z",
+  "attributes": {
+    "old_id": 32
+  },
+  "language": "ar",
+  "history": []
+}

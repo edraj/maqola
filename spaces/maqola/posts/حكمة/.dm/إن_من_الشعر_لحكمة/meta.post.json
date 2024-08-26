@@ -1,0 +1,44 @@
+{
+  "uuid": "98a9f492-71ec-46fe-a823-cd51deceaf15",
+  "shortname": "إن_من_الشعر_لحكمة",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إنَّ مِنَ الشِّعْرِ لَحِكْمَةً"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:328b49c79aa998e59427024392396532dc58bebf",
+    "bytesize": 265,
+    "body": "<p>\r\n\tقَالَ الشَّاعِرُ:\r\n</p>\r\n<p>\r\n\tخَيْرُ الْكَلَامِ قَلِيلٌ ... عَــلَىٰ كَثِيرِ دَلِيـلِ!<br>\r\n\tوالعِّيُّ مَعْنًى قَصِيرٌ ... يَحْويهِ لَفْظٌ طَوِيلُ!\r\n</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "956d0dee-80b7-4cca-ba95-381f3e6da37d",
+    "shortname": "محمد_عنيني",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "شِعر",
+    "قاعدة أصولية",
+    "مَثَل"
+  ],
+  "created_at": "2015-06-28T11:08:30Z",
+  "attributes": {
+    "old_id": 1358
+  },
+  "language": "ar",
+  "history": []
+}

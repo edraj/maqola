@@ -1,0 +1,41 @@
+{
+  "uuid": "63185482-6582-4d9a-be3a-dcd7380e8584",
+  "shortname": "صدر_محب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"صدر محب"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:df8da0b637ef90e7af18a73c0710dbd1837a89fc",
+    "bytesize": 389,
+    "body": "<p>صدر محب</p><p><br><br><br>.</p><p><br><br><br>.</p><p><br><br><br> </p><p><br><br><br>قالت له :- أين تجد الأنثى الراحة بحق ؛ ابتسم<br>وقال لها :- حين تضع رأسها على صدر رجل محب لها بصدق .</p><p><br><br><br>.</p><p><br><br><br>.</p><p><br><br><br>من واقع الحياة بقلم احسان الصالحي</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "675ade74-78d4-48da-926c-c8feb4a638c5",
+    "shortname": "احسان_الصالحي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "خاطِرة"
+  ],
+  "created_at": "2015-09-29T11:51:33Z",
+  "attributes": {
+    "old_id": 1519
+  },
+  "language": "ar",
+  "history": []
+}

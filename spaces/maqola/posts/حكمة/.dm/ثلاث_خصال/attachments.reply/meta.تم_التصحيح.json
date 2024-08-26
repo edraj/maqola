@@ -1,0 +1,29 @@
+{
+  "uuid": "53ef6691-2267-4e06-80d7-709a32890869",
+  "shortname": "تم_التصحيح",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"تم التصحيح"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:428e05ce7267c22e9bb940c171fc904aa571080e",
+    "bytesize": 129,
+    "body": "وعليكم السلام ورحمة الله ، تم التصحيح، مع جزيل الشكر لك أخي طالب. - كفاح."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2010-11-20T17:12:50Z",
+  "attributes": {
+    "old_id": 110,
+    "old_entry_id": 48
+  },
+  "language": "ar"
+}

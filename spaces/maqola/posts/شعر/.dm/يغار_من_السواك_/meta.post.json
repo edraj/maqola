@@ -1,0 +1,43 @@
+{
+  "uuid": "ff56732e-4505-4007-b906-5b0dfcc19414",
+  "shortname": "يغار_من_السواك_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"يَغارُ من السِواك ،"},
+  "updated_at": "2010-11-28T11:43:32Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:47496742631fd4a11d6e53487b4cbfd7e8a0bd66",
+    "bytesize": 703,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">هُنِّئتَ يا عُودَ الأراكِ بِثَغرِها -- ما خِفتَ يا عُودَ الأراكِ أراكَ؟<br />\r\n\tلَو كانَ غَيرُكَ يا سِواكُ قَتَلتُهُ -- ما فرَّ مِنّي يا سِواكُ سِواكَ</span></p>\r\n<p>\r\n\t<span style=\"font-size: 1em;\"><span style=\"font-family: Tahoma,Geneval,sans-serif;\">الأراك هو شجرة الأراك ومِنها يُعمَل السواك. والشاعر يحادث السواك الذي تستاك به من يُحبها. و أنّه لشدة غيرته عليها، لم يسمح سوى لعود الأراك بأن يقترب منها.</span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "غَزَل"
+  ],
+  "created_at": "2010-11-28T11:37:20Z",
+  "attributes": {
+    "old_id": 246
+  },
+  "language": "ar",
+  "history": []
+}

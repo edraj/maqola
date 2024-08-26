@@ -1,0 +1,29 @@
+{
+  "uuid": "f6f927a6-5a01-45ab-b12e-a4f5a7cc9301",
+  "shortname": "بوركت",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بوركت"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:76ef9c1e0e7165dd3471bbda34a8f643bbc180e4",
+    "bytesize": 61,
+    "body": "بارك الله فيك على هذا البحث القيم."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "6faadbc4-996b-4a22-8661-0616acbde734",
+    "shortname": "nasreddine_cheniki",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-05-01T14:51:33Z",
+  "attributes": {
+    "old_id": 855,
+    "old_entry_id": 1207
+  },
+  "language": "ar"
+}

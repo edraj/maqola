@@ -1,0 +1,46 @@
+{
+  "uuid": "0572f9cd-4714-4779-9ef1-412fa69685ec",
+  "shortname": "احمد_كامبو",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"احمد كامبو"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:638f14a776eae3485e82b1cc842ddd2f06560c46",
+    "bytesize": 88,
+    "body": "<p>لحظات ‫#‏البكاء‬  فقط .. قد تغنى عن الف تعبير</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "63829d59-b4b3-4b3f-9cfa-cf813943f55e",
+    "shortname": "kemo_kemo",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "خاطِرة",
+    "شَوارِد",
+    "فَصاحَة",
+    "قاعدة أصولية",
+    "مَثَل"
+  ],
+  "created_at": "2015-05-03T00:15:49Z",
+  "attributes": {
+    "old_id": 1233
+  },
+  "language": "ar",
+  "history": []
+}

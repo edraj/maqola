@@ -1,0 +1,29 @@
+{
+  "uuid": "c7b9e17c-c6a8-4390-b486-933783850c86",
+  "shortname": "معاني",
+  "is_active": false,  "owner_shortname": "dmart",
+  "displayname":{"ar":"معاني"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:0ab66964e7c2db34faf13d0fe4e1a7494fe9b848",
+    "bytesize": 339,
+    "body": "انعل ابوك لابو العلمك هكذا شرح.. هند ام العيوره   تترضه عليه.. وازب عليك وعله عمر وعله عثمان وعلى ابو بكر الزنديق… .تفو عليك وعلى دينك الي تخترعه انته ما اله اي صله بالاسلام يا حفات العقول… "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "913988cd-0e76-4c79-9c49-556bec4c4b70",
+    "shortname": "ملك_عل_كل",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2015-06-02T10:49:57Z",
+  "attributes": {
+    "old_id": 880,
+    "old_entry_id": 118
+  },
+  "language": "ar"
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "a255775a-c401-4ad2-86ca-bc47c48b72f9",
+  "shortname": "a255775a",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-03-22T21:50:50Z",
+  "author_locator": { "type": "content",
+    "uuid": "240f763f-62d4-4984-becf-004014e9f6ce",
+    "shortname": "hani_zein",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-03-22T21:50:50Z",
+  "attributes": {
+    "old_id": 386,
+    "old_entry_id": 1124
+  },
+  "language": "en",
+  "location": {
+    "uuid": "a255775a-c401-4ad2-86ca-bc47c48b72f9",
+    "shortname": "a255775a",
+    "subpath": "posts/شعر",
+    "space_name": "maqola",
+    "parent_shortname": "اختر_لنفسك",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

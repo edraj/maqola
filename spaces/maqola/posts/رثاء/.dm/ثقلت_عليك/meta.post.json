@@ -1,0 +1,45 @@
+{
+  "uuid": "264f4e29-c5d0-4531-9a6b-c5c8e8ef5462",
+  "shortname": "ثقلت_عليك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"ثقلت عليك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:5f98b16f2c5744355ed3668d8b93a2a41aecb1ec",
+    "bytesize": 134,
+    "body": "<p>ثقلت عليك مؤونتي  إني أراها واهية <br><br> فافرح فإني ذاهب  متوجه في داهية </p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "dc87bd55-325c-4b0f-8af4-df53bfb3abe2",
+    "shortname": "شاعر_النيل",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "a007f8e4-e87f-4de9-a310-3af74f628bed",
+    "shortname": "عبدالله_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "رِثاء",
+    "شِعر",
+    "عربية",
+    "فَصاحَة",
+    "لُغة عربيّة"
+  ],
+  "created_at": "2015-02-03T13:09:49Z",
+  "attributes": {
+    "old_id": 975
+  },
+  "language": "ar",
+  "history": []
+}

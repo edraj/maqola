@@ -1,0 +1,29 @@
+{
+  "uuid": "f8c66278-3636-4ab9-9487-778c2bb01378",
+  "shortname": "لكل_منتجد_نصيب",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"لكل منتجد نصيب "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1fc1b7914d38c4cc3300d615f1ab831a411962d3",
+    "bytesize": 43,
+    "body": "لكل مجتهد نصيب ولكل ?????? "
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-01-14T14:45:59Z",
+  "attributes": {
+    "old_id": 744,
+    "old_entry_id": 521
+  },
+  "language": "ar"
+}

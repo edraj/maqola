@@ -1,0 +1,29 @@
+{
+  "uuid": "e45a9d7f-986c-47b6-8a41-1ac115ccdcf8",
+  "shortname": "إحساس_رائع",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إحساس رائع"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:7898baedc7912a7f11e0c1fce9efe73750e3ddfd",
+    "bytesize": 237,
+    "body": "اختيار جميل ومقدمة أجمل وفوق ذلك كله ضبط للنص رائع وتشكيله واضح وغير محرف هذا هو الحس الفني الذي قلما نجده إلى الأمام اخي وفقك الله"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-03-23T02:03:06Z",
+  "attributes": {
+    "old_id": 609,
+    "old_entry_id": 369
+  },
+  "language": "ar"
+}

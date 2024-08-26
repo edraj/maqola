@@ -1,0 +1,45 @@
+{
+  "uuid": "8fb08951-d4e5-4b03-824a-b12c4d204e77",
+  "shortname": "الطريق_",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"الطريق .."},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:e71683943daa7d14c21094ab1d0f8f9deb86ec12",
+    "bytesize": 529,
+    "body": "<p>إنَّ الطريق طويل ، وأثناء السّيرِ على هذا الطريق الطويل ، يَملُّ من يملّ ، ويسقطُ من يسقط ، ويتراجعُ من يتراجع ، ويَيأسُ من ييأس ، وتبقى ( حفنة مؤمنة ) تصبِرُ لأمر ربِها ، وتصمدُ للِأواء الطريق ، ومشقة الجهاد ، حتَّى إذا شاء الله ، فتح على عباده ..</p><p>لا تنسوا عبدالله \" ياقوت \" من صالح الدعاء .</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f641283-758a-4071-98e9-da62c6932b1a",
+    "shortname": "ياقوت_الفرزدقي",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "إسلام",
+    "حُسنُ الجواب",
+    "حِكمَة",
+    "شَجاعَة",
+    "مَعروف"
+  ],
+  "created_at": "2015-05-24T19:06:14Z",
+  "attributes": {
+    "old_id": 1293
+  },
+  "language": "ar",
+  "history": []
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "783151a4-2d86-4704-bf41-a39ea0595fdb",
+  "shortname": "783151a4",
+  "is_active": true,  "owner_shortname": "dmart",
+  "updated_at": "2015-08-25T01:26:13Z",
+  "author_locator": { "type": "content",
+    "uuid": "9f6c36be-5a2b-419d-a578-0296c008e053",
+    "shortname": "muhammad_salih_abdualrahim",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "share",
+  "tags": [],
+  "created_at": "2015-08-25T01:26:13Z",
+  "attributes": {
+    "old_id": 600,
+    "old_entry_id": 1488
+  },
+  "language": "en",
+  "location": {
+    "uuid": "783151a4-2d86-4704-bf41-a39ea0595fdb",
+    "shortname": "783151a4",
+    "subpath": "posts/قصة",
+    "space_name": "maqola",
+    "parent_shortname": "خذها_عني",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "share"
+  }
+}

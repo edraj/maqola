@@ -1,0 +1,41 @@
+{
+  "uuid": "d821e11a-da7c-4dba-89de-f97905816a5e",
+  "shortname": "إختلاف_أمزجة_الاجيال",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إختلاف أمزجة الاجيال"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:8079b9a14eac3f86cfac550f0eb1c86840bbbe97",
+    "bytesize": 788,
+    "body": "<p>من العجيب أن أمزجة الأجيال المختلفة لا تتوافق بنفس الكيفية .. فلكل جيل أسلوبه ومزاجه في مسالك الحياة .. وعادة كل جيل يمدح حاضره ويمدح أسلوبه منفرداَ  .. وذلك المدح فقط من قبيل الإدعاء والتفاخر .. إنما لكل جيل سمات المحاسن وسمات العيوب ..  وأهل المحطة الواحدة هم اقرب الناس مفاهمة للبعض .. وكلما تباعدت فروق السنوات بين المحطات كلما كان الاختلاف كبيراَ في تقارب الأمزجه.<span class=\"uthmanb\"></span></p><p><span class=\"uthmanb\">ـــــــــــــــــ ضياء ابراهيم</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "971d7542-7a5f-4699-86f6-9c92a5d0ca45",
+    "shortname": "dhia_iraqi",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "قَناعَة"
+  ],
+  "created_at": "2015-03-09T18:36:27Z",
+  "attributes": {
+    "old_id": 1095
+  },
+  "language": "ar",
+  "history": []
+}

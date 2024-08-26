@@ -1,0 +1,43 @@
+{
+  "uuid": "48d95bcd-9452-467f-b010-2ac73ab1bc44",
+  "shortname": "مجنون_ليلى",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مَجنونُ لَيلى"},
+  "updated_at": "2011-08-26T03:32:24Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:ad2db243dbd4a4ad0cf8dc064b0e8dd61157c4b6",
+    "bytesize": 1407,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\">تَذَكّرتُ لَيلى والسنينَ الخَواليا -- وأيامَ لا تخشى على اللهوِ ناهيا<br />\r\n\tو قَد يَجمَعُ الله الشتيتينَ بَعدَما -- يَظُنّانِ كُلَّ الظّنِ أَنْ لا تَلاقيا<br />\r\n\tخَليلَيَّ لا و اللهِ لا أَمْلكُ الذي -- قَضى الله في ليلى و ما قَضى ليا<br />\r\n\tقَضاها لِغَيري و ابتَلاني بِحُبِّها -- فَهَلا بِشيٍ غَير ليلى ابْتَلانيا؟<br />\r\n\tفَما طَلعَ النَّجمُ الذي يُهْتَدى بِهِ -- ولا الصُّبحُ إلا هَيَّجا ذِكرَها ليا<br />\r\n\tولا سِرتُ ميلا مِن دِمشقَ ولا بَدا -- سُهَيلٌ لأهلِ الشامِ إلا بدا ليا<br />\r\n\tأُحِبُّ مِن الأسماءِ ما وافَقَ اسْمَها -- أو أَشْبَهَهُ أو ما كانَ مِنه مُدانيا<br />\r\n\tيَقولونَ ليلى في العِراقِ مَريضَةٌ -- فَيا لَيتَني كُنتُ الطَبيبَ المُداويا<br />\r\n\t<br />\r\n\tمقتطفاتٌ مِن أعذبِ القَصائد في التاريخ العربي؛ قَصيدةُ المؤنسة ل قَيس بن المُلَوَّح (المَعروف بِمَجنون ليلى).</span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "شِعر",
+    "غَزَل"
+  ],
+  "created_at": "2011-08-26T03:32:24Z",
+  "attributes": {
+    "old_id": 512
+  },
+  "language": "ar",
+  "history": []
+}

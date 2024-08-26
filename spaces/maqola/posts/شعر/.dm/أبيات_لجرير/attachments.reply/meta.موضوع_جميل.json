@@ -1,0 +1,29 @@
+{
+  "uuid": "fb3e8208-0057-4943-a789-4b2cb82390cf",
+  "shortname": "موضوع_جميل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"موضوع جميل "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:1a44ac1a83d49505ee4e8227a69af58dbb31c61c",
+    "bytesize": 197,
+    "body": "السلام عليكم  هذا موضوع مهم و لكن اعتقد ان البيت الثاني من لاغزل فإن الكلمة الأخيرة هي اركانا بدلا من انسانا؟"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "409148c3-807d-459d-93ec-a7e9983a6b74",
+    "shortname": "muhannad_alhariri",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2013-11-09T16:21:51Z",
+  "attributes": {
+    "old_id": 791,
+    "old_entry_id": 645
+  },
+  "language": "ar"
+}

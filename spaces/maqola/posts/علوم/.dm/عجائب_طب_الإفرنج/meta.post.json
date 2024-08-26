@@ -1,0 +1,43 @@
+{
+  "uuid": "5afc96fa-f66a-488d-8f46-65f729bcb52b",
+  "shortname": "عجائب_طب_الإفرنج",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"عجائب طب الإفرنج"},
+  "updated_at": "2010-12-09T18:28:19Z",
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:08c5847be8d44920ec80e573c3ca87620e9849ec",
+    "bytesize": 3337,
+    "body": "<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">من عجائب طب الإفرنج أن صاحب المُنَيْطِرَة (وهو منهم) كتب إلى عمّي يطلب منه إنفاذَ طبيبٍ يداوي مرضى من أصحابه. فأرسل إليه طبيبًا نصرانيًا يقال له ثابت. فما غاب عشرة أيام حتى عاد. فقلنا له:‏ ‏ ما أسرعَ ما داويتَ المرضى! ‏ ‏ قال: ‏ ‏ أَحْضَروا عندي فارسا قد طلعتْ في رجله دُمّلة، وامرأةً قد لحقها نشاف (مرض عقلي) فعملت للفارس لُبيخة. ففتحتُ الدّمّلة وصَلُحَت. وحميتُ المرأةَ ورطبتُ مزاجَها. </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">فجاءهم طبيبٌ إفرنجي فقال لهم: ‏ ‏ هذا ما يعرف شيئًا (يقصد بذلك الطبيب العربي النصراني)، يداويهم؟ ‏ ‏ وقال للفارس: ‏ ‏ أيّما أحبُّ إليك: تعيشُ برجلٍ واحدة، أو تموتُ برجلين؟ ‏ ‏ قال: أعيش برجل واحدة. ‏ ‏ قال: أحضروا لي فارسًا قويًا وفأسًا قاطعًا. ‏ ‏ فحضر الفارسُ والفأسُ وأنا حاضر. فحطّ ساقه على قرمة خشب، وقال للفارس: أضرِب رجلَه بالفأس ضربةً واحدة تقطعُها. ‏ ‏ فضربه، وأنا أراه، ضربًة واحدة. فما انقطعت. فضربه ضربةً ثانية فسال مخُّ الساق ومات من ساعته. ‏ ‏ وأبصر المرأة فقال: ‏ ‏ هذه امرأة في رأسها شيطانٌ قد عشقها. احلقوا شعرَها! ‏ ‏ فحلقوه. وعادت تأكل من مآكلهم الثومَ والخَرْدَل، فزاد بها النّشاف. فقال: ‏ ‏ الشيطانُ قد دخل في رأسها. ‏ ‏ فأخذ الموسى، وشق رأسها صليبًا وسلخ وسطَه حتى ظهر عظمُ الرأس، وحكّه بالمِلح فماتت في وقتها. ‏ ‏ فقلت لهم: ‏ ‏ بقي لكم إليّ حاجة؟ ‏ ‏ قالوا: لا. ‏ ‏ </span></span></p>\r\n<p>\r\n\t<span style=\"font-size: 1.5em;\"><span class=\"maqola_font_normal\">ويقول الطبيب العربي، فجئتُ وقد تعلمتُ من طبّهم ما لم أكن أعرفُه!</span></span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\"><span class=\"maqola_font_normal\">- من كتاب الاعتبار لمؤلفه أسامة بن منقذ المتوفى سنة 1188 ميلادية.</span></span></span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\"><span class=\"maqola_font_normal\">_______</span></span></span></p>\r\n<p>\r\n\t<span style=\"font-family: Tahoma,Geneval,sans-serif;\"><span style=\"font-size: 1em;\"><span class=\"maqola_font_normal\">هل يمكن أن يُصدِّقَ أحد كيف كانوا وكيف صاروا؟ نعم كانوا مثل ذاك وأكثر، وهذا من شأنه أن يجعلنا نؤمن في قدرتنا أن نغير من حالنا إلى ما هو خير.</span></span></span></p>\r\n"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "50700bc4-a47b-4638-a4d4-29c278102e50",
+    "shortname": "كفاح_عيسى",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "عُلوم",
+    "قِصّة"
+  ],
+  "created_at": "2010-10-17T18:36:49Z",
+  "attributes": {
+    "old_id": 62
+  },
+  "language": "ar",
+  "history": []
+}

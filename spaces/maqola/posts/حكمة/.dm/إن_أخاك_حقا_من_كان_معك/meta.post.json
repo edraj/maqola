@@ -1,0 +1,43 @@
+{
+  "uuid": "434cdf37-54b6-49f6-9f33-6122dc7355cb",
+  "shortname": "إن_أخاك_حقا_من_كان_معك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"إن أخاك حقا من كان معك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:262fadebadf395a60c969dfea7e7e11597379dcc",
+    "bytesize": 173,
+    "body": "<p>إن أخاك حقا من كان معك *** ومن يضر نفسه لينفعك<br> ومن إذا ريب الزمان صدعك *** شتت فيك شمله ليجمعك</p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "5a071380-60a0-4fb8-8d8a-779ae8d5576f",
+    "shortname": "ǎgord_ŕover",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "حِكمَة",
+    "ذَكاء",
+    "صَداقَة"
+  ],
+  "created_at": "2015-08-02T15:20:34Z",
+  "attributes": {
+    "old_id": 1456
+  },
+  "language": "ar",
+  "history": []
+}

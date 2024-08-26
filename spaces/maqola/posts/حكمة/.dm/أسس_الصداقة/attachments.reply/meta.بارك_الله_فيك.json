@@ -1,0 +1,29 @@
+{
+  "uuid": "25fa711d-73b6-44d2-99b0-b6fd1ec8583a",
+  "shortname": "بارك_الله_فيك",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"بارك الله فيك"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:78dce0276bc50e91389c5b17994bdcb4ca66bfb7",
+    "bytesize": 185,
+    "body": "ما شاء الله كلام صدق.. ولكن كيف يصفو العيش مع أناس نسخ منهم الصفاء. فمال هذه الدنيا ما أقبحها بدون صفاء.."
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2012-01-29T16:13:55Z",
+  "attributes": {
+    "old_id": 595,
+    "old_entry_id": 193
+  },
+  "language": "ar"
+}

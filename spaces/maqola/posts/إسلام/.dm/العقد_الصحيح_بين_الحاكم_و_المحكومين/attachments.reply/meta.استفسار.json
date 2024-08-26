@@ -1,0 +1,29 @@
+{
+  "uuid": "6b3b2e87-808d-4076-893b-714aecdc7159",
+  "shortname": "استفسار",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"استفسار "},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:dda0bd4aaab9bfdf2ffedadc2651fe7f42f81b38",
+    "bytesize": 179,
+    "body": "السلام عليكم  هل جاء بالخطبة  ألا إِنَّ أقواكُم عندي الضعيفُ حتى آخذَ الحقَّ منه،  ام اخذ الحق له ؟؟"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "55b5b9e8-d80a-4fca-be27-7dd0eaf5a660",
+    "shortname": "مجهول",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "resource_type": "reply",
+  "tags": [],
+  "created_at": "2011-04-19T19:39:02Z",
+  "attributes": {
+    "old_id": 427,
+    "old_entry_id": 468
+  },
+  "language": "ar"
+}

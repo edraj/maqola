@@ -1,0 +1,41 @@
+{
+  "uuid": "b4682e48-5d60-4500-b314-0182c2173dcd",
+  "shortname": "مستحيل__بدليل",
+  "is_active": true,  "owner_shortname": "dmart",
+  "displayname":{"ar":"مستحيل .. بدليل"},
+  "payload": {
+    "content_type": "html",
+    "checksum": "sha1:286214a356591f524fb0422f58f5ecba91f56428",
+    "bytesize": 968,
+    "body": "<p><span style=\"color: rgb(192, 80, 77);\">واسألوا الله من فضله..</span></p><p><span style=\"color: rgb(192, 80, 77);\">ادعوني أستجب لكم..</span><br><span style=\"color: rgb(31, 73, 125);\">تلك رسائل قرآنية ربانية قاطعة..<br>مضمونها المختصر..</span><br><span style=\"color: rgb(38, 38, 38);\">أن هناك خالق عظيم يأمرك بالمسألة والدعاء..<br>فهل يعقل ألا يعطيك مسألتك؟!<br>أو يحجب عنك استجابة دعائك؟!</span><br><span style=\"color: rgb(227, 108, 9);\">مستحيل .. بدليل</span><br>﴿ أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ أَإِلَه مَعَ اللَّهِ ﴾ [النمل: 62].<br> <br><span style=\"color: rgb(127, 96, 0);\">الكاتب : نبيل جلهوم.</span></p>"
+  },
+  "author_locator": { "type": "content",
+    "uuid": "c2e78c7a-a794-4282-b1ca-fef8f39150a0",
+    "shortname": "مجهول",
+    "subpath": "/profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "biography"
+  },
+  "editor_locator": {
+    "uuid": "9f533dc2-2d10-4ebe-9b9c-7416688f385c",
+    "shortname": "الكاتب__نبيل_جلهوم",
+    "subpath": "profiles/",
+    "space_name": "maqola",
+    "resource_type": "locator",
+    "tags": [],
+    "typename": "user"
+  },
+  "owner_uuid": "2b0e517d-14b6-4ecd-ab95-f5aae22f1b5d",
+  "resource_type": "post",
+  "tags": [
+    "تَفاؤل"
+  ],
+  "created_at": "2015-02-10T09:24:23Z",
+  "attributes": {
+    "old_id": 1006
+  },
+  "language": "ar",
+  "history": []
+}
