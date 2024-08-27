@@ -8,6 +8,7 @@
   "owner_shortname": "dmart",
   "subpaths": {
     "test": ["/"],
+    "maqola": ["__all_subpaths__"],
     "applications": [
       "/translations",
       "/configurations",
@@ -26,7 +27,7 @@
     "user",
     "schema",
     "json",
-    "comment"
+    "post"
   ],
   "actions": ["view", "query"],
   "conditions": ["is_active"],
