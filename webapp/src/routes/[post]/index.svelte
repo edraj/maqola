@@ -93,7 +93,7 @@
           </CardBody>
         </Card>
         <Card>
-          <CardBody class="d-flex justify-content-around">
+          <CardBody class="d-flex justify-content-between">
             <div class="d-flex align-items-center">
               <Icon class="mx-1" id="reactions" name="heart-fill" />
               <Tooltip
@@ -121,7 +121,7 @@
 
         <Card>
           <CardBody>
-            {#each selectedPost.attachments.comment as comment}
+            {#each (selectedPost?.attachments?.comment ?? []) as comment}
               <Card>
                 <CardBody>
                   <h5>{comment.attributes.owner_shortname}</h5>
