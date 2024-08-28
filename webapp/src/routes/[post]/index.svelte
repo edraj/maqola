@@ -93,7 +93,7 @@
           </CardBody>
         </Card>
         <Card>
-          <CardBody class="d-flex justify-content-between">
+          <CardBody class="d-flex justify-content-around">
             <div class="d-flex align-items-center">
               <Icon class="mx-1" id="reactions" name="heart-fill" />
               <Tooltip
